@@ -1,7 +1,0 @@
-QUESTION: What is the origin of  HEp-2 cells?
-
-IDEAL_ANSWER:
-- human larynx epidermoid carcinoma cell line (HEp-2)
-
-EXACT_ANSWER:
-- human larynx epidermoid carcinoma cell line

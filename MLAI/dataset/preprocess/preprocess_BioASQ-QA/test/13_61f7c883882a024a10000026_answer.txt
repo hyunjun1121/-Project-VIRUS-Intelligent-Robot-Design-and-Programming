@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Avacopan is effective for ANCA-associated vasculitis.
-
-EXACT_ANSWER:
-- ANCA-associated vasculitis

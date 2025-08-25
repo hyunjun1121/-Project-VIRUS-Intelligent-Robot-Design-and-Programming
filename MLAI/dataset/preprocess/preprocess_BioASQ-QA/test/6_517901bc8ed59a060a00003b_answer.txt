@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Modulation of the immune system by targeting coinhibitory and costimulatory receptors has become a promising new approach of immunotherapy for cancer. OBJECTIVE: CT-011 is a humanized IgG1 monoclonal antibody that modulates the immune response through interaction with PD-1, a protein belonging to the B7 receptor family present on lymphocytes. The objectives of this phase I study were to assess the dose-limiting toxicities, to determine the maximum tolerated dose, and to study the pharmacokinetics of CT-011 administered once to patients with advanced hematologic malignancies. We have developed a cancer vaccine in which autologous tumor is fused with dendritic cells resulting in the presentation of tumor antigens in the context of DC-mediated costimulation. The median t1/2 of CT-011 ranged from 217 to 410 hours. The PD1/PDL1 pathway is an important element contributing to tumor-mediated immune suppression. The recent approval of the CTLA-4-blocking antibody ipilimumab for the treatment of melanoma was a watershed event, opening up a new era in the field of immunotherapy. T-cell expression of programmed death receptor-1 down-regulates the immune response against malignancy by interacting with cognate ligands ( eg, PD-L1 ) on tumor cells; however, little is known regarding PD-1 and natural killer ( NK ) cells. 
-- PD-1
-
-EXACT_ANSWER:
-- PD-1

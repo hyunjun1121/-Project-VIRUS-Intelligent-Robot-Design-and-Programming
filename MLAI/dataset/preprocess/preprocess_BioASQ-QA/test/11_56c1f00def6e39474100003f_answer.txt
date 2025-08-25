@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Varespladib is a secretory phospholipase A2 (sPLA2) inhibitor. It was tested in patients with acute coronary syndrome.
-
-EXACT_ANSWER:
-- secretory phospholipase A2

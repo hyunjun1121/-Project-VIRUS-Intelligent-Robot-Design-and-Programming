@@ -1,9 +1,0 @@
-QUESTION: Should acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs) be used when providing supportive care for COVID-19?
-
-IDEAL_ANSWER:
-- Nonsteroidal anti-inflammatory drugs (NSAIDs) have been theorized to cause harm in patients with COVID-19, but clinical data are limited. Given the uncertainty, acetaminophen is the preferred antipyretic agent for most patients rather than NSAIDs. If NSAIDs are needed, the lowest effective dose is recommended.
-- Although based on existing evidence, NSAIDs have been effective in treating respiratory infections caused by influenza and rhinovirus, since there is no clinical trial on COVID-19 and case-reports and clinical experiences are indicative of elongation of treatment duration and exacerbation of the clinical course of patients with COVID-19, it is recommended to use substitutes such as acetaminophen for controlling fever and inflammation and be cautious about using NSAIDs in management of COVID-19 patients until there are enough evidence.
-
-EXACT_ANSWER:
-- Acetaminophen
-- Paracetamol

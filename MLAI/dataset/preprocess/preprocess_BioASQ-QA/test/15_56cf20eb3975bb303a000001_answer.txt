@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Isradipine antagonizes/blocks the L-type channels.
-
-EXACT_ANSWER:
-- antagonizes
-- blocks

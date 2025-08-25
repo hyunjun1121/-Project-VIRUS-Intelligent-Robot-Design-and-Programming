@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Senktide  is a highly potent and selective NK3R agonist.
-
-EXACT_ANSWER:
-- senktide

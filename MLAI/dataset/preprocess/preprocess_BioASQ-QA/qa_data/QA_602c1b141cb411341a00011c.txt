@@ -1,7 +1,0 @@
-QUESTION: What is another name for bimagrumab
-
-IDEAL_ANSWER:
-- Bimagrumab also goes by the name BYM338.
-
-EXACT_ANSWER:
-- BYM338

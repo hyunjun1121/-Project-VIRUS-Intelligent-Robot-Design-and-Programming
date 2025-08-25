@@ -1,7 +1,0 @@
-QUESTION: What is a exposome?
-
-IDEAL_ANSWER:
-- The exposome is a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors, including environmental exposures, as well as changes in exposures over time, to elucidate the complex environmental factors that affect health outcomes.
-
-EXACT_ANSWER:
-- environmental exposure record

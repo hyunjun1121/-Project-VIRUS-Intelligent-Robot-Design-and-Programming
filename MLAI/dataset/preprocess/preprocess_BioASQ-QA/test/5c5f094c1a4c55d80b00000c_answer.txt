@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Bouncer is membrane bound.
-
-EXACT_ANSWER:
-- Bouncer is membrane bound.

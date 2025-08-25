@@ -1,9 +1,0 @@
-QUESTION: Which master regulator drives liver development?
-
-IDEAL_ANSWER:
-- Hepatocyte nuclear factor (HNF)4α regulates fetal liver development.
-- The HNF4α plays a major role in liver development, but it's not the only factor. There's a lot of other factors that play a role, but that's the big one.
-
-EXACT_ANSWER:
-- HNF4a
-- Hepatocyte nuclear factor 4α

@@ -1,7 +1,0 @@
-QUESTION: What is the meaning of the acronym "TAILS" used in protein N-terminomics?
-
-IDEAL_ANSWER:
-- TAILS stands for "Terminal Amine Isotopic Labeling of Substrates"
-
-EXACT_ANSWER:
-- TAILS: Terminal Amine Isotopic Labeling of Substrates

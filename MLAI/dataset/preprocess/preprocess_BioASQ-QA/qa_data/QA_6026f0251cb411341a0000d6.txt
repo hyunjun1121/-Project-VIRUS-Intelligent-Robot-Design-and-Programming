@@ -1,7 +1,0 @@
-QUESTION: What is the route of administration of eptinezumab?
-
-IDEAL_ANSWER:
-- Eptinezumab is administered intravenously.
-
-EXACT_ANSWER:
-- Intravenously

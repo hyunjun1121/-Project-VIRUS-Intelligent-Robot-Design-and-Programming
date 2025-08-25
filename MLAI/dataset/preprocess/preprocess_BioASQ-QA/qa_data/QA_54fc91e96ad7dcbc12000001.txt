@@ -1,7 +1,0 @@
-QUESTION: PBT2 has been tested for which disorder?
-
-IDEAL_ANSWER:
-- PBT2 has been tested for treatment of Alzheimer's disease.
-
-EXACT_ANSWER:
-- Alzheimer's disease

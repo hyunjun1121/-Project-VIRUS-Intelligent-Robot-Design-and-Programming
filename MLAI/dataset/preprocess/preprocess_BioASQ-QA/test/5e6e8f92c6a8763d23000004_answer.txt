@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- lncRNAs are defined as RNA transcripts longer than 200 nucleotides that are not transcribed into proteins
-
-EXACT_ANSWER:
-- >200 nucleotides

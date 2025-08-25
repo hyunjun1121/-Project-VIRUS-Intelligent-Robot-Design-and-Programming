@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ubrogepant (MK-1602) is administered orally.
-
-EXACT_ANSWER:
-- oral

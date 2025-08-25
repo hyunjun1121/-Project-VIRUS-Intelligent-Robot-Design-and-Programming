@@ -1,7 +1,0 @@
-QUESTION: What family do mDia proteins belong in?
-
-IDEAL_ANSWER:
-- mDia proteins are members of the formin family.
-
-EXACT_ANSWER:
-- mDia proteins are members of the formin family

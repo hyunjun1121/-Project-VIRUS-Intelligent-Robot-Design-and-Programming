@@ -1,7 +1,0 @@
-QUESTION: What is the function of R-spondin 1 and noggin in non-damaged gallbladders?
-
-IDEAL_ANSWER:
-- R-spondin 1 and noggin facilitate expansion of resident stem cells from non-damaged gallbladders.
-
-EXACT_ANSWER:
-- The expansion of resident stem cells.

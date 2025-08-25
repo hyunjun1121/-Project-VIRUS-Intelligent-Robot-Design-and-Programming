@@ -1,7 +1,0 @@
-QUESTION: Which R/Bioconductor package has been developed for network-based differential expression analysis?
-
-IDEAL_ANSWER:
-- INDEED is an R/Bioconductor package for network based differential expression analysis. INDEED allows users to construct a sparse network based on partial correlation, and to identify biomolecules that have significant changes both at individual expression and pairwise interaction levels.
-
-EXACT_ANSWER:
-- INDEED

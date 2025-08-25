@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Growth hormone deficiency is implicated in Costello syndrome. Growth hormone therapy should be administered with caution due to possible severe side effects. Cortisol and sex hormone deficiencies were also implicated in Costello syndrome.
-
-EXACT_ANSWER:
-- Growth hormone deficiency

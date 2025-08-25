@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- the -KDEL retention signal sequence is characteristic of many proteins localized to the ER.
-
-EXACT_ANSWER:
-- ER retention sequence (KDEL)

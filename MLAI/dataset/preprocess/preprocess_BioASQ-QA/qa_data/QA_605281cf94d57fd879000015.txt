@@ -1,7 +1,0 @@
-QUESTION: How many patients were enrolled in the FREEDOMS clinical trial?
-
-IDEAL_ANSWER:
-- FREEDOMS study, a randomised, double-blind study included 1272 patients with relapsing-remitting MS.
-
-EXACT_ANSWER:
-- 1,272

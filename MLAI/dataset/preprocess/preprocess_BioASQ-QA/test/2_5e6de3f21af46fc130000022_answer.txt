@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- remdesivir is a polymerase inhibitor
-
-EXACT_ANSWER:
-- polymerase

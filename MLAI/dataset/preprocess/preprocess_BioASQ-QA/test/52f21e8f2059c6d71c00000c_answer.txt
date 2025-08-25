@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The most probable defect underlying triple negative breast cancer is BRCA1 dysfunction.
-
-EXACT_ANSWER:
-- BRCA1 dysfunction

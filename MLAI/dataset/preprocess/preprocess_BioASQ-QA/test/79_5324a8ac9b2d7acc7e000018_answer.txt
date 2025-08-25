@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The fusion protein BCR-ABL
-
-EXACT_ANSWER:
-- BCR-ABL

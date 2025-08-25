@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Teprotumumab is a monoclonal inhibitory antibody targeting IGF-1 receptor.
-
-EXACT_ANSWER:
-- IGF-1

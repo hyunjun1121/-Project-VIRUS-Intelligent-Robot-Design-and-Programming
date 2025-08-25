@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The genus and species of the European honey bee is Apis mellifera.
-
-EXACT_ANSWER:
-- Apis

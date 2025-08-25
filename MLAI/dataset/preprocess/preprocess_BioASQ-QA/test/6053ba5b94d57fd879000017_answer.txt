@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- FTY720 (Fingolimod) was approved as the first oral drug for the treatment of multiple sclerosis by the US Food and Drug Administration (FDA) in 2010.
-
-EXACT_ANSWER:
-- FTY720
-- Fingolimod

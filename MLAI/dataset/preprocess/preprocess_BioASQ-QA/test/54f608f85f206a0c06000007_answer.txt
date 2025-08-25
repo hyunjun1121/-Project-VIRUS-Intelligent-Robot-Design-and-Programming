@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Groucho proteins are abundant and broadly expressed nuclear factors that lack intrinsic DNA-binding activity but can interact with a variety of DNA-binding proteins. The recruitment of Groucho to specific gene regulatory sequences results in transcriptional repression.
-Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor.
-
-EXACT_ANSWER:
-- Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor

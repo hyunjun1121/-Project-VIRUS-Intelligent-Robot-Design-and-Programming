@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- detection of inheritance pattern in thirty-three mexican males with chronic granulomatous disease
-- Dihydrorhodamine assays measure oxidative bursts and are used to quantify cell activation via respiratory bursts. Nitroblue-tetrazolium dye reduction test and 123 dihydro-rhodamine assay by flow cytometry are the screening tests for Chronic Granulomatous Disease.
-- Dihydrorhodamine assay (DRB) is a simple, reliable, and valid method for studying oxidative stress, in particular oxidative stress and reactive oxygen species.
-- We detected the female relatives within the families of male patients with CGD, and carried out the 123 dihydrorhodamine (DHR) assay in all female participants. Detection of inheritance pattern in thirty-three Mexican males with chronic granulomatous disease through 123 dihydrorhodamine assay.
-
-EXACT_ANSWER:
-- cell respiratory burst
-- oxidative burst

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Disease patterns in RA vary between the sexes; the condition is more commonly seen in women, who exhibit a more aggressive disease and a poorer long-term outcome.
-
-EXACT_ANSWER:
-- Women

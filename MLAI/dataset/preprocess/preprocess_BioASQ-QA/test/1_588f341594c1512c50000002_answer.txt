@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- No Promoter Left Behind (NPLB) is an efficient, organism-independent method for characterizing promoter architectures directly from experimentally identified genome-wide TSSs, without relying on known promoter elements.
-- Promoters have diverse regulatory architectures and thus activate genes differently. No Promoter Left Behind (NPLB) is an efficient, organism-independent method for characterizing such diverse architectures directly from experimentally identified genome-wide TSSs, without relying on known promoter elements.
-
-EXACT_ANSWER:
-- Learning de novo promoter architectures from genome-wide transcription start sites.

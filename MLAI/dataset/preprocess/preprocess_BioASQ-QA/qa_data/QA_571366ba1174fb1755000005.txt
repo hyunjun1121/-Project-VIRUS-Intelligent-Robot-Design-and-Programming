@@ -1,7 +1,0 @@
-QUESTION: How can the fetal Rhesus be determined with non-invasive testing?
-
-IDEAL_ANSWER:
-- The detection of fetal RhD status can be achieved with the non-invasive method of assessing free fetal DNA in the maternal blood.
-
-EXACT_ANSWER:
-- free fetal DNA from maternal cirulcation

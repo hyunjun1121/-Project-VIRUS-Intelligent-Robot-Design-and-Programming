@@ -1,7 +1,0 @@
-QUESTION: Where is the enzyme PM20D1 localized?
-
-IDEAL_ANSWER:
-- PM20D1 is enriched in UCP1+ adipocytes
-
-EXACT_ANSWER:
-- UCP1+ adipocytes

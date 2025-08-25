@@ -1,9 +1,0 @@
-QUESTION: Which molecule is targeted by Camrelizumab?
-
-IDEAL_ANSWER:
-- Camrelizumab is a humanised antibody that targets programmed death-1 (PD-1) ligand.
-- Camrelizumab is PD-1 (programmed cell death-1 receptor) inhibitor that is used for treatment of cancer.
-
-EXACT_ANSWER:
-- PD-1
-- programmed death-1

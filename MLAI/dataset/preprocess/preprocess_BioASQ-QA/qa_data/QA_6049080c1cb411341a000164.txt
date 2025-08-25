@@ -1,7 +1,0 @@
-QUESTION: Where are Goblet cells localized?
-
-IDEAL_ANSWER:
-- Goblet cells are found in the intestine, in the lungs, in the eyes etc. Goblet cells are localized in the epithelium.
-
-EXACT_ANSWER:
-- Epithelium

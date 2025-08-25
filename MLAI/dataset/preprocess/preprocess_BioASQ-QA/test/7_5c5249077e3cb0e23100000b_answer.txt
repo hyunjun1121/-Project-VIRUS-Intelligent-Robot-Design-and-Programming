@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Currently, eye care professionals use optical coherence tomography (OCT) scans to help diagnose eye conditions.
-
-EXACT_ANSWER:
-- optical coherence tomography.

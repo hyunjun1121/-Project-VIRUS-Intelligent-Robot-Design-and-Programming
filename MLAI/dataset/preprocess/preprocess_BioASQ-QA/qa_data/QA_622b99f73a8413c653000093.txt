@@ -1,7 +1,0 @@
-QUESTION: Which protein is targeted by Herceptin?
-
-IDEAL_ANSWER:
-- Her2 is targeted by Herceptin.
-
-EXACT_ANSWER:
-- Her2

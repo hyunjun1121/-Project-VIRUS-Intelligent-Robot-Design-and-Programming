@@ -1,7 +1,0 @@
-QUESTION: Where in the cell does the proteins S100A4 and p53 interact ?
-
-IDEAL_ANSWER:
-- S100A4 interacts with p53 in the cell nucleus.
-
-EXACT_ANSWER:
-- nucleus

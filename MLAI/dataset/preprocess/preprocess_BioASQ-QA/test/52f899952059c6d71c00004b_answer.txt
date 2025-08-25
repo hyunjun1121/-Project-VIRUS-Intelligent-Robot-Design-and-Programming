@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- missense substitution, Met1Val (M1V), was identified in the DCX gene
-
-EXACT_ANSWER:
-- missense substitution, Met1Val (M1V), in the DCX gene.

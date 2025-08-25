@@ -1,7 +1,0 @@
-QUESTION: What is the role of the UBC9 enzyme in the protein sumoylation pathway?
-
-IDEAL_ANSWER:
-- The small ubiquitin-like modifier (SUMO) pathway in eukaryotes is an essential post-translational modification required for a variety of cellular processes, development and organelle biogenesis. SUMO-conjugating enzyme (Ubc9) is the sole conjunction enzyme in the SUMO pathway.
-
-EXACT_ANSWER:
-- SUMO-conjugating enzyme

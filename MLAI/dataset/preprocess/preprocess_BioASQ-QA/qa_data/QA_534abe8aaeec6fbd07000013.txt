@@ -1,7 +1,0 @@
-QUESTION: Which heat shock protein is found to be upregulated during Hsp90 inhibition?
-
-IDEAL_ANSWER:
-- HSP90 inhibition was found to be associated with induction of HSP70 expression.
-
-EXACT_ANSWER:
-- HSP70

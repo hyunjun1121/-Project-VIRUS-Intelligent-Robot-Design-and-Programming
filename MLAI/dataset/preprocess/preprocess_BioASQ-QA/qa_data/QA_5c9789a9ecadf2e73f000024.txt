@@ -1,7 +1,0 @@
-QUESTION: What cellular process is the gene product of NANOG involved in?
-
-IDEAL_ANSWER:
-- NANOG is a transcription factor and a biomarker of cancer and pluripotent stem cells.
-
-EXACT_ANSWER:
-- regulation of transcription

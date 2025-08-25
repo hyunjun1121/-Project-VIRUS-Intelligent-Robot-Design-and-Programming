@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Palmini classification system is used for classification of focal cortical dysplasia.
-
-EXACT_ANSWER:
-- focal cortical dysplasia

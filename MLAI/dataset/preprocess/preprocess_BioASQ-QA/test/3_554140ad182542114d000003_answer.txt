@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- mpMoRFsDB provides valuable information related to disorder-based protein-protein interactions in membrane proteins.
-- mpMoRFsDB provides valuable information related to disorder-based protein-protein interactions in membrane proteins  
-- mpMoRFsDB provides valuable information related to disorder-based protein-protein interactions in membrane proteins
-
-EXACT_ANSWER:
-- mpMoRFsDB

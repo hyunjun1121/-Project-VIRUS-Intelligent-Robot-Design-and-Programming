@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Suvorexant is a dual orexin receptor antagonist for the treatment of sleep onset and sleep maintenance insomnia.
-
-EXACT_ANSWER:
-- orexin

@@ -1,7 +1,0 @@
-QUESTION: Where is the TAZ (G4.5) is located in humans?
-
-IDEAL_ANSWER:
-- TAZ gene (G4.5) is located on Xq28 in humans.
-
-EXACT_ANSWER:
-- Xq28

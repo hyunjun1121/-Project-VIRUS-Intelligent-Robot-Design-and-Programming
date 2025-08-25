@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Circular RNAs (circRNAs) are a new class of non-coding RNA with a stable structure formed by special loop splicing.
-
-EXACT_ANSWER:
-- Circular RNAs (circRNAs) are a new class of non-coding RNA with a stable structure formed by special loop splicing.

@@ -1,7 +1,0 @@
-QUESTION: Which CD38 antibody has been shown to be effective for Lupus Erythematosus?
-
-IDEAL_ANSWER:
-- Daratumumab, a human monoclonal antibody that targets CD38, has been used to treat Lupus Erythematosus.
-
-EXACT_ANSWER:
-- Daratumumab

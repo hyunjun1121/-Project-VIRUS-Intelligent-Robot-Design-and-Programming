@@ -1,7 +1,0 @@
-QUESTION: Which receptor does amantadine antagonize?
-
-IDEAL_ANSWER:
-- Amantadine is an N-methyl-D-aspartic acid or N-methyl-D-aspartate (NMDA) receptor antagonist.
-
-EXACT_ANSWER:
-- NMDA

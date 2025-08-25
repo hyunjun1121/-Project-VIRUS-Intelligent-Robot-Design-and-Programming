@@ -1,7 +1,0 @@
-QUESTION: What is the drug target(s) for Belsomra?
-
-IDEAL_ANSWER:
-- Belsomra is a dual orexin receptor antagonist for both the Ox1 and Ox2 receptors
-
-EXACT_ANSWER:
-- orexin recptors

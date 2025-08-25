@@ -1,7 +1,0 @@
-QUESTION: What disease is Velcade (bortezomib) mainly used for?
-
-IDEAL_ANSWER:
-- Velcade (bortezomid), a proteasome inhibitor drug indicated for multiple myeloma (MM) treatment. Velcade is also approved for the treatment of patients with mantle cell lymphoma.
-
-EXACT_ANSWER:
-- multiple myeloma

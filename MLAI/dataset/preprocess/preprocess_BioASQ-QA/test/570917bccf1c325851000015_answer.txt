@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- These data reveal that the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(Δ8-11/Δ8-11) mice
-- Comparative genomic hybridization (CGH) analyses of microdissected blebs, fluorescence in situ hybridization (FISH), and immunofluorescence localization of modified histones demonstrate that gene-rich euchromatin associates with the LA/C blebs. On the other hand, the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(Δ8-11/Δ8-11) mice
-
-EXACT_ANSWER:
-- Both euchromatin and heterochromatin

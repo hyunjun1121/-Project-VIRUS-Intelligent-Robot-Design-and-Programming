@@ -1,7 +1,0 @@
-QUESTION: Which is the major symptom of the Doose syndrome?
-
-IDEAL_ANSWER:
-- Myoclonic astatic epilepsy is the major symptom of the Doose syndrome, which is a difficult to treat idiopathic generalized epilepsy of early childhood.
-
-EXACT_ANSWER:
-- myoclonic astatic epilepsy

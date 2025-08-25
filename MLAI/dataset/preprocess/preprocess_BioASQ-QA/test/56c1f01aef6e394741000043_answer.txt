@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Pembrolizumab inhibits the programmed cell death 1 (PD-1) immune checkpoint and has antitumor activity in patients with advanced melanoma. Pembrolizumab is approved by the US Food and Drug Administration for the treatment of advanced melanoma, and additional regulatory approvals are expected across the oncologic spectrum for a variety of other agents that target these pathways.
-
-EXACT_ANSWER:
-- programmed cell death 1

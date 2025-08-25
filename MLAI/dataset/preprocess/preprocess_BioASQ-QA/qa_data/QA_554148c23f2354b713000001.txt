@@ -1,7 +1,0 @@
-QUESTION: Which database is available for the identification of chorion proteins in Lepidopteran proteomes?
-
-IDEAL_ANSWER:
-- LepChorionDB
-
-EXACT_ANSWER:
-- LepChorionDB

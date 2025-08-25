@@ -1,7 +1,0 @@
-QUESTION: To which family does the Zika virus belong?
-
-IDEAL_ANSWER:
-- The Zika virus belongs to the family Flaviviridae.
-
-EXACT_ANSWER:
-- Flaviviridae

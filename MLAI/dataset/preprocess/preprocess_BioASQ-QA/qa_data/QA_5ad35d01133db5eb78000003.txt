@@ -1,7 +1,0 @@
-QUESTION: What is the genetic cause of Roberts syndrome?
-
-IDEAL_ANSWER:
-- Roberts syndrome (RBS) is a human developmental disorder caused by mutations in the cohesin acetyltransferase ESCO2.
-
-EXACT_ANSWER:
-- Roberts syndrome (RBS) is a human developmental disorder caused by mutations in the cohesin acetyltransferase ESCO2.

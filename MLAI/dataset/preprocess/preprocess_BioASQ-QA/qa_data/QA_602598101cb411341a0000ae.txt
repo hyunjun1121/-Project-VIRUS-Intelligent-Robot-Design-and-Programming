@@ -1,7 +1,0 @@
-QUESTION: What does tsDMARD stand for?
-
-IDEAL_ANSWER:
-- tsDMARDs are targeted synthetic disease-modifying antirheumatic drugs.
-
-EXACT_ANSWER:
-- targeted synthetic disease-modifying antirheumatic drugs

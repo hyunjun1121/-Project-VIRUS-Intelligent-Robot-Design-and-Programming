@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ethosuximide blocks the T-type calcium channels.
-
-EXACT_ANSWER:
-- T-type calcium channels

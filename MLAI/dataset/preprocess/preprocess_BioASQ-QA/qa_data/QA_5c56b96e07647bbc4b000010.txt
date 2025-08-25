@@ -1,7 +1,0 @@
-QUESTION: Which tool has been developed for tagging biomedical concepts via interactive learning?
-
-IDEAL_ANSWER:
-- ezTag is a web-based annotation tool that supports annotating a wide variety of biological concepts with or without pre-existing training data. It allows curators to perform annotation and provide training data with humans in the loop. ezTag supports both abstracts in PubMed and full-text articles in PubMed Central. It also provides lexicon-based concept tagging as well as the state-of-the-art pre-trained taggers such as TaggerOne, GNormPlus and tmVar. ezTag is freely available at http://eztag.bioqrator.org.
-
-EXACT_ANSWER:
-- ezTag

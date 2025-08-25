@@ -1,7 +1,0 @@
-QUESTION: What is a miR?
-
-IDEAL_ANSWER:
-- The discovery of microRNAs (miRNAs) has opened an entire new avenue for drug development. These short (15-22 nucleotides) noncoding RNAs, which function in RNA silencing and posttranscriptional regulation of gene expression, have been shown to critically affect numerous pathways in both development and disease progression.
-
-EXACT_ANSWER:
-- MiRs are small (~23 nt) noncoding RNAs

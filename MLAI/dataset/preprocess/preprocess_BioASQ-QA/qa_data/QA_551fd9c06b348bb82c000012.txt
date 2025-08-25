@@ -1,7 +1,0 @@
-QUESTION: ROSIER scale is used for which disorder?
-
-IDEAL_ANSWER:
-- ROSIER (Recognition of Stroke in the Emergency Room) scale was developed as a stroke recognition tool on suspected patients in the prehospital setting.
-
-EXACT_ANSWER:
-- stroke

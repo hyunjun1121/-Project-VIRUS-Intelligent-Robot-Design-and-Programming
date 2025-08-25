@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mutations in cardiac beta-myosin heavy chain and alpha-tropomyosin link isolated Non-compaction cardiomyopathy with dilated cardiomyopathy
-
-EXACT_ANSWER:
-- via mutations in beta-MHC and alpha-TPM1

@@ -1,7 +1,0 @@
-QUESTION: Which is the mass-tag that reveal the ubiquitination of a lysine residue?
-
-IDEAL_ANSWER:
-- Lys-ɛ-Gly-Gly (K-ɛ-GG) is the remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains.
-
-EXACT_ANSWER:
-- Lys-ɛ-Gly-Gly (K-ɛ-GG) is the remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains.

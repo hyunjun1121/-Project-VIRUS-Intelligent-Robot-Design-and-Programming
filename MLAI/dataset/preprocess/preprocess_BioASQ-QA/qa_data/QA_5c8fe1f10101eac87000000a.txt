@@ -1,8 +1,0 @@
-QUESTION: What is the effect of NFIA on astrocyte differentiation?
-
-IDEAL_ANSWER:
-- NFIA promotes astrocyte differentiation from neural precursor cells.
-
-EXACT_ANSWER:
-- Promotes
-- Induces

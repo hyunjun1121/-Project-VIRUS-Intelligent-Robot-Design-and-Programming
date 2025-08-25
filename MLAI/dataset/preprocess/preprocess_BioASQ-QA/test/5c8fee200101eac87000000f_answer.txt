@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- CRISPR-Cas12a and CRISPR-Cpf1 refer to the same thing.
-
-EXACT_ANSWER:
-- None

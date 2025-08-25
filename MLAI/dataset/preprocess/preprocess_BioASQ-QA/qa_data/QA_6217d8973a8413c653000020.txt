@@ -1,7 +1,0 @@
-QUESTION: What is the role of cytidine deaminase in healthy cells?
-
-IDEAL_ANSWER:
-- Activation-induced cytidine deaminase (AID) catalyses the deamination of deoxycytidines to deoxyuracils within immunoglobulin genes to induce somatic hypermutation and class-switch recombination.
-
-EXACT_ANSWER:
-- deamination of deoxycytidines

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Acetylated lysines in histones (generally H3 and H4)
-
-EXACT_ANSWER:
-- Acetylated lysines

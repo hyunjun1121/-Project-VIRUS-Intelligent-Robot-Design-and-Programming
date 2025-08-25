@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Brensocatib was tested for bronchiectasis. Brensocatib in patients with bronchiectasis was associated with improvements in bronchiectasis clinical outcomes.
-
-EXACT_ANSWER:
-- bronchiectasis

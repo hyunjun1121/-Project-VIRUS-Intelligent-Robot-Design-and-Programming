@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Cholera toxin (CT), which is secreted by V. cholerae, can enter host cells by binding to GM1, a monosialoganglioside widely distributed on the plasma membrane surface of various animal epithelial cells.
-
-EXACT_ANSWER:
-- Cholera toxin (CT) can enter host cells by binding to GM1, a monosialoganglioside widely distributed on the plasma membrane surface of various animal epithelial cells.

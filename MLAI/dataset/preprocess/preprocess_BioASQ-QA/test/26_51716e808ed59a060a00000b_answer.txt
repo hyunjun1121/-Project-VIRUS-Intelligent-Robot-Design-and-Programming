@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Louping ill virus (LIV) belongs to the mammalian tick-borne virus group of the genus Flavivirus  which cause central nervous system disease. LIV infects the red grouse Lagopus lagopus scoticus, causing high mortality. LIV is transmitted by the tick Ixodes ricinus.
-- Deer are the key hosts of the vector (Ixodes ricinus) that transmits LIV to red grouse Lagopus lagopus scoticus, causing high mortality. (PMID: 22939093)
-
-EXACT_ANSWER:
-- Ixodes ricinus

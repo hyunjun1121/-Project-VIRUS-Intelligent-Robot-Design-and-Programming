@@ -1,7 +1,0 @@
-QUESTION: Which molecule is targeted by Fenebrutinib?
-
-IDEAL_ANSWER:
-- Fenebrutinib is a noncovalent, oral, and highly selective inhibitor of Bruton's tyrosine kinase (BTK).
-
-EXACT_ANSWER:
-- Bruton's tyrosine kinase

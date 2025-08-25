@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Congo red agar plates are used as a canonical indicator of biofilm-formation ability. Culture on Congo red agar plates in which slime-producing strains form black colonies, while nonslime-forming ones develop red colonies.
-
-EXACT_ANSWER:
-- Assessment of bacterial biofilm-formation ability.

@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Type III hyperlipoproteinemia (HLP) is characterized by the accumulation of remnant lipoproteins in the plasma and it is associated with ApoE2 isoform. ApoE2 binds poorly to low density lipoprotein receptors, resulting in defective remnant lipoprotein clearance.
-
-EXACT_ANSWER:
-- ApoE2 isoform
-- Apolipoprotein E2 isoform

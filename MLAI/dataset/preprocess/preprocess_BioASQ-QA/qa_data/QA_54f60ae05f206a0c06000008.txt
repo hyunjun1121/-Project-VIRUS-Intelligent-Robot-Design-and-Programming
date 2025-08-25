@@ -1,7 +1,0 @@
-QUESTION: What is the substrate of the microbial enzyme inulinase?
-
-IDEAL_ANSWER:
-- The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose.
-
-EXACT_ANSWER:
-- The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose.

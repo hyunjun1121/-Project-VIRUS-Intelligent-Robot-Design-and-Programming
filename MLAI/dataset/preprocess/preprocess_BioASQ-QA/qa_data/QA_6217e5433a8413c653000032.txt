@@ -1,7 +1,0 @@
-QUESTION: What is the function of the protein SERT?
-
-IDEAL_ANSWER:
-- SERT is a Serotonin transporter.
-
-EXACT_ANSWER:
-- Serotonin transporter

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- 5-aminolevulinic acid (or 5-ALA) is the generic name of Gliolan. It is approved for fluorescence-guided resections of adult malignant gliomas.
-
-EXACT_ANSWER:
-- 5-aminolevulinic acid

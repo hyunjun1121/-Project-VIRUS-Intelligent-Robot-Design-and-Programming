@@ -1,8 +1,0 @@
-QUESTION: What is a bacteriocin?
-
-IDEAL_ANSWER:
-- Bacteriocins, the ribosomally produced antimicrobial peptides of bacteria, represent an untapped source of promising antibiotic alternatives.
-One such strategy involves using narrow-spectrum protein antibiotics (so-called bacteriocins), which diverse bacteria use to compete against closely related species.
-
-EXACT_ANSWER:
-- antimicrobial peptide of bacteria

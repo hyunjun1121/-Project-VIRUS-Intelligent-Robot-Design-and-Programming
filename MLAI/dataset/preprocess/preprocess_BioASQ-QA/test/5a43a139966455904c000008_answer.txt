@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- We have developed a method (NOMe-seq) that uses a GpC methyltransferase (M.CviPI) and next generation sequencing to generate a high resolution footprint of nucleosome positioning genome-wide using less than 1 million cells while retaining endogenous DNA methylation information from the same DNA strand. DNaseI-seq and NOMe-seq.
-- NOMe-seq is a method that uses a GpC methyltransferase (M.CviPI) and next generation sequencing to generate a high resolution footprint of nucleosome positioning genome-wide using less than 1 million cells while retaining endogenous DNA methylation information from the same DNA strand.
-
-EXACT_ANSWER:
-- Nucleosome positioning and DNA methylation

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- SECIS (selenocysteine insertion sequence)
-
-EXACT_ANSWER:
-- SECIS

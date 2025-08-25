@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Fusarium oxysporum f. sp lycopersici.produces causes vascular wilt disease in tomatoes.
-- Fusarium wilt caused by Fusarium oxysporum f. sp lycopersici (Fol) is one of the main diseases affecting tomatoes. 
-
-EXACT_ANSWER:
-- Tomato

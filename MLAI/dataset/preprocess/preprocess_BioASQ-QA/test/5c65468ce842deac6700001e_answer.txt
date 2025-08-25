@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mogamulizumab is an anti-CCR4 monoclonal antibody.
-
-EXACT_ANSWER:
-- Mogamulizumab

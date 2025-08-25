@@ -1,7 +1,0 @@
-QUESTION: Is APOBEC3B protein predominantly cytoplasmic or nuclear?
-
-IDEAL_ANSWER:
-- Contrary to other APOBEC family members, APOBEC3B was found to predominantly concentrate to the cell nucleus.
-
-EXACT_ANSWER:
--  nuclear

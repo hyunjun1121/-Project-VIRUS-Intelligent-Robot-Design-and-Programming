@@ -1,7 +1,0 @@
-QUESTION: What is the administration route of IVIG in Alzheimer's disease patients?
-
-IDEAL_ANSWER:
-- IVIG is administered intravenously.
-
-EXACT_ANSWER:
-- Intravenous

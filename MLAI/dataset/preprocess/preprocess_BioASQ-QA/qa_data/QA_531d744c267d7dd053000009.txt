@@ -1,7 +1,0 @@
-QUESTION: What is the function of the protein encoded by the gene PABPC4?
-
-IDEAL_ANSWER:
-- The main function of PABPC4 is in mRNA stability and translation initiation. PABPC4 may also play a role in chronic inflammation and in the pathogenesis of colorectal cancer.
-
-EXACT_ANSWER:
-- PABC4 is important for mRNA stability and translation initiation, in chronic inflammation and in the pathogenesis of colorectal cancer.

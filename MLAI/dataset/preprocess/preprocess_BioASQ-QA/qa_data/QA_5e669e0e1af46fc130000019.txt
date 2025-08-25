@@ -1,8 +1,0 @@
-QUESTION: What is the chromosomal abnormality associated with Klinefelter Syndrome
-
-IDEAL_ANSWER:
-- About 1 in 650 boys are born with an extra X chromosome (47,XXY or Klinefelter syndrome). 47,XXY
-- About 1 in 650 boys are born with an extra X chromosome (47,XXY or Klinefelter syndrome)
-
-EXACT_ANSWER:
-- XXY

@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- Peyer's patches (PPs) play a major role in intestinal mucosal immunity and are located in the gut.
-
-EXACT_ANSWER:
-- gut
-- abdomen
-- the small intestine
-- intestinal mucosal

@@ -1,8 +1,0 @@
-QUESTION: Which disease is PGT121 used for?
-
-IDEAL_ANSWER:
-- The broadly neutrilizing antibody PGT121 is being tested against HIV-1.
-
-EXACT_ANSWER:
-- HIV
-- AIDS

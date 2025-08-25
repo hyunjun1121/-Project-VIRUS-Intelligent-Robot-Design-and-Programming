@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- A deep convolutional neural network can call genetic variation in aligned next-generation sequencing read data by learning statistical relationships between images of read pileups around putative variant and true genotype calls. The approach, called DeepVariant, outperforms existing state-of-the-art tools. The learned model generalizes across genome builds and mammalian species, allowing nonhuman sequencing projects to benefit from the wealth of human ground-truth data.
-
-EXACT_ANSWER:
-- DeepVariant

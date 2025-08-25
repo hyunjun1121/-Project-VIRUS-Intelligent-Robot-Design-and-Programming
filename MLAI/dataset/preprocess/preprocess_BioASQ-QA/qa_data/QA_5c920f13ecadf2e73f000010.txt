@@ -1,7 +1,0 @@
-QUESTION: What type of drug is apixaban?
-
-IDEAL_ANSWER:
-- Apixaban is an anticoagulant.
-
-EXACT_ANSWER:
-- anticoagulant

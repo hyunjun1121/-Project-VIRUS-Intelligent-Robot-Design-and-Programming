@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The Oncomine Dx Target Test Panel is produced by Thermo Fisher Scientific.
-
-EXACT_ANSWER:
-- Thermo Fisher Scientific

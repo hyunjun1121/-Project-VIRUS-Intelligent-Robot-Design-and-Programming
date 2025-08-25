@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Aleglitazar is a balanced peroxisome proliferator-activated receptor-α/γ agonist.
-
-EXACT_ANSWER:
-- peroxisome proliferator-activated receptor-α/γ

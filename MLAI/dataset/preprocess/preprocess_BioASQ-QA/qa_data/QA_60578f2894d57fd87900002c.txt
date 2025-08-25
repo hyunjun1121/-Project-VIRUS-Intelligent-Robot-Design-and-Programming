@@ -1,8 +1,0 @@
-QUESTION: Where is the agouti-related peptide expressed?
-
-IDEAL_ANSWER:
-- Function. Agouti-related protein is expressed primarily in the adrenal gland, subthalamic nucleus, and hypothalamus, with lower levels of expression in the testis, kidneys, and lungs.
-- The agouti-related peptide is expressed in neurons in the hypothalamus.
-
-EXACT_ANSWER:
-- in the Hypothalamus

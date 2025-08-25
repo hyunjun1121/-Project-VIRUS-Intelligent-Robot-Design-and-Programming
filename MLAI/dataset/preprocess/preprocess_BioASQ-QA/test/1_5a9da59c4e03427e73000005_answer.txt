@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- personally normalized plasma protein profiles (PNPPP)
-
-EXACT_ANSWER:
-- personally normalized plasma protein profiles

@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Borden classification systems is used for the prediction of clinical behavior of cranial dural arteriovenous fistulas.
-
-EXACT_ANSWER:
-- cranial dural arteriovenous fistula
-- DAVF

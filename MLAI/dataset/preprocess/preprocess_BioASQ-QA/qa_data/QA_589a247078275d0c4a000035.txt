@@ -1,7 +1,0 @@
-QUESTION: Dinutuximab is used for treatment of which disease?
-
-IDEAL_ANSWER:
-- Dinutuximab, a monoclonal antibody against disialoganglioside, is used for treatment of high-risk neuroblastoma.
-
-EXACT_ANSWER:
-- neuroblastoma

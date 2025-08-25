@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- CyberKnife(r) is a robotic stereotactic radiotherapy system
-
-EXACT_ANSWER:
-- CyberKnife® is a robotic stereotactic radiotherapy system

@@ -1,7 +1,0 @@
-QUESTION: What is the target of Sotorasib?
-
-IDEAL_ANSWER:
-- Sotorasib is a KRASG12C inhibitor.
-
-EXACT_ANSWER:
-- KRASG12C

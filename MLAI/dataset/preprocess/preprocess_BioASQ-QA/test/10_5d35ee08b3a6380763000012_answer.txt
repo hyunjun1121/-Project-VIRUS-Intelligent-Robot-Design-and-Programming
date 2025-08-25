@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- PRC2 induces histone H3 lysine 27 (H3K27) trimethylation (H3K27me3), which is subsequently read by PRC1 that further catalyzes H2A monoubiquitination (H2Aub1), creating a transcriptional silent chromatin conformation.
-- H2A monoubiquitination (H2Aub1), catalyzed by Polycomb-Repressive Complex1 (PRC1) is a key epigenetic mark in Polycomb silencing . Stable X chromosome inactivation involves the PRC1 Polycomb complex and requires histone MACROH2A1 and the CULLIN3/SPOP ubiquitin E3 ligase .
-- Histone H2A monoubiquitination (H2Aub1), catalyzed by Polycomb-Repressive Complex1 (PRC1), is a key epigenetic mark in Polycomb silencing . Stable X chromosome inactivation involves the PRC1 Polycomb complex and requires histone MACROH2A1 and the CULLIN3/SPOP ubiquitin E3 ligase .
-
-EXACT_ANSWER:
-- H2Aub1

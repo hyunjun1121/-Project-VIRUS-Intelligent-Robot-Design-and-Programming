@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Bacteria have developed several defense mechanisms against bacteriophages over evolutionary time, but the concept of prokaryotic RNA interference mediated defense mechanism against phages and other invading genetic elements has emerged only recently. Clustered regularly interspaced short palindromic repeats (CRISPR) together with closely associated genes (cas genes) constitute the CASS system that is believed to provide a RNAi-like defense mechanism against bacteriophages within the host bacterium.
-
-EXACT_ANSWER:
-- CRISPR-Cas

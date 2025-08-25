@@ -1,7 +1,0 @@
-QUESTION: Which disease is treated with lucinactant?
-
-IDEAL_ANSWER:
-- Lucinactant us used for the prevention of respiratory distress syndrome in premature infants.
-
-EXACT_ANSWER:
-- respiratory distress syndrome

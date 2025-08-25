@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ivosidenib (AG-120) is an oral, targeted, small-molecule inhibitor of mutant IDH1. It used an effective treatment of leukemia.
-
-EXACT_ANSWER:
-- IDH1

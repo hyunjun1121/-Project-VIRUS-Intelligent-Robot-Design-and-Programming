@@ -1,7 +1,0 @@
-QUESTION: Safinamide is approved for treatment of which disease?
-
-IDEAL_ANSWER:
-- Safinamide is a monoamine-oxidase B (MAO-B) inhibitor licensed as add-on therapy for people with idiopathic Parkinson's disease who are experiencing motor fluctuations with levodopa.
-
-EXACT_ANSWER:
-- Parkinson's disease

@@ -1,7 +1,0 @@
-QUESTION: When was empagliflozin FDA approved?
-
-IDEAL_ANSWER:
-- Empagliflozin was approved in 2014 by the European Commission and the United States Food and Drug Administration for the treatment of type 2 diabetes mellitus (T2DM).
-
-EXACT_ANSWER:
-- 2014

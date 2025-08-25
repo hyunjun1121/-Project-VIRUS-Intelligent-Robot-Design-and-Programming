@@ -1,7 +1,0 @@
-QUESTION: What is the most common pediatric glioma?
-
-IDEAL_ANSWER:
-- Pilocytic astrocytoma is the most common pediatric glioma.
-
-EXACT_ANSWER:
-- Pilocytic astrocytoma or high grade glioma

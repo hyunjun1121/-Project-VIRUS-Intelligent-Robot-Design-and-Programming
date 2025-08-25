@@ -1,7 +1,0 @@
-QUESTION: What is the mode of action of the drug Prolia?
-
-IDEAL_ANSWER:
-- Prolia, also known as denosumab is an anti-RANKL agent for the treatment of osteoporosis. It works by preventing the development of osteoclasts which are cells that break down bone.
-
-EXACT_ANSWER:
-- Anti-RANKL antibody which prevents bone catabolism in osteoporosis

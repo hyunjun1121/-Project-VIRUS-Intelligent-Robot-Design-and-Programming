@@ -1,7 +1,0 @@
-QUESTION: Where in the cell do we find the protein Cep135?
-
-IDEAL_ANSWER:
-- centrosome
-
-EXACT_ANSWER:
-- centrosome

@@ -1,8 +1,0 @@
-QUESTION: Which eye condition is managed by the athens protocol?
-
-IDEAL_ANSWER:
-- The athens protocol (transepithelial topography-guided PRK therapeutic remodeling, combined with same-day, collagen cross-linking) was developed for the management of cornea blindness due to severe corneal scarring.
-
-EXACT_ANSWER:
-- Keratoconus
-- cornea blindness due to severe corneal scarring

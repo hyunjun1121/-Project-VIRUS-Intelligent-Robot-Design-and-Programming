@@ -1,8 +1,0 @@
-QUESTION: Which protein is associated with hyperemesis gravidarum during pregrancy?
-
-IDEAL_ANSWER:
-- Human chorionic gonadotropin (hCG) is associated with hyperemesis gravidarum during pregrancy.
-
-EXACT_ANSWER:
-- Human chorionic gonadotropin
-- hCG

@@ -1,7 +1,0 @@
-QUESTION: Which intoxication is associated with Burton's line?
-
-IDEAL_ANSWER:
-- Burton's line is characteristic for lead poisoning.
-
-EXACT_ANSWER:
-- lead

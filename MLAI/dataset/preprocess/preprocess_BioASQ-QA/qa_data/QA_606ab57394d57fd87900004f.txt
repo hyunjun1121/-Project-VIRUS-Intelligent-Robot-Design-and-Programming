@@ -1,9 +1,0 @@
-QUESTION: What is the effect of carbamazepine on CYP3A4?
-
-IDEAL_ANSWER:
-- Carbamazepine is an inducer of CYP3A4.
-
-EXACT_ANSWER:
-- Induces
-- inducer
-- induction

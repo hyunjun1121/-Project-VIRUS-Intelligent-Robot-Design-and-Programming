@@ -1,7 +1,0 @@
-QUESTION: Which gene is associated with Muenke syndrome?
-
-IDEAL_ANSWER:
-- Muenke syndrome has been related to a mutation on the Fibroblast Growth Factor Receptor (FGFR3) gene.
-
-EXACT_ANSWER:
-- Fibroblast Growth Factor Receptor 3 (FGFR3)

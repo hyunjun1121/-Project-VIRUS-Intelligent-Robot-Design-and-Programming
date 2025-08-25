@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Bimagrumab blocks the activin type II receptors.
-
-EXACT_ANSWER:
-- activin type II receptors

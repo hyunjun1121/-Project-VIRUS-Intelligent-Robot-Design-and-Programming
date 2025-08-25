@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Defective Pol II termination occurs independently of the ability of the viral NS1 protein to interfere with host mRNA processing. Instead, this termination defect is a common effect of diverse cellular stresses and underlies the production of previously reported downstream-of-gene transcripts (DoGs).
-- Influenza A virus (IAV) infection induces global transcriptional defects at the 3' ends of active host genes and RNA polymerase II (RNAPII) run-through into extragenic regions. This phenomenon occurs with multiple strains of IAV, is dependent on influenza NS1 protein, and can be modulated by SUMOylation of an intrinsically disordered region (IDR) of NS1 expressed by the 1918 pandemic IAV strain
-
-EXACT_ANSWER:
-- NS1
-- The IAV NS1 protein

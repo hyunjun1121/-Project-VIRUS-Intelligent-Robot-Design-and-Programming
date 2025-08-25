@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Fecal microbiota transplantation is used to treat Clostridium difficile infection
-
-EXACT_ANSWER:
-- Clostridium difficile

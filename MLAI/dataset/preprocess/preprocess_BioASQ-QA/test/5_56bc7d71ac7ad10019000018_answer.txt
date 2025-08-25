@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Delamanid is used in patients with multidrug-resistant tuberculosis.
-
-EXACT_ANSWER:
-- tuberculosis

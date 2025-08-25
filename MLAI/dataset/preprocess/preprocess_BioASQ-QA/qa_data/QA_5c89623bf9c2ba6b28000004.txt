@@ -1,8 +1,0 @@
-QUESTION: Name a CFL2 mutation which is associated with nemaline myopathy?
-
-IDEAL_ANSWER:
-- A mutation in CFL2 was identified in a family with nemaline myopathy, namely a homozygous missense mutation in exon 2 (c.19G>A, p.Val7Met).
-
-EXACT_ANSWER:
-- c.19G>A
-- p.Val7Met

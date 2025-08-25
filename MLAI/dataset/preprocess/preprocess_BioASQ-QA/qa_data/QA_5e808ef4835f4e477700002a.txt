@@ -1,7 +1,0 @@
-QUESTION: What is the target of the drug Olmesartan?
-
-IDEAL_ANSWER:
-- Olmesartan (OL) is the pharmacologically active metabolite of Olmesartan medoxomil (OM), an FDA-approved angiotensin II receptor antagonist for administrating cardiovascular diseases
-
-EXACT_ANSWER:
-- angiotensin II receptor

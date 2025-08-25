@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Contrave(?) is a combination of naltrexone hydrochloride extended release and bupropion hydrochloride extended release for the treatment of obesity
-- Contrave(®) is a combination of naltrexone hydrochloride extended release and bupropion hydrochloride extended release for the treatment of obesity
-- Contrave(®) is a combination of naltrexone hydrochloride extended release and bupropion hydrochloride extended release for the treatment of obesity.
-
-EXACT_ANSWER:
-- Obesity

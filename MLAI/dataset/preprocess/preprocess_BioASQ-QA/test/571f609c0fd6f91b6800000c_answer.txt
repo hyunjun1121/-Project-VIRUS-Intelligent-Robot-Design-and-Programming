@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- GM1 gangliosidoses are associated with deficiency of β-galactosidase.
-
-EXACT_ANSWER:
-- β-galactosidase

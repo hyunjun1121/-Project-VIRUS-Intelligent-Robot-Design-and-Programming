@@ -1,7 +1,0 @@
-QUESTION: In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?
-
-IDEAL_ANSWER:
-- Factors involved in RNA polymerase (RNAP) processivity or transcriptional derepression, such as Mfd (transcription coupling repair factor), contribute to the generation of stress-induced mutations. Under stress, transcription-associated mutagenesis is increased. Stress-induced transcription-associated mutations are acquired by nondividing cells, during stationary phase, and are not observed under conditions of exponential growth.
-
-EXACT_ANSWER:
-- stationary phase

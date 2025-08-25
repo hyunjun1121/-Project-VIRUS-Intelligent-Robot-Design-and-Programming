@@ -1,8 +1,0 @@
-QUESTION: Which gene is involved in the development of Barth syndrome?
-
-IDEAL_ANSWER:
-- Tafazzin is a mitochondrial phospholipid transacylase, and its mutations cause Barth syndrome (BTHS)
-- Tafazzin, a mitochondrial acyltransferase encoded by a gene of the same name, plays an important role in cardiolipin side chain remodeling. Studies have shown that mutation-induced dysfunction of tafazzin reduces cardiolipin content, impairs mitochondrial function, and causes dilated cardiomyopathy in Barth syndrome (BTHS).
-
-EXACT_ANSWER:
-- Tafazzin (TAZ) gene

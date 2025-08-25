@@ -1,7 +1,0 @@
-QUESTION: Which bacteria causes erythrasma?
-
-IDEAL_ANSWER:
-- Corynebacterium minutissimum is the bacteria that leads to cutaneous eruptions of erythrasma and is the most common cause of interdigital foot infections.
-
-EXACT_ANSWER:
-- Corynebacterium minutissimum

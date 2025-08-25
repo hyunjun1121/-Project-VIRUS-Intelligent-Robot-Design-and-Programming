@@ -1,7 +1,0 @@
-QUESTION: What is the cause of the Diamond Blackfan Anemia?
-
-IDEAL_ANSWER:
-- Diamond Blackfan Anemia (DBA) is a congenital bone marrow failure syndrome associated with ribosomal gene mutations that lead to ribosomal insufficiency.
-
-EXACT_ANSWER:
-- Diamond Blackfan Anemia (DBA) is a congenital bone marrow failure syndrome associated with ribosomal gene mutations that lead to ribosomal insufficiency.

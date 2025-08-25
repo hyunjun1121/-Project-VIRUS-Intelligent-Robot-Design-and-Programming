@@ -1,7 +1,0 @@
-QUESTION: What is the gene mutated in the Gaucher disease?
-
-IDEAL_ANSWER:
-- The glucocerebrosidase gene (GBA)
-
-EXACT_ANSWER:
-- glucocerebrosidase

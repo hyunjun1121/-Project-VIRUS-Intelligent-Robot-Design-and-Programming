@@ -1,7 +1,0 @@
-QUESTION: What is the function of the protein calreticulin?
-
-IDEAL_ANSWER:
-- Calreticulin (CALR) is an endoplasmic reticulum (ER)-resident protein involved in a spectrum of cellular processes. In healthy cells, CALR operates as a chaperone and Ca2+ buffer to assist correct protein folding within the ER.
-
-EXACT_ANSWER:
-- chaperone and Ca2+ buffer to assist correct protein folding within the ER

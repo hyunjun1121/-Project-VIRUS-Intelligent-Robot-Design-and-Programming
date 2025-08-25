@@ -1,7 +1,0 @@
-QUESTION: What is the Her2 status in Li-Fraumeni syndrome?
-
-IDEAL_ANSWER:
-- In the background of a germline TP53 mutation of the Li-Fraumeni syndrome, the Her2 status was found to be positive in 63-83% of the cases.
-
-EXACT_ANSWER:
-- Her2 status is positive

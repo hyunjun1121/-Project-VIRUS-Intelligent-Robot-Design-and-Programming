@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- In the budding yeast, cohesin is loaded onto the chromosome during the late G1 phase, establishes sister chromatid cohesion concomitant with DNA replication, and dissociates by the telophase.
-- In the budding yeast, cohesin is loaded onto the chromosome during the late G1 phase, establishes sister chromatid cohesion concomitant with DNA replication, and dissociates by the telophase. 
-- Cohesin association with G1 chromosomes requires continued activity of the cohesin loader Mis4/Ssl3, suggesting that repeated loading cycles maintain cohesin binding. In mammalian cells, cohesin binding to chromatin is dynamic in G1, but becomes stabilized during S-phase. Instead, we find that cohesin stability increases at the time of S-phase in a reaction that can be uncoupled from DNA replication. Budding yeast Scc1p/Mcd1p, an essential subunit, is cleaved and dissociates from chromosomes in anaphase, leading to sister chromatid separation.
-
-EXACT_ANSWER:
-- S-phase

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The Ret gene may have gain of mutation functions in MEN2 cancer as well as loss of function mutations in Hirschprung disease.
-
-EXACT_ANSWER:
-- Ret

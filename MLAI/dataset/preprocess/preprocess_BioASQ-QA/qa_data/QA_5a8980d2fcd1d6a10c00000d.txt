@@ -1,8 +1,0 @@
-QUESTION: Which is the main protein in brown adipose tissue (BAT) active in thermogenesis?
-
-IDEAL_ANSWER:
-- Uncoupling protein 1 (UCP1) is the hallmark protein responsible for cold- and diet-induced thermogenesis in brown adipose tissue (BAT).
-
-EXACT_ANSWER:
-- Uncoupling protein 1
-- UCP1

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- GKT136901 is a specific inhibitor of Nox1 and Nox4.
-
-EXACT_ANSWER:
-- GKT136901

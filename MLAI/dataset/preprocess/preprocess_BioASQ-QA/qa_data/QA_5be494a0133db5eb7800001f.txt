@@ -1,7 +1,0 @@
-QUESTION: Which cancer has the kynureninase pathway been associated to?
-
-IDEAL_ANSWER:
-- The kynurenine pathway has been associated with human glioma pathophysiology.
-
-EXACT_ANSWER:
-- Glioma

@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Stress-induced transcriptional readthrough generates very long downstream of gene containing transcripts (DoGs), which may explain up to 20% of intergenic transcription. Massive induction of transcriptional readthrough generates downstream of gene-containing transcripts (DoGs) in cells under stress condition. Ca2+ signaling mediates reduced transcription termination in response to certain stress conditions. This reduction allows readthrough transcription, generating a highly inducible and diverse class of downstream of gene containing transcripts (DoGs) that we have recently described.
-- osmotic stress
-- DoGs are induced by osmotic stress at the level of transcription by a mechanism that depends on calcium release from the endoplasmic reticulum mediated by IP3 receptors.
-
-EXACT_ANSWER:
-- stress conditions

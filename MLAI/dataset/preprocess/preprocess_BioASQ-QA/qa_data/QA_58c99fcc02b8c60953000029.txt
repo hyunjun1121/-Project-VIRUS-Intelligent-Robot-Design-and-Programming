@@ -1,7 +1,0 @@
-QUESTION: What does the human ABCC gene  product do?
-
-IDEAL_ANSWER:
-- The important drug resistance-conferring members belong to three subfamilies of the human ABC family; these are ABCB1 (MDR1/P-glycoprotein of subfamily ABCB), subfamily ABCC (MRPs), and ABCG2 (BCRP of subfamily ABCG), which are expressed in various organs. The ATP-binding cassette (ABC) transporters constitute a large family of membrane proteins, which transport a variety of compounds through the membrane against a concentration gradient at the cost of ATP hydrolysis
-
-EXACT_ANSWER:
-- ATP dependent small molecule transporter

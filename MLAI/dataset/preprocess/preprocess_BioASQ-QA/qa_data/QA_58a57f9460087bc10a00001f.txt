@@ -1,8 +1,0 @@
-QUESTION: Which mutated gene is associated with Waardenburg and Tietz syndromes?
-
-IDEAL_ANSWER:
-- Mutations in microphthalmia-associated transcription factor (MITF) gene cause Waardenburg and Tietz syndromes.
-
-EXACT_ANSWER:
-- microphthalmia-associated transcription factor gene
-- MITF

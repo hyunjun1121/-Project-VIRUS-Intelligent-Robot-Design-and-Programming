@@ -1,7 +1,0 @@
-QUESTION: Which R/Bioconductor package has been developed for cancer subtype identification?
-
-IDEAL_ANSWER:
-- Identifying molecular cancer subtypes from multi-omics data is an important step in the personalized medicine. CancerSubtypes is an R/Bioconductor package for molecular cancer subtype identification, validation and visualization. CancerSubtypes integrates four main computational methods which are highly cited for cancer subtype identification and provides a standardized framework for data pre-processing, feature selection, and result follow-up analyses, including results computing, biology validation and visualization. The input and output of each step in the framework are packaged in the same data format, making it convenience to compare different methods.
-
-EXACT_ANSWER:
-- CancerSubtypes

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Centor criteria were developed to diagnose streptococcal pharyngitis.
-
-EXACT_ANSWER:
-- streptococcal pharyngitis

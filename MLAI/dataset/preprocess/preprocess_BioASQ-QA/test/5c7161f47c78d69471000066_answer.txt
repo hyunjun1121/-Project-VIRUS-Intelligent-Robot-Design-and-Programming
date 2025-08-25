@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Etarfolatide in the form of 99mTc-etarfolatide is used as a companion imaging agent
-
-EXACT_ANSWER:
-- companion imaging agent

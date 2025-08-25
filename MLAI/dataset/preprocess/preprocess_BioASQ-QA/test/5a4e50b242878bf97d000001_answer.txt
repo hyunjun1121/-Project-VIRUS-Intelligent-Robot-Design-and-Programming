@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- Eukaryotic DNA topoisomerase II is an abundant nuclear enzyme that is essential for cell proliferation. Yeast DNA topoisomerase II is encoded by a single-copy, essential gene.
-- Yeast DNA topoisomerase II is encoded by a single-copy, essential gene. Disruption of one copy of the gene in a diploid yeast creates a recessive lethal mutation, indicating that the single DNA topoisomerase II gene of yeast has an essential function.
-- Yeast DNA topoisomerase II is encoded by a single-copy, essential gene.
-
-EXACT_ANSWER:
-- topoisomerase II
-- topo II

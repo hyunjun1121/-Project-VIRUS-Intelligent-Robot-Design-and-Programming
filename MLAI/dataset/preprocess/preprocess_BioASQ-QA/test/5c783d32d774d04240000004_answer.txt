@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Experimental autoimmune encephalomyelitis (EAE) is an animal model of MS (Multiple Sclerosis).
-
-EXACT_ANSWER:
-- Model of MS (Multiple Sclerosis)

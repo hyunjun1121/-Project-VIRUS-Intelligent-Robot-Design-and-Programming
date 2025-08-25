@@ -1,7 +1,0 @@
-QUESTION: Where in the body would the navicular bone be found?
-
-IDEAL_ANSWER:
-- The navicular bone is located in the foot
-
-EXACT_ANSWER:
-- foot

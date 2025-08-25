@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ivermectin (IVM) has been well known for its role in the treatment of parasitic diseases, due to its effect on glutamate-gated chloride channels. These same channels are also present in the mosquito vector, and thus, research has focused on the insecticidal effects of this drug.
-
-EXACT_ANSWER:
-- Ivermectin is used to treat parasitic diseases

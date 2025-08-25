@@ -1,7 +1,0 @@
-QUESTION: Which is the chromosome area that the human gene coding for the dopamine transporter (DAT1) is located to?
-
-IDEAL_ANSWER:
-- The gene encoding DAT1 consists of 15 exons spanning 60 kb and is located on chromosome 5p15.3.
-
-EXACT_ANSWER:
-- 5p15.3

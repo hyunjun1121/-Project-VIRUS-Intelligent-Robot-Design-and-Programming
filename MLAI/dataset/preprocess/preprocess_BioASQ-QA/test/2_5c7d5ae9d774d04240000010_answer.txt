@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Visceral adipose tissue-derived serine protease inhibitor (Vaspin) is an adipocytokine that has been shown to exert anti-inflammatory effects and inhibits apoptosis under diabetic conditions.
-
-EXACT_ANSWER:
-- Adipose Tissue

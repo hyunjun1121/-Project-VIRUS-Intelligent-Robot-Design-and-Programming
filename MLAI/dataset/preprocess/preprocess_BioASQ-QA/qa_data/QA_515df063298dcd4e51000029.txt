@@ -1,7 +1,0 @@
-QUESTION: What is the indication for prophylactic use of antibiotics in COPD?
-
-IDEAL_ANSWER:
-- In a subset of patients with severe disease and prone to developing infections prophylactic use of antibiotics may reduce number of exacerbations and improve social and health care costs.
-
-EXACT_ANSWER:
-- Reduction of number of exacerbations

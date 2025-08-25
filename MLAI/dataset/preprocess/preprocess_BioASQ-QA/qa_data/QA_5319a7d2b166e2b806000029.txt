@@ -1,7 +1,0 @@
-QUESTION: Which is the E3 ubiquitin ligase of Hsp90?
-
-IDEAL_ANSWER:
-- Carboxyl terminus of hsc70-interacting protein (CHIP) can mediate ubiquitination of the 90 kDa heat-shock protein (hsp90) in vitro, with subsequent proteasomal degradation of the chaperone.
-
-EXACT_ANSWER:
-- Carboxyl terminus of hsc70-interacting protein (CHIP)

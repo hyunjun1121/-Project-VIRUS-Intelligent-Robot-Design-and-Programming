@@ -1,4 +1,0 @@
-Which R package is used for the detection of chromosomal abnormalities from microarray data?
-
-[PMID: 24451624]
-The current methods available to detect chromosomal abnormalities from DNA microarray expression data are cumbersome and inflexible. CAFE has been developed to alleviate these issues. It is implemented as an R package that analyzes Affymetrix *.CEL files and comes with flexible plotting functions, easing visualization of chromosomal abnormalities. CAFE is available from https://bitbucket.org/cob87icW6z/cafe/ as both source and compiled packages for Linux and Windows. It is released under the GPL version 3 license. CAFE will also be freely available from Bioconductor. sander.h.bollen@gmail.com or nancy.mah@mdc-berlin.de Supplementary data are available at Bioinformatics online.

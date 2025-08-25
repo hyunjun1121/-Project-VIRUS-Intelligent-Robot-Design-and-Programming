@@ -1,7 +1,0 @@
-QUESTION: Which disease is rated using the Fahn-Tolosa-Marin scale?
-
-IDEAL_ANSWER:
-- The Fahn-Tolosa-Marin clinical tremor rating scale is used for essential tremor.
-
-EXACT_ANSWER:
-- essential tremor

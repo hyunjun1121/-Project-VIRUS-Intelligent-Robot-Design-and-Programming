@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Inactivated poliovirus vaccine (IPV), developed in the USA by Jonas Salk in the early 1950s, was field tested in 1954,
-- The Salk polio Vaccine was field tested in 1954.
-
-EXACT_ANSWER:
-- 1954

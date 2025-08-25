@@ -1,8 +1,0 @@
-QUESTION: The pathogen Fusarium graminearum affects what type of plant species?
-
-IDEAL_ANSWER:
-- Fusarium graminearum is a broad host pathogen threatening cereal crops in temperate regions around the world.
-- Fusarium graminearum is a broad host pathogen threatening cereal crops in temperate regions around the world. 
-
-EXACT_ANSWER:
-- cereal crops

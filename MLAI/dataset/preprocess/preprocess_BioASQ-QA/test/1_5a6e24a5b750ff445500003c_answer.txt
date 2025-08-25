@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The recount2 resource is composed of over 70,000 uniformly processed human RNA-seq samples spanning TCGA and SRA, including GTEx.
-
-EXACT_ANSWER:
-- recount2

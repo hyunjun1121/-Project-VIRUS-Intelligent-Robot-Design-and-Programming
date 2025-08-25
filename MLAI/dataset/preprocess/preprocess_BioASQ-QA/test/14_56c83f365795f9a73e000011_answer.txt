@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- PRION PROTEINS
-- Mutations in related RNA-binding proteins TDP-43, FUS/TLS and TAF15 have been connected to ALS. These three proteins share several features, including the presence of a bioinformatics-predicted prion domain, aggregation-prone nature in vitro and in vivo and toxic effects when expressed in multiple model systems. TDP-43, FUS and TAF15 share similar properties, including aggregation-prone behavior in vitro and ability to confer neurodegeneration in Drosophila. For TDP-43, both the RRM1 and the C-terminal glycine-rich domain are required for SG localization. Moreover, two RNA-binding proteins, FUS and TDP-43, which form cytoplasmic aggregates in amyotrophic lateral sclerosis, harbor a 'prion domain' similar to those found in several yeast prion protein
-- Scouring the human genome with this algorithm enriches a select group of RNA-binding proteins harboring a canonical RNA recognition motif (RRM) and a putative prion domain. Moreover, two RNA-binding proteins, FUS and TDP-43, which form cytoplasmic aggregates in amyotrophic lateral sclerosis, harbor a 'prion domain' similar to those found in several yeast prion proteins. PrLDs are over-represented in human RNA-binding proteins and mediate phase transitions underpinning RNP granule assembly. For example, TDP-43 and FUS form cytoplasmic inclusions in amyotrophic lateral sclerosis (ALS) and mutations in TDP-43 and FUS can cause ALS.
-- Two RNA-binding proteins, FUS and TDP-43, which form cytoplasmic aggregates in amyotrophic lateral sclerosis, harbor a 'prion domain' similar to those found in several yeast prion proteins.
-
-EXACT_ANSWER:
-- Prion-like domain

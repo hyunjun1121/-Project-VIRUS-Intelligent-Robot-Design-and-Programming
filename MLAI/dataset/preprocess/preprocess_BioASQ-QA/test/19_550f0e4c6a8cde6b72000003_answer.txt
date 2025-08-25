@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Facioscapulohumeral dystrophy (FSHD) is a progressive muscular dystrophy caused by decreased epigenetic repression of the D4Z4 macrosatellite repeats and ectopic expression of DUX4, a retrogene encoding a germline transcription factor encoded in each repeat.
-
-EXACT_ANSWER:
-- Facioscapulohumeral dystrophy
-- FSHD

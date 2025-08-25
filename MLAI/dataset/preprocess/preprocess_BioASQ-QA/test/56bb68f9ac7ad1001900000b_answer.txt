@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Phthiriasis palpebrarum is a rare eyelid infestation caused by phthirus pubis.
-
-EXACT_ANSWER:
-- Pthirus pubis

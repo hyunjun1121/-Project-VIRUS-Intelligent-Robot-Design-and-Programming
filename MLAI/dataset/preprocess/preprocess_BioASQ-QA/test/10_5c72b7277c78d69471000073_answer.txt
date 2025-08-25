@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- In Potocki-Shaffer syndrome (PSS), the full phenotypic spectrum is manifested when deletions are at least 2.1 Mb in size at 11p11.2
-- Potocki-Shaffer syndrome (PSS) is a rare contiguous gene deletion syndrome caused by heterozygous deletion of 11p11.2p12.
-
-EXACT_ANSWER:
-- 11p11.2p12

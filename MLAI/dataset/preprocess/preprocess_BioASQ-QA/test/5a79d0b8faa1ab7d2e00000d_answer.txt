@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Okazaki fragments are involved in DNA replication
-
-EXACT_ANSWER:
-- DNA replication

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The commonest CFTR mutation, deltaF508, is found in 74.1% of all CF chromosomes. In the Caucasian CF population, 57.5% are deltaF508 homozygotes but the UK ISC CF population with only 24.7%, has significantly fewer deltaF508 homozygotes patients (95% confidence interval (CI) 0.2-0.4).
-
-EXACT_ANSWER:
-- deltaF508

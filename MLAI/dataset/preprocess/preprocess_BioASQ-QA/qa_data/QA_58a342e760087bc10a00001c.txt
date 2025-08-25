@@ -1,7 +1,0 @@
-QUESTION: Can you define iatrogenic disease?
-
-IDEAL_ANSWER:
-- An iatrogenic disease is one that arises from treatment of another illness, such as an arrythmia that results from surgery or and hospital aquired infection in an immunocompromised patient.
-
-EXACT_ANSWER:
-- illness caused by treatment

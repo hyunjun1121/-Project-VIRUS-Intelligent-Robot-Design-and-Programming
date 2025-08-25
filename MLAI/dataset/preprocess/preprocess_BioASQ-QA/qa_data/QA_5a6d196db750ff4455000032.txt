@@ -1,7 +1,0 @@
-QUESTION: Which resource has been developed in order to study the transcriptional regulation of GABAergic cell fate?
-
-IDEAL_ANSWER:
-- Subpallial Enhancer Transgenic Lines is a data and tool resource to study transcriptional regulation of GABAergic cell fate.
-
-EXACT_ANSWER:
-- Subpallial Enhancer Transgenic Lines

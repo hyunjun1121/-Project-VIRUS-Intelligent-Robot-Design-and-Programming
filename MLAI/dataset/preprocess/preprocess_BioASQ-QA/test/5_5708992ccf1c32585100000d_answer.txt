@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications
-
-EXACT_ANSWER:
-- The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications

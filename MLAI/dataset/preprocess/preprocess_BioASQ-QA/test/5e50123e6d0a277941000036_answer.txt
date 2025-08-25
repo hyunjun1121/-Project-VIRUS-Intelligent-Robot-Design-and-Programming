@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Stata
-
-EXACT_ANSWER:
-- Stata

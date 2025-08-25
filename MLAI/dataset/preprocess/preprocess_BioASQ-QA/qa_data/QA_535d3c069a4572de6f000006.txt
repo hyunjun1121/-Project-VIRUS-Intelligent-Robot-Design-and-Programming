@@ -1,7 +1,0 @@
-QUESTION: What is the number of protein coding genes in the human genome?
-
-IDEAL_ANSWER:
-- The number of protein coding genes in the human genome is currently estimated between 20,000 and 25,000
-
-EXACT_ANSWER:
-- Between 20,000 and 25,000

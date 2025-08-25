@@ -1,8 +1,0 @@
-QUESTION: What is the effect of epiregulin on leptin secretion?
-
-IDEAL_ANSWER:
-- Epiregulin induces leptin secretion.
-
-EXACT_ANSWER:
-- induction
-- increase

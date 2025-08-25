@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Lesch-Nyhan Disease (LND) is the result of mutations in the X-linked gene encoding the purine metabolic enzyme, hypoxanthine guanine phosphoribosyl transferase (HPRT).
-
-EXACT_ANSWER:
-- Hypoxanthine guanine phosphoribosyl transferase (HPRT) gene

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Li-Fraumeni syndrome shows autosomal dominant inheritance.
-
-EXACT_ANSWER:
-- Autosomal dominant

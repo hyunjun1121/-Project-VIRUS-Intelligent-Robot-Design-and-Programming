@@ -1,8 +1,0 @@
-QUESTION: What is the indication for Truvada?
-
-IDEAL_ANSWER:
-- Truvada is used for HIV pre-exposure prophylaxis (PrEP) in high risk individuals
-- pre-exposure prophylaxis (PrEP) and the recent approval by the FDA of the supplemental indication for Truvada as PrEP
-
-EXACT_ANSWER:
-- Prevention of HIV infection

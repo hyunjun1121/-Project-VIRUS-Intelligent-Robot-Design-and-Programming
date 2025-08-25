@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Subpallial Enhancer Transgenic Lines is a data and tool resource to study transcriptional regulation of GABAergic cell fate.
-
-EXACT_ANSWER:
-- Subpallial Enhancer Transgenic Lines

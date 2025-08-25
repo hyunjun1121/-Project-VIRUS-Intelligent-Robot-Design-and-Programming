@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Sofosbuvir-based therapy cures hepatitis C virus infection
-
-EXACT_ANSWER:
-- Sofosbuvir based therapy

@@ -1,7 +1,0 @@
-QUESTION: What is the effect of rHDL-apoE3 on endothelial cell migration?
-
-IDEAL_ANSWER:
-- rHDL-apoE3 has been shown to promote endothelial cell migration.
-
-EXACT_ANSWER:
-- Promotion

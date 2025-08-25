@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Tecifidera is approved for the treatment of relapsing-remitting multiple sclerosis.
-
-EXACT_ANSWER:
-- Tecifidera is approved for the treatment of relapsing-remitting multiple sclerosis

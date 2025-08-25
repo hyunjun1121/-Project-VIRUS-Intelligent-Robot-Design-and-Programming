@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The disease focus for the  irreversible epoxyketone proteasome inhibitor ixazomib is multiple myeloma.
-
-EXACT_ANSWER:
-- Multiple myeloma

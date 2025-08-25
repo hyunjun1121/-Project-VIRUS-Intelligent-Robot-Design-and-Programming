@@ -1,7 +1,0 @@
-QUESTION: To the ligand of which receptors does Denosumab (Prolia) bind?
-
-IDEAL_ANSWER:
-- Denosumab is a monoclonal antibody against the RANKL
-
-EXACT_ANSWER:
-- RANKL

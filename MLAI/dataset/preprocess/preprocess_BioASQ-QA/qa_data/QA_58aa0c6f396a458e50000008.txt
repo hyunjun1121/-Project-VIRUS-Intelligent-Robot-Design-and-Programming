@@ -1,7 +1,0 @@
-QUESTION: Which is the "bonding hormone"?
-
-IDEAL_ANSWER:
-- Oxytocin is known as the 'bonding hormone' due its role in promoting mother-child and pair bonding.
-
-EXACT_ANSWER:
-- Oxytocin

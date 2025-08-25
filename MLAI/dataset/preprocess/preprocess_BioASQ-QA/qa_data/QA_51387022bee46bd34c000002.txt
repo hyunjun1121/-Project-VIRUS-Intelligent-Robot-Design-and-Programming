@@ -1,7 +1,0 @@
-QUESTION: Which is the process that Conserved noncoding elements mostly regulate?
-
-IDEAL_ANSWER:
-- Conserved noncoding elements play a fundamental role in regulating animal development
-
-EXACT_ANSWER:
-- Development

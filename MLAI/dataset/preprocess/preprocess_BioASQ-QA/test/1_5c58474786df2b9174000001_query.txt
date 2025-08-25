@@ -1,4 +1,0 @@
-Which algorithm has been developed for the automatic extraction of co-expressed gene clusters from gene expression data?
-
-[PMID: 30359297]
-Identifying co-expressed gene clusters can provide evidence for genetic or physical interactions. Thus, co-expression clustering is a routine step in large-scale analyses of gene expression data. We show that commonly used clustering methods produce results that substantially disagree and that do not match the biological expectations of co-expressed gene clusters. We present clust, a method that solves these problems by extracting clusters matching the biological expectations of co-expressed genes and outperforms widely used methods. Additionally, clust can simultaneously cluster multiple datasets, enabling users to leverage the large quantity of public expression data for novel comparative analysis. Clust is available at https://github.com/BaselAbujamous/clust .

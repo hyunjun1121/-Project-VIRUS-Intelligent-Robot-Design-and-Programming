@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Amyotrophic lateral sclerosis (ALS).
-- The strongest suppressor of TDP-43 toxicity was deletion of DBR1, which encodes an RNA lariat debranching enzyme. We show that, in the absence of Dbr1 enzymatic activity, intronic lariats accumulate in the cytoplasm and likely act as decoys to sequester TDP-43, preventing it from interfering with essential cellular RNAs and RNA-binding proteins. Knockdown of Dbr1 in a human neuronal cell line or in primary rat neurons is also sufficient to rescue TDP-43 toxicity. Our findings provide insight into TDP-43-mediated cytotoxicity and suggest that decreasing Dbr1 activity could be a potential therapeutic approach for ALS  
-
-EXACT_ANSWER:
-- Amyotrophic lateral sclerosis (ALS)

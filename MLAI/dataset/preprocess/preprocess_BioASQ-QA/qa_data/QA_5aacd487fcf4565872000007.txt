@@ -1,7 +1,0 @@
-QUESTION: Which human gene encode for DNA polymerase θ?
-
-IDEAL_ANSWER:
-- DNA polymerase theta (pol θ) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes
-
-EXACT_ANSWER:
-- DNA polymerase theta (pol θ) is an evolutionarily conserved protein encoded by the POLQ gene in mammalian genomes

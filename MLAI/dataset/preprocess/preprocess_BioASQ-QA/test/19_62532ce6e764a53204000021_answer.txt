@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- In human anatomy, the masseter is one of the muscles of mastication and is located in the jaw.
-
-EXACT_ANSWER:
-- Jaw
-- head
-- face
-- orofacial region
-- mandible

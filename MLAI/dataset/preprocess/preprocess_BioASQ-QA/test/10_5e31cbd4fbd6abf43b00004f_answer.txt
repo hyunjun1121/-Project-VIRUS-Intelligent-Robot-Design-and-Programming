@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Huntington's Disease (HD) is an autosomal dominant neurodegenerative disease
-- Huntington's disease is caused by an autosomal dominant gene.
-- Huntington's disease (HD) is an inherited NDD caused by autosomal-dominant expanded CAG trinucleotide repeat mutation in the gene coding for Huntingtin (Htt).
-
-EXACT_ANSWER:
-- dominant

@@ -1,7 +1,0 @@
-QUESTION: Which protein is mutated in Erythropoietic Protoporphyria?
-
-IDEAL_ANSWER:
-- Erythropoietic protoporphyria (EPP) is a rare inherited disorder of the heme biosynthesis pathway resulting in the accumulation of protoporphyrins in the blood, erythrocytes, and other tissues. Because of a gene mutation in the FECH gene, ferrochelatase, the enzyme involved in the final step of heme synthesis, is deficient in these patients.
-
-EXACT_ANSWER:
-- FECH gene, ferrochelatase

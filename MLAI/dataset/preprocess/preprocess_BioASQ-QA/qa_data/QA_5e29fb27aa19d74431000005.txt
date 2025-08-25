@@ -1,8 +1,0 @@
-QUESTION: How does LB-100 affect the DDR proteins (BRCA1, Chk2, and γH2AX)?
-
-IDEAL_ANSWER:
-- LB100 induced constitutive hyperphosphorylation of DDR proteins (BRCA1, Chk2, and gH2AX).
-
-EXACT_ANSWER:
-- Hyperphosphorylation
-- Hyperphosphorylates

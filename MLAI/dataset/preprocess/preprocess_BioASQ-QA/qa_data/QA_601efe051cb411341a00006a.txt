@@ -1,7 +1,0 @@
-QUESTION: Covid-19 is though to have arisen from what species?
-
-IDEAL_ANSWER:
-- COVID-19 caused by SARS-CoV-2 most likely originated in bats and transmitted to humans through a possible intermediate host.
-
-EXACT_ANSWER:
-- bats

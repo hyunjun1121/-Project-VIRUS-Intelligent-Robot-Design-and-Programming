@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Rindopepimut is an analog of EGFRvIII. It is being tested for treatment of glioblastoma multiforme
-- Rindopepimut is a peptide vaccine which elicits EGFRvIII-specific humoral and cellular immune responses.   
-
-EXACT_ANSWER:
-- EGFRvIII

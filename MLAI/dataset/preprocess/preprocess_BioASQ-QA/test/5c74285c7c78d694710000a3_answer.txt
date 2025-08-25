@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- cytoplasm
-- Stress granules (SGs) are cytoplasmic granules that are formed in cells when stress occurs.
-- Stress granules are non-membranous structures that transiently form in the cytoplasm during cellular stress, where they promote translational repression of non-essential RNAs and modulate cell signaling by sequestering key signal transduction proteins
-- Stress granules (SGs) are cytoplasmic inclusions that repress translation of a subset of RNAs in times of cellular stress, and are characteristic to eukaryotic cells.
-- Stress granules are non-membranous structures that transiently form in the cytoplasm during cellular stress, where they promote translational repression of non-essential RNAs and modulate cell signaling by sequestering key signal transduction proteins. Here, we show that Rbfox2 is a novel constituent of cytoplasmic stress granules, the translational silencing machinery assembled in response to cellular stress.
-
-EXACT_ANSWER:
-- cytoplasm

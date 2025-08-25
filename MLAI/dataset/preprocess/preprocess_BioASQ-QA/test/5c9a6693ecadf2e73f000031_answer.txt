@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mitosomes are the simplest and the least well-studied type of anaerobic mitochondria. 	The mitosomes have abandoned typical mitochondrial traits such as the mitochondrial genome and aerobic respiration and their single role known to date is the formation of iron-sulfur clusters
-
-EXACT_ANSWER:
-- Simple and anaerobic mitochondria.

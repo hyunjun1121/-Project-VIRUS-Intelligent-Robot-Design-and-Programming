@@ -1,7 +1,0 @@
-QUESTION: Which de novo mutation in FGFR cause achondroplasia?
-
-IDEAL_ANSWER:
-- Recurrent missense mutations in a CpG doublet of the transmembrane domain of the FGFR3 protein (glycine substituted with arginine at residue 380, G380R).
-
-EXACT_ANSWER:
-- G380R

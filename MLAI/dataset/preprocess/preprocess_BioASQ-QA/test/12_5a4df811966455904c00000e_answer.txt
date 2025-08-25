@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- The eukaryotic transcription factor TFIIS enhances elongation and nascent transcript cleavage activities of RNA polymerase II in a stalled elongation complex.
-- The eukaryotic transcription factor TFIIS enhances elongation and nascent transcript cleavage activities of RNA polymerase II in a stalled elongation complex. The transcription factor TFIIS zinc ribbon dipeptide Asp-Glu is critical for stimulation of elongation and RNA cleavage by RNA polymerase II.
-- In contrast, Pol II is fully protected through association with the cleavage stimulatory factor TFIIS, which enables rapid recovery from any depth by RNA cleavage.
-- In contrast, Pol II is fully protected through association with the cleavage stimulatory factor TFIIS, which enables rapid recovery from any depth by RNA cleavage. This mechanism is also used by transcription factor IIS, a factor that can bind Pol II and induce strong RNA cleavage. 
-
-EXACT_ANSWER:
-- TFIIS

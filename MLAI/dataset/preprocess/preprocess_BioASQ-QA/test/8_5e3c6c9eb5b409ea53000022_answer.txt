@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Helicobacter pylori (H. pylori), a gram-negative microaerophilic bacterial pathogen that colonizes the stomachs of more than half of all humans, is linked to chronic gastritis, peptic ulcers and gastric cancer.
-- Peptic ulcer and gastric cancer are caused by the same bacteria, Helicobacter pylori.
-
-EXACT_ANSWER:
-- helicobacter pylori

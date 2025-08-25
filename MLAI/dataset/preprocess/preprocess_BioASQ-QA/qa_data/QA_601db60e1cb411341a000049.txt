@@ -1,9 +1,0 @@
-QUESTION: On what chromosome is the gene for "SILVER" coat color found for the domestic cat?
-
-IDEAL_ANSWER:
-- Linkage mapping defined a genomic region for SILVER as a 3.3-Mb region, (95.87-99.21 Mb) on chromosome D2 in the domestic cat.
-- the gene for "silver" coat color found for the domestic cat is located on chromosome d2.
-
-EXACT_ANSWER:
-- D2
-- chromosome D2

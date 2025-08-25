@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Fostamatinib (R788) acts by inhibiting spleen tyrosine kinase. Fostamatinib (R788) is a prodrug rapidly converted to its active metabolite on oral administration. This (known as R406) is a potent inhibitor of spleen tyrosine kinase that is required for the expression of a number of proinflammatory cytokines. Fostamatinib has been shown to be effective in patients with rheumatoid arthritis, leukemia, lymphoma, bronchial asthma and thrombocytopenic purpura.
-
-EXACT_ANSWER:
-- spleen tyrosine kinase

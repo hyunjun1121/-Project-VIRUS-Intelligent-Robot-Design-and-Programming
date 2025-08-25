@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Chaperone-mediated autophagy (CMA) is a lysosomal pathway for selective removal of damaged cytosolic proteins. The LAMP2A (Lysosome-associated membrane protein 2 isoform A) functions as a receptor for cytosolic proteins and also as essential component of the CMA translocation complex [28]. Cytosolic substrate proteins bind to monomers of LAMP-2A, which then multimerizes to form the complex required for substrate transmembrane import.
-
-EXACT_ANSWER:
-- LAMP2A
-- Lysosome-associated membrane protein 2 isoform A

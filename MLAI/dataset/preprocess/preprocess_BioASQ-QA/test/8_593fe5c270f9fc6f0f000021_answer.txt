@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- PML, the organizer of nuclear bodies (NBs), is expressed in several isoforms designated PMLI to VII which differ in their C-terminal region due to alternative splicing of a single gene.
-- The PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1. PML, the organizer of nuclear bodies (NBs), is expressed in several isoforms designated PMLI to VII which differ in their C-terminal region due to alternative splicing of a single gene.
-
-EXACT_ANSWER:
-- 7, designated I to VII
-- I-VII

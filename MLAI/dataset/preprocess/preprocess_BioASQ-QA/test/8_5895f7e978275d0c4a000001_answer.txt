@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Jamaican Vomiting Sickness is caused by ingestion of the unripe arils of the Ackee fruit, its seeds and husks.
-
-EXACT_ANSWER:
-- Ackee fruit

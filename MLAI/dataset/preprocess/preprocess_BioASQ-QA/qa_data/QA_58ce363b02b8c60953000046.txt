@@ -1,7 +1,0 @@
-QUESTION: Which is the relation between coffee consumption and stroke risk?
-
-IDEAL_ANSWER:
-- The coffee paradox in stroke: Increased consumption linked with fewer strokes.
-
-EXACT_ANSWER:
-- The coffee paradox in stroke: Increased consumption linked with fewer strokes.

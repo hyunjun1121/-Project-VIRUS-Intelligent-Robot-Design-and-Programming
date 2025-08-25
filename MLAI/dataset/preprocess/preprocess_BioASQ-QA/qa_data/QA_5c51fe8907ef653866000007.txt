@@ -1,9 +1,0 @@
-QUESTION: What is the percentage of individuals at risk of dominant medically actionable disease?
-
-IDEAL_ANSWER:
-- 1 in 38 individuals at risk of a dominant medically actionable disease.
-- 1 in 38 healthy individuals (2.7%) has a (likely) pathogenic variant in one of 59 medically actionable dominant disease genes for which the American College of Medical Genetics and Genomics (ACMG) recommends disclosure.
-
-EXACT_ANSWER:
-- 2.7%
-- 1/38

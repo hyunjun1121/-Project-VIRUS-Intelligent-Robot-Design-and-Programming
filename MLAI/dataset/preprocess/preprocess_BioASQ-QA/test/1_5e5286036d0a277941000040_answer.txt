@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- Transgenesis of human pluripotent stem cells (hPSCs) can enable and empower a variety of studies in stem cell research, including lineage tracing and functional genetics studies. While in recent years much progress has been made in the development of tools for gene targeting, little attention has been given to the identification of sites in the human genome where transgenes can be inserted and reliably expressed. One cell line/clone, LiPS-A3, has an integration site in chromosome 15 maintaining robust expression without silencing. Different transgenes can be inserted therein rapidly and efficiently through recombinase-mediated cassette exchange (RMCE). The LiPS-A3 line can greatly facilitate the insertion of reporter and other genes in hPSCs. Targeting transgenes in the LiPS-A3S genomic locus can find broad applications in stem cell research and possibly cell and gene therapy.
-- The LiPS-A3S line of human pluripotent stem cells is inserted via transgenesis from chromosome 15.
-- The LiPS-A3S line of human pluripotent stem cells is inserted into chromosome 15.
-- Human pluripotent stem cells (hPSCs) can enable and empower a variety of studies in stem cell research, including lineage tracing and functional genetics studies. In recent years much progress has been made in the development of tools for gene targeting, little attention has been given to the identification of sites in the human genome where transgenes can be inserted and reliably expressed. The LiPS-A3S line of chromosome 15 is one of the few genes with an integration site in chromosome 15.
-
-EXACT_ANSWER:
-- Chromosome 15

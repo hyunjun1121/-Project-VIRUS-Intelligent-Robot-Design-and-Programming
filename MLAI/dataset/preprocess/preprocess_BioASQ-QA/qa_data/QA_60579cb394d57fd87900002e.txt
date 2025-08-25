@@ -1,9 +1,0 @@
-QUESTION: Which tool has been developed for microRNA-target enrichment and network-based analysis?
-
-IDEAL_ANSWER:
-- MIENTURNET (MicroRNA ENrichment TURned NETwork) is a web tool that receives in input a list of miRNAs or mRNAs and tackles the problem of prioritizing miRNA-target interactions by performing a statistical analysis followed by a fully featured network-based visualization and analysis. The statistics is used to assess the significance of an over-representation of miRNA-target interactions and then MIENTURNET filters based on the statistical significance associated with each miRNA-target interaction. In addition, the holistic approach of the network theory is used to infer possible evidences of miRNA regulation by capturing emergent properties of the miRNA-target regulatory network that would be not evident through a pairwise analysis of the individual components.
-- MIENTURNET (MicroRNA ENrichment TURned NETwork) is an interactive web tool for microRNA-target enrichment and network-based analysis.
-- MIENTURNET is a web tool for microRNA-target enrichment and network-based analysis. MIENTURNET offers the possibility to consistently perform both statistical and network-based analyses.
-
-EXACT_ANSWER:
-- MIENTURNET

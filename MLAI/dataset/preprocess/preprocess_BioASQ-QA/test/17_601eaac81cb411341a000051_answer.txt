@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Carpel tunnel syndrome (CTS) is a condition in which median nerve compression results in paresthesias and pain in the wrist and hand.
-- Carpel tunnel syndrome is a common compression neuropathy of the median nerve causing pain, numbness and functional dysfunction of the hand.
-- Carpal tunnel syndrome (CTS) is a medical condition due to compression of the median nerve as it travels through the wrist at the carpal tunnel.
-
-EXACT_ANSWER:
-- median

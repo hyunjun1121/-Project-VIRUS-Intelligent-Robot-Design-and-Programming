@@ -1,7 +1,0 @@
-QUESTION: Which human disease is experimental autoimmune encephalomyelitis (EAE) model for?
-
-IDEAL_ANSWER:
-- Experimental autoimmune encephalomyelitis (EAE) is an animal model of MS (Multiple Sclerosis).
-
-EXACT_ANSWER:
-- Model of MS (Multiple Sclerosis)

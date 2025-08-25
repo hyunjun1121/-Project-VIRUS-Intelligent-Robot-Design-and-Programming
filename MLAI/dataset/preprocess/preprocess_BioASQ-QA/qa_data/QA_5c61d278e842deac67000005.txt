@@ -1,7 +1,0 @@
-QUESTION: Which disease can be classified with the Awaji Criteria?
-
-IDEAL_ANSWER:
-- Awaji Criteria are used for amyotrophic lateral sclerosis.
-
-EXACT_ANSWER:
-- amyotrophic lateral sclerosis

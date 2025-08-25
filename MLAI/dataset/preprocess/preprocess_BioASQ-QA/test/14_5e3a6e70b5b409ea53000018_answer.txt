@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Pidilizumab is a a humanised monoclonal antibody that targets programmed death-1 pathway.
-
-EXACT_ANSWER:
-- programmed death-1 pathway.

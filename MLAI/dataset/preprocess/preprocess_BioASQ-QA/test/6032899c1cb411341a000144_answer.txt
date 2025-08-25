@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Integrins are transmembrane glycoproteins that are broadly distributed in living organisms.
-
-EXACT_ANSWER:
-- transmembrane

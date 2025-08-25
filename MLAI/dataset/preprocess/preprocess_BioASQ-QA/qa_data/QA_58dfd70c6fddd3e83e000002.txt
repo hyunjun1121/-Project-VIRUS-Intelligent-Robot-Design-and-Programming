@@ -1,7 +1,0 @@
-QUESTION: What is the results of inactivated ANGPLT3?
-
-IDEAL_ANSWER:
-- Complete ANGPTL3 deficiency caused by loss-of-function mutations of ANGPTL3 is associated with a recessive hypolipidemia
-
-EXACT_ANSWER:
-- Recessive hypolipidemia

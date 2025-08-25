@@ -1,7 +1,0 @@
-QUESTION: Mutations in which gene have been found in patients with the CLAPO syndrome?
-
-IDEAL_ANSWER:
-- CLAPO syndrome is a rare vascular disorder characterized by capillary malformation of the lower lip, lymphatic malformation predominant on the face and neck, asymmetry, and partial/generalized overgrowth. In a cohort of 13 patients with CLAPO, five activating mutations have been identified in the PIK3CA gene in affected tissues from 6 of the 9 patients studied.
-
-EXACT_ANSWER:
-- PIK3CA

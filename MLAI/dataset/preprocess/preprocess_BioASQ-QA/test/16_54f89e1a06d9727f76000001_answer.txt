@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- The calcium/calmodulin-dependent protein kinase-II (CaMK-II) is inhibited by the small molecule KN-93. KN-93 is a membrane-permeant calcium/calmodulin- dependent kinase II (CaMK-II)-selective inhibitor
-
-EXACT_ANSWER:
-- The calcium/calmodulin-dependent protein kinase-II
-- CaM kinase II
-- CAMK2

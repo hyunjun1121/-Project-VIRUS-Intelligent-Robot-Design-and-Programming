@@ -1,7 +1,0 @@
-QUESTION: Which disease is treated with taliglucerase alfa?
-
-IDEAL_ANSWER:
-- Taliglucerase alfa, the first available plant cell-expressed recombinant therapeutic protein, is an enzyme replacement therapy approved for Gaucher disease.
-
-EXACT_ANSWER:
-- Gaucher disease

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The gamma-secretase complex has a decisive role in the development of Alzheimer's disease, as it cleaves a precursor protein to create the amyloid beta peptide whose aggregates form the senile plaques encountered in the brains of patients. Gamma-secretase is a member of the intramembrane-cleaving proteases which process their transmembrane substrates within the bilayer.
-
-EXACT_ANSWER:
-- cleaves a precursor protein to create the amyloid beta peptide

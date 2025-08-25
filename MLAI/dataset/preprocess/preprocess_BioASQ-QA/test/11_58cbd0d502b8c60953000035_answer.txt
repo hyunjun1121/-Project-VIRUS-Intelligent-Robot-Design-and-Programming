@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Mutation in the lysosomal trafficking regulator (LYST) gene causes the Chédiak-Higashi syndrome (CHS).
-
-EXACT_ANSWER:
-- lysosomal trafficking regulator gene
-- LYST gene

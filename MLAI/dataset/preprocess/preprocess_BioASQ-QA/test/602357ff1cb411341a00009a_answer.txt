@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- KEYNOTE-522 trial studied adjuvant pembrolizumab for patients with triple-negative breast cancer.
-
-EXACT_ANSWER:
-- pembrolizumab

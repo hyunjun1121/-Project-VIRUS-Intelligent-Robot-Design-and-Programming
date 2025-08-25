@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Valbenazine granted breakthrough drug status for treating tardive dyskinesia.
-
-EXACT_ANSWER:
-- Valbenazine granted breakthrough drug status for treating tardive dyskinesia.

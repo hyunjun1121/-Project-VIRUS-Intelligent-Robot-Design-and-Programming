@@ -1,8 +1,0 @@
-QUESTION: What is hyperosmia
-
-IDEAL_ANSWER:
-- Hyperosmia is increased olfactory acuity  
-- increased olfactory acuity
-
-EXACT_ANSWER:
-- increased olfactory acuity

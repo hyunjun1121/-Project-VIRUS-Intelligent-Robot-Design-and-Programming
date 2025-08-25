@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- KLF4 is involved in the organization and regulation of pluripotency-associated three-dimensional enhancer networks.
-- KLF4 is involved in the organization and regulation of pluripotency-associated three-dimensional enhancer networks. Cell fate transitions are accompanied by global transcriptional, epigenetic and topological changes driven by transcription factors. Inducible depletion of KLF factors in PSCs caused a genome-wide decrease in enhancer connectivity.
-- KLF4 is involved in the organization and regulation of pluripotency-associated three-dimensional enhancers networks.
-- KLF4 is involved in the organization and regulation of pluripotency-associated three-dimensional enhancer networks. How transcription factors orchestrate the complex molecular changes around their target gene loci remains incompletely understood.
-- KLF4 is involved in the organization and regulation of pluripotency-associated enhancer networks. How transcription factors orchestrate the complex molecular changes around their target gene loci remains incompletely understood.
-
-EXACT_ANSWER:
-- KLF4

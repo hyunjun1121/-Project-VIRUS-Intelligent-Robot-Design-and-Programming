@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Single guide RNA is part of the CRISPR/Cas9 system.
-
-EXACT_ANSWER:
-- Single guide RNA is part of the CRISPR/Cas9 system.

@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Ggene mutations in UBQLN2 cause dominant inheritance of amyotrophic lateral sclerosis (ALS).
-
-EXACT_ANSWER:
-- ALS
-- amyotrophic lateral sclerosis

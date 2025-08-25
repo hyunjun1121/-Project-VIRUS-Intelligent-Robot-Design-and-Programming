@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The Oncomine Dx target test uses the next generation sequencing methodology.
-
-EXACT_ANSWER:
-- next generation sequencing
-- NGS

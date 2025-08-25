@@ -1,7 +1,0 @@
-QUESTION: Which cells secretes alpha defensin 5?
-
-IDEAL_ANSWER:
-- Human enteric α-defensins (HD5 and HD6), major antimicrobial peptides produced by Paneth cells in the intestine, play important roles in intestinal innate immunity.
-
-EXACT_ANSWER:
-- Intestinal Paneth cells secretes alpha-defensin 5

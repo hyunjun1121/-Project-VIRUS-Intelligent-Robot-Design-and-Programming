@@ -1,7 +1,0 @@
-QUESTION: When did delafloxacin receive its first approval in the USA for acute bacterial skin and skin structure infections?
-
-IDEAL_ANSWER:
-- Delafoxacin received approval in the USA for the treatment of acute bacterial skin and skin structure infections in 2017.
-
-EXACT_ANSWER:
-- 2017

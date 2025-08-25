@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The central fructose-metabolising enzyme is ketohexokinase (KHK), which exists in two isoforms: KHK-A and KHK-C.
-
-EXACT_ANSWER:
-- Ketohexokinase is the central fructose-metabolising enzyme

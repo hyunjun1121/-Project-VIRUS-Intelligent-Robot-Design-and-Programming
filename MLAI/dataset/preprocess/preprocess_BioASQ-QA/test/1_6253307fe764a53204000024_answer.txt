@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- In teleosts, that have undergone an additional genome duplication, 8 Lbx paralogons (three of which retain Lbx genes) were found.
-- URL_0   > In teleosts, that have undergone an additional genome duplication, 8 LBx paralogons (three of which retain Lbx genes) were found.
-
-EXACT_ANSWER:
-- 8

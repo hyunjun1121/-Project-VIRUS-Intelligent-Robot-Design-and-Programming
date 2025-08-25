@@ -1,7 +1,0 @@
-QUESTION: What is the function of the protein encoded by the gene NKCC2?
-
-IDEAL_ANSWER:
-- The protein function as an Na-K-Cl cotransporter.
-
-EXACT_ANSWER:
-- This protein functions as an Na-K-Cl cotransporter.

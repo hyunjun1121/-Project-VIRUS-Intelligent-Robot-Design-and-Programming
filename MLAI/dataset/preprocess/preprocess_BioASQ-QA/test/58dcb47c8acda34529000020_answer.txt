@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- TAD domain is a transcription activation domain found in transcription factors.
-
-EXACT_ANSWER:
-- transcription activation domain
-- transactivation domain
-- trans-activating domain

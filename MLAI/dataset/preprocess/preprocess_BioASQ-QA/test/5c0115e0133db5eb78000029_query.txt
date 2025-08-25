@@ -1,4 +1,0 @@
-What type of topoisomerase inhibitor is gepotidacin?
-
-[PMID: 27161642]
-Gepotidacin, a novel triazaacenaphthylene antibacterial agent, is the first in a new class of type IIA topoisomerase inhibitors with activity against many biothreat and conventional pathogens, including Neisseria gonorrhoeae To assist ongoing clinical studies of gepotidacin to treat gonorrhea, a multilaboratory quality assurance investigation determined the reference organism (N. gonorrhoeae ATCC 49226) quality control MIC range to be 0.25 to 1 μg/ml (88.8% of gepotidacin MIC results at the 0.5 μg/ml mode).

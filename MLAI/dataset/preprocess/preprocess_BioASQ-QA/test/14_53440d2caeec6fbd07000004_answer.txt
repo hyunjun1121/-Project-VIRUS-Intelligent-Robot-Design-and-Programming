@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Malat-1 expression is upregulated in several tumor types
-
-EXACT_ANSWER:
-- upregulated

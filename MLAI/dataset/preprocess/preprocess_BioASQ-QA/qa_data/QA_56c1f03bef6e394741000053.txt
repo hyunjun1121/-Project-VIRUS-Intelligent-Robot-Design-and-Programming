@@ -1,7 +1,0 @@
-QUESTION: Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?
-
-IDEAL_ANSWER:
-- Brain-lung-thyroid syndrome (BLTS) characterized by congenital hypothyroidism, respiratory distress syndrome, and benign hereditary chorea is caused by thyroid transcription factor 1 (NKX2-1/TTF1) mutations.
-
-EXACT_ANSWER:
-- thyroid transcription factor 1

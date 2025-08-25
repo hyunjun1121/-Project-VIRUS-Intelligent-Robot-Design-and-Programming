@@ -1,8 +1,0 @@
-QUESTION: Which molecule is targeted by Upadacitinib?
-
-IDEAL_ANSWER:
-- Upadacitinib is a Janus kinase 1 inhibitor developed for treatment of moderate to severe rheumatoid arthritis.
-- Upadacitinib is a Janus kinase 1 inhibitor under development for the treatment of several inflammatory disorders including rheumatoid arthritis.
-
-EXACT_ANSWER:
-- Janus kinase 1

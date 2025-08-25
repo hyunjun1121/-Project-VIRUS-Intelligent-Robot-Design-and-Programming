@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Preferential integration occurs in non-coding DNA and heterochromatin. A preference for structural features in the target DNA associated with DNA flexibility (Twist, Tilt, Rise, Roll, Shift, and Slide) was also observed.
-
-EXACT_ANSWER:
-- non coding DNA
-- heterochromatin

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Glucocorticoids (GC) such as cortisol regulate multiple physiological functions, notably those involved in development, metabolism, inflammatory processes and stress, and exert their effects upon binding to the glucocorticoid receptor (GR, encoded by NR3C1 gene in humans).
-
-EXACT_ANSWER:
-- cortisol

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Chromogranin A is a marker for neuroendocrine cells
-
-EXACT_ANSWER:
-- neuroendocrine cells

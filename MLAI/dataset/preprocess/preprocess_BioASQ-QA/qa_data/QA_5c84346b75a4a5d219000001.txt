@@ -1,8 +1,0 @@
-QUESTION: What organism causes Rhombencephalitis?
-
-IDEAL_ANSWER:
-- Rhombencephalitis caused by Listeria monocytogenes
-- Rhombencephalitis is caused by Listeria monocytogenes
-
-EXACT_ANSWER:
-- Listeria monocytogenes

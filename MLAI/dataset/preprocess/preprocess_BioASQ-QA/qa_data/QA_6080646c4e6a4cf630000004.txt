@@ -1,9 +1,0 @@
-QUESTION: What protein is Otof gene encoding?
-
-IDEAL_ANSWER:
-- The OTOF gene encodes otoferlin, a critical protein at the synapse of auditory sensory cells, the inner hair cells (IHCs)
-- The OTOF gene encodes otoferlin, a critical protein at the synapse of auditory sensory cells, the inner hair cells (IHCs). In the absence of otoferlin, signal transmission of IHCs fails due to impaired release of synaptic vesicles at the IHC synapse.
-- The OTOF gene encodes otoferlin, a critical protein at the synapse of auditory sensory cells, the inner hair cells (IHCs).
-
-EXACT_ANSWER:
-- The OTOF gene encodes otoferlin

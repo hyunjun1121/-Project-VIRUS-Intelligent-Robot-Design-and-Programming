@@ -1,7 +1,0 @@
-QUESTION: Is single guide RNA part of the CRISPR/Cas9 tool or an inhibitor of its function?
-
-IDEAL_ANSWER:
-- Single guide RNA is part of the CRISPR/Cas9 system.
-
-EXACT_ANSWER:
-- Single guide RNA is part of the CRISPR/Cas9 system.

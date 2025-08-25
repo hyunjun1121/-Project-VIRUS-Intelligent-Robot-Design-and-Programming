@@ -1,7 +1,0 @@
-QUESTION: Which is the RNA sequence of the canonical polyadenylation signal?
-
-IDEAL_ANSWER:
-- A polyadenylation signal (AAUAAA) nearby the 3' end of pre-mRNA is required for poly(A) synthesis.
-
-EXACT_ANSWER:
-- AAUAAA

@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Centromere protein A (Cenpa for mouse, CENP-A for other species) is an essential histone H3-like protein that localizes to the centromeric region of eukaryotic chromosomes, where it replaces conventional histone H3 and together with centromere-specific-DNA-binding factors directs the assembly of active kinetochores.
-- THe histone variant CENPA is preferentially located at Centromeric chromatin
-
-EXACT_ANSWER:
-- Centromeres
-- CENPA is preferentially localized in eukaryotic centromeres

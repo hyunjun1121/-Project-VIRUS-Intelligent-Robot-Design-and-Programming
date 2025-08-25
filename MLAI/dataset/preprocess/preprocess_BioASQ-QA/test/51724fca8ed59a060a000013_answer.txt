@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The complexity of the Smith-Waterman dynamic programming algorithm is quadratic,  that is, it runs in time proportional to the product of lengths of the sequences being aligned.
-
-EXACT_ANSWER:
-- quadratic

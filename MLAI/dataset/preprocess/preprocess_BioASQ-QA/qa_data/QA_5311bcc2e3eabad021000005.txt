@@ -1,8 +1,0 @@
-QUESTION: Describe a diet that reduces the chance of kidney stones.
-
-IDEAL_ANSWER:
-- People can help prevent kidney stones by making changes in fluid intake and, depending on the type of kidney stone, changes in consumption of sodium, animal protein, calcium, and oxalate.
-Drinking enough fluids each day is the best way to help prevent most types of kidney stones. Health care providers recommend that a person drink 2 to 3 liters of fluid a day. People with cystine stones may need to drink even more. Though water is best, other fluids may also help prevent kidney stones, such as citrus drinks.
-
-EXACT_ANSWER:
-- reducing sodium

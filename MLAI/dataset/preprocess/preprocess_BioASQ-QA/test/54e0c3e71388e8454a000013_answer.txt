@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Orteronel inhibits the 17,20 lyase activity of the enzyme CYP17A1, which is important for androgen synthesis in the testes, adrenal glands and prostate cancer cells. Orteronel is used for treatment for castration-resistant prostate cancer.
-
-EXACT_ANSWER:
-- CYP17A1

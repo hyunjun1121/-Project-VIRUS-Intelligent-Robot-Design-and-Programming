@@ -1,7 +1,0 @@
-QUESTION: Which disease is ZP-PTH used for?
-
-IDEAL_ANSWER:
-- ZP-PTH is used for the treatment of osteoporosis.
-
-EXACT_ANSWER:
-- Osteoporosis

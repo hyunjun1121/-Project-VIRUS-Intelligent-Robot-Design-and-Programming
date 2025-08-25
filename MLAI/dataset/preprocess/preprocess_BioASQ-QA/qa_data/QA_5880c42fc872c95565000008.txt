@@ -1,8 +1,0 @@
-QUESTION: Which disease is treated with semaglutide?
-
-IDEAL_ANSWER:
-- Semaglutide is glucagon-like peptide-1 receptor agonist that is being used for the treatment of type 2 diabetes mellitus.
-
-EXACT_ANSWER:
-- Type 2 diabetes mellitus
-- TYPE 2 DIABETES

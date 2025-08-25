@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites.
-
-EXACT_ANSWER:
-- The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites.

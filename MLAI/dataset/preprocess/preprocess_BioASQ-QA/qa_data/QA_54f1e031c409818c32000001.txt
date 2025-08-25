@@ -1,7 +1,0 @@
-QUESTION: DX-88 is investigational name of which drug?
-
-IDEAL_ANSWER:
-- DX-88 is investigational name of a drug Ecallantide, a 60-amino acid recombinant protein discovered through phage display technology, that is a highly specific, potent inhibitor of human plasma kallikrein that has been used successfully in the treatment of patients experiencing acute hereditary angioedema attacks.
-
-EXACT_ANSWER:
-- Ecallantide

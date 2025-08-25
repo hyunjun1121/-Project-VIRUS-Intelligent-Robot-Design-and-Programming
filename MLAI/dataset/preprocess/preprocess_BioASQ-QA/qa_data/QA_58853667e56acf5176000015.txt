@@ -1,8 +1,0 @@
-QUESTION: What is the effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytes?
-
-IDEAL_ANSWER:
-- Direct interaction of Ikaros and Foxp1 modulates expression of the G protein-coupled receptor G2A in B-lymphocytes and acute lymphoblastic leukemia.
-- The effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytesis is modulation of expression of the G protein-coupled receptor G2A.
-
-EXACT_ANSWER:
-- Modulation of expression of the G protein-coupled receptor G2A.

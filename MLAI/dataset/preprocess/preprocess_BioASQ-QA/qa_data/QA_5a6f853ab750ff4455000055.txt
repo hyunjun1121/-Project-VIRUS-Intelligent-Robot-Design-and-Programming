@@ -1,7 +1,0 @@
-QUESTION: Which disease can be diagnosed with the "probe to bone" test?
-
-IDEAL_ANSWER:
-- Probe-to-bone test is used for the diagnosis of diabetic foot osteomyelitis. The test has good sensitivity and specificity. Other diagnostic tests of diabetic foot osteomyelitis are plain films and magnetic resonance imaging.
-
-EXACT_ANSWER:
-- diabetic foot osteomyelitis

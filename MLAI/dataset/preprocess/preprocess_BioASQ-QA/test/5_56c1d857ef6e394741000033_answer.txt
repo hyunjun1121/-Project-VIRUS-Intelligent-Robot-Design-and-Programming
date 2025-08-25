@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Opicapone is a novel catechol-O-methyltransferase (COMT) inhibitor to be used as adjunctive therapy in levodopa-treated patients with Parkinson's disease
-
-EXACT_ANSWER:
-- catechol-O-methyltransferase

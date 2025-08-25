@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Possible bone cancer (osteosarcoma). During animal drug testing, TYMLOS caused some rats to develop a bone cancer called osteosarcoma.
-
-EXACT_ANSWER:
-- Osteosarcoma

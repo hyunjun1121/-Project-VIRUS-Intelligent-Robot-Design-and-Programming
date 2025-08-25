@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- p16INK4 (also known as CDKN2A)
-
-EXACT_ANSWER:
-- p16INK4

@@ -1,9 +1,0 @@
-QUESTION: Which database exists that contains regulatory sites for splicing in human basal ganglia?
-
-IDEAL_ANSWER:
-- Braineacv2 has been identified as a database that contains regulatory sites for splicing in human basal ganglia.
-- Genome-wide association studies have generated an increasing number of common genetic variants associated with neurological and psychiatric disease risk. An improved understanding of the genetic control of gene expression in human brain is vital considering this is the likely modus operandum for many causal variants. However, human brain sampling complexities limit the explanatory power of brain-related expression quantitative trait loci (eQTL) and allele-specific expression (ASE) signals. Disease-relevant regulatory loci were identified, finding that splicing eQTLs are enriched for regulatory information of neuron-specific genes, that ASEs provide cell-specific regulatory information with evidence for cellular specificity, and that incomplete annotation of the brain transcriptome limits interpretation of risk loci for neuropsychiatric disease. This resource of regulatory data is accessible through http://braineacv2.inf.um.es/.
-- Braineacv2 is a database that contains regulatory sites for splicing in human basal ganglia.
-
-EXACT_ANSWER:
-- http://braineacv2.inf.um.es/

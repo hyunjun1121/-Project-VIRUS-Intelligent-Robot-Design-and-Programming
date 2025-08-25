@@ -1,7 +1,0 @@
-QUESTION: What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?
-
-IDEAL_ANSWER:
-- There is an inverse correlation between inflammatory markers (IL-6 and TNF alfa and PCR) and FT3 levels in patients with heart failure
-
-EXACT_ANSWER:
-- There is an inverse correlation between inflammatory markers and FT3 circulating levels

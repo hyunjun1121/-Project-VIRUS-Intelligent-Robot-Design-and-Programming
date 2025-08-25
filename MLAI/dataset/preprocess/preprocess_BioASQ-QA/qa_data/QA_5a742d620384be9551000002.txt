@@ -1,7 +1,0 @@
-QUESTION: Which disease risk can be estimated with the Stop-Bang questionnaire?
-
-IDEAL_ANSWER:
-- Stop-Bang questionnaire is used to predict risk of obstructive sleep apnea (OSA).
-
-EXACT_ANSWER:
-- obstructive sleep apnea

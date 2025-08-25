@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- S-adenosyl-L-methionine (AdoMet, SAM) is the methyl donor of DNA (cytosine-5)-methyltransferases. DNA (cytosine-5)-methyltransferases catalyze the transfer of a methyl group from S-adenosyl-L-methionine to the C-5 position of cytosine residues in DNA.
-
-EXACT_ANSWER:
-- S-adenosyl-L-methionine

@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- chromatin loops preferentially form between CTCF binding sites oriented in a convergent manner. CTCF sites at loop anchors occur predominantly (>90%) in a convergent orientation, with the asymmetric motifs "facing" one another.
-- As recently reported, our data also suggest that chromatin loops preferentially form between CTCF binding sites oriented in a convergent manner. Recent studies identified a correlation between the orientation of CTCF-binding sites  and chromatin loops. Recent reports have suggested that CTCF binding is more dynamic during development than previously appreciated. 
-- As recently reported, our data also suggest that chromatin loops preferentially form between CTCF binding sites oriented in a convergent manner CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function.
-
-EXACT_ANSWER:
-- convergent
-- Convergent orientation

@@ -1,7 +1,0 @@
-QUESTION: What is the drug Aduhelm approved for?
-
-IDEAL_ANSWER:
-- he Food and Drug Administration (FDA) granted approval for Aduhelm (aducanumab) for the treatment of Alzheimer's disease under its accelerated approval program
-
-EXACT_ANSWER:
-- treatment of Alzheimer's disease

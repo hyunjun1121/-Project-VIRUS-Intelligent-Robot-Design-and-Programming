@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Indoleamine 2,3-dioxygenase 1 (IDO1), a known immunosuppressive enzyme that catalyzes the rate-limiting step in the oxidation of tryptophan (Trp) to kynurenine (Kyn), has received increasing attention as an attractive immunotherapeutic target for cancer therapy.
-
-EXACT_ANSWER:
-- Immunosuppressive activity

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Enasidenib was the first mutant IDH2 inhibitor to be approved for the treatment of refractory and relapsed acute myeloid leukemia.
-
-EXACT_ANSWER:
-- Enasidenib

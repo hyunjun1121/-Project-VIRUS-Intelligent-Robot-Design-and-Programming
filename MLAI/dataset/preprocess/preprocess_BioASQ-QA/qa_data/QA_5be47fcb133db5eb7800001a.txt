@@ -1,7 +1,0 @@
-QUESTION: Which member of the human mycobiota is associated to atherosclerosis?
-
-IDEAL_ANSWER:
-- Mucor racemosus is negatively associated with carotid atherosclerosis
-
-EXACT_ANSWER:
-- Mucor racemosus

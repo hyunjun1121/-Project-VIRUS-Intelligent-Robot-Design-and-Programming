@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Telomerecat is a ploidy-agnostic method for estimating telomere length from whole genome sequencing data. Previous methods have been dependent on the number of telomeres present in a cell being known, which may be problematic when analysing aneuploid cancer data and non-human samples. Telomerecat is designed to be agnostic to the number of telomeres present, making it suited for the purpose of estimating telomere length in cancer studies. Telomerecat also accounts for interstitial telomeric reads and presents a novel approach to dealing with sequencing errors.
-
-EXACT_ANSWER:
-- Telomerecat

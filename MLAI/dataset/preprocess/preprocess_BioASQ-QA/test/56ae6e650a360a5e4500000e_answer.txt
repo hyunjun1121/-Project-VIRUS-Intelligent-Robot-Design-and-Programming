@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- OikoBase (http://oikoarrays.biology.uiowa.edu/Oiko/) is a tiling array-based genome browser resource for Oikopleura dioica, a metazoan belonging to the urochordates, the closest extant group to vertebrates. OikoBase facilitates retrieval and mining of a variety of useful genomics information and will provide a valuable resource for research in chordate development, genome evolution and plasticity and the molecular ecology of this important marine planktonic organism.
-
-EXACT_ANSWER:
-- OikoBase

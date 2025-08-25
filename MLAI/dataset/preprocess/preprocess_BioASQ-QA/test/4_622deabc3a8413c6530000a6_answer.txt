@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The protease SPRTN emerged as the essential enzyme for DNA-protein crosslink proteolysis repair.
-
-EXACT_ANSWER:
-- DNA-protein crosslink proteolysis repair

@@ -1,9 +1,0 @@
-QUESTION: What is BORSA?
-
-IDEAL_ANSWER:
-- Borderline oxacillin-resistant Staphylococcus aureus is also known as (BORSA)
-- Borderline oxacillin-resistant Staphylococcus aureus (BORSA)
-- Borderline oxacillin-resistant Staphylococcus aureus (BORSA). 
-
-EXACT_ANSWER:
-- Borderline oxacillin-resistant Staphylococcus aureus

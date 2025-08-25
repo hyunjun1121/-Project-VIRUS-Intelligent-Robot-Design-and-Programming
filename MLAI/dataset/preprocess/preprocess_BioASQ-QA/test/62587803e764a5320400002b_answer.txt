@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- OAS1 is a IFN-stimulated gene. Antiviral response.
-
-EXACT_ANSWER:
-- IFN stimulated for antiviral resonse.

@@ -1,8 +1,0 @@
-QUESTION: How many genes are imprinted in the human genome?
-
-IDEAL_ANSWER:
-- Among approximately 70 known imprinted genes are some causing disorders affecting growth, metabolism and cancer predisposition. 
-- Approximately 150 imprinted genes are known to date, in humans and mice but, though computational searches have tried to extract intrinsic characteristics of these genes to identify new ones, the existing list is probably far from being comprehensive. To date, fewer than 100 imprinted genes have been identified in the human genome.
-
-EXACT_ANSWER:
--  fewer than 100

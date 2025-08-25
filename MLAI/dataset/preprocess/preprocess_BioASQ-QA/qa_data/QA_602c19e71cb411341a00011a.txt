@@ -1,7 +1,0 @@
-QUESTION: What is the mode of administration of AZD8601?
-
-IDEAL_ANSWER:
-- AZD8601 is administered intradermally.
-
-EXACT_ANSWER:
-- Intradermal

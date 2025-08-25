@@ -1,7 +1,0 @@
-QUESTION: What is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1?
-
-IDEAL_ANSWER:
-- The RRACH motif is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1.
-
-EXACT_ANSWER:
-- RRACH motif

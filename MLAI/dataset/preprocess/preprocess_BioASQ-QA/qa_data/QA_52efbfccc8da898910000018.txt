@@ -1,7 +1,0 @@
-QUESTION: At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?
-
-IDEAL_ANSWER:
-- Treatment of subclinical hypothyroidism is associated with fewer cardiovascular events in younger individuals, but this issue has not been resolved yet in elderly people.
-
-EXACT_ANSWER:
-- effective in younger individuals

@@ -1,7 +1,0 @@
-QUESTION: Which is the main component of the Lewy body?
-
-IDEAL_ANSWER:
-- Lewy bodies comprise of aggregated intracellular vesicles and proteins and α-synuclein is reported to be a major protein component.
-
-EXACT_ANSWER:
-- Lewy bodies comprise of aggregated intracellular vesicles and proteins and α-synuclein is reported to be a major protein component.

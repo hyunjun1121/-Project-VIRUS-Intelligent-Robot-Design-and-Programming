@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Dasatinib and Blinatumomab produces molecular responses in patients with Philadelphia chromosome-positive acute lymphoblastic leukemia.
-
-EXACT_ANSWER:
-- Philadelphia chromosome-positive acute lymphoblastic leukemia

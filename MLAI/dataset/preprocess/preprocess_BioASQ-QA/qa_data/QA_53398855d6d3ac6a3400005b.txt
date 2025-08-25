@@ -1,7 +1,0 @@
-QUESTION: What histone modification is recognized by the bromodomain?
-
-IDEAL_ANSWER:
-- Acetylated lysines in histones (generally H3 and H4)
-
-EXACT_ANSWER:
-- Acetylated lysines

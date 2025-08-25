@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Nocodazole trigger mitotic arrest.
-
-EXACT_ANSWER:
-- Mitotic arrest

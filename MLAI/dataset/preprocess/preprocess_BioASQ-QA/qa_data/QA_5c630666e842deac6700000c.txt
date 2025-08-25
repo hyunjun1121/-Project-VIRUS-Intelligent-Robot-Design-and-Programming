@@ -1,7 +1,0 @@
-QUESTION: Which microRNA is the mediator of the obesity phenotype of patients carrying 1p21.3 microdeletions?
-
-IDEAL_ANSWER:
-- MIR137 is the mediator of the obesity phenotype of patients carrying 1p21.3 microdeletions.
-
-EXACT_ANSWER:
-- MIR137

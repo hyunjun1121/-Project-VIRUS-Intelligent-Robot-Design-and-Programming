@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Tetrabenazine is used empirically in the treatment of dystonia in children with variable success. Observational studies report improvement of up to > 60% of the patients.
-
-EXACT_ANSWER:
-- up to > 60%

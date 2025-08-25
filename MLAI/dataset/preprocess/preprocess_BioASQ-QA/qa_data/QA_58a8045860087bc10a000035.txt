@@ -1,7 +1,0 @@
-QUESTION: What is trichotillomania?
-
-IDEAL_ANSWER:
-- Trichotillomania is a hair pulling disorder.
-
-EXACT_ANSWER:
-- Trichotillomania is a hair pulling disorder.

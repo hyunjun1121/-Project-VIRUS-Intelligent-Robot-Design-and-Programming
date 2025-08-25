@@ -1,7 +1,0 @@
-QUESTION: What kind of molecule is AZD8601?
-
-IDEAL_ANSWER:
-- AZD8601 is a modified mRNA.
-
-EXACT_ANSWER:
-- mRNA

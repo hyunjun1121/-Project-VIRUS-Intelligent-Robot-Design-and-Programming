@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The orexigenic peptides are sythesized in the hypothalamus.
-
-EXACT_ANSWER:
-- The orexigenic peptides are sythesized in the hypothalamus.

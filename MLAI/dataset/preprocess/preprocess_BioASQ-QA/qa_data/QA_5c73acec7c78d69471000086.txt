@@ -1,7 +1,0 @@
-QUESTION: Losigamone can be used for treatment of which disease?
-
-IDEAL_ANSWER:
-- Losigamone is sometimes used as an add-on therapy for epilepsy.
-
-EXACT_ANSWER:
-- epilepsy

@@ -1,7 +1,0 @@
-QUESTION: What is the predicted function for TMEM132 family?
-
-IDEAL_ANSWER:
-- The TMEM132 family proteins are strongly predicted to have a cellular adhesion function, connecting the extracellular medium with the intracellular actin cytoskeleton.
-
-EXACT_ANSWER:
-- Cellular adhesion function

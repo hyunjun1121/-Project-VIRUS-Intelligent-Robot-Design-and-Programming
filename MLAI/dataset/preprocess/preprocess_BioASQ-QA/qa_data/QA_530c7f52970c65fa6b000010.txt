@@ -1,7 +1,0 @@
-QUESTION: Oxantel is used for periodontitis treatment. How does it work?
-
-IDEAL_ANSWER:
-- Oxantel, a cholinergic anthelmintic and fumarate reductase inhibitor, significantly inhibited biofilm formation by P. gingivalis and disrupted established biofilms.
-
-EXACT_ANSWER:
-- Oxantel disrupts polymicrobial biofilm

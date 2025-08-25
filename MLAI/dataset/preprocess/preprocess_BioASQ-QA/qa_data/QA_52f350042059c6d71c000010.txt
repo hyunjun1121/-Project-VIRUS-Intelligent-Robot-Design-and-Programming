@@ -1,7 +1,0 @@
-QUESTION: What is the incidence of Edwards syndrom in the european population?
-
-IDEAL_ANSWER:
-- Between 0.125 and 39 in every 1000 live births. Most probably 1:5000 of live-born.
-
-EXACT_ANSWER:
-- 1:5000

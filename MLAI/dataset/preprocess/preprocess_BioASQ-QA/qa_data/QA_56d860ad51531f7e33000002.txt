@@ -1,7 +1,0 @@
-QUESTION: Which syndrome is NHE6 associated with?
-
-IDEAL_ANSWER:
-- Mutations in the solute carrier family 9, subfamily A member 6 (SLC9A6) gene, encoding the endosomal Na+/H+ exchanger 6 (NHE6) are associated with Christianson syndrome, a syndromic form of X-linked intellectual disability characterized by microcephaly, severe global developmental delay, autistic behavior, early onset seizures and ataxia.
-
-EXACT_ANSWER:
-- Christianson syndrome

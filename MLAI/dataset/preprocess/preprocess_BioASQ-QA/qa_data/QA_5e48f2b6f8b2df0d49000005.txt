@@ -1,7 +1,0 @@
-QUESTION: What is the radiation-induced CD8 lymphocyte apoptosis (RILA) assay used for?
-
-IDEAL_ANSWER:
-- Radiation-induced lymphocyte apoptosis (RILA) has been suggested as a predictive assay for adverse late reactions after radiotherapy.
-
-EXACT_ANSWER:
-- Radiation-induced lymphocyte apoptosis (RILA) has been suggested as a predictive assay for adverse late reactions after radiotherapy.

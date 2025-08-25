@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Acromicric dysplasia has an autosomal dominant mode of inheritance
-
-EXACT_ANSWER:
-- autosomal dominant

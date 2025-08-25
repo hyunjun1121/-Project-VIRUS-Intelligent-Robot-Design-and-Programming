@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- mitochondrial inner membrane
-
-EXACT_ANSWER:
-- mitochondrial inner membrane

@@ -1,7 +1,0 @@
-QUESTION: What is a benefit of being g6PD-deficient?
-
-IDEAL_ANSWER:
-- Increased resistance to malaria, reduces the risk of coronary diseases, beneficial effect in terms of longevity
-
-EXACT_ANSWER:
-- There is evidence of increased resistance to malaria.

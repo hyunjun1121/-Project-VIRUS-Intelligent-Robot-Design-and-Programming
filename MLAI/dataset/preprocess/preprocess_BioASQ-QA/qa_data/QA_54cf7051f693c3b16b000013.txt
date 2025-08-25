@@ -1,7 +1,0 @@
-QUESTION: Treatment of which disease was investigated in the MR CLEAN study?
-
-IDEAL_ANSWER:
-- Multicenter Randomized CLinical trial of Endovascular treatment for Acute ischemic stroke in the Netherlands (MR CLEAN) study investigated endovascular treatment for acute ischemic stroke.
-
-EXACT_ANSWER:
-- acute ischemic stroke

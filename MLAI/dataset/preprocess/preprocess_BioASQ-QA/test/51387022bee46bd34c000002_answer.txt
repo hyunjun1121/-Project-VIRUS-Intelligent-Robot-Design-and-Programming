@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Conserved noncoding elements play a fundamental role in regulating animal development
-
-EXACT_ANSWER:
-- Development

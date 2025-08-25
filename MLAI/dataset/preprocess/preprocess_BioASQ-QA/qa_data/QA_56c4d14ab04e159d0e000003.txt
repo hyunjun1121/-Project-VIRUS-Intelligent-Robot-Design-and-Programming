@@ -1,7 +1,0 @@
-QUESTION: Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?
-
-IDEAL_ANSWER:
-- Compared with Sleeping Beauty, PiggyBac exhibits higher transposition efficiencies.
-
-EXACT_ANSWER:
-- piggyBac

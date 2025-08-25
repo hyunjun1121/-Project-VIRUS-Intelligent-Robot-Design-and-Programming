@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The first human heart transplant in 1967 was performed using a deceased donor heart,
-- the first human heart transplant in 1967 was performed using a deceased donor heart,
-
-EXACT_ANSWER:
-- 1967

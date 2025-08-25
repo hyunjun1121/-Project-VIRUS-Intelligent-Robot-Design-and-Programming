@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Donohue syndrome (leprechaunism) is a rare, recessively inherited disorder of extreme insulin resistance due to mutations in the insulin receptor gene causing either defects in insulin binding or receptor autophosphorylation and tyrosine kinase activity. This syndrome is characterized by excessive hyperglycemia with hyperinsulinism, pre- and postnatal growth retardation, distinct dysmorphism and early death. Progressive obstructive cardiomyopathy and renal tubular dysfunction have been described in patients with Donohue syndrome. Milder form of insulin resistance due to insulin receptor gene mutation is coined as Rabson-Mendenhall syndrome.
-
-EXACT_ANSWER:
-- insulin receptor

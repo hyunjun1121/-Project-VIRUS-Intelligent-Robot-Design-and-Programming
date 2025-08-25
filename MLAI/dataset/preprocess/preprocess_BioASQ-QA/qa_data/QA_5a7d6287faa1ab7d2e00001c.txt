@@ -1,7 +1,0 @@
-QUESTION: Which receptor does GDF15 bind?
-
-IDEAL_ANSWER:
-- GDF15 binds specifically to GDNF family receptor α-like (GFRAL)
-
-EXACT_ANSWER:
-- GDNF family receptor α-like (GFRAL)

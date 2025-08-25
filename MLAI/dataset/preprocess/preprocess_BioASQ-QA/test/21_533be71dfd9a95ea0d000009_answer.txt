@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Histone H3 at lysine 4 (H3K4)
-
-EXACT_ANSWER:
-- H3K4

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Telomestatin is a natural macrocyclic compound derived from Streptomyces anulatus 3533-SV4
-
-EXACT_ANSWER:
-- Streptomyces anulatus

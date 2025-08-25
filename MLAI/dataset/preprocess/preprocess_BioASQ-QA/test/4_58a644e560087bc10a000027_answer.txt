@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
--  These results suggest that LOXL2 could be an appealing target for treatment of scar formation after glaucoma surgery, and point to the potential therapeutic benefits of simtuzumab, a humanized monoclonal antibody derived from GS-607601.
--  these results suggest that loxl2 could be an appealing target for treatment of scar formation after glaucoma surgery, and point to the potential therapeutic benefits of simtuzumab, a humanized monoclonal antibody derived from gs-607601.
-- Simtuzumab is a humanized monoclonal antibody drug that targets LOXL2
-
-EXACT_ANSWER:
-- LOXL2

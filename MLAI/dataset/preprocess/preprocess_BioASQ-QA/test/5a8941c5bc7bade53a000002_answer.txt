@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- pCREB is phosphorylated at its Serine 133.
-
-EXACT_ANSWER:
-- Ser133

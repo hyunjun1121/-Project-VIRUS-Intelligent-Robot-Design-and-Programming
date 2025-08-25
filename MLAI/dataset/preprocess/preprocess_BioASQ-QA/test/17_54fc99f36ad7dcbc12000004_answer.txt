@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Neurostimulation of globus pallidus internus is effective for treatment of dystonia. Ventral intermediate thalamic nucleus has also been tested for neurostimulation in dystonia patients.
-
-EXACT_ANSWER:
-- globus pallidus internus

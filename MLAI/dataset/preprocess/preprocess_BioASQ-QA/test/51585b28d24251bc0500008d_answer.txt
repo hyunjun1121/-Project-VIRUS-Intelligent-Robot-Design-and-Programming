@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The mammalian DNA (cytosine-5) methyltransferase 1, DNMT1 is the major enzyme responsible for the maintenance of the DNA methylation patterns on the newly synthesized strand after DNA replication. DNMT1 prefers hemimethylated DNA and during DNA replication methylates hemimethylated CpG sites by copying methylation patterns from the parental DNA strand to the newly synthesized daughter strand. The equivalent of DNMT1 in plants is MET1.
-
-EXACT_ANSWER:
-- DNMT1
-- MET1

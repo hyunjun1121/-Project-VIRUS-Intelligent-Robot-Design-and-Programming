@@ -1,7 +1,0 @@
-QUESTION: Which is the most widely used anti-TNF drug?
-
-IDEAL_ANSWER:
-- Etanercept is the most widely used anti-TNF drug.
-
-EXACT_ANSWER:
-- Etanercept

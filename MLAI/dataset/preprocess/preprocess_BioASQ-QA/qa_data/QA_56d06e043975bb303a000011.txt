@@ -1,7 +1,0 @@
-QUESTION: In which breast cancer patients can palbociclib be used?
-
-IDEAL_ANSWER:
-- Palbociclib is useful for women with hormone receptor-positive, human epidermal growth factor receptor 2-negative breast cancer.
-
-EXACT_ANSWER:
-- hormone receptor-positive, human epidermal growth factor receptor 2-negative

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Real-time reverse transcription-PCR (rRT-PCR) is mostly used as the lab test for screening coronaviral infection.
-
-EXACT_ANSWER:
-- real-time reverse transcription-PCR

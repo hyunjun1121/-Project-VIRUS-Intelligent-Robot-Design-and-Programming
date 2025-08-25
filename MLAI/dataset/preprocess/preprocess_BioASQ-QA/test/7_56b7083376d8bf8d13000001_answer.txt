@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Panama disease of banana is caused by the fungus Fusarium oxysporum f. sp. cubense.
-
-EXACT_ANSWER:
-- Fusarium oxysporum f. sp. cubense

@@ -1,7 +1,0 @@
-QUESTION: Which stapled peptide has been designed to target Ctf4?
-
-IDEAL_ANSWER:
-- The stapled Sld5 peptide was able to displace the Ctf4 partner DNA polymerase α from the replisome in yeast extracts.
-
-EXACT_ANSWER:
-- The stapled Sld5 peptide

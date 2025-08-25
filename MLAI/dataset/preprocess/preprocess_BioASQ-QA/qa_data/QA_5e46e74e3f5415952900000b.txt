@@ -1,7 +1,0 @@
-QUESTION: What is the cause of the disease Xeroderma Pigmentosum?
-
-IDEAL_ANSWER:
-- Mutations in the ERCC1 or ERCC4 genes cause a remarkable array of rare inherited human disorders including specific forms of xeroderma pigmentosum. Individuals with NER-defective xeroderma pigmentosum (XP), in which bulky DNA lesions are not efficiently removed, are cancer-prone and suffer neurodegeneration.
-
-EXACT_ANSWER:
-- Defective NER, such as mutated ERCC1 or ERCC$ genes

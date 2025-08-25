@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite.
-
-EXACT_ANSWER:
-- METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite.

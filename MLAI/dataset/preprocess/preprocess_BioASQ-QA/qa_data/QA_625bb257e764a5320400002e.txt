@@ -1,7 +1,0 @@
-QUESTION: When is lorlatinib used?
-
-IDEAL_ANSWER:
-- Lorlatinib is a third-generation ALK inhibitor that can overcome the largest number of acquired ALK resistance mutations, including the solvent-front mutation G1202R.
-
-EXACT_ANSWER:
-- In ALK-positive NSCLC

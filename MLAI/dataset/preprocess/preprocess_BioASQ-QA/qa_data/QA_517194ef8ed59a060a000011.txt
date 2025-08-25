@@ -1,8 +1,0 @@
-QUESTION: Which is the causative agent of malaria?
-
-IDEAL_ANSWER:
-- Four Plasmodium species commonly infect humans (Plasmodium falciparum, Plasmodium vivax, Plasmodium malariae and Plasmodium ovale). Plasmodium falciparum infects about 5-10% of the world human population per year and it is the causative agent of the most severe and lethal form of malaria. P. falciparum  causes fatal cerebral malaria and is responsible for most deaths, particularly in pregnant women and children under the age of five. P. falciparum is transmitted to the human host by Anopheles mosquitoes and is the most tremendous malaria vector in sub-Saharan Africa. Plasmodium vivax is the causative agent of benign malaria in more temperate climates of the world. Plasmodium gallinaceum is the main bird malaria causative agent and  Plasmodium yoelli is the principle rodent malaria agent.
-
-EXACT_ANSWER:
-- Plasmodium species
-- Plasmodium spp.

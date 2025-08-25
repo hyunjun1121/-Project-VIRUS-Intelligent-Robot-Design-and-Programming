@@ -1,7 +1,0 @@
-QUESTION: What is the mode of inheritance of  long QT  Jervell and Lange-Nielsen syndrome?
-
-IDEAL_ANSWER:
-- Jervell and Lange-Nielsen long QT syndrome (JLNS) is characterized by autosomal recessive mode of inheritance
-
-EXACT_ANSWER:
-- autosomal recessive

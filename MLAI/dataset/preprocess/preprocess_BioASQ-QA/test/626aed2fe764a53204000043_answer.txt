@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Inoteresen has been approved for patients in stage 1 and stage 2 hereditary transthyretin amyloidosis polyneuropathy.
-
-EXACT_ANSWER:
-- stage 1 and stage 2 hereditary transthyretin amyloidosis polyneuropathy

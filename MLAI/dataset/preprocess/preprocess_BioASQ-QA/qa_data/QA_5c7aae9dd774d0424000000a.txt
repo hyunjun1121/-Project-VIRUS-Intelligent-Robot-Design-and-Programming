@@ -1,7 +1,0 @@
-QUESTION: What is the function of the protein encoded by the gene STING?
-
-IDEAL_ANSWER:
-- Stimulator of interferon genes (STING) is an adaptor protein that plays an important role in the activation of type I interferons in response to cytosolic nucleic acid ligands. Recent evidence indicates involvement of the STING pathway in the induction of antitumor immune response.
-
-EXACT_ANSWER:
-- activation of type I interferons

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Dupilumab was approved fby the EMA in 2017.
-
-EXACT_ANSWER:
-- 2017

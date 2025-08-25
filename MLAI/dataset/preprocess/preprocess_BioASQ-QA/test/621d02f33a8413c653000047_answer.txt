@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Piezo1 is a key element of the  mechanotransduction process and can transduce mechanical signals into biological signals by mediating Ca2+ influx, which in turn regulates cytoskeletal remodeling and stress alterations.
-
-EXACT_ANSWER:
-- mechanotransduction process

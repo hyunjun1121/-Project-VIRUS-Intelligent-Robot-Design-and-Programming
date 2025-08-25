@@ -1,8 +1,0 @@
-QUESTION: Which protein does capmatinib bind?
-
-IDEAL_ANSWER:
-- Capmatinib binds MET.
-
-EXACT_ANSWER:
-- MET
-- mesenchymal-epithelial transition

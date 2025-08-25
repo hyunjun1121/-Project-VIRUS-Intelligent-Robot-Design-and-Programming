@@ -1,7 +1,0 @@
-QUESTION: Which virus type causes Molluscum contagiosum?
-
-IDEAL_ANSWER:
-- Molluscum contagiosum virus (MCV) is a human poxvirus that causes tumor-like skin lesions.
-
-EXACT_ANSWER:
-- human poxvirus

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Opdivo or nivolumab was developed by Bristol-Myers Squibb.
-
-EXACT_ANSWER:
-- Bristol-Myers Squibb

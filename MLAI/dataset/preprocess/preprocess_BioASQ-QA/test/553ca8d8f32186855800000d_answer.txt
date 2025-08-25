@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The Saccharomyces cerevisiae RRM3 gene encodes a 5' to 3' DNA helicase. While replication of most of the yeast genome was not dependent upon Rrm3p, in its absence, replication forks paused and often broke at an estimated 1400 discrete sites, including tRNA genes, centromeres, inactive replication origins, and transcriptional silencers. These replication defects were associated with activation of the intra-S phase checkpoint. Activation of the checkpoint was critical for viability of rrm3Delta cells, especially at low temperatures.
-- The Saccharomyces cerevisiae RRM3 gene encodes a 5  to 3  DNA helicase. While replication of most of the yeast genome was not dependent upon Rrm3p, in its absence, replication forks paused and often broke at an estimated 1400 discrete sites, including tRNA genes, centromeres, inactive replication origins, and transcriptional silencers. These replication defects were associated with activation of the intra-S phase checkpoint. Activation of the checkpoint was critical for viability of rrm3Delta cells, especially at low temperatures  
-
-EXACT_ANSWER:
-- Lack of the yeast Rrm3p DNA helicase causes replication defects at multiple sites within ribosomal DNA (rDNA), including at the replication fork barrier (RFB).

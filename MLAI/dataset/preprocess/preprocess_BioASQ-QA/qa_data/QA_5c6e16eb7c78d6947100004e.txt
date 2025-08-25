@@ -1,7 +1,0 @@
-QUESTION: Sweat Chloride Testing is used  for which disease?
-
-IDEAL_ANSWER:
-- Sweat Chloride Testing is used to diagnose cystic fibrosis. CFTR dysfunction can be demonstrated using sweat chloride testing.
-
-EXACT_ANSWER:
-- cystic fibrosis

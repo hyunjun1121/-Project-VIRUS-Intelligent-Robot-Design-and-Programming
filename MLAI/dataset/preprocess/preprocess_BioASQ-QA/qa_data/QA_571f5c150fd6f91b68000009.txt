@@ -1,8 +1,0 @@
-QUESTION: Which protein is found to be mutated in Friedreich's ataxia?
-
-IDEAL_ANSWER:
-- It is generally accepted that Friedreich's ataxia (FRDA) is caused by a deficiency in frataxin expression, a mitochondrial protein involved in iron homeostasis, which mainly affects the brain, dorsal root ganglia of the spinal cord, heart and in certain cases the pancreas
-- It is generally accepted that Friedreich's ataxia (FRDA) is caused by a deficiency in frataxin expression, a mitochondrial protein involved in iron homeostasis, which mainly affects the brain, dorsal root ganglia of the spinal cord, heart and in certain cases the pancreas.
-
-EXACT_ANSWER:
-- Frataxin

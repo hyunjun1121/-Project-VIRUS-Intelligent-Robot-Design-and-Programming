@@ -1,8 +1,0 @@
-QUESTION: What is the function of HDAC  proteins?
-
-IDEAL_ANSWER:
-- Histone deacetylases influence diverse cellular processes and may contribute to tumor development and progression by multiple mechanisms. Histone deacetylases prevent the relaxation of chromatin, and positively or negatively regulate transcription. 
-- Histone deacetylases (HDACs) prevent the relaxation of chromatin, and positively or negatively regulate transcription and thus cellular processes
-
-EXACT_ANSWER:
-- HDACs regulate chromatin structure and gene expression

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- memory loss
-
-EXACT_ANSWER:
-- memory loss

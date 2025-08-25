@@ -1,1 +1,0 @@
-DB08901 circumvents P09038 -driven resistance to imatinib in CML . P09038 induces imatinib resistance in CML cells via reactivation of P22607 - DB01367 -MAPK signaling .

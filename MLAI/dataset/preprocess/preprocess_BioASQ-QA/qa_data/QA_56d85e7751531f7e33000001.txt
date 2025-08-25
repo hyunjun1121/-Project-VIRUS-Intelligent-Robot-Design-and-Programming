@@ -1,7 +1,0 @@
-QUESTION: Which SLC family is FLVCR1 a member of?
-
-IDEAL_ANSWER:
-- Feline leukemia virus subgroup C receptor (FLVCR1) is a member of the SLC49 family.
-
-EXACT_ANSWER:
-- SLC49

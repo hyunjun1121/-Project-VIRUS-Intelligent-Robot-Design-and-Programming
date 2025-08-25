@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Glutamate Receptor Ionotropic Kainate
-
-EXACT_ANSWER:
-- glutamate receptor ionotropic kainate

@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Over 5,000 proteins have been queried for protein partners by the Drosophila protein interaction map (DPiM).
-- 5,000 proteins have been queried for protein partners by the Drosophila protein interaction map (DPiM).
-- Defining protein-protein interactions in protein complexes, and establishing the when, what and where of potential interactions, is crucial to understanding the cellular function of any protein-especially those that have not been well studied by traditional molecular genetic approaches. In the Drosophila protein interaction map (DPiM) protein partners of nearly 5,000 Drosophila melanogaster proteins have been identified.
-
-EXACT_ANSWER:
-- 5,000

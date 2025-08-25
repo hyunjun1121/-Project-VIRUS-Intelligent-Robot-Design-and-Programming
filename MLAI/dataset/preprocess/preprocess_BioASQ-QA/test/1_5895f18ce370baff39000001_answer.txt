@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- SSCprofiler is a computational tool utilizing a probabilistic method based on Profile Hidden Markov Models to predict novel miRNA precursors. Via the simultaneous integration of biological features such as sequence, structure and conservation, SSCprofiler achieves a performance accuracy of 88.95% sensitivity and 84.16% specificity on a large set of human miRNA genes. The trained classifier is used to identify novel miRNA gene candidates located within cancer-associated genomic regions and rank the resulting predictions using expression information from a full genome tiling array. SSCprofiler is freely available as a web service at http://www.imbb.forth.gr/SSCprofiler.html.
-
-EXACT_ANSWER:
-- SSCprofiler

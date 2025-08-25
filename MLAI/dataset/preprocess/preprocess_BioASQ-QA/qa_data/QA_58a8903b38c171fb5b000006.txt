@@ -1,7 +1,0 @@
-QUESTION: What is the effect of nocodazole cell treatment?
-
-IDEAL_ANSWER:
-- Nocodazole trigger mitotic arrest.
-
-EXACT_ANSWER:
-- Mitotic arrest

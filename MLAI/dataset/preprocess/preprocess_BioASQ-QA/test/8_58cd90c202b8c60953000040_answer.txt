@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- IL-18 binding protein (IL-18BP) is a natural inhibitor of IL-18. The balance between IL-18 and IL-18BP has an important role in the inflammatory setting.
-
-EXACT_ANSWER:
-- IL-18 binding protein (IL-18BP) is a natural inhibitor of IL-18. The balance between IL-18 and IL-18BP has an important role in the inflammatory setting.

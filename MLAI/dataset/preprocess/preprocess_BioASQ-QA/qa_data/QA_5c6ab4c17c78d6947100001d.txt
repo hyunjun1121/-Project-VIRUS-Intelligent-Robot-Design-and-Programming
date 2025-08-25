@@ -1,8 +1,0 @@
-QUESTION: Under which environment does SELANSI run?
-
-IDEAL_ANSWER:
-- SELANSI (SEmi-LAgrangian SImulation of GRNs) is a software toolbox for the simulation of stochastic multidimensional gene regulatory networks. SELANSI exploits intrinsic structural properties of gene regulatory networks to accurately approximate the corresponding Chemical Master Equation with a partial integral differential equation that is solved by a semi-lagrangian method with high efficiency. SELANSI runs under the MATLAB environment, and is available under GPLv3 license at https://sites.google.com/view/selansi.
-- matlab environment
-
-EXACT_ANSWER:
-- MATLAB

@@ -1,7 +1,0 @@
-QUESTION: Which syndrome is associated to SAMHD1 gene mutations?
-
-IDEAL_ANSWER:
-- Mutations in the SAMHD1 gene that cause the severe autoimmune disease, Aicardi-Goutieres syndrome (AGS).
-
-EXACT_ANSWER:
-- Aicardi-Goutieres syndrome

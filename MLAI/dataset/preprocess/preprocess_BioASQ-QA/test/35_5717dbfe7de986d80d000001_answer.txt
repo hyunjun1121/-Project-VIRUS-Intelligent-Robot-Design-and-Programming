@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Drp1 is involved in the regulation of mitochondrial fission.
-- Dynamin-related protein 1 (Drp1) mediates mitochondrial fission.
-
-EXACT_ANSWER:
-- mitochondrial fission

@@ -1,7 +1,0 @@
-QUESTION: Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?
-
-IDEAL_ANSWER:
-- CADASIL is caused mostly by missense mutations in the NOTCH3 gene, invariably involving a cysteine residue.
-
-EXACT_ANSWER:
-- Cysteine

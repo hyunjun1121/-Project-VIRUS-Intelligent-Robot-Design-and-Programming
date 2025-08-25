@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Dishevelled (Xdsh) controls cell fate via canonical Wnt signaling
-
-EXACT_ANSWER:
-- Wnt signaling

@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- The 1,4-benzothiazepine derivative JTV-519 is a new type of calcium ion channel modulator.JTV-519, which has potential use as an antiarrhythmic [285800]. The drug is a novel cardioprotectant derivative of 1,4-benzothiazepine for which phase I trials were completed in the third quarter of 1998
-- JTV519 (K201), is a 1,4-benzothiazepine derivative and multi-channel blocker, which has been found to stabilize RyR2s and decrease SR Ca²⁺ leak.
-
-EXACT_ANSWER:
-- 1,4-benzothiazepine
-- benzothiazepine

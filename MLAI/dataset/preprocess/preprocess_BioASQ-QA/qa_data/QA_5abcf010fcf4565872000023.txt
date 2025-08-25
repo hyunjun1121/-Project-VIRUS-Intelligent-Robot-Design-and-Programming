@@ -1,9 +1,0 @@
-QUESTION: What nerve is involved in carpal tunnel syndrome?
-
-IDEAL_ANSWER:
-- Carpal tunnel syndrome (CTS) is a focal compressive neuropathy of the median nerve at the level of the wrist.
-- Carpal tunnel syndrome (CTS) is a medical condition due to compression of the median nerve as it travels through the wrist at the carpal tunnel.
-- Carpal tunnel syndrome (CTS) is a focal compressive neuropathy of the median nerve at the level of the wrist. 
-
-EXACT_ANSWER:
-- median

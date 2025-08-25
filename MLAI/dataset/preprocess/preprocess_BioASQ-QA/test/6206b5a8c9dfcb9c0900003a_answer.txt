@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- rHDL-apoE3 has been shown to promote endothelial cell migration.
-
-EXACT_ANSWER:
-- Promotion

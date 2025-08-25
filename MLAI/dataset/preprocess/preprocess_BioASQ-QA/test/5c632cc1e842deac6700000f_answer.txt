@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Linkage analysis identified a locus on chromosome 7 where exome sequencing successfully identified a homozygous two base pair duplication (c.1947_48dupCT), leading to a truncated protein p.(Y650Sfs*22) in the STAG3 gene, confirming it as the cause of POI in this family
-- Primary ovarian insufficiency (POI) is a distressing cause of infertility in young women. POI is heterogeneous with only a few causative genes having been discovered so far. Linkage analysis identified a locus on chromosome 7 where exome sequencing successfully identified a homozygous two base pair duplication (c.1947_48dupCT), leading to a truncated protein p.(Y650Sfs*22) in the STAG3 gene, confirming it as the cause of POI in this family.
-
-EXACT_ANSWER:
-- Primary ovarian insufficiency
-- POI

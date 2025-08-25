@@ -1,7 +1,0 @@
-QUESTION: Which is the major phytoalexin in alfalfa (Medicago sativa L.)?
-
-IDEAL_ANSWER:
-- The major phytoalexin in alfalfa (Medicago sativa L.) is the isoflavonoid (-)-medicarpin (or 6aR, 11aR)-medicarpin. Medicarpin is synthesized via the isoflavonoid branch of phenylpropanoid metabolism.
-
-EXACT_ANSWER:
-- medicarpin

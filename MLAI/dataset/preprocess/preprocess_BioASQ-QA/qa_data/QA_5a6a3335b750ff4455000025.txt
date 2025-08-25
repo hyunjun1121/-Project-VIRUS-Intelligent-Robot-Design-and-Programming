@@ -1,8 +1,0 @@
-QUESTION: Which algorithm is available for computing minimal absent words using external memory?
-
-IDEAL_ANSWER:
-- emMAW
-- emMAW is the first external-memory algorithm for computing minimal absent words. A free open-source implementation of this algorithm is available. This implementation requires less than 3 h on a standard workstation to process the full human genome when as little as 1 GB of RAM is made available.
-
-EXACT_ANSWER:
-- emMAW

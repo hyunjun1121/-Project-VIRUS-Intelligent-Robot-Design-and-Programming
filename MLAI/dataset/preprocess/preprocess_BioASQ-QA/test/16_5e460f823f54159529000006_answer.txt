@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Galcanezumab is a monoclonal antibody against calcitonin gene-related peptide (CGRP), is one of a novel class of new medicines for migraine prevention.
-
-EXACT_ANSWER:
-- calcitonin gene-related peptide

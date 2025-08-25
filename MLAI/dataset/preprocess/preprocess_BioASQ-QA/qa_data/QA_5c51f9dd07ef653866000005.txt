@@ -1,7 +1,0 @@
-QUESTION: Which random forest method has been developed for detecting Copy Numbers Variants (CNVs)?
-
-IDEAL_ANSWER:
-- CNV-RF Is a Random Forest-Based Copy Number Variation Detection Method Using Next-Generation Sequencing.
-
-EXACT_ANSWER:
-- CNV-RF

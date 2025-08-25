@@ -1,7 +1,0 @@
-QUESTION: Which drug was tested in the TEMSO Trial for multiple sclerosis?
-
-IDEAL_ANSWER:
-- Teriflunomide was evaluated in the Teriflunomide Multiple Sclerosis Oral (TEMSO) trial.
-
-EXACT_ANSWER:
-- Teriflunomide

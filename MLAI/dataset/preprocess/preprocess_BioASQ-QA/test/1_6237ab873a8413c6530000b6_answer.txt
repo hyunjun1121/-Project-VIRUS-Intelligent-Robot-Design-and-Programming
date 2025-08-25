@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Epiregulin induces leptin secretion.
-
-EXACT_ANSWER:
-- induction
-- increase

@@ -1,7 +1,0 @@
-QUESTION: Which disease was studied in the CADISS trial?
-
-IDEAL_ANSWER:
-- CADISS was a prospective multicentre randomised-controlled trial in acute (within 7 days of onset) carotid and vertebral artery dissection.
-
-EXACT_ANSWER:
-- carotid and vertebral artery dissection

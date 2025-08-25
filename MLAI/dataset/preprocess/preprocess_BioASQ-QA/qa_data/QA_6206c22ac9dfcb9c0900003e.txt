@@ -1,7 +1,0 @@
-QUESTION: Which signaling pathway does LY294002 inhibit?
-
-IDEAL_ANSWER:
-- LY294002, can block the PI3K/AKT signaling pathway.
-
-EXACT_ANSWER:
-- PI3K/AKT

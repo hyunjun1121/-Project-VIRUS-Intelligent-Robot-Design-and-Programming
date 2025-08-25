@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Christianson syndrome is caused by mutations in SLC9A6 and is characterized by severe intellectual disability, absent speech, microcephaly, ataxia, seizures, and behavioral abnormalities.
-
-EXACT_ANSWER:
-- SLC9A6

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Somatic mutations of calreticulin (CALR) have been identified as a main disease driver of myeloproliferative neoplasms,
-
-EXACT_ANSWER:
-- myeloproliferative neoplasms

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The MitoCeption protocol directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B.
-
-EXACT_ANSWER:
-- Mitochondrial transfer

@@ -1,7 +1,0 @@
-QUESTION: Which molecule is targeted by Asciminib?
-
-IDEAL_ANSWER:
-- Asciminib is an orally administered allosteric inhibitor of the BCR-ABL tyrosine kinase.
-
-EXACT_ANSWER:
-- BCR-ABL tyrosine kinase

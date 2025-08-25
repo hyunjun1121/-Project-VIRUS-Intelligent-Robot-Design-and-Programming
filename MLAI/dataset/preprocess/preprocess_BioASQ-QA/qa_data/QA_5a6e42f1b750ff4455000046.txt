@@ -1,7 +1,0 @@
-QUESTION: What gene is mutated in Familial Mediterranean Fever?
-
-IDEAL_ANSWER:
-- The MEFV gene which encodes the pyrin protein is mutated in Familial Mediterranean Fever(FMF).
-
-EXACT_ANSWER:
-- MEFV gene

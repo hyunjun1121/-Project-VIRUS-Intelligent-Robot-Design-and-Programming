@@ -1,7 +1,0 @@
-QUESTION: Which receptor is modulated with Siponimod?
-
-IDEAL_ANSWER:
-- Siponimod is a functional sphingosine-1-phosphate (S1P) antagonist.
-
-EXACT_ANSWER:
-- sphingosine-1-phosphate

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Lorlatinib is anaplastic lymphoma kinase inhibitor.
-
-EXACT_ANSWER:
-- anaplastic lymphoma kinase

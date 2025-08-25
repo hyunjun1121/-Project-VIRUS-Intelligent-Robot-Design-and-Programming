@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- 2.3 megadalton
-
-EXACT_ANSWER:
-- 2.3 megadalton

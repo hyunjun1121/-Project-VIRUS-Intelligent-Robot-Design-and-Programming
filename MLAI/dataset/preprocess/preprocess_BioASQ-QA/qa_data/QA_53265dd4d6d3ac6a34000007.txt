@@ -1,7 +1,0 @@
-QUESTION: What is the prognostic role of alterred thyroid profile after cardiosurgery?
-
-IDEAL_ANSWER:
-- Altered thyroid profile after cardiosurgery is associated with high incidence of atrial fibrillation e delay in recovery (prolonged hospitalisation) in adults and higher score on The Pediatric Risk of Mortality (PRISM; P < 0.042) and a longer duration of ventilation in children.Impportantly in transplanted patients altered thyroid metabolism,low T3 syndrome, is characterized by highest mortality, highest incidence of acute rejection or reoperations and infections
-
-EXACT_ANSWER:
-- Altered thyroid profile after cardiosurgery is associated with several events in adults and in children

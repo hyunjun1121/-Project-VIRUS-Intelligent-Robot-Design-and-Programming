@@ -1,7 +1,0 @@
-QUESTION: Which translocation is harbored in the Askin tumor cells?
-
-IDEAL_ANSWER:
-- The Askin tumor is a primitive malignant small-cell tumor of the chest wall mostly seen among children and adolescents. It is closely related to Ewing's sarcoma of the same location, with both tumors harboring reciprocal translocation t(11;22) (q24;q12).
-
-EXACT_ANSWER:
-- reciprocal translocation t(11;22) (q24;q12)

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Although proteomics has rapidly developed in the past decade, researchers are still in the early stage of exploring the world of complex proteoforms, which are protein products with various primary structure alterations resulting from gene mutations, alternative splicing, post-translational modifications, and other biological processes
-
-EXACT_ANSWER:
-- proteoforms are protein products with various primary structure alterations resulting from gene mutations, alternative splicing, post-translational modifications, and other biological processes

@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Tanezumab is a humanized monoclonal antibody against nerve growth factor.
-
-EXACT_ANSWER:
-- nerve growth factor
-- NGF

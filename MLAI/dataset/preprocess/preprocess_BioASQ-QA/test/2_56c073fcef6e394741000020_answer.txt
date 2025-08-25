@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Spermidine protects against α-synuclein neurotoxicity. In the fruit fly, simple feeding with spermidine inhibited loss of climbing activity and early organismal death upon heterologous expression of human α-synuclein, which is thought to be the principal toxic trigger of Parkinson's Disease (PD). In this line, administration of spermidine rescued α-synuclein-induced loss of dopaminergic neurons, a hallmark of PD, in nematodes. Alleviation of PD-related neurodegeneration by spermidine was accompanied by induction of autophagy, suggesting that this cytoprotective process may be responsible for the beneficial effects of spermidine administration.
-
-EXACT_ANSWER:
-- Spermidine protects against α-synuclein neurotoxicity

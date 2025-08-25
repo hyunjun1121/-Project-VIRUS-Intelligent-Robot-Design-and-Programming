@@ -1,7 +1,0 @@
-QUESTION: What treatment was studied in the KEYNOTE-522 trial?
-
-IDEAL_ANSWER:
-- KEYNOTE-522 trial studied adjuvant pembrolizumab for patients with triple-negative breast cancer.
-
-EXACT_ANSWER:
-- pembrolizumab

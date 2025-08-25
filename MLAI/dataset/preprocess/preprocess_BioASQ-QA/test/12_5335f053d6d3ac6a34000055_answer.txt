@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The expression of Tetrahymena surface proteins serotype H3 (SerH3) is under temperature regulation. SerH3 is expressed when cells are incubated between the temperatures of 20 and 35 degrees C.
-
-EXACT_ANSWER:
-- Temperature regulation

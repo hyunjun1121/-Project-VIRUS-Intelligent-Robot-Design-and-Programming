@@ -1,7 +1,0 @@
-QUESTION: Selexipag is used for which disease?
-
-IDEAL_ANSWER:
-- Selexipag is a novel, oral, selective prostacyclin (PGI2) receptor agonist in clinical development for the treatment of pulmonary arterial hypertension.
-
-EXACT_ANSWER:
-- pulmonary arterial hypertension

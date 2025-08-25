@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Porphyromonas gingivalis is a keystone periodontal pathogen that has been associated with autoimmune disorders. The cell surface proteases Lys-gingipain (Kgp) and Arg-gingipains (RgpA and RgpB) are major virulence factors, and their proteolytic activity is enhanced by small peptides such as glycylglycine (GlyGly).
-
-EXACT_ANSWER:
-- A keystone periodontal pathogen.

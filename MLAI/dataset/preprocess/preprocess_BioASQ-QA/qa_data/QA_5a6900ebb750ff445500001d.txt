@@ -1,7 +1,0 @@
-QUESTION: Which disease is diagnosed using the Finkelstein's test?
-
-IDEAL_ANSWER:
-- Finkelstein's test is the classic diagnostic test for de Quervain's disease.
-
-EXACT_ANSWER:
-- de Quervain's disease

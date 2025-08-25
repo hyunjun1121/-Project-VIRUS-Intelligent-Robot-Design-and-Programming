@@ -1,7 +1,0 @@
-QUESTION: What is the name for anorexia in gymnasts?
-
-IDEAL_ANSWER:
-- Anorexia athletica
-
-EXACT_ANSWER:
-- Anorexia Athletica

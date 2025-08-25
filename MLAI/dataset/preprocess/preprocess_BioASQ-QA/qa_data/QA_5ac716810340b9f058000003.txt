@@ -1,7 +1,0 @@
-QUESTION: Name an lncRNA associated with dilated cardiomyopathy.
-
-IDEAL_ANSWER:
-- The lncRNA H19 is significantly upregulated in the myocardial tissue in dilated cardiomyopathy.
-
-EXACT_ANSWER:
-- lncRNA H19

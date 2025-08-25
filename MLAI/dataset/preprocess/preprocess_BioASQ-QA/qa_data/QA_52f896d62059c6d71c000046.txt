@@ -1,7 +1,0 @@
-QUESTION: What memory problems are reported in the " Gulf war syndrome"
-
-IDEAL_ANSWER:
-- memory loss
-
-EXACT_ANSWER:
-- memory loss

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Fingolimod has been assessed in phase IV clinical trials.
-
-EXACT_ANSWER:
-- phase IV

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Necitumumab is a fully human IgG(1) monoclonal antibody directed at the epidermal growth factor receptor (EGFR). It is used for treatment of nonsmall cell lung cancer.
-
-EXACT_ANSWER:
-- epidermal growth factor receptor

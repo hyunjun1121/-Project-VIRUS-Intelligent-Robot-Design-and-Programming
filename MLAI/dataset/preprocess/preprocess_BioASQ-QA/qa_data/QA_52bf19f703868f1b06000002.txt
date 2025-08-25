@@ -1,7 +1,0 @@
-QUESTION: What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?
-
-IDEAL_ANSWER:
-- Autosomal dominant catecholaminergic polymorphic ventricular tachycardia (CPVT) was mapped to chromosome 1q42-43 with identification of pathogenic mutations in RYR2.
-
-EXACT_ANSWER:
-- autosomal dominant

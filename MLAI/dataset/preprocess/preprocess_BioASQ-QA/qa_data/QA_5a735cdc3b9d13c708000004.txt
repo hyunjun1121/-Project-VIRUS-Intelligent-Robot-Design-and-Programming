@@ -1,7 +1,0 @@
-QUESTION: In November 2017,  in what phase  was  the clinical trial for the drug SYL040012?
-
-IDEAL_ANSWER:
-- SYL040012 is in phase 2 clinical trials
-
-EXACT_ANSWER:
-- Phase 3

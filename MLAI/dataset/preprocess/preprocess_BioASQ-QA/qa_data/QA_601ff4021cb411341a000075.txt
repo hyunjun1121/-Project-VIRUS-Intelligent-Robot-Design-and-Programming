@@ -1,9 +1,0 @@
-QUESTION: In what year did Gregor Mendel die?
-
-IDEAL_ANSWER:
-- The life and personality of Johann Gregor Mendel (1822-1884)
-- Gregor Mendel, OSA (1822-1884), founder of scientific genetics.
-- Johann Gregor Mendel 1822-1884
-
-EXACT_ANSWER:
-- 1884

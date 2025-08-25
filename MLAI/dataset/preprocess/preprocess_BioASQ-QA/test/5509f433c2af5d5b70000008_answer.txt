@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Filter Aided Sample Preparation (FASP), a type of proteomic reactor, in which samples dissolved in sodium dodecyl sulfate (SDS) are digested in an ultrafiltration unit.
-
-EXACT_ANSWER:
-- proteomic sample preparation

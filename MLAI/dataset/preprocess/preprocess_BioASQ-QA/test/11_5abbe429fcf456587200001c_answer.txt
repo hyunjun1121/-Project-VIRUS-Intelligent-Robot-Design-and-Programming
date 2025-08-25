@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The new oral anticoagulants (NOAC) Apixaban (Eliquis) is a direct anti-Xa inhibitors
-
-EXACT_ANSWER:
-- factor Xa

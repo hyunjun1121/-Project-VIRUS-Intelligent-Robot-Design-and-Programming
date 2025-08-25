@@ -1,1 +1,0 @@
-DB00005 . Soluble tumour necrosis factor receptor , P01375 receptor fusion protein , TNFR-Fc , Q92752 001 , Enbrel .

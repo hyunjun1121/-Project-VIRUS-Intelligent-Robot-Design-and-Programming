@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- CYP3A4 metabolizes approximately 50% of the drugs available today on the market.
-
-EXACT_ANSWER:
-- 50%

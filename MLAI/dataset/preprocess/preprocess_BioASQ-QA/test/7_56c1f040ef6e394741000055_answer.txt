@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Riedel thyroiditis (Immunoglobulin G4-related thyroid disease) is caused by IgG4 antibodies. It is part of the spectrum of Ig4-related sclerosing disease.
-It is associated with fibrosis and inflammation of the thyroid gland.
-
-EXACT_ANSWER:
-- IgG4

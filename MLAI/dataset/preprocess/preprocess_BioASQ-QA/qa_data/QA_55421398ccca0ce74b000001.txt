@@ -1,7 +1,0 @@
-QUESTION: What type of DNA repair pathways is initiated by AlkA glycosylase?
-
-IDEAL_ANSWER:
-- The AlkA protein (3-methyladenine DNA glycosylase II protein) is a monofunctional DNA glycosylase that recognizes a broad range of oxidized and alkylated base lesions and catalyzes the hydrolysis of the N-glycosidic bond to initiate the base excision repair (BER) pathway.
-
-EXACT_ANSWER:
-- base excision repair (BER) pathway

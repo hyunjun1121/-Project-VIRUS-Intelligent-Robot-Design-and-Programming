@@ -1,9 +1,0 @@
-QUESTION: The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?
-
-IDEAL_ANSWER:
-- The effects of SEA0400, a selective inhibitor of the Na(+)/Ca(2+) exchanger (NCX), on Na(+)-dependent Ca(2+) uptake and catecholamine (CA) release were examined in bovine adrenal chromaffin cells that were loaded with Na(+) by treatment with ouabain and veratridine. SEA0400 inhibited Na(+)-dependent (45)Ca(2+) uptake and CA release, with the IC(50) values of 40 and 100 nM, respectively.  
-- SEA0400 is a selective inhibitor of the Na(+)/Ca(2+) exchanger having equal potencies to suppress both the forward and reverse mode operation of the Na(+)/Ca(2+) exchanger. SEA0400 (2-[4-[(2,5-difluorophenyl)methoxy] phenoxy]-5-ethoxyaniline), is a selective NCX inhibitor in vivo.
-
-EXACT_ANSWER:
-- Na(+)/Ca(2+) exchanger
-- NCX

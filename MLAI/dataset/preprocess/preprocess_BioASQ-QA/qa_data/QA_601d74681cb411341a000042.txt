@@ -1,7 +1,0 @@
-QUESTION: Which mutation is targeted by Sotorasib?
-
-IDEAL_ANSWER:
-- Sotorasib is a small molecule that selectively and irreversibly targets KRASG12C.
-
-EXACT_ANSWER:
-- KRASG12C

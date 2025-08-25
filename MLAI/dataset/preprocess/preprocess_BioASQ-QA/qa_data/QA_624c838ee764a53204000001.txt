@@ -1,7 +1,0 @@
-QUESTION: What disease is presenilin involved in?
-
-IDEAL_ANSWER:
-- Loss-of-function mutations in PSEN1/2 genes are the leading cause of familial Alzheimer's disease (fAD).
-
-EXACT_ANSWER:
-- familial Alzheimer's disease

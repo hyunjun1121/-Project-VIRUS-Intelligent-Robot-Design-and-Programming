@@ -1,7 +1,0 @@
-QUESTION: Which JASPAR release is JASPAR 2022?
-
-IDEAL_ANSWER:
-- JASPAR (http://jaspar.genereg.net/) is an open-access database containing manually curated, non-redundant transcription factor (TF) binding profiles for TFs across six taxonomic groups. In JASPAR 2022, JASPAR's 9th release, the CORE collection was expanded with 341 new profiles (148 for plants, 101 for vertebrates, 85 for urochordates, and 7 for insects), which corresponds to a 19% expansion over the previous release.
-
-EXACT_ANSWER:
-- 9th

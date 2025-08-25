@@ -1,7 +1,0 @@
-QUESTION: Which is the enzymatic activity of nardilysin?
-
-IDEAL_ANSWER:
-- Nardilysin (N-arginine dibasic convertase; Nrdc) is a metalloendopeptidase of the M16 family that promotes ectodomain shedding of the precursor forms of various growth factors and cytokines by enhancing the protease activities of a disintegrin and metalloproteinase (ADAM) proteins.
-
-EXACT_ANSWER:
-- Nardilysin (N-arginine dibasic convertase; Nrdc) is a metalloendopeptidase of the M16 family that promotes ectodomain shedding of the precursor forms of various growth factors and cytokines by enhancing the protease activities of a disintegrin and metalloproteinase (ADAM) proteins.

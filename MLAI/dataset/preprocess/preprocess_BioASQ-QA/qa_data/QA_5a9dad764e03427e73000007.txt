@@ -1,7 +1,0 @@
-QUESTION: What is the preDIVA clinical trial?
-
-IDEAL_ANSWER:
-- The preDIVA trial (Prevention of Dementia by Intensive Vascular Care) was an open-label, cluster-randomized controlled trial in community-dwelling individuals aged 70 to 78 years.
-
-EXACT_ANSWER:
-- Prevention of Dementia by Intensive Vascular Care

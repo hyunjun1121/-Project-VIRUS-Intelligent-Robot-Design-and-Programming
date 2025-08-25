@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- Exencephaly is a type of cephalic disorder wherein the brain is located outside of the skull
-- exencephaly, a failure of the cranial neural folds to close which leads to degeneration of the exposed brain tissue termed anencephaly. .
-- exencephaly, a failure of the cranial neural folds to close which leads to degeneration of the exposed brain tissue termed anencephaly.
-
-EXACT_ANSWER:
-- a disorder where the brain is located outside of the skull
-- failure of the cranial neural folds to close which leads to degeneration of the exposed brain tissue

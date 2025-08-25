@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The molecular weight of angiogenin is 14,120 Da. The bovine angiogenin is 14,595 Da
-
-EXACT_ANSWER:
-- 14,120 Da

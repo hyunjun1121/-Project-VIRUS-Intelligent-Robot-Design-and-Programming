@@ -1,7 +1,0 @@
-QUESTION: Which drug is considered as the first line treatment of fibromyalgia?
-
-IDEAL_ANSWER:
-- Pregabalin is, therefore, a valuable option in the first-line treatment of patients with fibromyalgia.
-
-EXACT_ANSWER:
-- Pregabalin

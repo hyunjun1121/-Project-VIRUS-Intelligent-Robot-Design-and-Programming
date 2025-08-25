@@ -1,7 +1,0 @@
-QUESTION: What molecule is targeted by brodalumab?
-
-IDEAL_ANSWER:
-- Interleukin-17. Brodalumab is anti interleukin-17 monoclonal antibody.
-
-EXACT_ANSWER:
-- Interleukin-17

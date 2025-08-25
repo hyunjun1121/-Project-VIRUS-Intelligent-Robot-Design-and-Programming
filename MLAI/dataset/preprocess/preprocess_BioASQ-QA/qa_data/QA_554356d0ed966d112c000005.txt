@@ -1,7 +1,0 @@
-QUESTION: Which is the most common measure of differences between dinucleotide relative abundance "genomic signatures"
-
-IDEAL_ANSWER:
-- The concept of a genomic signature was introduced with the observation of species-type specific Dinucleotide Relative Abundance Profiles (DRAPs). The set of dinucleotide odds ratios or 'general design' is a remarkably stable property of the DNA of an organism, and can be used to discriminate between sequences from different organisms. The average absolute dinucleotide relative abundance difference is termed delta-distance. Delta-distance is the most commonly used measure of differences bwetween "genomic signatures". Delta-distances between different genomic sequences in the same species are low, and are generally smaller than the between-species delta-distances.
-
-EXACT_ANSWER:
-- delta-distance

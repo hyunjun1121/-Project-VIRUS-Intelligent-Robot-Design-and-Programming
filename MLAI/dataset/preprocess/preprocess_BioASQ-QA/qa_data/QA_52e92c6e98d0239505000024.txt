@@ -1,7 +1,0 @@
-QUESTION: Which gene is associated with the Mitchell-Riley syndrome?
-
-IDEAL_ANSWER:
-- Mutations in the gene coding for the transcription factor RFX6 (regulatory factor X,6) have been described as the cause of the Mitchell-Riley syndrome.
-
-EXACT_ANSWER:
-- RFX6

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Kymriah, produced by Novartis has a price tag of US$475,000.
-
-EXACT_ANSWER:
-- 475,000 USD

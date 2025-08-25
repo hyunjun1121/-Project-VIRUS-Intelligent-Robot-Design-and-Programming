@@ -1,7 +1,0 @@
-QUESTION: What causes Bathing suit Ichthyosis(BSI)?
-
-IDEAL_ANSWER:
-- Bathing suit ichthyosis (BSI) is a rare variant of autosomal recessive congenital ichthyosis (ARCI) due to transglutaminase-1 gene (TGM1) mutations leading to a temperature sensitive phenotype.
-
-EXACT_ANSWER:
-- transglutaminase-1 gene (TGM1) mutations

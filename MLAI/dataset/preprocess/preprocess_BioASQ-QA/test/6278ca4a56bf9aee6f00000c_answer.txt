@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- L124 is the protein-membrane interface of the Cholesterol-regulated Start protein 4 protein (STARD4).
-- Our results show that STARD4 interacts with anionic membranes through a surface-exposed basic patch and that introducing a mutation (L124D) into the Omega-1 (Ω1) loop, which covers the sterol binding pocket, attenuates sterol transfer activity.
-
-EXACT_ANSWER:
-- L124
-- Omega-1 (Ω1) loop

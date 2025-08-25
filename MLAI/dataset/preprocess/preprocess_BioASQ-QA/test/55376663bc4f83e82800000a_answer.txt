@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- CD99 is a hallmark marker for Ewing sarcoma and primitive neuroectodermal tumors.
-
-EXACT_ANSWER:
-- CD99

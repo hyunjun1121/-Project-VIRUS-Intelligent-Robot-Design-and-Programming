@@ -1,8 +1,0 @@
-QUESTION: Which disorder has been approved for treatment with Alk inhibitors?
-
-IDEAL_ANSWER:
-- Anaplastic lymphoma kinase (ALK) rearrangement is detected in 3-7% of patients with non-small-cell lung cancer. Crizotinib is an ALK inhibitor, which was approved in 2011 for the treatment of ALK-positive lung cancer.
-- Crizotinib was approved to treat anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) by the Food and Drug Administration in 2011
-
-EXACT_ANSWER:
-- ALK-positive lung cancer

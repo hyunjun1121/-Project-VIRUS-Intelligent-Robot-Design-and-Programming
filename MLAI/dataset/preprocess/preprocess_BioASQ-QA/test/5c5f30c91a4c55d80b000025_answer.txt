@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Interleukin (IL)-17A is secreted from T helper type 17 (TH17) cells.
-
-EXACT_ANSWER:
-- T helper type 17 (TH17) cells.

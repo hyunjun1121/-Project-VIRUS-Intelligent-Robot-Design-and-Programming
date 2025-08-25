@@ -1,7 +1,0 @@
-QUESTION: What is the purpose of  Macropinocytosis?
-
-IDEAL_ANSWER:
-- Macropinocytosis is an endocytic process, which involves the engulfment of extra-cellular content in vesicles known as macropinosomes.
-
-EXACT_ANSWER:
-- transport across an external cell membrane

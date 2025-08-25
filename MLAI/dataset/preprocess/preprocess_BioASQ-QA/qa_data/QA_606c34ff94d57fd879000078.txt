@@ -1,8 +1,0 @@
-QUESTION: What methodology does the HercepTest use?
-
-IDEAL_ANSWER:
-- The HercepTest is immunohistochemistry based.
-
-EXACT_ANSWER:
-- immunohistochemistry
-- ICH

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Milvexian is a small molecule, active-site inhibitor of factor XIa (FXIa) being developed to prevent and treat thrombotic events.
-
-EXACT_ANSWER:
-- XIa

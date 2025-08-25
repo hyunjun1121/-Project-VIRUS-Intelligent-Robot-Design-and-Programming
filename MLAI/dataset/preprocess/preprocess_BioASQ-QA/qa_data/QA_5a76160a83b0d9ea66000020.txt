@@ -1,7 +1,0 @@
-QUESTION: Which sequence-based algorithm for branch point prediction has been proposed?
-
-IDEAL_ANSWER:
-- BPP is a sequence-based algorithm for branch point prediction.
-
-EXACT_ANSWER:
-- BPP

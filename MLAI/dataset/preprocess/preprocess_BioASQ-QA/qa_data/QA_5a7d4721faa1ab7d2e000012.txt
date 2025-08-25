@@ -1,8 +1,0 @@
-QUESTION: What does davunetide do to microtubules?
-
-IDEAL_ANSWER:
-- Davunetide or NAP is a microtubule-stabilizer.
-
-EXACT_ANSWER:
-- Stabilizes
-- Protects

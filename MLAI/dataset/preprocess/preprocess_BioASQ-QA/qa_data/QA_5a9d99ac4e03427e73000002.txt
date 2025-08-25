@@ -1,7 +1,0 @@
-QUESTION: What is measured with the Proseek panels?
-
-IDEAL_ANSWER:
-- Differnet Proseek multiplex protein biomarker panels exists: CVD, inflammatory, neurology and oncology biomarker.
-
-EXACT_ANSWER:
-- Differnet Proseek multiplex protein biomarker panels exists: CVD, inflammatory, neurology and oncology biomarker.

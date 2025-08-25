@@ -1,8 +1,0 @@
-QUESTION: What is a decoy exosome?
-
-IDEAL_ANSWER:
-- exosomes display a large repertoire of tumor antigens that induce autoantibodies and exert a decoy function against complement-mediated cytotoxicity.
-
-EXACT_ANSWER:
-- an exosome may carry antigens as a decoy
-- 

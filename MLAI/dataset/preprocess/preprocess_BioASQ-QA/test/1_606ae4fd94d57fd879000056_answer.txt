@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mothers with a CYP2D6 ultrarapid metabolizer phenotype may expose their infants to risk of adverse events when taking codeine while breastfeeding, by producing more of the active metabolite, morphine.
-
-EXACT_ANSWER:
-- CYP2D6

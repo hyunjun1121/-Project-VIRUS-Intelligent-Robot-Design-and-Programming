@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Monoubiquitination of the Fanconi anaemia protein FANCD2 is a key event leading to repair of interstrand cross-links. Failure of FANCD2 monoubiquitination by the nuclear FA protein complex has a severe impact on the DNA repair functions of cells.
-
-EXACT_ANSWER:
-- FANCD2 monoubiquitination

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The prevalence of short QT syndrome is low and varies between 0.01% and 0.1%
-
-EXACT_ANSWER:
-- 0.01% -0.1%

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Encorafenib is a BRAF inhibitor. It is a promising therapy for metastatic or inoperable melanoma with a BRAF mutation.
-
-EXACT_ANSWER:
-- BRAF

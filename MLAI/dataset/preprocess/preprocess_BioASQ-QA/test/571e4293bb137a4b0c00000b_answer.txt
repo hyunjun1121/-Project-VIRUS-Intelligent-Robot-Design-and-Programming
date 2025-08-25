@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Episodic ataxia type 6, is caused by mutations in the gene encoding a glial glutamate transporter, the excitatory amino acid transporter-1. Reduced glutamate uptake by mutant excitatory amino acid transporter-1 (EAAT1) has been thought to be the main pathophysiological process in episodic ataxia type 6.
-
-EXACT_ANSWER:
-- EAAT1 mutations

@@ -1,9 +1,0 @@
-QUESTION: Which is the main regulatory molecule of SERCA2A function in the cardiac muscle?
-
-IDEAL_ANSWER:
-- SERCA2a activity is regulated by phosphorylation of another SR protein, Phospholamban (PLN). Phospholamban (PLB) inhibits the activity of SERCA2a, the Ca(2+)-ATPase in cardiac sarcoplasmic reticulum, by decreasing the apparent affinity of the enzyme for Ca(2+).
-
-EXACT_ANSWER:
-- Phospholamban
-- PLN
-- plb

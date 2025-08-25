@@ -1,7 +1,0 @@
-QUESTION: Which Python tool has been developed for network-based stratification of tumor mutations?
-
-IDEAL_ANSWER:
-- PyNBS is a modularized Python 2.7 implementation of the network-based stratification (NBS) algorithm for stratifying tumor somatic mutation profiles into molecularly and clinically relevant subtypes.
-
-EXACT_ANSWER:
-- PyNBS

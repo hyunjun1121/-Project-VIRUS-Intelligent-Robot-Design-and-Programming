@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- There are approximately 50 pseudokinases in the human kinome.
-
-EXACT_ANSWER:
-- Approximately 50

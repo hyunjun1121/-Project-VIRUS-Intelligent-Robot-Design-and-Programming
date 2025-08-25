@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Southeast Asians exhibit a higher prevalence of CYP2C19-poor metabolisers compared with Caucasians and East Asians.
-
-EXACT_ANSWER:
-- higher

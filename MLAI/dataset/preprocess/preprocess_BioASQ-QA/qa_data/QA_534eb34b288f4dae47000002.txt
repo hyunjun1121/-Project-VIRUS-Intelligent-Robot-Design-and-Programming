@@ -1,7 +1,0 @@
-QUESTION: In which process Src, Cortactin and MT1-MMP are playing an essential role?
-
-IDEAL_ANSWER:
-- Src was shown to be required for invadopodia formation and function, whereas Cortactin was found to regulate cofilin and N-WASp activities to control the stages of invadopodium assembly and maturation. Finally, membrane type 1 matrix metalloproteinase (MT1-MMP) was demostrated as the key invadopodial enzyme responsible for gelatin matrix degradation in cancer cells.
-
-EXACT_ANSWER:
-- Src, Cortactin and MT1-MMP play an essential role in the formation and function of invadopodia.

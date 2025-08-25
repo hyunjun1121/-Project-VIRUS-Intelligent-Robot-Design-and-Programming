@@ -1,8 +1,0 @@
-QUESTION: What year was the first successful human heart transplant performed?
-
-IDEAL_ANSWER:
-- The first human heart transplant in 1967 was performed using a deceased donor heart,
-- the first human heart transplant in 1967 was performed using a deceased donor heart,
-
-EXACT_ANSWER:
-- 1967

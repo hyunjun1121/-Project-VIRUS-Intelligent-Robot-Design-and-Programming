@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Neutrophil elastase gene (ELANE) mutations are responsible for the majority of cases of severe congenital neutropenia (SCN) and cyclic neutropenia (CN).
-- Cyclic neutropenia (CN) and severe congenital neutropenia (SCN) are disorders of neutrophil production that differ markedly in disease severity. Mutations of the ELANE gene (the symbol recently replacing ELA2) are considered largely responsible for most cases of CN and SCN, but specific mutations are typically associated with one or the other  
-
-EXACT_ANSWER:
-- The neutrophil elastase gene (ELANE)

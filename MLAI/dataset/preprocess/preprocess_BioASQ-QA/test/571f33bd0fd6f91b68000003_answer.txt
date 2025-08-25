@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Sotos syndrome (SoS) is a multiple anomaly, congenital disorder characterized by overgrowth, macrocephaly, distinctive facial features and variable degree of intellectual disability. Haploinsufficiency of the NSD1 gene at 5q35.3, arising from 5q35 microdeletions, point mutations, and partial gene deletions, accounts for a majority of patients with SoS.
-- Sotos syndrome is a well-known overgrowth syndrome characterized by excessive growth during childhood, macrocephaly, distinctive facial appearance and learning disability. This disorder is caused by mutations or deletions in NSD1 gene
-
-EXACT_ANSWER:
-- NSD1 gene

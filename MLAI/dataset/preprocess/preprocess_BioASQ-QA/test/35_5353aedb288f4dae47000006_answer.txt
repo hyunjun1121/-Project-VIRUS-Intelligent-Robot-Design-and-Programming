@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The long non- coding RNA Xist (X inactive specific transcript)
-
-EXACT_ANSWER:
-- Xist

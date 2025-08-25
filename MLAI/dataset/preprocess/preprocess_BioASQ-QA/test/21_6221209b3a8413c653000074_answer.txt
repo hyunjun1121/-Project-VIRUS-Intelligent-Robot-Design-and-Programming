@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Nuclear translocation of large proteins is mediated through specific protein carriers, collectively named karyopherins (importins, exportins and adaptor proteins)
-
-EXACT_ANSWER:
-- nuclear transport

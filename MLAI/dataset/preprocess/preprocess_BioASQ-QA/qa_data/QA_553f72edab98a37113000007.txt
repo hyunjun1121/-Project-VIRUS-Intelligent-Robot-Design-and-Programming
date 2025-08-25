@@ -1,7 +1,0 @@
-QUESTION: What is the typical outer diameter of microtubules (tubulin heterodimers)?
-
-IDEAL_ANSWER:
-- Microtubules are highly anisotropic structures built from tubulin heterodimers. They are hollow cylindrical shells with a ∼ 25 nm (24nm - 25nm) outer diameter.
-
-EXACT_ANSWER:
-- 24nm - 25 nm

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ranasmurfin is a blue protein.
-
-EXACT_ANSWER:
-- Blue

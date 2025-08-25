@@ -1,7 +1,0 @@
-QUESTION: What is the target of the drug remdesivir?
-
-IDEAL_ANSWER:
-- remdesivir is a polymerase inhibitor
-
-EXACT_ANSWER:
-- polymerase

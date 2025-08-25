@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The MAOA gene is locatad on chromosome X (Xp21-p11).
-
-EXACT_ANSWER:
-- Xp21-p11

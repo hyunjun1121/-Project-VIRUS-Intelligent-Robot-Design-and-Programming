@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Awaji Criteria are used for amyotrophic lateral sclerosis.
-
-EXACT_ANSWER:
-- amyotrophic lateral sclerosis

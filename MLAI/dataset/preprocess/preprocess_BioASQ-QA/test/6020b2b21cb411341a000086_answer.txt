@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Darolutamide is used for treatment of nonmetastatic castration-resistant prostate cancer.
-
-EXACT_ANSWER:
-- Nonmetastatic castration-resistant prostate cancer

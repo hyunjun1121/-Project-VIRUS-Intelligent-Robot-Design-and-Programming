@@ -1,7 +1,0 @@
-QUESTION: Which disease is caused by repeat expansion in VWA1?
-
-IDEAL_ANSWER:
-- An ancestral 10-bp repeat expansion in VWA1 causes recessive hereditary motor neuropathy.
-
-EXACT_ANSWER:
-- Recessive hereditary motor neuropathy

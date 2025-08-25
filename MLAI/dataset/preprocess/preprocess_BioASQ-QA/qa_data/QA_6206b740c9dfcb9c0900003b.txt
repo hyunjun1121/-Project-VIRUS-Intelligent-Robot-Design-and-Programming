@@ -1,7 +1,0 @@
-QUESTION: What is the effect of rHDL-apoE3 on vascular permeability?
-
-IDEAL_ANSWER:
-- rHDL-apoE3 markedly improves vascular permeability as demonstrated by the reduced concentration of Evans Blue dye in tissues such as the stomach, the tongue and the urinary bladder and ameliorated hypercholesterolemia.
-
-EXACT_ANSWER:
-- Improves

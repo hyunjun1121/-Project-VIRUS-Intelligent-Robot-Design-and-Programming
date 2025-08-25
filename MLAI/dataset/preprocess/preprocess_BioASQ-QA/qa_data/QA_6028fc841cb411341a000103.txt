@@ -1,7 +1,0 @@
-QUESTION: Which company developed ivosidenib?
-
-IDEAL_ANSWER:
-- Ivosidenib has been developed by Agios Pharmaceuticals.
-
-EXACT_ANSWER:
-- Agios Pharmaceuticals

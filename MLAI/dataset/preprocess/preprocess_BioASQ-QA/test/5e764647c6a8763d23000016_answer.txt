@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The first genetically modified organism to be used as vaccine was the live oral cholera vaccine CVD 103-HgR or vaxchora.
-
-EXACT_ANSWER:
-- Vaxchora
-- CVD 103-HgR

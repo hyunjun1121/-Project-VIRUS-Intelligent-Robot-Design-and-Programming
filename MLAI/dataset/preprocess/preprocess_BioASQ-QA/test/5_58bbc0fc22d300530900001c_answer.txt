@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- HMG Co-A reductase inhibitors, commonly known as statins, also display wide interindividual variability in plasma concentration, response and toxicity due in part to polymorphisms in transporter genes, including SLCO1B1 and ABCG2.  The SLCO1B1*5 variant is a risk factor for statin side effects and exhibits statin-specific effects: highest with simvastatin/atorvastatin and lowest with pravastatin/rosuvastatin.
-
-EXACT_ANSWER:
-- Statin treatment

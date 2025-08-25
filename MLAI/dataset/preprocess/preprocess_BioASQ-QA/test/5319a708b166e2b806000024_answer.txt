@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Bortezomib is a potent and specific reversible ubiquitin/proteasome pathway inhibitor, which has shown strong in vitro antitumor activity as single agent and in combination with other cytotoxic drugs in a broad spectrum of hematological and solid malignancies.
-
-EXACT_ANSWER:
-- The ubiquitin/proteasome pathway

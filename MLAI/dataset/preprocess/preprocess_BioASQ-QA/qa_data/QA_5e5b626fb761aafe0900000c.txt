@@ -1,7 +1,0 @@
-QUESTION: What molecules are the multidrug transporter MDR3 targeting?
-
-IDEAL_ANSWER:
-- Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator.
-
-EXACT_ANSWER:
-- Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator

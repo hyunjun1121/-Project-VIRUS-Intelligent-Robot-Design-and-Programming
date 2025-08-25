@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- ABL-family proteins comprise one of the best conserved branches of the tyrosine kinases. Each ABL protein contains an SH3-SH2-TK (Src homology 3-Src homology 2-tyrosine kinase) domain cassette, which confers autoregulated kinase activity and is common among nonreceptor tyrosine kinases. This cassette is coupled to an actin-binding and -bundling domain, which makes ABL proteins capable of connecting phosphoregulation with actin-filament reorganization. Two vertebrate paralogs, ABL1 and ABL2, have evolved to perform specialized functions.   
-- The Abelson (ABL) family of nonreceptor tyrosine kinases, ABL1 and ABL2, transduces diverse extracellular signals to protein networks that control proliferation, survival, migration and invasion. Constitutively activated mutants of the non-receptor tyrosine kinase (TK) ABL1 (Abelson murine leukemia viral (v-abl) homolog (1) protein) play a central role in the pathogenesis myeloproliferative disorders and in some cases of acute leukemia and lymphoma.
-
-EXACT_ANSWER:
-- Nonreceptor tyrosine kinase
-- Protein-Tyrosine Kinase

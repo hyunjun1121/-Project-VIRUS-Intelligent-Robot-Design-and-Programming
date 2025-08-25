@@ -1,7 +1,0 @@
-QUESTION: What does PCAT6 stand for?
-
-IDEAL_ANSWER:
-- PCAT6 stands for prostate cancer-associated transcript 6.
-
-EXACT_ANSWER:
-- rostate cancer-associated transcript 6

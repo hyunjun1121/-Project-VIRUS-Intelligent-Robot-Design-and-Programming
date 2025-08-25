@@ -1,8 +1,0 @@
-QUESTION: What is the enzymatic activity of the breast cancer associated gene BRCA1?
-
-IDEAL_ANSWER:
-- E3-ubiquitin ligase activity is the only known enzymatic activity of BRCA1, which is mediated by the N-terminal RING finger domain.BRCA1 nuclear transport and ubiquitin E3 ligase enzymatic activity are tightly regulated by the BRCA1 dimeric binding partner BARD1 and further modulated by cancer mutations and diverse signaling pathways.
-- Discovering the precise function of the breast and ovarian specific tumor suppressor, BRCA1, has proven to be quite complicated. The protein encoded by BRCA1 interacts in vivo with the related BARD1 protein to form a heterodimeric complex that acts as a ubiquitin E3 ligase. E3-ubiquitin ligase activity is the only known enzymatic activity of BRCA1, which is mediated by the N-terminal RING finger domain.
-
-EXACT_ANSWER:
-- E3 ubiquitin ligase activity

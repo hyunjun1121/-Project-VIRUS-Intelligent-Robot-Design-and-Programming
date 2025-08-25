@@ -1,7 +1,0 @@
-QUESTION: What protein is encoded by the GRN gene?
-
-IDEAL_ANSWER:
-- Loss-of-function mutations in the gene encoding for the protein progranulin (PGRN), GRN, are one of the major genetic abnormalities involved in frontotemporal lobar degeneration.
-
-EXACT_ANSWER:
-- progranulin

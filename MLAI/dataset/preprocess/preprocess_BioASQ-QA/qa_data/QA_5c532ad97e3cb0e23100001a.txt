@@ -1,7 +1,0 @@
-QUESTION: Which database associates human noncoding SNPs with their three-dimensional interacting genes?
-
-IDEAL_ANSWER:
-- 3DSNP is a database for linking human noncoding SNPs to their three-dimensional interacting genes. It a valuable resource for the annotation of human noncoding genome sequence and investigating the impact of noncoding variants on clinical phenotypes.
-
-EXACT_ANSWER:
-- 3DSNP

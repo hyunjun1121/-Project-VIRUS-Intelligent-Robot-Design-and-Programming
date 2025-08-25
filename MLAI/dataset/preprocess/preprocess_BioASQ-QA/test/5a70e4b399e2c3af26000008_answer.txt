@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The combination of direct-acting antivirals glecaprevir and pibrentasvir is effective for treatment of Hepatitis C virus infection.
-
-EXACT_ANSWER:
-- Hepatitis C virus infection

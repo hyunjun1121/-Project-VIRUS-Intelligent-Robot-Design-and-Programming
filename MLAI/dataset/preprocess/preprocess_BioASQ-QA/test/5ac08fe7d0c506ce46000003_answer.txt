@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- MCF7 is an ER+ breast cancer cell line.
-
-EXACT_ANSWER:
-- MCF7 is an ER+ breast cancer cell line

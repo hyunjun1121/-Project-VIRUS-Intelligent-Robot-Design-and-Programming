@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- It has been well-documented that iron deficiency is the cause of restless leg syndrome. Magnesium and ferritin were also associated with restless leg syndrome.
-
-EXACT_ANSWER:
-- iron

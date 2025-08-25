@@ -1,7 +1,0 @@
-QUESTION: What is vesiduction?
-
-IDEAL_ANSWER:
-- 'Vesiduction' as a fourth mode of intercellular DNA transfer.
-
-EXACT_ANSWER:
-- 'Vesiduction' as a fourth mode of intercellular DNA transfer.

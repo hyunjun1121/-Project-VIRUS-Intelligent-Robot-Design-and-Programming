@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Circular RNAs (circRNAs) are a novel type of RNA that, unlike linear RNAs, form a covalently closed continuous loop and are highly represented in the eukaryotic transcriptome. The biogenesis of circular RNA is an integral, conserved, and regulated feature of the gene expression program. Circular RNAs play a crucial role in fine tuning the level of miRNA mediated regulation of gene expression by sequestering the miRNAs. Recent research has revealed that circRNAs can function as microRNA (miRNA) sponges, regulators of splicing and transcription, and modifiers of parental gene expression.
-- Circular RNAs are new players in regulation of post transcriptional gene expression. Circular RNAs play a crucial role in fine tuning the level of miRNA mediated regulation of gene expression by sequestering the miRNAs. This new type of transcript might represent a novel aspect of gene expression and hold some interesting clues about the splicing mechanism. Here we determine the structure of these novel transcripts, showing that they correspond to circular RNA molecules containing only exons in genomic order.
-
-EXACT_ANSWER:
-- Recent research has revealed that circRNAs can function as microRNA (miRNA) sponges, regulators of splicing and transcription, and modifiers of parental gene expression.

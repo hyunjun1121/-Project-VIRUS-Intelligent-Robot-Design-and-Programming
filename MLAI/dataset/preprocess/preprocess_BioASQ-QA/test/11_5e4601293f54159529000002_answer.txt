@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Central vein sign on FLAIR* magnetic resonance imaging  is highly specific and sensitive for multiple sclerosis.
-
-EXACT_ANSWER:
-- multiple sclerosis

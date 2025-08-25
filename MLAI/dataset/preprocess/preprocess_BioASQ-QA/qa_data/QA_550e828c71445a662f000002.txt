@@ -1,7 +1,0 @@
-QUESTION: Which molecule is targeted by the drug Gevokizumab?
-
-IDEAL_ANSWER:
-- Gevokizumab is an allosteric anti-IL-1β monoclonal antibody.
-
-EXACT_ANSWER:
-- IL-1β

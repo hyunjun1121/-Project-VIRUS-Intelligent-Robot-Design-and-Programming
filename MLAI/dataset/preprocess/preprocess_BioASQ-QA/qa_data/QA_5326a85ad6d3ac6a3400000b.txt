@@ -1,7 +1,0 @@
-QUESTION: What does polyadenylate-binding protein 4 (PABP4) bind to?
-
-IDEAL_ANSWER:
-- PABP4  binds mRNA poly(A) tails.
-
-EXACT_ANSWER:
-- PABP4  binds mRNA poly(A) tails.

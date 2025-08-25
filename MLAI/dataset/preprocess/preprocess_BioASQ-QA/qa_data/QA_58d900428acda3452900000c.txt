@@ -1,7 +1,0 @@
-QUESTION: What is the inheritance of Barth syndrome?
-
-IDEAL_ANSWER:
-- Barth syndrome (BTHS) has an X-linked recessive pattern of inheritance.
-
-EXACT_ANSWER:
-- X-linked recessive pattern of inheritance

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Grapefruit juice inhibits CYP3A4 activity.
-
-EXACT_ANSWER:
-- Inhibitory

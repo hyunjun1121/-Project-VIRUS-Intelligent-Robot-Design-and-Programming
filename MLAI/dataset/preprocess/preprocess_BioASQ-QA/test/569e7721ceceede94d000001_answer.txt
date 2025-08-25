@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The international Functional Annotation Of the Mammalian Genomes 4 (FANTOM4) research collaboration set out to better understand the transcriptional network that regulates macrophage differentiation and to uncover novel components of the transcriptome employing a series of high-throughput experiments.
-
-EXACT_ANSWER:
-- Better understand the transcriptional network that regulates macrophage differentiation

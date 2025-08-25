@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The HercepTest is immunohistochemistry based.
-
-EXACT_ANSWER:
-- immunohistochemistry
-- ICH

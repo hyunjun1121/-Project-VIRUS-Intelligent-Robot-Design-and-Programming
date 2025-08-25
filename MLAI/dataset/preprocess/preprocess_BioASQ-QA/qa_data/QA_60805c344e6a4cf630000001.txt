@@ -1,7 +1,0 @@
-QUESTION: Where is the organ of Corti located?
-
-IDEAL_ANSWER:
-- The cochlea, a coiled structure located in the ventral region of the inner ear, acts as the primary structure for the perception of sound. Along the length of the cochlear spiral is the organ of Corti, a highly derived and rigorously patterned sensory epithelium that acts to convert auditory stimuli into neural impulses.
-
-EXACT_ANSWER:
-- In the inner ear

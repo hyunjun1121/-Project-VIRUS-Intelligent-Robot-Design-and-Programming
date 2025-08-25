@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The first chromone in clinical use, khellin.
-
-EXACT_ANSWER:
-- Khellin

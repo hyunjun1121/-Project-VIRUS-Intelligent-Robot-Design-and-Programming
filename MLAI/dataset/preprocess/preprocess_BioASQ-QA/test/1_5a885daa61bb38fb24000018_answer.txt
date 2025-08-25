@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The conserved motif is: Asp(D)-Glu-(E)-Ala(A)-Asp(D)
-
-EXACT_ANSWER:
-- Asp(D)-Glu-(E)-Ala(A)-Asp(D)

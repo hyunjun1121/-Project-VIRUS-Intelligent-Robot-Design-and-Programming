@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Mast cells (MCs) are innate immune cells that are a major source of costimulatory signals and inflammatory mediators in the intestinal mucosa. 
-- Mast cells are significantly involved in IgE-mediated allergic reactions but may be involved in defense against parasites as well as other immune mediated diseases including heart disease
-- Mast cells (MCs) are innate immune cells that are a major source of costimulatory signals and inflammatory mediators in the intestinal mucosa
-
-EXACT_ANSWER:
-- allergy

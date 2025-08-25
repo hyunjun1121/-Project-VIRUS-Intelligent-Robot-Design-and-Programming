@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- In response to damage induced by DNA cross-linking agents, the S-phase checkpoint is inefficient in Fanconi anemia (FA) cells, leading to accumulation of secondary lesions, such as single- and double-strand breaks and gaps. The prolonged time in G2 phase seen in FA cells therefore exists in order to allow the cells to remove lesions which accumulated during the preceding abnormal S phase.
-
-EXACT_ANSWER:
-- In Fanconi anemia cells, the S-phase checkpoint is inefficient.

@@ -1,7 +1,0 @@
-QUESTION: Which individuals show preferential colonization of the Prevotellaceae bacteria in their guts?
-
-IDEAL_ANSWER:
-- Although the distinction of enterotypes as either discrete clusters or a continuum will require additional investigation, numerous studies have demonstrated the co-exclusion of the closely related Prevotellaceae and Bacteroides genera in the gut microbiota of healthy human subjects where Prevotella appears to be a discriminatory taxon for residence in more agrarian societies.
-
-EXACT_ANSWER:
-- members of agrarian societies

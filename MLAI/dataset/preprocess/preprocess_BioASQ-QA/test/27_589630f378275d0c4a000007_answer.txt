@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ixazomib is proteasome inhibitor. It is used for treatment of multiple myeloma.
-
-EXACT_ANSWER:
-- proteasome

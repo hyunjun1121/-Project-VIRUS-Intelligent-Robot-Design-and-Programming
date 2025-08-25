@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- coupling MCM2-7 to replicative polymerases is an important feature of the regulation of chromosome replication in eukaryotes, and highlight a key role for Ctf4 in this processAnd-1/Ctf4 is therefore a new replication initiation factor that brings together the MCM2-7 helicase and the DNA pol alpha-primase complex, analogous to the linker between helicase and primase or helicase and polymerase that is seen in the bacterial replication machinery
-- Ctf4 coordinates the progression of helicase and DNA polymerase alpha.  Mcm10 and And-1/CTF4 recruit DNA polymerase alpha to chromatin for initiation of DNA replication. And-1/Ctf4 is therefore a new replication initiation factor that brings together the MCM2-7 helicase and the DNA pol alpha-primase complex, analogous to the linker between helicase and primase or helicase and polymerase that is seen in the bacterial replication machinery.
-
-EXACT_ANSWER:
-- Coordination of the progression of helicase and DNA polymerase alpha at the eukaryotic replication fork.

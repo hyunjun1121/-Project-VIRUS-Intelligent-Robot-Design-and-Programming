@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Hydrophilic Interaction Chromatography (HILIC)
-
-EXACT_ANSWER:
-- Hydrophilic Interaction Chromatography

@@ -1,7 +1,0 @@
-QUESTION: What is caused by biallelic variants in PCDHGC4?
-
-IDEAL_ANSWER:
-- Biallelic variants in PCDHGC4 cause a novel neurodevelopmental syndrome with progressive microcephaly, seizures, and joint anomalies.
-
-EXACT_ANSWER:
-- A novel neurodevelopmental syndrome with progressive microcephaly, seizures, and joint anomalies

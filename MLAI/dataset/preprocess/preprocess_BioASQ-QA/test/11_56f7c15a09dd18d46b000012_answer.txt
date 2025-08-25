@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Homozygous mutations in LPIN2 are responsible for the syndrome of chronic recurrent multifocal osteomyelitis and congenital dyserythropoietic anaemia (Majeed syndrome).
-- Genetic alteration of LPIN2 in humans is known to cause Majeed syndrome.
-
-EXACT_ANSWER:
-- LPIN2

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The rs34269950 SNP of RUNX1T1 is located in the 'RRACH' motif.
-
-EXACT_ANSWER:
-- RRACH motif

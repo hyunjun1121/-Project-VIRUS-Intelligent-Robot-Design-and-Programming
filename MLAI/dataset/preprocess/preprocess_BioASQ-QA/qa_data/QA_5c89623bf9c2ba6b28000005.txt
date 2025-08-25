@@ -1,9 +1,0 @@
-QUESTION: Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?
-
-IDEAL_ANSWER:
-- Serum alpha fetoprotein (AFP) is a marker of germ cell neoplasms,
-Serum α-Fetoprotein (AFP) is a widely used diagnostic biomarker, but it has limited sensitivity and is not elevated in all HCC cases.
-
-EXACT_ANSWER:
-- HCC
-- hepatocelluar carcinoma

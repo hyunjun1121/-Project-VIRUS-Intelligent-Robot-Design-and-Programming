@@ -1,8 +1,0 @@
-QUESTION: Is the transcriptional regulator BACH1 an activator or a repressor?
-
-IDEAL_ANSWER:
-- BACH1, a basic leucine zipper mammalian transcriptional repressor, negatively regulates heme oxygenase 1 (HMOX1), a key cytoprotective enzyme that has antioxidant and anti-inflammatory activities. In the absence of elevated intracellular heme or oxidative stress, BACH1 functions as a repressor of the enhancers of heme oxygenase-1 (HO-1) gene (Hmox-1) by forming heterodimers with the small Maf proteins such as MafK. Bach1 is recruited to a subset of p53 target genes and contributes to impeding p53 action by promoting histone deacetylation.
-- BACH1 is, in most contexts, a transcriptional repressor
-
-EXACT_ANSWER:
-- Repressor

@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Identifying large expansions of short tandem repeats (STRs), such as those that cause amyotrophic lateral sclerosis (ALS) and fragile X syndrome, is challenging for short-read whole-genome sequencing (WGS) data. A solution to this problem is an important step toward integrating WGS into precision medicine. For that purpose, ExpansionHunter has been developed as a software tool that, using PCR-free WGS short- read data, can genotype repeats at the locus of interest, even if the expanded repeat is larger than the read length.
-- Identifying large expansions of short tandem repeats (STRs), such as those that cause amyotrophic lateral sclerosis (ALS) and fragile X syndrome, is challenging for short-read whole-genome sequencing (WGS) data. A solution to this problem is an important step toward integrating WGS into precision medicine. ExpansionHunter has been developed as a tool which using PCR-free WGS short-read data, can genotype repeats at the locus of interest, even if the expanded repeat is larger than the read length. ExpansionHunter can be used to accurately detect known pathogenic repeat expansions and provides researchers with a tool that can be used to identify new pathogenic repeat expansions.
-
-EXACT_ANSWER:
-- ExpansionHunter

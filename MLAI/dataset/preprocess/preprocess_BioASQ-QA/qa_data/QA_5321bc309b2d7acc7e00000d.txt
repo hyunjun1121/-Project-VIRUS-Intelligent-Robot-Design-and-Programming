@@ -1,8 +1,0 @@
-QUESTION: What is the target protein of the drug Idelalisib?
-
-IDEAL_ANSWER:
-- Idelalisib represents a first-in-class specific inhibitor of the phosphoinositol-3 kinase (PI3K) delta isoform.
-
-EXACT_ANSWER:
-- PI3K-δ
-- phosphoinositol-3 kinase delta isoform

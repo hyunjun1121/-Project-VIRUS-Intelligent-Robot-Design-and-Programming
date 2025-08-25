@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Huntington disease (HD; OMIM 143100), a progressive neurodegenerative disorder, is caused by an expanded trinucleotide CAG (polyQ) motif in the HTT gene. Mutations of the huntingtin protein (HTT) gene underlie both adult-onset and juvenile forms of Huntington's disease (HD).
-- Huntington disease  is a progressive neurodegenerative disorder and is caused by an expanded trinucleotide CAG (polyQ) motif in the HTT gene.
-
-EXACT_ANSWER:
-- HTT or  IT-15 gene or HD gene

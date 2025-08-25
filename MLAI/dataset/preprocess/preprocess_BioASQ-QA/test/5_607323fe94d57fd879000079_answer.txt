@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The gene APOBEC3C codes for: apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3C
-
-EXACT_ANSWER:
-- apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3C

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Wells criteria are used to determine clinical probability of pulmonary embolism.
-
-EXACT_ANSWER:
-- pulmonary embolism

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Naloxone is opioid anagonist that should be administered for all patients with suspected acute opioid overdose. Intravenous naltrexone hydrochloride is usually administered, however, other formulations, including enteral methylnaltrexone, nebulized naloxone and subcutaneous naloxone, are under investigation and can be used under certain circumstances.
-
-EXACT_ANSWER:
-- naloxone

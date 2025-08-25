@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- Steroid reductase mutations are associated with both sex-determining and non-syndromic hypospadias
-- Virilization of the external genitalia in the male fetus requires testosterone and dihydrotestosterone (DHT), which is formed from testosterone by the action of the enzyme, 5alpha-reductase type 2 (5alphaR-2). Numerous cases of male pseudohermaphroditism due to 5 alpha reductase-2 deficiency have been identified.
-- Mutations in the steroid 5 alpha-reductase 2 gene are the cause of 5 alpha reductase deficiency. In the 20 yr since it was established that impairment of dihydrotestosterone formation is a cause of a rare form of human intersex, a wealth of information has accumulated about the genetics, endocrinology, and variable phenotypic manifestations.
-- Hypospadias is a rare form of intersex due to reduced activity of steroid reductase 5 alpha-reductase.
-
-EXACT_ANSWER:
-- male pseudohermaphroditism

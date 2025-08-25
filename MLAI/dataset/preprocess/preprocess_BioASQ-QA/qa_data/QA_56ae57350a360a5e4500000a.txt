@@ -1,9 +1,0 @@
-QUESTION: Which is the physiological target for LeuRS translational quality control?
-
-IDEAL_ANSWER:
-- QUALITY CONTROL
-- The physiological target for LeuRS translational quality control is norvaline.
-- The fidelity of protein synthesis depends on the capacity of aminoacyl-tRNA synthetases (AARSs) to couple only cognate amino acid-tRNA pairs. If amino acid selectivity is compromised, fidelity can be ensured by an inherent AARS editing activity that hydrolyses mischarged tRNAs. Rather, as shown by kinetic, structural and in vivo approaches, the prime biological function of LeuRS editing is to prevent mis-incorporation of the non-standard amino acid norvaline.
-
-EXACT_ANSWER:
-- Norvaline

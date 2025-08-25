@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- SYL040012 is in phase 2 clinical trials
-
-EXACT_ANSWER:
-- Phase 3

@@ -1,7 +1,0 @@
-QUESTION: Which syndrome is associated with OATP1B1 and OATP1B3 deficiency?
-
-IDEAL_ANSWER:
-- Complete and simultaneous deficiency of the organic anion transporting polypeptides OATP1B1 and OATP1B3 due to mutations in their corresponding genes, has been linked to Rotor syndrome.
-
-EXACT_ANSWER:
-- Rotor syndrome

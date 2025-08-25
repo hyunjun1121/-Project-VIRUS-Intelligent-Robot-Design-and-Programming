@@ -1,7 +1,0 @@
-QUESTION: What type of mutation is causing the industrial melanism phenotype in peppered moths?
-
-IDEAL_ANSWER:
-- The mutation event giving rise to industrial melanism in Britain was the insertion of a large, tandemly repeated, transposable element into the first intron of the gene cortex.
-
-EXACT_ANSWER:
-- transposable element insertion

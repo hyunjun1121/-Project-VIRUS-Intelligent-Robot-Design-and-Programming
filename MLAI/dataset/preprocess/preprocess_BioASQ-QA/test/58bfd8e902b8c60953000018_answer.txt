@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Necrobiosis lipoidica diabeticorum (NLD) is a rare, granulomatous inflammatory skin disease of unknown origin, sometimes associated with diabetes mellitus.
-
-EXACT_ANSWER:
-- Diabetes mellitus

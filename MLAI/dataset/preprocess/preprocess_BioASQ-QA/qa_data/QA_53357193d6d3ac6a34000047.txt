@@ -1,8 +1,0 @@
-QUESTION: Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?
-
-IDEAL_ANSWER:
-- Tofacitinib (or CP690.550) is an oral JAK (Janus kinase) inhibitor that is approved for treatment of rheumatoid arthritis. Tofacitinib inhibits JAK family kinase members, in particular JAK1 and JAK3, achieving a broad limitation of inflammation by interfering with several cytokine receptors. Tofacitinib has also a proven efficacy as an immunosuppressive regimen after renal transplantation.  
-GLPG-0634 and INCB18424 are other JAK kinase inhibitors that are being studied for treatment of rheumatoid arthritis.
-
-EXACT_ANSWER:
-- tofacitinib

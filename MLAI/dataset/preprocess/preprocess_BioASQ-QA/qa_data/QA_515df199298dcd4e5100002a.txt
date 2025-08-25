@@ -1,7 +1,0 @@
-QUESTION: What is the lay name of the treatment for CCSVI (chronic cerebro-spinal venous insufficiency)  in multiple sclerosis.
-
-IDEAL_ANSWER:
-- The so-called "LIberation therapy" is in fact Endovascular Treatment and consists of PTA (Percutaneous Transluminal Angioplasty), which is dilatation of the internal jugular and/or azygous veins by a catheter venography. Stent placement is optional but has been strongly advised against as being dangerous.
-
-EXACT_ANSWER:
-- LIberation therapy

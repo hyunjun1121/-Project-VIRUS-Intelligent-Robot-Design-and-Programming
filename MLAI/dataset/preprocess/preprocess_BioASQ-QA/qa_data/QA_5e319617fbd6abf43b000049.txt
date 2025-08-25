@@ -1,7 +1,0 @@
-QUESTION: Which clotting factor is in the Andexxa?
-
-IDEAL_ANSWER:
-- Andexxa(r) is a first-in-class recombinant modified factor Xa protein. It is available to reverse life-threatening or uncontrolled bleeding with the factor Xa inhibitors apixaban and rivaroxaban.
-
-EXACT_ANSWER:
-- Xa

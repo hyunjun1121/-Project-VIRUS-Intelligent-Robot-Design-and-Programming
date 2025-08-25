@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The Opa1 protein localizes to the mitochondria.
-- Opa1 is found normally in the mitochondrial intermembrane space.
-
-EXACT_ANSWER:
-- mitochondrial intermembrane space

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The best indication of loxapine is paranoid schizophrenia.
-
-EXACT_ANSWER:
-- schizophrenia

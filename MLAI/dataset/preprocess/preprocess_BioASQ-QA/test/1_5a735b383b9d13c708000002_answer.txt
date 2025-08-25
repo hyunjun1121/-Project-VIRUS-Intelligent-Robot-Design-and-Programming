@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Patisiran.
-- The investigational RNAi drug in development for the treatment of hereditary amyloidosis is patisiran.
-
-EXACT_ANSWER:
-- Patisiran

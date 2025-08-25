@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Dapagliflozin (Forxiga®) is the first in a novel class of glucose-lowering agents known as sodium-glucose co-transporter-2 (SGLT2) inhibitors and is used in the treatment of patients with type 2 diabetes.
-
-EXACT_ANSWER:
-- Treatment of patients with type 2 diabetes.

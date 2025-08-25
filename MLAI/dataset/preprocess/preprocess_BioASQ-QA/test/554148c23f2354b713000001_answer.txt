@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- LepChorionDB
-
-EXACT_ANSWER:
-- LepChorionDB

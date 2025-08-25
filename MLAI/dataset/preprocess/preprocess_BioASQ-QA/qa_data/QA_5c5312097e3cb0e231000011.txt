@@ -1,7 +1,0 @@
-QUESTION: Where, in what US state, was there a measles outbreak in an Amish community
-
-IDEAL_ANSWER:
-- The measles outbreak started an Amish community in Ohio
-
-EXACT_ANSWER:
-- Ohio

@@ -1,7 +1,0 @@
-QUESTION: For which disease is sutezolid developed?
-
-IDEAL_ANSWER:
-- Sutezolid is being developed as a treatment against tuberculosis.
-
-EXACT_ANSWER:
-- Tuberculosis

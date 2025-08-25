@@ -1,7 +1,0 @@
-QUESTION: What is the link between HOT regions and RNA polymerase recruitment?
-
-IDEAL_ANSWER:
-- Most HOT regions co-localize with RNA polymerase II binding sites, but many are not near the promoters of annotated genes. At HOT promoters, TF occupancy is strongly predictive of transcription preinitiation complex recruitment and moderately predictive of initiating Pol II recruitment, but only weakly predictive of elongating Pol II and RNA transcript abundance.
-
-EXACT_ANSWER:
-- Transcription-factor occupancy at HOT regions quantitatively predicts RNA polymerase recruitment.

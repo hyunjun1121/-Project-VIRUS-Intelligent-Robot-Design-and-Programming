@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The Simpson grading system was used to assess the extent of surgical resection of meningioma.
-
-EXACT_ANSWER:
-- meningioma

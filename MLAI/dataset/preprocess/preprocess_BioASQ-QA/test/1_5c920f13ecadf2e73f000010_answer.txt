@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Apixaban is an anticoagulant.
-
-EXACT_ANSWER:
-- anticoagulant

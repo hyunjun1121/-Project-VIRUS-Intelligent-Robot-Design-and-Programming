@@ -1,7 +1,0 @@
-QUESTION: What protein is the most common cause of hereditary  renal amyloidosis?
-
-IDEAL_ANSWER:
-- The most common cause of hereditary  renal amyloidosis is over expression of a mutant form of the Fibrinogen A Alpha protein
-
-EXACT_ANSWER:
-- Fibrinogen A Alpha protein

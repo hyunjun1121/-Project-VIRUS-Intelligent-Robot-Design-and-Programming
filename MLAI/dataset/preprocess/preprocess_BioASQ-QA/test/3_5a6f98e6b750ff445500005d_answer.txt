@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Posterior cruciate ligament injuries have a reported incidence of between 3 and 37%, depending on the clinical setting. The most common mechanism of injury in motor vehicle accidents is a dashboard injury or direct force to the proximal anterior tibia.
-
-EXACT_ANSWER:
-- Posterior cruciate ligament

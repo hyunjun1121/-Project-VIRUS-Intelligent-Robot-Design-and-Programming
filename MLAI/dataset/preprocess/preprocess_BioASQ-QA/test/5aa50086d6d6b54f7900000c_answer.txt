@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ubiquilins, a family of ubiquitin-binding proteins, are involved in all protein degradation pathways. Ubiquilin (UBQLN) proteins are adaptors thought to link ubiquitinated proteins to the proteasome.
-
-EXACT_ANSWER:
-- Ubiquilins, a family of ubiquitin-binding proteins, are involved in all protein degradation pathways.

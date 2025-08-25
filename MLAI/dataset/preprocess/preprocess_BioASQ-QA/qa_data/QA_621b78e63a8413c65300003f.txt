@@ -1,7 +1,0 @@
-QUESTION: What is the activity of a Oligosaccharyltransferases ?
-
-IDEAL_ANSWER:
-- oligosaccharyltransferases (OSTs), which catalyze the attachment of glycans to specific amino acid residues in target proteins
-
-EXACT_ANSWER:
-- attachment of glycans to specific amino acid residues in target proteins

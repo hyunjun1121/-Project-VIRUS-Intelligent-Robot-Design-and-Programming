@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Nivolumab was developed as a monoclonal antibody against programmed death receptor-1, an immune checkpoint inhibitor which negatively regulates T-cell proliferation and activation.
-
-EXACT_ANSWER:
-- programmed death receptor-1

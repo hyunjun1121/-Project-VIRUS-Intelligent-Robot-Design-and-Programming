@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- FDA approved the first B-cell maturation antigen-targeted CAR-T cell therapy on March 26, 2021.
-
-EXACT_ANSWER:
-- 26 March 2021

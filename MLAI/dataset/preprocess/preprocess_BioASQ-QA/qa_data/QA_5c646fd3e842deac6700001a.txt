@@ -1,7 +1,0 @@
-QUESTION: Which disease is gemtuzumab ozogamicin used for?
-
-IDEAL_ANSWER:
-- Gemtuzumab ozogamicin is used for the treatment of acute myeloid leukemia
-
-EXACT_ANSWER:
-- Acute myeloid leukemia

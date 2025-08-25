@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Erenumab is a human monoclonal antibody that inhibits the calcitonin gene-related peptide receptor, is being evaluated for migraine prevention.
-
-EXACT_ANSWER:
-- calcitonin gene-related peptide receptor

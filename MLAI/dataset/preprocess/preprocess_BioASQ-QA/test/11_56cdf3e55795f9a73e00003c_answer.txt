@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Heterodimeric Rag GTPases are required for amino-acid-mediated mTORC1 activation at the lysosome
-- Amino acids act through the heterodimeric Rag GTPases (RagA or RagB bound to RagC or RagD) in order to promote the translocation of mTORC1 to the lysosomal surface, its site of activation.
-
-EXACT_ANSWER:
-- Heterodimeric Rag GTPases

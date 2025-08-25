@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- locus overlap analysis (lola) provides easy and automatable enrichment analysis for genomic region sets, thus facilitating the interpretation of functional genomics and epigenomics data.
-- Genomic datasets are often interpreted in the context of large-scale reference databases. Locus Overlap Analysis (LOLA) provides easy and automatable enrichment analysis for genomic region sets, thus facilitating the interpretation of functional genomics and epigenomics data.
-- Locus Overlap Analysis (LOLA) provides easy and automatable enrichment analysis for genomic region sets, thus facilitating the interpretation of functional genomics and epigenomics data.
-
-EXACT_ANSWER:
-- LOLA

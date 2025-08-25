@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- Inhibitor 1 (I-1) is a protein inhibitor of protein phosphatase 1 (PP1), a major eukaryotic Ser/Thr phosphatase. Nonphosphorylated I-1 is inactive, whereas phosphorylated I-1 is a potent PP1 inhibitor.   
-- Protein Phosphatase-1 is restrained by its endogenous inhibitor, protein phosphatase inhibitor-1 (PPI-1). Inhibition of the protein phosphatase 1, by inhibitor-1, significantly increases cardiac contractility and calcium handling. Inhibitor-1 becomes a potent inhibitor of protein phosphatase 1 when phosphorylated by cAMP-dependent protein kinase.
-
-EXACT_ANSWER:
-- protein phosphatase inhibitor 1
-- inhibitor 1
-- PPI-1
-- I1

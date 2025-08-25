@@ -1,7 +1,0 @@
-QUESTION: Which receptor is blocked by Finerenone?
-
-IDEAL_ANSWER:
-- Finerenone is a nonsteroidal mineralocorticoid receptor antagonist.
-
-EXACT_ANSWER:
-- mineralocorticoid

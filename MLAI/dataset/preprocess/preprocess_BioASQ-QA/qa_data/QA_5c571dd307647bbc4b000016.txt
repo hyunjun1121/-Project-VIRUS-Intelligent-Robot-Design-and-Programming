@@ -1,8 +1,0 @@
-QUESTION: What organism causes hepatic capillariasis?
-
-IDEAL_ANSWER:
-- Hepatic capillariasis is a rare and neglected parasitic disease caused by infection with Capillaria hepatica in human liver.
-- hepatic capillariasis, caused by the parasite Capillaria hepatica,
-
-EXACT_ANSWER:
-- Capillaria hepatica

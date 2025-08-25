@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Cluster of Differentiation (CD) are cellular antigens used to identify cell populations, such as T-lymphocyte populations and macrophages.
-
-EXACT_ANSWER:
-- Cluster of Differentiation (CD) are cellular antigens used to identify cell populations, such as T-lymphocyte populations and macrophages.

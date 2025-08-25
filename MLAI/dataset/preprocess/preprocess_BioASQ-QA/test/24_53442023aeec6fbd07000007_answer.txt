@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Haspin phosphorylates histone H3 at Thr3 (H3T3ph) during mitosis
-
-EXACT_ANSWER:
-- Histone 3 at Thr3

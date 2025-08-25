@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- TIA-1 is an RNA binding protein that promotes the assembly of stress granules (SGs), discrete cytoplasmic inclusions into which stalled translation initiation complexes are dynamically recruited in cells subjected to environmental stress. The RNA recognition motifs of TIA-1 are linked to a glutamine-rich prion-related domain (PRD). Truncation mutants lacking the PRD domain do not induce spontaneous SGs and are not recruited to arsenite-induced SGs, whereas the PRD forms aggregates that are recruited to SGs in low-level-expressing cells but prevent SG assembly in high-level-expressing cells.
-
-EXACT_ANSWER:
-- The glutamine-rich prion-related domain (PRD)

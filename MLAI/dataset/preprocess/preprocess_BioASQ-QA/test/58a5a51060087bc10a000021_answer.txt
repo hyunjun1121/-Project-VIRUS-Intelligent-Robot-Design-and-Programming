@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- NADPH oxidase 1 (NOX1) requires interaction with NOXO1 for function.
-
-EXACT_ANSWER:
-- NADPH oxidase 1
-- NOX1
-- nicotinamide adenine dinucleotide phosphate-oxidase 1

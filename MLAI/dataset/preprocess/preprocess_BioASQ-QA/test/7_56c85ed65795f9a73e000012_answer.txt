@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Dasatinib inhibits T-cell proliferation
-
-EXACT_ANSWER:
-- inhibits

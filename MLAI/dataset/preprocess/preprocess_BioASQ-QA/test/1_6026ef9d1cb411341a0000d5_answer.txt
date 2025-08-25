@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- In February 2020, eptinezumab was approved in the USA for the preventive treatment of migraine in adults.
-
-EXACT_ANSWER:
-- In February 2020

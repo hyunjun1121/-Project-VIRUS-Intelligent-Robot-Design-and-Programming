@@ -1,7 +1,0 @@
-QUESTION: Where is the respirasome located?
-
-IDEAL_ANSWER:
-- Respirasomes are macromolecular assemblies of the respiratory chain complexes I, III and IV in the inner mitochondrial membrane. The 4.0 Å cryo-EM structure of one of the most intricate enzyme systems, the respirasome, in the mitochondrial inner membrane is now available.
-
-EXACT_ANSWER:
-- In the inner mitochondrial membrane

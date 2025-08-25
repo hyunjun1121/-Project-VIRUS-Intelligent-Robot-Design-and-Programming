@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Aducanumab is an anti-Aβ antibody being developed for the treatment of Alzheimer's disease (AD).
-
-EXACT_ANSWER:
-- Alzheimer's disease

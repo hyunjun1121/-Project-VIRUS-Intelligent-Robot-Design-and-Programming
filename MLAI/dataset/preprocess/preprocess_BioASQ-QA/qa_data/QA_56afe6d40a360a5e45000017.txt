@@ -1,7 +1,0 @@
-QUESTION: Which tool is used for promoterome mining using CAGE data?
-
-IDEAL_ANSWER:
-- Despite their high resolution and functional significance, published CAGE data are still underused in promoter analysis due to the absence of tools that enable its efficient manipulation and integration with other genome data types. CAGEr is an R implementation of novel methods for the analysis of differential TSS usage and promoter dynamics, integrated with CAGE data processing and promoterome mining into a first comprehensive CAGE toolbox on a common analysis platform.
-
-EXACT_ANSWER:
-- CAGEr

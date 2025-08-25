@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Nerve-associated peripheral glial progenitors give rise to parasympathetic neurons. The parasympathetic system in mice--including trunk ganglia and the cranial ciliary, pterygopalatine, lingual, submandibular, and otic ganglia--arise from glial cells in nerves, not neural crest cells. The parasympathetic fate is induced in nerve-associated Schwann cell precursors at distal peripheral sites.
-- Parasympathetic neurons originate from nerve-associated peripheral glial progenitors. The parasympathetic fate is induced in nerve-associated Schwann cell precursors at distal peripheral sites.
-- Parasympathetic neurons originate from nerve-associated peripheral glial progenitors.
-
-EXACT_ANSWER:
-- Parasympathetic neurons

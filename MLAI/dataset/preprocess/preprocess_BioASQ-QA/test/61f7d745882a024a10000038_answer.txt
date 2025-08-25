@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- PfSPZ Vaccine is used for prevention of malaria.
-
-EXACT_ANSWER:
-- malaria

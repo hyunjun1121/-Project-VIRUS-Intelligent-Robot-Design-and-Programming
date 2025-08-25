@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- A standardized test battery for the study of synesthesia. We used synesthetic versions of the Stroop test with colored letters and numbers presented either in the right or the left visual field of thirty-four synesthetes. Assessment of the hemispheric lateralization of grapheme-color synesthesia with Stroop-type tests. 
-- Stroop-type testsWe
-- We used synesthetic versions of the Stroop test with colored letters and numbers presented either in the right or the left visual field of thirty-four synesthetes
-
-EXACT_ANSWER:
-- Stroop Test

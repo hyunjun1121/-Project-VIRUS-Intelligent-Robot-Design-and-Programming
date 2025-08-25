@@ -1,7 +1,0 @@
-QUESTION: What type of topoisomerase inhibitor is gepotidacin?
-
-IDEAL_ANSWER:
-- Gepotidacin is a type IIA topoisomerase inhibitor.
-
-EXACT_ANSWER:
-- type IIA

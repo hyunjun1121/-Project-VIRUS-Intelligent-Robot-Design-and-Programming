@@ -1,7 +1,0 @@
-QUESTION: Which is the main cause of the Patau syndrome?
-
-IDEAL_ANSWER:
-- Patau syndrome is caused by trisomy 13.
-
-EXACT_ANSWER:
-- Trisome 13

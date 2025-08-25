@@ -1,7 +1,0 @@
-QUESTION: RV3-BB vaccine is used for prevention of which viral infection?
-
-IDEAL_ANSWER:
-- The RV3-BB human neonatal rotavirus vaccine aims to provide protection from severe rotavirus disease from birth.
-
-EXACT_ANSWER:
-- rotavirus disease

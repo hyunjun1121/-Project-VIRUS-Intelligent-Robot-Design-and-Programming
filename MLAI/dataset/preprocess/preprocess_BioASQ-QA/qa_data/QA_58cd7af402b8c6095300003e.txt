@@ -1,7 +1,0 @@
-QUESTION: What is the aim of the TRAP assay?
-
-IDEAL_ANSWER:
-- Telomerase enzyme activity can be detected in whole cell lysates by a polymerase chain reaction (PCR)-based method referred to as the telomeric repeat amplification protocol (TRAP).
-
-EXACT_ANSWER:
-- Telomerase enzyme activity can be detected in whole cell lysates by a polymerase chain reaction (PCR)-based method referred to as the telomeric repeat amplification protocol (TRAP).

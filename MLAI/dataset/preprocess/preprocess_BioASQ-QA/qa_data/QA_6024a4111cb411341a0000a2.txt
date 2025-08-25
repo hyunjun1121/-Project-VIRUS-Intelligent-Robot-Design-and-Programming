@@ -1,7 +1,0 @@
-QUESTION: Which molecule is targeted by Teprotumumab?
-
-IDEAL_ANSWER:
-- Teprotumumab is a human monoclonal antibody that targets IGF-1R. It can be used for treatment of thyroid eye disease.
-
-EXACT_ANSWER:
-- IGF-1R

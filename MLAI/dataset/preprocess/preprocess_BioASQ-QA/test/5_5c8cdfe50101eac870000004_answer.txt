@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mitochondrial Carrier Homolog 2 (MTCH2) acts as a receptor for the BH3 interacting-domain death agonist (BID) in the mitochondrial outer membrane.
-
-EXACT_ANSWER:
-- truncated BH3-interacting domain death agonist (tBID) protein

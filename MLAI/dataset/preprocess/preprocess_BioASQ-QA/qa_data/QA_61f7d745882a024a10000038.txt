@@ -1,7 +1,0 @@
-QUESTION: Which disease can be prevented with PfSPZ Vaccine?
-
-IDEAL_ANSWER:
-- PfSPZ Vaccine is used for prevention of malaria.
-
-EXACT_ANSWER:
-- malaria

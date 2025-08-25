@@ -1,1 +1,0 @@
-Answer the Question below. Choose the only one which is in the candidates below.\n\n#Question\ninteracts_with DB06643?\n\n#candidates\nDB00091\nDB00094\nDB00138\nDB01541\nDB02621\nDB02712\nDB05005\nDB05692\nDB06096

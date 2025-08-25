@@ -1,9 +1,0 @@
-QUESTION: How many TAp73 isoforms have been identified in humans?
-
-IDEAL_ANSWER:
-- The TP73 gene, due to the presence of two promoters (P1 and P2) in its 5' flanking region, encodes a fully transcriptionally active domain (TAp73) and the amino terminus deleted (ΔNp73). TAp73 possesses pro-apoptotic properties, while deltaNp73 has anti-apoptotic functions. Alternative 3'-end splicing results in generation of at least seven TAp73 distinctive isoforms ( α, β, γ, etc ).
-- The Trp73 gene belongs to the p53 family of transcription factors and, like the other members, is transcribed into different isoforms [1-4]. TP73 gene contains two promoters, encoding the transcriptional domain-containing (TAp73) and the amino deleted (DNp73) isoforms [5, 6]. Furthermore alternative splicing at the 3'-end (to generate a, b, g, etc isoforms) and 5'-end (to generate D2, D3 and D2-3 isoforms) results in generation of at least 14 different transcripts, with different abilities to promote or repress apoptosis [7, 8]. (PMID: 22388545)
-
-EXACT_ANSWER:
-- seven
-- 7

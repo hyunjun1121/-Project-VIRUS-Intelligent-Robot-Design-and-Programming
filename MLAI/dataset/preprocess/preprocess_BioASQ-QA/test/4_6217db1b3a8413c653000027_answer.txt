@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The presence of mutations in PRF1, UNC13D, STX11 and STXBP2 genes in homozygosis or compound heterozygosis results in immune deregulation. Most such cases lead to clinical manifestations of haemophagocytic lymphohistiocytosis (HLH).
-
-EXACT_ANSWER:
-- haemophagocytic lymphohistiocytosis (HLH)

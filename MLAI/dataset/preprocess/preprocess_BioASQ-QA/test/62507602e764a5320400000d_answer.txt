@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Temsirolimus is a mTOR inhibitor
-
-EXACT_ANSWER:
-- mTOR

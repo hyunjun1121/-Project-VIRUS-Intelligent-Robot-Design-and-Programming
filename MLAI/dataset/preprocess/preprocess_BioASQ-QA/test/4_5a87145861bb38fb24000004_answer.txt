@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Black lung, also known as pneumoconiosis, is caused by chronic exposure to coal dust.
-
-EXACT_ANSWER:
-- Chronic exposure to coal dust

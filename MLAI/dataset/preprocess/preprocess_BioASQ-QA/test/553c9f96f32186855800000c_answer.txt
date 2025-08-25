@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Ultraconserved non-coding elements (UCNEs) are organized as large clusters, so-called gene regulatory blocks (GRBs) around key developmental genes. Their molecular functions and the reasons for their high degree of conservation remain enigmatic.
-
-EXACT_ANSWER:
-- gene regulatory blocks (GRBs)

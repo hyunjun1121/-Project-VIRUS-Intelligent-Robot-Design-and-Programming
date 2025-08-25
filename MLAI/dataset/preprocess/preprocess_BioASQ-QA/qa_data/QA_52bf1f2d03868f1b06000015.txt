@@ -1,7 +1,0 @@
-QUESTION: Which drug is benserazide usually co-administered with?
-
-IDEAL_ANSWER:
-- Co-administration of L-Dopa with carbidopa or benserazide is the most effective symptomatic treatment for Parkinson Disease (PD).
-
-EXACT_ANSWER:
-- L-Dopa

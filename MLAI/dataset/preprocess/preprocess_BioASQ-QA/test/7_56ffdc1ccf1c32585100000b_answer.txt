@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- One of the most common forms of pre-mRNA editing is A-to-I editing, in which adenosine is deaminated to inosine, which is read as guanosine during translation.
-
-EXACT_ANSWER:
-- A-to-I

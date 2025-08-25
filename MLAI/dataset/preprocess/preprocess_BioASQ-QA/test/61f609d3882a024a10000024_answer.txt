@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Bimekizumab is used for psoriasis.
-
-EXACT_ANSWER:
-- psoriasis

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- FTY720 is a prodrug.
-
-EXACT_ANSWER:
-- prodrug

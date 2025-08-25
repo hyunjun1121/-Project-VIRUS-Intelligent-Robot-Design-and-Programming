@@ -1,7 +1,0 @@
-QUESTION: What is the most common histological diagnosis of "butterfly glioma"?
-
-IDEAL_ANSWER:
-- Butterfly glioma is glioblastoma multiforme invading corpus callosum .
-
-EXACT_ANSWER:
-- glioblastoma multiforme

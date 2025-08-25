@@ -1,7 +1,0 @@
-QUESTION: Which brain tumors does neuroligin-3 promote?
-
-IDEAL_ANSWER:
-- Neuroligin-3 promotes the growth of high-grade gliomas.
-
-EXACT_ANSWER:
-- high-grade gliomas

@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Peroxiredoxin 2 (PRDX2) is an antioxidant enzyme that uses cysteine residues to decompose peroxides. 
-Peroxiredoxin-2 (PRDX2), an enzyme reducing hydrogen peroxide and lipid peroxides 
-Peroxiredoxin 2 (Prx2) is a thiol-dependent peroxidase.
-
-EXACT_ANSWER:
-- antioxidant

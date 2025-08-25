@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Inhibition of sodium glucose co-transporter 2 (SGLT2) is the major mechanism of action of canagliflozin. Canagliflozin is the first SGLT2 inhibitor to be approved in the USA for the treatment of type 2 diabetes and is under regulatory review in the EU. Other SGLT2 inhibitors include dapagliflozin and empagliflozin.
-
-EXACT_ANSWER:
-- sodium glucose co-transporter 2

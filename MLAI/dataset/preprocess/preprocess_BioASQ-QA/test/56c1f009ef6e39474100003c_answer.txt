@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Eliglustat was developed for treatment of Gaucher's disease type 1.
-
-EXACT_ANSWER:
-- Gaucher's disease type 1

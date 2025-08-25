@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- OTULIN is a deubiquitinase, that specifically cleaves Met1-linked polyUb.
-
-EXACT_ANSWER:
-- deubiquitination

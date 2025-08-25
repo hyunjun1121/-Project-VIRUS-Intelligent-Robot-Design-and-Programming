@@ -1,7 +1,0 @@
-QUESTION: Which disease can be categorized using the Koos grading system?
-
-IDEAL_ANSWER:
-- Koos grading system is used for vestibular schwannoma.
-
-EXACT_ANSWER:
-- vestibular schwannoma

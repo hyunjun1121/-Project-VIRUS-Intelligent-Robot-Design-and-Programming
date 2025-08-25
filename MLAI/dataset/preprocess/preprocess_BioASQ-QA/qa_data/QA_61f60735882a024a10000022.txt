@@ -1,7 +1,0 @@
-QUESTION: Which disease is treated with Risdiplam?
-
-IDEAL_ANSWER:
-- Risdiplam is approved for spinal muscular atrophy.
-
-EXACT_ANSWER:
-- spinal muscular atrophy

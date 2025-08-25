@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Loss-of-function nuclear factor κB subunit 1 (NFKB1) variants are the most common monogenic cause of common variable immunodeficiency in Europeans.
-- Heterozygous loss-of-function variants in NFKB1 are the most common known monogenic cause of common variable immunodeficiency (CVID), which results in a temporally progressive defect in the formation of immunoglobulin-producing B cells.
-
-EXACT_ANSWER:
-- Heterozygous loss-of-function variants in NFKB1

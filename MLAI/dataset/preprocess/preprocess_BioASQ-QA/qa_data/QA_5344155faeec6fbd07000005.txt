@@ -1,7 +1,0 @@
-QUESTION: What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?
-
-IDEAL_ANSWER:
-- X- linked recessive
-
-EXACT_ANSWER:
-- X- linked recessive

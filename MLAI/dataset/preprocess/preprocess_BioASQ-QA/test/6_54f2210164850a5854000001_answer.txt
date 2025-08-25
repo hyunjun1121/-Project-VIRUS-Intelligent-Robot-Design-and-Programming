@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Hepcidin contains eight cysteine residues that form four disulfide bridges.
-
-EXACT_ANSWER:
-- Hepcidin contains eight cysteine residues that form four disulfide bridges

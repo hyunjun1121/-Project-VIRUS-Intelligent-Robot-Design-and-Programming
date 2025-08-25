@@ -1,9 +1,0 @@
-QUESTION: What class of drugs is commonly associated with Drug-induced interstitial lung disease (DIILD)?
-
-IDEAL_ANSWER:
-- [' Numerous agents including cytotoxic and noncytotoxic drugs have the potential to cause pulmonary toxicity.']
-- Numerous agents including cytotoxic and noncytotoxic drugs have the potential to cause pulmonary toxicity
-- Cytotoxic drugs are the most common cause of toxic lung disease.
-
-EXACT_ANSWER:
-- cytotoxic drugs

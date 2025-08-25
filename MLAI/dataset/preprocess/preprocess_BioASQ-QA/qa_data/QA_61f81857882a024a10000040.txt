@@ -1,8 +1,0 @@
-QUESTION: Which is the major clinical feature observed in FDXR-associated disease?
-
-IDEAL_ANSWER:
-- FDXR-associated disease is a phenotypically heterogeneous disorder with retinal dystrophy being a major clinical feature observed in this cohort.
-- Retinal dystrophy is a major clinical feature observed in FDXR-associated disease.
-
-EXACT_ANSWER:
-- Retinal dystrophy

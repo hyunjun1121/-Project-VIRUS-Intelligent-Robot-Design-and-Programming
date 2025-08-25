@@ -1,7 +1,0 @@
-QUESTION: What is the main application of SWATH-MS in proteomics?
-
-IDEAL_ANSWER:
-- Using the method called SWATH-MS one might ask sample sets for the presence and quantity of essentially any protein of interest.
-
-EXACT_ANSWER:
-- The identification and quantification of any protein.

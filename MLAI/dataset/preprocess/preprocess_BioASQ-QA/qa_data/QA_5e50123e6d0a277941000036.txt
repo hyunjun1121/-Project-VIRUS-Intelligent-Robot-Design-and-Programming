@@ -1,7 +1,0 @@
-QUESTION: Which programming language has been used for implementing GWAR?
-
-IDEAL_ANSWER:
-- Stata
-
-EXACT_ANSWER:
-- Stata

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- In the mitochondrion (mitochondrial single-stranded DNA binding protein, mtSSB) and its role is the regulation of mitochondrial DNA replication initiation in mammalian mitochondria.
-
-EXACT_ANSWER:
-- Mitochondrion

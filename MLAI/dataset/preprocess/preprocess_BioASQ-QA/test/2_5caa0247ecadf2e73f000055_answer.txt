@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- In Drosophila, stellate-shaped tracheal terminal cells make seamless tubes, Early endocytosis maintains normal steady-state levels of Crumbs, which recruits apical phosphorylated (active) Moesin (Moe), which in turn regulates seamless tube shape in the development of the trachea.
-
-EXACT_ANSWER:
-- moesin (Moe)

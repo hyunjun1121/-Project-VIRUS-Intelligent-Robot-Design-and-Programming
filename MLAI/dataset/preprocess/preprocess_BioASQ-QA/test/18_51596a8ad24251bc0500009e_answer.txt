@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- centrosome
-
-EXACT_ANSWER:
-- centrosome

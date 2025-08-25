@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Hy's law correlates enzyme elevations with liver injury ad subsequent failure.
-
-EXACT_ANSWER:
-- liver

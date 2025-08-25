@@ -1,7 +1,0 @@
-QUESTION: What is the route of administration of apixaban?
-
-IDEAL_ANSWER:
-- Apixaban is administered orally.
-
-EXACT_ANSWER:
-- Oral

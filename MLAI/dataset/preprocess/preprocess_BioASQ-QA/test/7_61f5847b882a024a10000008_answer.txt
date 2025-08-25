@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Spesolimab is a novel anti-interleukin-36 receptor antibody.
-
-EXACT_ANSWER:
-- interleukin-36

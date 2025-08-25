@@ -1,7 +1,0 @@
-QUESTION: Which is the molecular target of the immunosuppressant drug Rapamycin?
-
-IDEAL_ANSWER:
-- The molecular target of Rapamycin is mTOR
-
-EXACT_ANSWER:
-- mTOR

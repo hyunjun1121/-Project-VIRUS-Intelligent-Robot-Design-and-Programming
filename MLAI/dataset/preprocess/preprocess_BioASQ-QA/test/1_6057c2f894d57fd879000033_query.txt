@@ -1,4 +1,0 @@
-Which method has been developed for detection of ATAC-seq or ChIP-seq signals with DNA methylation?
-
-[PMID: 31752933]
-Activation of regulatory elements is thought to be inversely correlated with DNA methylation levels. However, it is difficult to determine whether DNA methylation is compatible with chromatin accessibility or transcription factor (TF) binding if assays are performed separately. We developed a fast, low-input, low sequencing depth method, EpiMethylTag, that combines ATAC-seq or ChIP-seq (M-ATAC or M-ChIP) with bisulfite conversion, to simultaneously examine accessibility/TF binding and methylation on the same DNA. Here we demonstrate that EpiMethylTag can be used to study the functional interplay between chromatin accessibility and TF binding (CTCF and KLF4) at methylated sites.

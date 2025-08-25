@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Parkinson's disease (PD) is characterized by the progressive degeneration of substantia nigra pars compacta (SNpc) dopaminergic neurones and the formation of Lewy bodies (LB) in a proportion of the remaining neurones. Alpha-synuclein has been identified as the main component of the Lewy bodies.
-- The main component of Lewy bodies is alpha-synuclein.
-- Parkinson s disease (PD) is one of the most common neurodegenerative diseases. Majority of PD are sporadic, for which genetic causes remain largely unknown. Alpha-synuclein, the main component of Lewy bodies, plays a central role in the PD pathogenesis  
-
-EXACT_ANSWER:
-- Alpha-synuclein

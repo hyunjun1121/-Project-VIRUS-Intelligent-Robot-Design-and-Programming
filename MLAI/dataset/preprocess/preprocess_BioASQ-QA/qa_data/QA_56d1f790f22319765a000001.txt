@@ -1,8 +1,0 @@
-QUESTION: Which gene harbors the mutation T790M?
-
-IDEAL_ANSWER:
-- The T790M mutation refers to the mutation in exon 20 of the EGFR gene
-
-EXACT_ANSWER:
-- EGFR
-- epidermal growth factor receptor

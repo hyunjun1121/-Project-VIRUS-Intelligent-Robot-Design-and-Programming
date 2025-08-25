@@ -1,7 +1,0 @@
-QUESTION: What is the mode of inheritance of short QT syndrome?
-
-IDEAL_ANSWER:
-- The short QT syndrome has an autosomal dominant mode of inheritance.
-
-EXACT_ANSWER:
-- autosomal dominant mode of inheritance

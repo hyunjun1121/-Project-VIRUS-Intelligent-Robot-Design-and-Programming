@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- Sex hormones have long been implicated in autoimmune diseases because women account for 80% of cases.
-- Sex hormones have long been implicated in autoimmune diseases because women account for 80% of cases. Most recently, sex chromosome abnormalities and skewed X chromosome inactivation have been suggested as novel players, particularly in later-onset diseases.
-- Sex hormones have long been implicated in autoimmune diseases because women account for 80% of cases. Examples of this autoimmune dimorphism include (but are not limited to) lupus, rheumatoid arthritis and multiple sclerosis with the two former more prevalent in females than males and the latter more severe during pregnancy. Most recently, sex chromosome abnormalities and skewed X chromosome inactivation have been suggested as novel players, particularly in later-onset diseases.
-- females
-- Sex hormones have long been implicated in autoimmune diseases because women account for 80% of cases. Sex hormone expression is altered among patients with autoimmune disease, and this variation of expression contributes to immune dysregulation.
-
-EXACT_ANSWER:
-- Female

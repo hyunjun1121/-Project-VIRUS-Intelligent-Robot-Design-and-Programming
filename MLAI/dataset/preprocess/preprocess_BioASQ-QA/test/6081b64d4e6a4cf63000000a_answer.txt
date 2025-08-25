@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- HSJ1 is a neuronal enriched member of the HSP40/DNAJ co-chaperone family.
-
-EXACT_ANSWER:
-- HSJ1 are chaperones.

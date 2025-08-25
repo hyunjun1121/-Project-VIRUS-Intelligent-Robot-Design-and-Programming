@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- DCAF17 mutations are associated with Woodhouse-Sakati syndrome, a rare disorder characterized by alopecia, hypogonadotropic hypogonadism, sensorineural hearing loss, diabetes mellitus, and extrapyramidal movements.
-
-EXACT_ANSWER:
-- DCAF17

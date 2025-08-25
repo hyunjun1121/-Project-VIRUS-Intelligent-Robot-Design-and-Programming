@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Woolsorter's disease is caused by the same organism as Anthrax, bacillus Anthrax. 
-
-EXACT_ANSWER:
-- Bacillus Anthracis

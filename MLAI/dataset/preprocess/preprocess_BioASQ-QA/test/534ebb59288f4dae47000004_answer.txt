@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Rett syndrome (RTT) was shown to be caused by mutations in the methyl-CpG-binding protein 2 (MECP2) gene, with molecular studies identifying MECP2 mutations in up to 80% of classic RTT patients. MECP2 protein was found to assist in the transcriptional silencing process via DNA methylation. We therefore hypothesize that disruption of this gene alters the normal developmental expression of various other genes, some of which must account for the peculiar neurologic phenotype of RTT.
-
-EXACT_ANSWER:
-- Methyl-CpG-binding protein 2 (MECP2)

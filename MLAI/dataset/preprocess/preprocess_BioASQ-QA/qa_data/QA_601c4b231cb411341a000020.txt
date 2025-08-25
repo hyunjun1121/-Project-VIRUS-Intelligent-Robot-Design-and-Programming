@@ -1,7 +1,0 @@
-QUESTION: Givosiran is used for treatment of which disease?
-
-IDEAL_ANSWER:
-- Givosiran is approved for treatment of porphyria.
-
-EXACT_ANSWER:
-- porphyria

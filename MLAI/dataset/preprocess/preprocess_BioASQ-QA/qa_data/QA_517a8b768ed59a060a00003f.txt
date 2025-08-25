@@ -1,8 +1,0 @@
-QUESTION: Which deiodinase is known to be present in liver?
-
-IDEAL_ANSWER:
-- High D1 and D3 activities are present in fetal human liver, and high D1 and mostly absent D3 activities are present in adult human liver.
-
-EXACT_ANSWER:
-- Type 1 deiodinase
-- type 3 deiodinase

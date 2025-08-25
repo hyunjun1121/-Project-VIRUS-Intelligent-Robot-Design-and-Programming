@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- LKB1 plays a physiological role in controlling the Wnt-signaling.
-
-EXACT_ANSWER:
-- LKB1 plays a physiological role in controlling the Wnt-signaling.

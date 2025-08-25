@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The shikimate pathway responsible for the generation of aromatic amino acids
-
-EXACT_ANSWER:
-- aromatic amino acids

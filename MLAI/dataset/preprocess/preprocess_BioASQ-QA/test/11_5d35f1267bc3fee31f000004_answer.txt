@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Heterochromatin Protein 1 (HP1a) is a well-known conserved protein that is involved in heterochromatin formation and gene silencing through the reading of the heterochromatin mark methylation of histone H3 lysine 9 (H3K9me) in different species including humans.
-- Heterochromatin-associated protein 1 (HP1a) mediates silencing and switching at the mating-type loci and is essential for pluripotency in Drosophila. HP1a belongs to a homologous family of histone-deacetyltransferases that mediate chromatin organization through the binding of histones to chromatin. The ATP-dependent chromatin-remodelling activity of HP1A is mediated, in part, by its interaction with histone H3 methyltransferase 3 (H3K9me2/3).
-
-EXACT_ANSWER:
-- heterochromatic gene silencing

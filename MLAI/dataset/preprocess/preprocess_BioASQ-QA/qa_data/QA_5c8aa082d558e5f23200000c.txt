@@ -1,7 +1,0 @@
-QUESTION: What is the function of the cGAS pathway?
-
-IDEAL_ANSWER:
-- The cGAS-STING pathway not only mediates protective immune defense against infection by a large variety of DNA-containing pathogens but also detects tumor-derived DNA and generates intrinsic antitumor immunity.
-
-EXACT_ANSWER:
-- Immune defense

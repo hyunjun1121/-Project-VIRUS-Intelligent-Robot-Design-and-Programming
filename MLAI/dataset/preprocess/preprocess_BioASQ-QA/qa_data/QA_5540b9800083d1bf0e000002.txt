@@ -1,7 +1,0 @@
-QUESTION: Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?
-
-IDEAL_ANSWER:
-- Alpha and beta spectrin subunits form antiparallel spectrin heterodimers by lateral association.
-
-EXACT_ANSWER:
-- antiparallel

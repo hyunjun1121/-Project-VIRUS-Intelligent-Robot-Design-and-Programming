@@ -1,9 +1,0 @@
-QUESTION: Which yeast genes encode for condensin?
-
-IDEAL_ANSWER:
-- Smc2-Smc4 forms the core of the Saccharomyces cerevisiae condensin, which promotes metaphase chromosome compaction . Both SMC2 and SMC4 are essential for chromosome transmission in anaphase . Smc 2-8 suppresses catenanes accumulation, mitotic arrest and growth defects induced by histone depletion at semi-permissive temperature .
-- Smc2/4 forms the core of the Saccharomyces cerevisiae condensin, which promotes metaphase chromosome compaction
-- Condensin Smc2-Smc4 Dimers Are Flexible and Dynamic. Here, we probe the topology of Smc2-Smc4 dimers of the S. cerevisiae condensin complex with high-speed atomic force microscopy (AFM) in liquid Interestingly, SAC activation is suppressed by the absence of Top2 and Smc2, an essential component of condensin.
-
-EXACT_ANSWER:
-- Smc2/4

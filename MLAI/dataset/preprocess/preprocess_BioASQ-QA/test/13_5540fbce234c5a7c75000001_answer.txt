@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Cytosolic proteins carrying the KFERQ motif (a specific lysosomal import consensus sequence) are directed to a selective form of lysosomal degradation, called chaperone-mediated autophagy (CMA), as chaperone protein Hsc73 and other chaperones are involved in this process.
-
-EXACT_ANSWER:
-- chaperone-mediated autophagy (CMA)

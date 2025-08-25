@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The protein Pannexin1 is localized to the plasma membranes.
-
-EXACT_ANSWER:
-- plasma membrane

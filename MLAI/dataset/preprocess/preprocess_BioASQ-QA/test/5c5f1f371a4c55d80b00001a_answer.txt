@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Wild-type p53 can suppress tumour development by multiple pathways.
-
-EXACT_ANSWER:
-- tumor suppressor

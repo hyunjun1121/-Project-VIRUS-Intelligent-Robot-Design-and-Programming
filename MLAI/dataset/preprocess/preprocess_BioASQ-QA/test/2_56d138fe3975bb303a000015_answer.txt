@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway.
-
-EXACT_ANSWER:
-- The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway.

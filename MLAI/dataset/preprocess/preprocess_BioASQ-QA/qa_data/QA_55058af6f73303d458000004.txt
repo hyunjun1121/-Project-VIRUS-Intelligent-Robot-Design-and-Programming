@@ -1,9 +1,0 @@
-QUESTION: Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation?
-
-IDEAL_ANSWER:
-- The p53 tumour suppressor protein is tightly controlled by the E3 ubiquitin ligase, mouse double minute 2 (MDM2). The RING domain E3 ubiquitin ligase Mdm2 is the master regulator of the tumor suppressor p53. It targets p53 for proteasomal degradation, restraining the potent activity of p53 and enabling cell survival and proliferation. p53 is inactivated in many human malignancies through missense mutations or overexpression of the human homologue of Mdm2 (Hdm2), an E3 ubiquitin ligase that ubiquitinates p53, thereby promoting its proteasomal degradation.
-- This is well illustrated by the E3 ubiquitin ligase MDM2 that targets p53 for proteasomal degradation under normal conditions and is essential for controlling p53 activity during development., p53 is inactivated in many human malignancies through missense mutations or overexpression of the human homologue of Mdm2 (Hdm2), an E3 ubiquitin ligase that ubiquitinates p53, thereby promoting its proteasomal degradation., Mdm2 has been thought to regulate the tumor suppressor p53 in two ways: by masking p53's access to transcriptional machinery, and by ubiquitinating p53, targeting it for proteasomal degradation
-
-EXACT_ANSWER:
-- The mouse double minute 2 (mdm2)
-- The human homologue of Mdm2 (Hdm2)

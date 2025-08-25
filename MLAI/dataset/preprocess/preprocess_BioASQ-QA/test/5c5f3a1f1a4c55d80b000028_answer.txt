@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- FUK encodes fucokinase, the only enzyme capable of converting L-fucose to fucose-1-phosphate, which will ultimately be used for synthesizing GDP-fucose, the donor substrate for all fucosyltransferases.
-
-EXACT_ANSWER:
-- The convertion of L-fucose to fucose-1-phosphate.

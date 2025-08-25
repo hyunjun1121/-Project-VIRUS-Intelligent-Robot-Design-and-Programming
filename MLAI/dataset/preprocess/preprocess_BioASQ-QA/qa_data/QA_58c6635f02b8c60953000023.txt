@@ -1,7 +1,0 @@
-QUESTION: What is the inheritance of the glucose-6-phosphate dehydrogenase (G6PD) deficiency?
-
-IDEAL_ANSWER:
-- Glucose-6-phosphate dehydrogenase (G6PD) deficiency is the commonest red cell enzymopathy in humans and has a recessive X-linked inheritance.
-
-EXACT_ANSWER:
-- recessive X-linked inheritance

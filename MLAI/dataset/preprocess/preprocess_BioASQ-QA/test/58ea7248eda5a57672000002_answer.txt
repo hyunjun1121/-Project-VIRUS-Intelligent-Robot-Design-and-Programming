@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- New therapeutic options have recently been derived from studies of individuals with congenital insensitivity to pain (CIP). Here we identified 10 different homozygous mutations in PRDM12 (encoding PRDI-BF1 and RIZ homology domain-containing protein 12) in subjects with CIP from 11 families.
-
-EXACT_ANSWER:
-- congenital insensitivity to pain
-- CIP

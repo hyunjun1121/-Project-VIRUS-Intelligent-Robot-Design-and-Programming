@@ -1,7 +1,0 @@
-QUESTION: How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?
-
-IDEAL_ANSWER:
-- Large genome-wide association studies (GWAS) have identified more than 30 loci involved in RA pathogenesis. To date, over 30 non-MHC RA-associated loci have been identified in humans, and over 100 arthritis-associated loci have been identified in rodent models of RA. The most relevant non-HLA gene single nucleotide polymorphisms (SNPs) associated with RA include PTPN22, IL23R, TRAF1, CTLA4, IRF5, STAT4, CCR6, PADI4. Previous studies demonstrate that 6 of the established non-HLA CD and RA risk loci (out of 26 loci for each disease) are shared between both diseases.
-
-EXACT_ANSWER:
-- more than 30

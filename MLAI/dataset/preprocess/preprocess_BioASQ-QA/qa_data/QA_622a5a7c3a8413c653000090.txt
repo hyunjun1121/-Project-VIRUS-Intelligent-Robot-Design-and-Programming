@@ -1,7 +1,0 @@
-QUESTION: Is PPROM a condition that occurs in males or females?
-
-IDEAL_ANSWER:
-- Preterm premature rupture of fetal membranes (PPROM) occurs in pregnant females.
-
-EXACT_ANSWER:
-- Females

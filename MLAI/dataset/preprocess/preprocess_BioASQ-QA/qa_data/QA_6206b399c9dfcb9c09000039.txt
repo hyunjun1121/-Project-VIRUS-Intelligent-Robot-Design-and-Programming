@@ -1,7 +1,0 @@
-QUESTION: What pathological phenotype could potentially concomitant pomegranate juice and rosuvastatin use cause?
-
-IDEAL_ANSWER:
-- Concomitant use of rosuvastatin and pomegranate juice has been hypothesized to be associated with the development of rhabdomyolysis in a case report.
-
-EXACT_ANSWER:
-- Rhabdomyolysis

@@ -1,7 +1,0 @@
-QUESTION: Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?
-
-IDEAL_ANSWER:
-- The promoter paused form of RNA polymerase II is phosphorylated on serine 5 residues of the C-terminal heptapeptide repeat domain (CTD) of the largest subunit.
-
-EXACT_ANSWER:
-- Serine 5

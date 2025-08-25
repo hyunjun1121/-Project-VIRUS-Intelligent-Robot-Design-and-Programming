@@ -1,4 +1,0 @@
-Which method has been developed for assignment of enhancers to target genes?
-
-[PMID: 29070071]
-Transcriptional enhancers regulate spatio-temporal gene expression. While genomic assays can identify putative enhancers en masse, assigning target genes is a complex challenge. We devised a machine learning approach, McEnhancer, which links target genes to putative enhancers via a semi-supervised learning algorithm that predicts gene expression patterns based on enriched sequence features. Predicted expression patterns were 73-98% accurate, predicted assignments showed strong Hi-C interaction enrichment, enhancer-associated histone modifications were evident, and known functional motifs were recovered. Our model provides a general framework to link globally identified enhancers to targets and contributes to deciphering the regulatory genome.

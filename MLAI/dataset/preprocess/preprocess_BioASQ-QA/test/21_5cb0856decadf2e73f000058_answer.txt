@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Dihydroorotate dehydrogenase (DHODH) mediates the fourth step of de novo pyrimidine biosynthesis
-- The flavoenzyme dihydroorotate dehydrogenase (DHODH) catalyzes the fourth reaction of the de novo pyrimidine biosynthetic pathway, which exerts vital functions in the cells, especially within DNA and RNA biosynthesis
-- Dihydroorotate dehydrogenase (DHODH) catalyzes the fourth reaction of the de novo pyrimidine biosynthetic pathway, which exerts vital functions in the cells, especially within DNA and RNA biosynthesis.
-
-EXACT_ANSWER:
-- pyrimidine biosynthesis

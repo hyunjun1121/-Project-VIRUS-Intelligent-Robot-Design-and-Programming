@@ -1,7 +1,0 @@
-QUESTION: Which was the first adeno-associated virus vector gene therapy product approved in the United States?
-
-IDEAL_ANSWER:
-- The first adeno-associated virus vector gene therapy product in the United States was Luxturna.
-
-EXACT_ANSWER:
-- Luxturna

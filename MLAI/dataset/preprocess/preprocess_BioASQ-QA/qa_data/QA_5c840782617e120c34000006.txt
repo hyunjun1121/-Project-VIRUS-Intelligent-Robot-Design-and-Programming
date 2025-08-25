@@ -1,8 +1,0 @@
-QUESTION: What is resistin?
-
-IDEAL_ANSWER:
-- The adipocyte-secreting adipokine, resistin, may play a critical role in the modulation of inflammatory diseases.
-- Resistin, a pro-inflammatory cytokine,
-
-EXACT_ANSWER:
-- adipokine

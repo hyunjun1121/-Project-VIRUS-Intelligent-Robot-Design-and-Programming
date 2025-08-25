@@ -1,7 +1,0 @@
-QUESTION: What is the role of eteplirsen in DMD patients?
-
-IDEAL_ANSWER:
-- AVI-4658(eteplirsen) induces skipping of dystrophin exon 51 in patients with relevant deletions, restores the open reading frame and induces dystrophin protein expression after intramuscular (i.m.) injection.
-
-EXACT_ANSWER:
-- skipping of dystrophin exon 51

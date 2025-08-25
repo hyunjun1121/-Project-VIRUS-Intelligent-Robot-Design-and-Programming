@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Anti-Siglec-8 Antibody was shown to be effective for Eosinophilic Gastritis and Duodenitis. It is also undergoing clinical investigation for treatment of allergic, inflammatory, and proliferative diseases.
-
-EXACT_ANSWER:
-- Eosinophilic Gastritis and Duodenitis

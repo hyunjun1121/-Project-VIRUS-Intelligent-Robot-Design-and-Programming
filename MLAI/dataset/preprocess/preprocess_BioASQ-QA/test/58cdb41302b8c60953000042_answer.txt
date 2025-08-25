@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- the ehlers-danlos syndromes (eds) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility.
-- The Ehlers-Danlos syndromes (EDS) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility.
-- The Ehlers-Danlos syndromes (EDS) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility. 
-
-EXACT_ANSWER:
-- connective tissue

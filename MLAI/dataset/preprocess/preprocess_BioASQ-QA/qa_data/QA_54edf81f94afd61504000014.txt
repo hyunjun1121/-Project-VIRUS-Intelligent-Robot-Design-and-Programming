@@ -1,8 +1,0 @@
-QUESTION: Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?
-
-IDEAL_ANSWER:
-- The Fanconi anemia protein FANCA has been shown to interact with the brm-related gene 1 (BRG1) product. BRG1 is a subunit of the SWI/SNF complex, which remodels chromatin structure through a DNA-dependent ATPase activity.
-- FANCA was demonstrated to associate with the endogenous SWI/SNF complexFANCA may recruit the SWI/SNF complex to target genes, thereby enabling coupled nuclear functions such as transcription and DNA repair
-
-EXACT_ANSWER:
-- BRG1

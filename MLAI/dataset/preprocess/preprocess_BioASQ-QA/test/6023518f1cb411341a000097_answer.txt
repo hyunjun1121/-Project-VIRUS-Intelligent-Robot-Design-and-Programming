@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Roflumilast Cream has been shown to be effective for psoriasis.
-
-EXACT_ANSWER:
-- psoriasis

@@ -1,7 +1,0 @@
-QUESTION: What is the sedimentation coefficient of the mammalian mitoribosome?
-
-IDEAL_ANSWER:
-- The mammalian mitochondrial ribosome (mitoribosome) has a highly protein-rich composition with a small sedimentation coefficient of 55 S, consisting of 39 S large and 28 S small subunits.
-
-EXACT_ANSWER:
-- 55 S

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Proteins have signal sequences typically resent at the most N-terminal end.
-
-EXACT_ANSWER:
-- N-terminally

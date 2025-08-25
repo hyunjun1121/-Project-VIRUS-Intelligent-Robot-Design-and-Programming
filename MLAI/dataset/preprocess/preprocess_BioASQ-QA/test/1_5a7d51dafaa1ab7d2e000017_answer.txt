@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- IVIG is administered intravenously.
-
-EXACT_ANSWER:
-- Intravenous

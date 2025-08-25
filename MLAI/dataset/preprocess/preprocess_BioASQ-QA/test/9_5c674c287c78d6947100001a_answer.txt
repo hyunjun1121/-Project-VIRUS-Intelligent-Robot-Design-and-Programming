@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Microphthalmia, anophthalmia are the malformations of the eye, referring to a congenital absence, and a reduced size of the eyeball.
-- Anophthalmia is the medical term for the absence of one or both eyes.
-
-EXACT_ANSWER:
-- absence of one or both eyes

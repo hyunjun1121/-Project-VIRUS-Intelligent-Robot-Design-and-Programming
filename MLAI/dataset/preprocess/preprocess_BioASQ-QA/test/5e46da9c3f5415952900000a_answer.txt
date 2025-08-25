@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Upon UV irradiation of primate cells,  UV-DDB associates tightly with chromatin and is involved in global genomic nucleotide excision repair (NER) in mammalian cells.
-
-EXACT_ANSWER:
-- UV-DDB associates tightly with chromatin and is involved in global genomic nucleotide excision repair (NER)

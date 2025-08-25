@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Immunoaffinity purification using specific antibodies has been used in order to perform enrichment of methylated peptides.
-
-EXACT_ANSWER:
-- Immunoaffinity purification

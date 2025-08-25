@@ -1,7 +1,0 @@
-QUESTION: Which tool has been developed for GPU-accelerated alignment of bisulfite-treated DNA sequences?
-
-IDEAL_ANSWER:
-- The alignment of bisulfite-treated DNA sequences (BS-seq reads) to a large genome involves a significant computational burden beyond that required to align non-bisulfite-treated reads. In the analysis of BS-seq data, this can present an important performance bottleneck that can be mitigated by appropriate algorithmic and software-engineering improvements. One strategy is to modify the read-alignment algorithms by integrating the logic related to BS-seq alignment, with the goal of making the software implementation amenable to optimizations that lead to higher speed and greater sensitivity than might otherwise be attainable. This strategy was evaluated using Arioc, a short-read aligner that uses GPU (general-purpose graphics processing unit) hardware to accelerate computationally-expensive programming logic.
-
-EXACT_ANSWER:
-- Arioc

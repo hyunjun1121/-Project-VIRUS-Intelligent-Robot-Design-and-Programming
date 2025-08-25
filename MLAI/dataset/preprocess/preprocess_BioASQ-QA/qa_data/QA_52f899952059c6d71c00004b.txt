@@ -1,7 +1,0 @@
-QUESTION: Which mutation is associated with PLMS (periodic limb movements in sleep)?
-
-IDEAL_ANSWER:
-- missense substitution, Met1Val (M1V), was identified in the DCX gene
-
-EXACT_ANSWER:
-- missense substitution, Met1Val (M1V), in the DCX gene.

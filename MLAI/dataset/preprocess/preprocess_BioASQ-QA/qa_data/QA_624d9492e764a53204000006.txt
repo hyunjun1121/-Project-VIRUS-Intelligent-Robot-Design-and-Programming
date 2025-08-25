@@ -1,8 +1,0 @@
-QUESTION: What is MACE in the context of cardiotoxicity?
-
-IDEAL_ANSWER:
-- MACE is an acronym for Major Adverse Cardiovascular Events.
-- major adverse cardiac events (MACE)
-
-EXACT_ANSWER:
-- Major Adverse Cardiovascular Events.

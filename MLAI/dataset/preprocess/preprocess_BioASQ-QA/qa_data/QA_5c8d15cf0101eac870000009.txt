@@ -1,7 +1,0 @@
-QUESTION: Where is fatty acid binding protein 2 expressed?
-
-IDEAL_ANSWER:
-- fatty acid binding protein 2 is expressed by intestinal epithelial cells
-
-EXACT_ANSWER:
-- intestinal epithelial cells

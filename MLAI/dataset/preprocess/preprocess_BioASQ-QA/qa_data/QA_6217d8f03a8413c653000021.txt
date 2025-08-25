@@ -1,7 +1,0 @@
-QUESTION: What is the main use of ETD fragmentation?
-
-IDEAL_ANSWER:
-- Electron-based fragmentation methods have revolutionized biomolecular mass spectrometry, in particular native and top-down protein analysis.
-
-EXACT_ANSWER:
-- Analysis of intact proteins

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- FTO-mediated demethylation of GADD45B promotes myogenesis through the activation of p38 MAPK pathway.
-
-EXACT_ANSWER:
-- p38 MAPK pathway

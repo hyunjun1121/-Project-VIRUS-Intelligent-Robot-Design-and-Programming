@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- TAILS stands for "Terminal Amine Isotopic Labeling of Substrates"
-
-EXACT_ANSWER:
-- TAILS: Terminal Amine Isotopic Labeling of Substrates

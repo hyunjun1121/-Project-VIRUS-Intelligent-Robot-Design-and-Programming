@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- inhibited cell viability and migration
-- While T cell growth in vitro, Satb1 knockdown was found to be effective in vivo by inhibiting T cell proliferation and activating apoptosis in a subset of T cells
-- knock-out of Satb1 significantly inhibited cell viability and migration, and promoted Schwann cells apoptosis.
-- SATB1 is essential for maintaining TCR responsiveness during the induction and effector phases and may provide a novel therapeutic target for T cell-mediated autoimmune diseases. knock-out of Satb1 significantly inhibited cell viability and migration, and promoted Schwann cells apoptosis.
-- Knock-out of Satb1 significantly inhibited cell viability and migration, and promoted Schwann cells apoptosis.
-
-EXACT_ANSWER:
-- apoptosis

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The mode of inheritance of Facioscapulohumeral muscular dystrophy is autosomal dominant.
-
-EXACT_ANSWER:
-- autosomal dominant

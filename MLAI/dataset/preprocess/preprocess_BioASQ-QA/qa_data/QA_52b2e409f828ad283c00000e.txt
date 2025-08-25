@@ -1,7 +1,0 @@
-QUESTION: What disease in Loxapine prominently used for?
-
-IDEAL_ANSWER:
-- The best indication of loxapine is paranoid schizophrenia.
-
-EXACT_ANSWER:
-- schizophrenia

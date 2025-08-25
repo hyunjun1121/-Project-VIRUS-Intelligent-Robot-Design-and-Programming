@@ -1,9 +1,0 @@
-QUESTION: Which technique led to the elucidation of the role of HOXD10 in regulating lymphatic endothelial responses to VEGF-C?
-
-IDEAL_ANSWER:
-- DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C.
-- DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C
-- DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C. 
-
-EXACT_ANSWER:
-- DeepCAGE

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator.
-
-EXACT_ANSWER:
-- Multidrug-resistant P-glycoprotein 3 (MDR3) is a phospholipid translocator

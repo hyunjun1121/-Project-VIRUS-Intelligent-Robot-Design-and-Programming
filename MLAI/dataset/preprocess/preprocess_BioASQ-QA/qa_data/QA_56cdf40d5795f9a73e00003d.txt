@@ -1,7 +1,0 @@
-QUESTION: Which transcription factor is considered as a master regulator of lysosomal genes?
-
-IDEAL_ANSWER:
-- Transcription factor EB (TFEB) is a master regulator of lysosomal biogenesis and autophagy, driving lysosome adaptation to environmental cues, such as starvation, and therefore targeting of TFEB may provide a novel therapeutic strategy for modulating lysosomal function in human disease.
-
-EXACT_ANSWER:
-- Transcription factor EB (TFEB)

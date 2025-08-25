@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Davunetide or NAP is an eight amino acid peptide.
-
-EXACT_ANSWER:
-- eight

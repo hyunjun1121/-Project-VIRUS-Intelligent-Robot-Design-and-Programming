@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Gemtuzumab ozogamicin binds to CD33
-
-EXACT_ANSWER:
-- CD33

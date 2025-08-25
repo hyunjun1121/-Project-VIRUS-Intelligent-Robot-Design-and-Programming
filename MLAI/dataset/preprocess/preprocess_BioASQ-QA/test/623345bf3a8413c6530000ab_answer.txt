@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- LINC00339 as a cancer diagnostic, prognostic and treatment efficacy biomarker.
-
-EXACT_ANSWER:
-- cancer

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Idecabtagene vicleucel was shown to be effective for Relapsed and Refractory Multiple Myeloma.
-
-EXACT_ANSWER:
-- Multiple Myeloma

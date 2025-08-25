@@ -1,7 +1,0 @@
-QUESTION: Which plant does oleuropein originate from?
-
-IDEAL_ANSWER:
-- Oleuropein originates from olive trees, and is specifically found in olive leaf extracts.
-
-EXACT_ANSWER:
-- Olive tree

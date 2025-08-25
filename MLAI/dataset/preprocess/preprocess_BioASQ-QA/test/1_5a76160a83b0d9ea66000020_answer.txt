@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- BPP is a sequence-based algorithm for branch point prediction.
-
-EXACT_ANSWER:
-- BPP

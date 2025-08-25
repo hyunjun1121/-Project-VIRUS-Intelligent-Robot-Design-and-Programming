@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Occurrence of myocardial fibrosis in hypertrophic cardiomyopathy is associated with left atrial and ventricular dysfunction as well as with the severity of heart failure symptoms and arrhythmic risk factors.
-
-EXACT_ANSWER:
-- In patients with hypertrophic cardiomyopathy delayed enhancement is associated with heart failure symptoms and left ventricular systolic dysfunction and arrhythmic risk

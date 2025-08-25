@@ -1,7 +1,0 @@
-QUESTION: Which mushroom is poisonous, Amanita phalloides or Agaricus Bisporus
-
-IDEAL_ANSWER:
-- The well-known cultivated species Agaricus bisporus is safe to eat while Amanita Phalloides is poisonous.
-
-EXACT_ANSWER:
-- Amanita phalloides

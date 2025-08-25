@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mutations in the Euchromatic Histone Methyltransferase 1 (EHMT1) gene cause Kleefstra syndrome, a rare form of intellectual disability (ID) with strong autistic traits and sensory processing deficits.
-
-EXACT_ANSWER:
-- Mutations in the Euchromatic Histone Methyltransferase 1 (EHMT1)

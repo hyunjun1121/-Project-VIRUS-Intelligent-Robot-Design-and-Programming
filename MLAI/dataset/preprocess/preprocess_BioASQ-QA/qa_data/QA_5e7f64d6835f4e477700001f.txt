@@ -1,7 +1,0 @@
-QUESTION: How is ZP-PTH delivered to patients?
-
-IDEAL_ANSWER:
-- ZP-PTH uses a  transdermal drug-coated microneedle patch system.
-
-EXACT_ANSWER:
-- transdermal drug-coated microneedle patch system

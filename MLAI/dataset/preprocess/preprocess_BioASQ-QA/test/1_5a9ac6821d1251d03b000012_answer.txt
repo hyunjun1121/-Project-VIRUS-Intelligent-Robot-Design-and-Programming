@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Neuronal activity-induces secretion of neuroligin-3.
-
-EXACT_ANSWER:
-- Induces secretion

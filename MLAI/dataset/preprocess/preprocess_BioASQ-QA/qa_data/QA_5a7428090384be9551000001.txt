@@ -1,7 +1,0 @@
-QUESTION: What can be predicted with the Wells criteria?
-
-IDEAL_ANSWER:
-- Wells criteria are used to determine clinical probability of pulmonary embolism.
-
-EXACT_ANSWER:
-- pulmonary embolism

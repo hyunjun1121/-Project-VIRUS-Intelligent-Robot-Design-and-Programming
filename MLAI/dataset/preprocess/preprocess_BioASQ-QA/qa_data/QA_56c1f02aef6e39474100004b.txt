@@ -1,7 +1,0 @@
-QUESTION: Which interleukin is blocked by Siltuximab?
-
-IDEAL_ANSWER:
-- Siltuximab is a monoclonal antibody that binds to interleukin-6 with high affinity and specificity.
-
-EXACT_ANSWER:
-- interleukin-6

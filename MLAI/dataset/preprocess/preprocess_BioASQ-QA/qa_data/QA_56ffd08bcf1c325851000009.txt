@@ -1,7 +1,0 @@
-QUESTION: From which sequence does the Alu repeat originate from?
-
-IDEAL_ANSWER:
-- The presence of Alu-like structural motifs supports the hypothesis of the monophyletic origin of Alu and B1 repeats, i.e., from a common 7SL RNA-derived retroposing monomeric element, The origin of Alu subfamilies in human populations may be related to evolution of chromosome Y.
-
-EXACT_ANSWER:
-- 7SL RNA

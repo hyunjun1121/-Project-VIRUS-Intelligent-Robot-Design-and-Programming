@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Recruitment of the small G-protein Rac1 to the plasma membrane is essential in inducing the local formation of specialized cellular processes termed lamellipodia.
-
-EXACT_ANSWER:
-- Rac1

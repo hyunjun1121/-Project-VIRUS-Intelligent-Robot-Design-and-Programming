@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Pimavanserin was approved for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis.
-
-EXACT_ANSWER:
-- hallucinations and delusions associated with Parkinson's disease psychosis

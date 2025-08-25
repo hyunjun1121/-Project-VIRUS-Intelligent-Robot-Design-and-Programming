@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- FTY720 has been pproved (September 2010) by the U.S. FDA as a new treatment for multiple sclerosis (MS).
-
-EXACT_ANSWER:
-- multiple sclerosis

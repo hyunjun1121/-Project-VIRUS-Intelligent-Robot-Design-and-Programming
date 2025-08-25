@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Contrary to other APOBEC family members, APOBEC3B was found to predominantly concentrate to the cell nucleus.
-
-EXACT_ANSWER:
--  nuclear

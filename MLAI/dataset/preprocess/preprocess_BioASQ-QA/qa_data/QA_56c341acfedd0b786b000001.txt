@@ -1,7 +1,0 @@
-QUESTION: What is the molecular function of psoralen photobinding on DNA?
-
-IDEAL_ANSWER:
-- The interaction of two water-soluble furocoumarins, 8-(omega-diethyl aminopropyloxy)psoralen hydrochloride (I) and its 5-isomer (II), with DNA has been investigated by spectroscopic, equilibrium dialysis, hydrodynamic and chiroptical techniques. Both compounds intercalate into the polynucleotide double helix.
-
-EXACT_ANSWER:
-- It intercalates into the double helix.

@@ -1,7 +1,0 @@
-QUESTION: What is the drug  gantenerumab targeting?
-
-IDEAL_ANSWER:
-- Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain.
-
-EXACT_ANSWER:
-- Gantenerumab significantly reduced amyloid plaques, cerebrospinal fluid total tau, and phospho-tau181 and attenuated increases of neurofilament light chain.

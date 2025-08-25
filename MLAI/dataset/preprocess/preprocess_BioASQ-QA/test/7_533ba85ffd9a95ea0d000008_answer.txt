@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Theoretical considerations and empirical analysis suggest that the per-base mutation frequency for a fractionated-dose treatment protocol is on the order of 1 sequence change per 10(5) bp.
-
-EXACT_ANSWER:
-- 1/100000

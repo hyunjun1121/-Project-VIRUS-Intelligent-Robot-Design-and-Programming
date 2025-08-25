@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Oprozomib is administered orally.
-
-EXACT_ANSWER:
-- Orally

@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- PD98059 is a specific, reversible MEK inhibitor.
-
-EXACT_ANSWER:
-- MEK

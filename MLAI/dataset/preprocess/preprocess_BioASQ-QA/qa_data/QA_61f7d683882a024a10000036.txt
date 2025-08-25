@@ -1,7 +1,0 @@
-QUESTION: Which enzyme is inhibited by Aramchol?
-
-IDEAL_ANSWER:
-- Arachidyl amido cholanoic acid (Aramchol) is a potent downregulator of hepatic stearoyl-CoA desaturase 1 (SCD1) protein expression.
-
-EXACT_ANSWER:
-- hepatic stearoyl-CoA desaturase 1

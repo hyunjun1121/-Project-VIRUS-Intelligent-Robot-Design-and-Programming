@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Cuf1 is a copper-sensing transcription factor.
-
-EXACT_ANSWER:
-- Cuf1 is a copper-sensing transcription factor.

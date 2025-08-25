@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Doege-Potter syndrome is a paraneoplastic syndrome characterized by hypoglycemia secondary to a solitary fibrous tumor of the pleura.
-
-EXACT_ANSWER:
-- hypoglycemia

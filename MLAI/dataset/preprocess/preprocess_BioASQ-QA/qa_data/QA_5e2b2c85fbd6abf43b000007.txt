@@ -1,7 +1,0 @@
-QUESTION: Which disease can be classified using the Koos Classification?
-
-IDEAL_ANSWER:
-- The Koos classification is used from vestibular schwannomas. It is designed to stratify tumors based on extrameatal extension and compression of the brainstem.
-
-EXACT_ANSWER:
-- vestibular schwannomas

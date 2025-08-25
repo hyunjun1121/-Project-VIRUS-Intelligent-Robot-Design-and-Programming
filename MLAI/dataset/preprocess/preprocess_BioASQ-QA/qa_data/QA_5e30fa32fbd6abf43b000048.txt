@@ -1,7 +1,0 @@
-QUESTION: Which bacteria causes rat bite fever?
-
-IDEAL_ANSWER:
-- Rat bite fever is caused by Streptobacillus moniliformis. Infection induces typical but not pathognomonic clinical signs, such as local purulent wound infection followed by maculopapular exanthema, myalgia as well as purulent joint infections.
-
-EXACT_ANSWER:
-- Streptobacillus moniliformis

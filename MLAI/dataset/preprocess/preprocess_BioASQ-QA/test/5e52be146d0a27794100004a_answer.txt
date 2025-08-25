@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- The R-package XenofilteR separates mouse from human sequence reads based on the edit-distance between a sequence read and reference genome.
-- XenofilteR separates mouse from human sequence reads based on the edit-distance between a sequence read and reference genome.
-
-EXACT_ANSWER:
-- Edit-distance

@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- Heterozygous lamin B1 and lamin B2 variants cause primary microcephaly and define a novel laminopathy.
-- Heterozygous lamin B1 and Lamin B2 variants cause primary microcephaly and define a novel laminopathy.
-- Microcephaly is a rare autosomal recessive disorder caused by heterozygous lamin B1 and Lamin B2 variants.
-- Heterozygous lamin B1 and Lamin B2 variants cause primary microcephaly and define a novel laminopathy
-- Heterozygous lamin B1 and laminB2 variants cause primary microcephaly and define a novel laminopathy.
-
-EXACT_ANSWER:
-- Primary microcephaly

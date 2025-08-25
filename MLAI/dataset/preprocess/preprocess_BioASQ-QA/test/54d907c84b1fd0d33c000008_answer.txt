@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Mepolizumab is a humanized monoclonal antibody that binds to and inactivates interleukin-5 that has been shown to reduce asthma exacerbations in patients with severe eosinophilic asthma.
-
-EXACT_ANSWER:
-- interleukin-5

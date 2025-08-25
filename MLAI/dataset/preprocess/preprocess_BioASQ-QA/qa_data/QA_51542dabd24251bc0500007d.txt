@@ -1,7 +1,0 @@
-QUESTION: Which gene test can be used for the X-linked myotubular myopathy?
-
-IDEAL_ANSWER:
-- Genetic testing of the MTM1 gene can be used for the X-linked myotubular myopathy.
-
-EXACT_ANSWER:
-- MTM1 gene test

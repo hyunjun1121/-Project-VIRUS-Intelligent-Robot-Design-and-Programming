@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- ZMapp is a combination of antibodies for treatment of Ebola virus disease.
-- Vectored delivery of the ZMapp antibody cocktail (c2G4, c4G7, and c13C6) by using recombinant adeno-associated viruses (rAAVs) is useful for preventive immunization against Ebola virus infection.
-
-EXACT_ANSWER:
-- Ebola virus disease
-- Ebola virus infection

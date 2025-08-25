@@ -1,8 +1,0 @@
-QUESTION: Where is Akkermansia muciniphila found?
-
-IDEAL_ANSWER:
-- Akkermansia muciniphila is a Gram-negative mucin-degrading bacterium that resides in the gastrointestinal tracts of humans and animals.
-- RYGB led to altered relative abundances of 31 species (P < 0.05, q < 0.15) within the first 3 months, including those of Escherichia coli, Klebsiella pneumoniae, Veillonella spp., Streptococcus spp., Alistipes spp., and Akkermansia muciniphila. Main findings are as follows: (1) gut microbiota compositions of cecal and fecal samples were altered in BTBR compared to control mice, indicating that this model may be of utility in understanding gut-brain interactions in ASD; (2) KD consumption caused an anti-microbial-like effect by significantly decreasing total host bacterial abundance in cecal and fecal matter; (3) specific to BTBR animals, the KD counteracted the common ASD phenotype of a low Firmicutes to Bacteroidetes ratio in both sample types; and (4) the KD reversed elevated Akkermansia m However, faeces from the UC cohort had lower proportions of Akkermansia muciniphila and increased diversity within Clostridium cluster XIVa compared to controls.Gut fermentation of NSP and starch is diminished in patients with UC. Specific members of the microbiota such as Akkermansia muciniphila might be decreased in diabetes and when administered to murines exerted antidiabetic effects. In parallel, the antibiotic susceptibility of Akkermansia muciniphila Muc(T) strain was studied and this strain was observed by electron microscopy.
-
-EXACT_ANSWER:
-- Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals.

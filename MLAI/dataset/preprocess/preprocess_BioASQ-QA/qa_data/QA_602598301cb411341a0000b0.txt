@@ -1,7 +1,0 @@
-QUESTION: What does csDMARD stand for?
-
-IDEAL_ANSWER:
-- csDMARDS are conventional synthetic disease-modifying antirheumatic drugs.
-
-EXACT_ANSWER:
-- conventional synthetic disease-modifying antirheumatic drug

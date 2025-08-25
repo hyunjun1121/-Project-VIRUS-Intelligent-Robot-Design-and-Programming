@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Mutations in microphthalmia-associated transcription factor (MITF) gene cause Waardenburg and Tietz syndromes.
-
-EXACT_ANSWER:
-- microphthalmia-associated transcription factor gene
-- MITF

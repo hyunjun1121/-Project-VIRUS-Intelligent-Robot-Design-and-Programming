@@ -1,7 +1,0 @@
-QUESTION: Which ultraconserved element is associated with Embryonic Stem Cells (ESC) self-renewal?
-
-IDEAL_ANSWER:
-- Ultraconserved elements (UCEs) show the peculiar feature to retain extended perfect sequence identity among human, mouse, and rat genomes. Most of them are transcribed and represent a new family of long non-coding RNAs (lncRNAs), the transcribed UCEs (T-UCEs). Despite their involvement in human cancer, the physiological role of T-UCEs is still unknown. A lncRNA containing the uc.170+, named T-UCstem1, was identified with in vitro and in vivo evidence that it plays essential roles in embryonic stem cells (ESCs) by modulating cytoplasmic miRNA levels and preserving transcriptional dynamics.
-
-EXACT_ANSWER:
-- T-UCstem1

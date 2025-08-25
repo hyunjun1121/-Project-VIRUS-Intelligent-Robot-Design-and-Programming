@@ -1,8 +1,0 @@
-IDEAL_ANSWER:
-- Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinson's disease patients where it mainly accumulates in the Lewy bodiesApproximately 90% of α-syn deposited in Lewy bodies is phosphorylated at serine 129 (Ser129). In contrast, only 4% or less of total α-syn is phosphorylated at this residue in the normal brain. This suggests that the accumulation of Ser129-phosphorylated α-syn leads to the formation of Lewy bodies and dopaminergic neurodegeneration in Parkinson's disease
-- Alpha-synuclein is phosphorylated at serine 129 (Ser129) in intracellular protein aggregates called Lewy bodies, which are characteristic pathologic lesions of Parkinson disease.
-- Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinsons disease patients where it mainly accumulates in the Lewy bodies
-- Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinson s disease patients where it mainly accumulates in the Lewy bodies  
-
-EXACT_ANSWER:
-- Serine 129

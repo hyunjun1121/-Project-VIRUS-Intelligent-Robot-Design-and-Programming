@@ -1,7 +1,0 @@
-QUESTION: What particles is Hadron therapy using?
-
-IDEAL_ANSWER:
-- Hadron therapy is using proton beams.
-
-EXACT_ANSWER:
-- Proton beams

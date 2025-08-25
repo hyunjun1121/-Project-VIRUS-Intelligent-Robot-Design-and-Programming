@@ -1,7 +1,0 @@
-QUESTION: What has pimavanserin been approved for by the FDA (2018)?
-
-IDEAL_ANSWER:
-- Pimavanserin was approved for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis.
-
-EXACT_ANSWER:
-- hallucinations and delusions associated with Parkinson's disease psychosis

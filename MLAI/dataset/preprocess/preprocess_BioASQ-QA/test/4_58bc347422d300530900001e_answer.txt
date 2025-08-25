@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Human gut microbiota is home to 10 to 100 trillions microorganisms.
-
-EXACT_ANSWER:
-- 10 to 100 trillions microorganisms.

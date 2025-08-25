@@ -1,7 +1,0 @@
-QUESTION: Name one CCR4 targeted drug.
-
-IDEAL_ANSWER:
-- Mogamulizumab is an anti-CCR4 monoclonal antibody.
-
-EXACT_ANSWER:
-- Mogamulizumab

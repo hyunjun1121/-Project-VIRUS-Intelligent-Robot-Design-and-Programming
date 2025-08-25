@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- HSP90 inhibition was found to be associated with induction of HSP70 expression.
-
-EXACT_ANSWER:
-- HSP70

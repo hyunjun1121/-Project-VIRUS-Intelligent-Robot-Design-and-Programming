@@ -1,8 +1,0 @@
-QUESTION: What is the link between Dax1 and Esrrb?
-
-IDEAL_ANSWER:
-- Dax1 associates with Esrrb and regulates its function in embryonic stem cells
-- Dax1 associates with Esrrb and regulates its function in embryonic stem cells.
-
-EXACT_ANSWER:
-- Dax1 associates with Esrrb and regulates its function in embryonic stem cells.

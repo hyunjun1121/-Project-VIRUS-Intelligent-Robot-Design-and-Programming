@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- The branch site consensus sequence in U12-dependent introns is UUCCUUAAC.
-
-EXACT_ANSWER:
-- UUCCUUAAC

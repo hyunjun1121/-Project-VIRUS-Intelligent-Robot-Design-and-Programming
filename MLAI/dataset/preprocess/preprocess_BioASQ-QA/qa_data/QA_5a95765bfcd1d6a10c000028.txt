@@ -1,8 +1,0 @@
-QUESTION: What part of what body organ controls the circadian clock?
-
-IDEAL_ANSWER:
-- the suprachiasmatic nucleus (SCN) of the hypothalamus acts as the central clock in mammals, the circadian expression of clock genes 
-- The mammalian circadian system is composed of a hierarchical multi-oscillator structure, with the central clock located in the suprachiasmatic nucleus (SCN) of the hypothalamus in the brain
-
-EXACT_ANSWER:
-- suprachiasmatic nucleus (SCN) of the hypothalamus in the brain

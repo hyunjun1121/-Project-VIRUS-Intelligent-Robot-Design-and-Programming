@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Daratumumab is an anti-CD38 antibody.
-
-EXACT_ANSWER:
-- CD38

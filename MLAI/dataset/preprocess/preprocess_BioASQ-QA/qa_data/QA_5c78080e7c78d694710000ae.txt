@@ -1,7 +1,0 @@
-QUESTION: What is the cause of Sandhoff disease?
-
-IDEAL_ANSWER:
-- Sandhoff disease (SD) is a genetic disorder caused by a mutation of the β-subunit gene β-hexosaminidase B (HexB) in humans, which results in the massive accumulation of the ganglioside GM2 and related glycosphingolipids in the nervous system.
-
-EXACT_ANSWER:
-- Sandhoff disease (SD) is caused by a mutation of the β-subunit gene β-hexosaminidase B (HexB) in humans

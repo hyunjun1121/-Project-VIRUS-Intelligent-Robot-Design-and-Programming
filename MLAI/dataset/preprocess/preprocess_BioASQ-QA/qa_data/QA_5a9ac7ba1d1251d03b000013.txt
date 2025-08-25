@@ -1,7 +1,0 @@
-QUESTION: What does intepirdine target?
-
-IDEAL_ANSWER:
-- Intepiridine is a 5-HT6 antagonist.
-
-EXACT_ANSWER:
-- 5-HT6

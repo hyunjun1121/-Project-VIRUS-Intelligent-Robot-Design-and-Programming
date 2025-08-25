@@ -1,8 +1,0 @@
-QUESTION: What is the link between psoriatic arthritis and depression
-
-IDEAL_ANSWER:
-- Depression Is Associated with an Increased Risk of Psoriatic Arthritis among Patients with Psoriasis. 
-- Psoriasis is a common chronic inflammatory disease which is associated with extensive comorbidities, including psoriatic arthritis. 
-
-EXACT_ANSWER:
-- comorbidity

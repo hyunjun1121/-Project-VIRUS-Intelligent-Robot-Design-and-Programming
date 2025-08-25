@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- ABCG1 is an ATP binding cassette (ABC) transporter that removes excess cholesterol from peripheral tissues.
-
-EXACT_ANSWER:
-- ATP binding cassette (ABC) transporter

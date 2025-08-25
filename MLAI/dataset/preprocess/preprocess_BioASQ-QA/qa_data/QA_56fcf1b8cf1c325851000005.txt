@@ -1,9 +1,0 @@
-QUESTION: Which type of genes are modulated by SATB1?
-
-IDEAL_ANSWER:
-- Lack of effector T cell (T(eff) cell) function and gain of suppressive activity by T(reg) cells are dependent on the transcriptional program induced by Foxp3. Here we report that repression of SATB1, a genome organizer that regulates chromatin structure and gene expression, was crucial for the phenotype and function of T(reg) cells. Release of SATB1 from the control of Foxp3 in T(reg) cells caused loss of suppressive function, establishment of transcriptional T(eff) cell programs and induction of T(eff) cell cytokines. At an Associative t-test threshold of P
-- Repression of the genome organizer SATB1 in regulatory T cells is required for suppressive function and inhibition of effector differentiation
-- Release of SATB1 from the control of Foxp3 in T(reg) cells caused loss of suppressive function, establishment of transcriptional T(eff) cell programs and induction of T(eff) cell cytokines.
-
-EXACT_ANSWER:
-- it supresses cell cytokines and differentiation genes

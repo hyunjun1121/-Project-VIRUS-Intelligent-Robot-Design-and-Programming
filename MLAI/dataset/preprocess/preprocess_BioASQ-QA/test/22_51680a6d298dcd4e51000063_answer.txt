@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Cryptochrome-1 (Cry1) is an essential component of the central and peripheral circadian clocks for generation of circadian rhythms in mice.
-
-EXACT_ANSWER:
-- component of the central and peripheral circadian clocks for generation of circadian rhythms in mice

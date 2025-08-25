@@ -1,6 +1,0 @@
-IDEAL_ANSWER:
-- Ladybird homeobox (Lbx) transcription factors have crucial functions in muscle and nervous system development in many animals
-- Ladybird homeobox (Lbx) transcription factors have crucial functions in muscle and nervous system development in many animals.
-
-EXACT_ANSWER:
-- muscle and nervous system

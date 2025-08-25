@@ -1,7 +1,0 @@
-IDEAL_ANSWER:
-- Tumours defined as Ewing sarcoma (ES) constitute a group of highly malignant neoplasms that most often affect children and young adults in the first 2 decades of life. The EWS/Fli-1 fusion gene, a product of the translocation t(11;22) (q24; 12), is detected in 95% of ES patients
-- The EWS/Fli-1 fusion gene, a product of the translocation t(11;22) (q24;12), is detected in 95% of Ewing sarcoma patients.
-- The hallmark of Ewing s sarcoma (EWS) is a translocation--t(11;22)(q24;q12)--that most frequently results in the EWS/FLI1 aberrant chimeric gene  
-
-EXACT_ANSWER:
-- translocation t(11;22) (q24;12)

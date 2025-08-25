@@ -1,7 +1,0 @@
-QUESTION: Which was the first approved tumor treatment using a common biomarker rather than specified tumor locations in the body?
-
-IDEAL_ANSWER:
-- The first approved tumor treatment using a common biomarker rather than specified tumor locations in the body was Keytruda, which is a treatment for cancer patients with positive microsatellite instability-high (MSI-H) markers or mismatch repair deficient (dMMR) markers.
-
-EXACT_ANSWER:
-- Keytruda

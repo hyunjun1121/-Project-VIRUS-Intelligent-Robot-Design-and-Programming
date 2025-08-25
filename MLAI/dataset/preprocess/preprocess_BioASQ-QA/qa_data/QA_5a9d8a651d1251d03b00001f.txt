@@ -1,7 +1,0 @@
-QUESTION: What is the BioArchive system?
-
-IDEAL_ANSWER:
-- A small-scale automated cryopreservation and storage system (Mini-BioArchive system) used in the banking of umbilical cord blood (UCB) units.
-
-EXACT_ANSWER:
-- automated cryopreservation and storage system

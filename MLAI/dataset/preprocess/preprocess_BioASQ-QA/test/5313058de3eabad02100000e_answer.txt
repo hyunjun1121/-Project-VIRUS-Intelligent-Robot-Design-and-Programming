@@ -1,5 +1,0 @@
-IDEAL_ANSWER:
-- Lumbosacral vertebral region is implicated in the Bertolotti's syndrome. Lumbosacral transitional vertebra is an anatomical variation of the fifth lumbar vertebra in which an enlarged transverse process can form a joint or fusion with the sacrum or ilium. Patients often complain of intractable sciatica that arises from impingement of the nerve root extraforaminally by compression caused by the enlarged transverse process.
-
-EXACT_ANSWER:
-- lumbosacral

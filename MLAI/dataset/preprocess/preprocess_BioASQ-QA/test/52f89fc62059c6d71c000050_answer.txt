@@ -1,9 +1,0 @@
-IDEAL_ANSWER:
-- Non-small cell lung cancer (NSCLC) cell line NCI-H520. 
-Squamous cell carcinoma cell line NCI-H520.
-- The NCI-H520 cell-line is derived from human non-small cell lung cancer tissue.
-
-EXACT_ANSWER:
-- Squamous cell carcinoma
-- Non-small cell lung cancer
-- Lung

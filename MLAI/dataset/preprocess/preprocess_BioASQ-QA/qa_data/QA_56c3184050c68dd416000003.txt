@@ -1,8 +1,0 @@
-QUESTION: What is the indication for isradipine?
-
-IDEAL_ANSWER:
-- Isradipine is safe and effective when administered long-term in the treatment of hypertensive patients
-- The calcium antagonist isradipine is used for hypertensive therapy.
-
-EXACT_ANSWER:
-- Hypertension
