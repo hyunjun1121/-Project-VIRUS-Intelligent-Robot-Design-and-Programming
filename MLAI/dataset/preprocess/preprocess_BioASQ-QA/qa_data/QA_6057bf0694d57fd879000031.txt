@@ -1,0 +1,8 @@
+QUESTION: What promotes amyloid-peptide beta 42 (Aβ42) accumulation in neuroblastoma cells?
+
+IDEAL_ANSWER:
+- The apolipoprotein (apo) E4 isoform is the strongest risk factor for late-onset Alzheimer's disease (AD). ApoE4 is more susceptible to proteolysis than apoE2 and apoE3 isoforms and carboxyl-terminal truncated apoE4 forms have been found in AD patients' brain. A specific apoE4 fragment, apoE4-165, promotes amyloid-peptide beta 42 (Aβ42) accumulation in human neuroblastoma SK-N-SH cells and increased intracellular reactive oxygen species formation, two events considered to occur early in AD pathogenesis.
+- The amyloid-peptide beta 42 (Aβ42) accumulates in neuroblastoma cells due to a protein called apoE4-165, which is an apolipoprotein (APOE4). This protein is the most common protein responsible for late-onset Alzheimer disease.
+
+EXACT_ANSWER:
+- apoE4-165

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The active ingredient of Eligard is leuprorelin acetate.
+
+EXACT_ANSWER:
+- Leuprorelin acetate

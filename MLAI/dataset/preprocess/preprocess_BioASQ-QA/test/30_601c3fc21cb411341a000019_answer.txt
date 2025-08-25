@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Finerenone is a nonsteroidal mineralocorticoid receptor antagonist.
+
+EXACT_ANSWER:
+- mineralocorticoid

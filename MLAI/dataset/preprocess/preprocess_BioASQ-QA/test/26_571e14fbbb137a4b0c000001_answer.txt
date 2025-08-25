@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The oral antidiabetes agent, empagliflozin, can be used as monotherapy or alongside other glucose-lowering treatments, including insulin, to treat T2DM.
+
+EXACT_ANSWER:
+- type 2 diabetes mellitus

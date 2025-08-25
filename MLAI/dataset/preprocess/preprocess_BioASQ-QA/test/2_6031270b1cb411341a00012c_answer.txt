@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- MIR137 is the key gene mediator of the syndromic obesity phenotype of patients with 1p21. 3 microdeletions.
+- MIR137 is the key gene mediator of the syndromic obesity phenotype of patients with 1p21.3 microdeletions.
+- The MIR137 gene. It is the one that is responsible for the obesity phenotype of patients with 1p21.3 microdeletions.
+- The MIR137 gene. It is the one that is responsible for the obesity phenotype of patients carrying 1p21.3 microdeletions.
+- Deletions in the long arm of chromosome 1 have been described in patients with a phenotype consisting primarily of obesity, intellectual disability and autism-spectrum disorder. MIR137 is suggested as the mediator of the obesity phenotype of patients carrying 1p21.3 microdeletions.
+
+EXACT_ANSWER:
+- MIR137

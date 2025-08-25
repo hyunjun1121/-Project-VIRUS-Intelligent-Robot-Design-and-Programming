@@ -1,0 +1,8 @@
+QUESTION: Which inherited disorder is known to be caused by mutations in the NEMO gene?
+
+IDEAL_ANSWER:
+- Incontinentia pigmenti (IP) is a rare neurocutaneous disorder with a frequency of 1 in 50,000 newborn, and is associated with mutations in IKBKG gene (NEMO) in Xq28, inherited as an X-linked dominant trait
+- Incontinentia pigmenti (IP) or Bloch-Sulzberger syndrome (BSS) is a rare neurocutaneous disorder with a frequency of 1 in 50,000 newborn, and is associated with mutations in IKBKG gene (NEMO) in Xq28, inherited as an X-linked dominant trait.
+
+EXACT_ANSWER:
+- Incontinentia pigmenti or Bloch-Sulzberger syndrome

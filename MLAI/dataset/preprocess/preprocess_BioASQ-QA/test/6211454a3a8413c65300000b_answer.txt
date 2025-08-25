@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- CYP3A4 and CYP2D6 are the most relevant since they metabolize about 50% and 30% of the drugs on the market, respectively.
+
+EXACT_ANSWER:
+- CYP2D6

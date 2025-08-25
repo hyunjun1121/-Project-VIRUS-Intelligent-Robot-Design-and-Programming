@@ -1,0 +1,22 @@
+[project]
+name = "eval-next-generation-server"
+version = "0.1.0"
+description = "common generation server for Eval Next project"
+authors = [
+    {name = "Eval Next Team"}
+]
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.24.0",
+]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["eval_next_generation_server"]
+
+[tool.ruff.lint]
+ignore = ["F541"]

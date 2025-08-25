@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- There is a TNFR2 3' flanking region polymorphism in systemic lupus erythematosus.
+- A TNFR2 3' flanking region polymorphism in systemic lupus erythematosus.
+- A tnfr2 3' flanking region polymorphism in systemic lupus erythematosus has been shown to be significantly associated with selenocytoplasmic lupus erythematotosus. No transmission distortion was observed for tnpr2-196r allele.
+
+EXACT_ANSWER:
+- 3' flanking region

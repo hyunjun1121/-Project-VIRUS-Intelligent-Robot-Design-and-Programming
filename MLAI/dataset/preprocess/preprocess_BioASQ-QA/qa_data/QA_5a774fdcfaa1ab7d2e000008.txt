@@ -1,0 +1,8 @@
+QUESTION: Which protein is regulated by Tudor interacting repair regulator (TIRR)?
+
+IDEAL_ANSWER:
+- Tudor interacting repair regulator (TIRR) regulates P53-binding protein 1 (53BP1) by masking its histone methyl-lysine binding function.
+
+EXACT_ANSWER:
+- P53-binding protein 1
+- 53BP1

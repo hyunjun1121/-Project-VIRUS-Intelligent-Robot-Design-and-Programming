@@ -1,0 +1,7 @@
+QUESTION: What is the association of the protein RAB10 and Alzheimers disease?
+
+IDEAL_ANSWER:
+- The genes SEC22B, RAB10 and FLT1 may be potential biomarkers of AD.
+
+EXACT_ANSWER:
+- RAB10 may be potential biomarkers of AD

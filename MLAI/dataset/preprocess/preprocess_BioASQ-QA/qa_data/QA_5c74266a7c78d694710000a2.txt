@@ -1,0 +1,8 @@
+QUESTION: Which biological process takes place in nuclear speckles?
+
+IDEAL_ANSWER:
+- Speckles are subnuclear structures that are enriched in pre-messenger RNA splicing factors and are located in the interchromatin regions of the nucleoplasm of mammalian cells. They serve as splicing factor storage sites and play important roles in regulation of pre-mRNA splicing.
+
+EXACT_ANSWER:
+- mRNA processing
+- mRNA splicing

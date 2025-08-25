@@ -1,0 +1,7 @@
+QUESTION: What is the function of Plasminogen activator inhibitor 1?
+
+IDEAL_ANSWER:
+- Plasminogen activator inhibitor-1 (PAI-1) is an important physiological inhibitor of tissue-type plasminogen activator (tPA) and plays a critical role in fibrinolysis.
+
+EXACT_ANSWER:
+- PAI-1 is important in fibrinolysis.

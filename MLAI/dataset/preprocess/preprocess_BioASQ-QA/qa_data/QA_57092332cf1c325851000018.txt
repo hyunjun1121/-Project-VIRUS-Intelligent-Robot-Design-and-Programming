@@ -1,0 +1,7 @@
+QUESTION: What is the molecular function of the Chd1 protein?
+
+IDEAL_ANSWER:
+- The ATP-dependent chromatin-remodelling enzyme Chd1 is a 168-kDa protein consisting of a double chromodomain, Snf2-related ATPase domain, and a C-terminal DNA-binding domain. One of the two chromodomains of Chd1 specifically interacts with the methylated lysine 4 mark on histone H3 that is associated with transcriptional activity. Human CHD1 is an ATP-dependent chromatin remodeling protein, as a factor that directly and selectively recognizes histone H3 methylated on lysine 4.
+
+EXACT_ANSWER:
+- Chd1 is an ATP-dependent DNA helicase

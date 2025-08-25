@@ -1,0 +1,10 @@
+QUESTION: What chromosome is affected in Turner's syndrome?
+
+IDEAL_ANSWER:
+- turner's syndrome (ts) is a chromosomal defect with partial or total absence of the x chromosome.
+- Turner's syndrome (TS) is a chromosomal defect with partial or total absence of the X chromosome.
+- Turner's syndrome (TS) is a chromosomal defect with partial or total absence of the X chromosome. 
+- Turner's syndrome (TS) is a chromosomal defect with partial or total absence of the X chromosome
+
+EXACT_ANSWER:
+- X

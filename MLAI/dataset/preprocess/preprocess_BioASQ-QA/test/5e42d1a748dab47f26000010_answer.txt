@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Olaparib(Lynparza) is a PARP inhibitor, inhibiting poly ADP ribose polymerase (PARP), an enzyme involved in DNA repair.
+- Olaparib is a Poly(ADP-ribose) Polymerase (PARP) Inhibitor
+
+EXACT_ANSWER:
+- poly ADP ribose polymerase (PARP)

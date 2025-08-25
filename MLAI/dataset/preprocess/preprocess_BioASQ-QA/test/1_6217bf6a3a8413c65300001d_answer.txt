@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- TH1579 is a best-in-class MTH1 inhibitor.
+- MTH1
+- TH1579 inhibits the MTH1 protein, which is the protein that cancer cells rely on to make their DNA.
+
+EXACT_ANSWER:
+- MTH1

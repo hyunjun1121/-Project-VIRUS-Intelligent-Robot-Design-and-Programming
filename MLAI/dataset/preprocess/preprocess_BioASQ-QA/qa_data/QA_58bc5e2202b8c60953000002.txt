@@ -1,0 +1,8 @@
+QUESTION: Which human disease is associated with mutated UBQLN2
+
+IDEAL_ANSWER:
+- Ggene mutations in UBQLN2 cause dominant inheritance of amyotrophic lateral sclerosis (ALS).
+
+EXACT_ANSWER:
+- ALS
+- amyotrophic lateral sclerosis

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- AMG334 is also called erenumab.
+
+EXACT_ANSWER:
+- Erenumab

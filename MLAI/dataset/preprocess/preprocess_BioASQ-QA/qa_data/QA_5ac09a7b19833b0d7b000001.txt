@@ -1,0 +1,7 @@
+QUESTION: Where is the EpCam protein mainly located?
+
+IDEAL_ANSWER:
+- Epithelial cell adhesion molecule (EpCAM) is a type I transmembrane glycoprotein
+
+EXACT_ANSWER:
+- transmembrane expression

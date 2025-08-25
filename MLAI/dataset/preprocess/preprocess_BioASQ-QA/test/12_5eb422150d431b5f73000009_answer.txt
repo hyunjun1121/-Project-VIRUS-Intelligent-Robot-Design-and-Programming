@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- New genes can arise through duplication of a pre-existing gene or de novo from non-coding DNA, providing raw material for evolution of new functions in response to a changing environment. A prime example is the independent evolution of antifreeze glycoprotein genes (afgps) in the Arctic codfishes and Antarctic notothenioids to prevent freezing.
+
+EXACT_ANSWER:
+- the Arctic codfish

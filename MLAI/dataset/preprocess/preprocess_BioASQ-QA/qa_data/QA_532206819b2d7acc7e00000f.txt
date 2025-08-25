@@ -1,0 +1,7 @@
+QUESTION: Name a method for enrichment of arginine-methylated peptides.
+
+IDEAL_ANSWER:
+- Immunoaffinity purification using specific antibodies has been used in order to perform enrichment of methylated peptides.
+
+EXACT_ANSWER:
+- Immunoaffinity purification

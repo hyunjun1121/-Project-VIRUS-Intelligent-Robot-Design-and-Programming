@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Hampton’s hump is characteristic to pulmonary embolism.
+
+EXACT_ANSWER:
+- pulmonary embolism

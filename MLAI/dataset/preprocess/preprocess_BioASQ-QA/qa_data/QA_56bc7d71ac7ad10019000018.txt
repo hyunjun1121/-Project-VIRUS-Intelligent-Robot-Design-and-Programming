@@ -1,0 +1,7 @@
+QUESTION: Which disease can be treated with Delamanid?
+
+IDEAL_ANSWER:
+- Delamanid is used in patients with multidrug-resistant tuberculosis.
+
+EXACT_ANSWER:
+- tuberculosis

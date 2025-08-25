@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Puffy hand syndrome is a complication of intravenous drug abuse.
+
+EXACT_ANSWER:
+- intravenous drug abuse

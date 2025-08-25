@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- mTOR stands for: mammalian target of rapamycin.
+
+EXACT_ANSWER:
+- mammalian target of rapamycin

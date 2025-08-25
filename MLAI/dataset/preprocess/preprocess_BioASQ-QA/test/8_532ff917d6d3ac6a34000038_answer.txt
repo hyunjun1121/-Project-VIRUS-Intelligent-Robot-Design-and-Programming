@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Mostly H3K36me3 but there is some evidence that H3K4me3 may also play a role in splicing
+
+EXACT_ANSWER:
+- H3K36me3

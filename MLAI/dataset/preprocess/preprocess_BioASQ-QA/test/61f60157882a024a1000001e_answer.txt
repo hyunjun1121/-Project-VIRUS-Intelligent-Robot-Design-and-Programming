@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Atogepant is used for preventive treatment of migraine.
+
+EXACT_ANSWER:
+- preventive treatment of migraine

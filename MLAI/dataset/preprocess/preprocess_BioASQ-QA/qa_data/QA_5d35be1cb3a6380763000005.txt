@@ -1,0 +1,9 @@
+QUESTION: What is the function of WAPL protein on cohesin?
+
+IDEAL_ANSWER:
+- Human Wapl is a cohesin-binding protein that promotes sister-chromatid resolution in mitotic prophase We show that the human ortholog of Wapl is a cohesin-binding protein that facilitates cohesin's timely release from chromosome arms during prophase.
+- Wapl is a cohesin-binding protein that facilitates cohesin's timely release from chromosome arms during prophase.It promotes the release of cohesin from chromosomes during both interphase and mitosis.
+- Human Wapl is a cohesin-binding protein that promotes sister-chromatid resolution in mitotic prophase. We show that the human ortholog of Wapl is a cohesin-binding protein that facilitates cohesin's timely release from chromosome arms during prophase.
+
+EXACT_ANSWER:
+- Wapl is a cohesin unloading factor

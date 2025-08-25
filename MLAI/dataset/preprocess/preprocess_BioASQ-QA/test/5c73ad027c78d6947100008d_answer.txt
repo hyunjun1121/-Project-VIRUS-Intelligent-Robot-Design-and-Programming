@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- SAD PERSONS scale was developed to evaluate suicide risk.
+
+EXACT_ANSWER:
+- suicide risk

@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Atrial fibrillation (AF) is the most common arrhythmia worldwide, and it has a significant effect on morbidity and mortality. It is a significant risk factor for stroke and peripheral embolization, and it has an effect on cardiac function. Atrial fibrillation (AF) is the most common cardiac arrhythmia affecting up to 1-1.5% of the population.
+
+EXACT_ANSWER:
+- atrial fibrilation
+- AF

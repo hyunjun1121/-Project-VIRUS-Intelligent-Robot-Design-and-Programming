@@ -1,0 +1,8 @@
+QUESTION: What is Luteolin?
+
+IDEAL_ANSWER:
+- Luteolin has been reviewed as a flavonoid possessing potential cardioprotective, anti-inflammatory, anti-cancer activities.
+- Luteolin, a polyphenolic flavonoid, has potent anti-inflammatory properties.
+
+EXACT_ANSWER:
+- flavonoid

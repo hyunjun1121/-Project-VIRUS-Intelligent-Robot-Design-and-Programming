@@ -1,0 +1,7 @@
+QUESTION: Which antibody is implicated in the Bickerstaff's brainstem encephalitis?
+
+IDEAL_ANSWER:
+- The syndrome defined by Bickerstaff of progressive, external ophthalmoplegia and ataxia, with disturbance of consciousness or hyperreflexia, has subsequently been associated with antiganglioside antibody, anti-GQ1b
+
+EXACT_ANSWER:
+- antiganglioside antibody

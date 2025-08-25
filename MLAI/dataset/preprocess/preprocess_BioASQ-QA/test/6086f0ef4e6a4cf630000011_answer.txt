@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Foam cell, a hallmark of atherosclerosis, is prominently derived from monocyte-differentiated macrophage, and vascular smooth muscle cells (VSMCs) through unlimitedly phagocytizing oxidized low-density lipoprotein (oxLDL). Therefore, the inhibition of monocyte adhesion to endothelium and uptake of oxLDL might be a breakthrough point for retarding atherosclerosis.
+
+EXACT_ANSWER:
+- A foam cell is prominently derived from monocyte-differentiated macrophage, and vascular smooth muscle cells (VSMCs) through unlimitedly phagocytizing oxidized low-density lipoprotein (oxLDL)

@@ -1,0 +1,9 @@
+QUESTION: What is caused by bi-allelic loss-of-function variants in IPO8?
+
+IDEAL_ANSWER:
+- Bi-allelic loss-of-function variants in IPO8 cause a syndromic form of thoracic aortic aneurysm (TAA) with clinical overlap with Loeys-Dietz and Shprintzen-Goldberg syndromes.
+- Importin, a member of the importin-β protein family, is a protein that translocates cargo molecules, proteins, and ribonucleoprotein complexes into the nucleus in RanGTP-dependent manner. Bi-allelic loss-of-function variants in IPO8 cause a syndromic form of thoracic aortic aneurysm.
+- Syndromic thoracic aortic aneurysm
+
+EXACT_ANSWER:
+- A syndromic form of thoracic aortic aneurysm (TAA) with clinical overlap with Loeys-Dietz and Shprintzen-Goldberg syndromes

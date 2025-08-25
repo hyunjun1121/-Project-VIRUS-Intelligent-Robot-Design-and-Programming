@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The Milwaukee protocol was tested for treatment of rabies. Therapies suggested in the Milwaukee protocol include therapeutic coma, ketamine infusion, amantadine, and the screening/prophylaxis/management of cerebral vasospasm. The Milwaukee Protocol has proved to be ineffective for rabies and should no longer be used.
+
+EXACT_ANSWER:
+- rabies

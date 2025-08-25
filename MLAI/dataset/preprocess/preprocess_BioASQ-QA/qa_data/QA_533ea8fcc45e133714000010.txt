@@ -1,0 +1,7 @@
+QUESTION: What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?
+
+IDEAL_ANSWER:
+- SECIS (selenocysteine insertion sequence)
+
+EXACT_ANSWER:
+- SECIS

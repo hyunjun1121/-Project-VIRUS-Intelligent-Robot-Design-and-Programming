@@ -1,0 +1,10 @@
+QUESTION: Which gene controls the consistency of cerumen (ear wax)?
+
+IDEAL_ANSWER:
+- A single nucleotide polymorphism (SNP) in ABCC11 affects the cerumen VOC profiles of individuals from African, Caucasian, and Asian descent Our findings also reveal that ABCC11 genotype alone does not predict the type and relative levels of volatiles found in human cerumen, and suggest that other biochemical pathways must be involved
+- A single nucleotide polymorphism (SNP) in ABCC11 affects the cerumen VOC profiles of individuals from African, Caucasian, and Asian descent
+- A single nucleotide polymorphism (SNP) in ABCC11 affects the cerumen VOC profiles of individuals from African, Caucasian, and Asian descent ABCC11 encodes an ATP-driven efflux pump protein that plays an important function in ceruminous apocrine glands of the auditory canal and the secretion of axillary odor precursors.
+- Recent studies link a single nucleotide polymorphism (SNP) in the adenosine triphosphate (ATP) binding cassette, sub-family C, member 11 gene (ABCC11) to the production of different types of axillary odorants and cerumen. ABCC11 encodes an ATP-driven efflux pump protein that plays an important function in ceruminous apocrine glands of the auditory canal and the secretion of axillary odor precursors.
+
+EXACT_ANSWER:
+- ABCC11

@@ -1,0 +1,9 @@
+QUESTION: What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?
+
+IDEAL_ANSWER:
+- Fanconi anemia (FA) is an autosomal disorder that causes genome instability and manifests by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations.
+- Fanconi anemia (FA) is an autosomal disorder that causes genome instability. FA patients suffer developmental abnormalities, early-onset bone marrow failure, and a predisposition to cancer. The disease is manifested by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations.  
+- Fanconi anemia (FA) is an autosomal disorder that causes genome instability. FA patients suffer developmental abnormalities, early-onset bone marrow failure, and a predisposition to cancer. The disease is manifested by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations.
+
+EXACT_ANSWER:
+- Fanconi anemia

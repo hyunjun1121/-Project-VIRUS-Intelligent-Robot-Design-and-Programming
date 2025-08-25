@@ -1,0 +1,7 @@
+QUESTION: Which enzyme does MLN4924 inhibit?
+
+IDEAL_ANSWER:
+- MLN4924 is  an investigational small molecule inhibitor of NEDD8-activating enzyme (NAE).
+
+EXACT_ANSWER:
+- NEDD8-activating enzyme

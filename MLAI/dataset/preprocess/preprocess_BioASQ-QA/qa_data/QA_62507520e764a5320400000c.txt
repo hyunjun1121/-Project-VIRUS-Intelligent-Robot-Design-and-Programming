@@ -1,0 +1,7 @@
+QUESTION: Where are the complexins expressed?
+
+IDEAL_ANSWER:
+- Complexins (CPLXs), initially identified in neuronal presynaptic terminals, are cytoplasmic proteins that interact with the soluble N-ethylmaleimide-sensitive factor attachment protein receptors (SNARE) complex to regulate the fusion of vesicles to the plasma membrane.
+
+EXACT_ANSWER:
+- presynaptic terminal

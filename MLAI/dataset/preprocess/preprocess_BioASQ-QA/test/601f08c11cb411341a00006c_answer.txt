@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- Anakinra is an oral interleukin-1 receptor antagonist that is used to treat rheumatoid arthritis.
+- Anakinra is an anti-IL-1RA targeting IL-1beta with a central role in the occurrence of auto-inflammatory diseases.
+- Anakinra is an oral, small molecule, poly (ADP-ribose) polymerase inhibitor that binds to and inactivates the interleukin-1 receptor (IL1R) signaling pathway and is used to treat rheumatoid arthritis
+- Anakinra is an anti-IL-1RA targeting IL-1β with a central role in the occurrence of auto-inflammatory diseases.
+- Anakinra is an orally administered interleukin-1 receptor antagonist that is used to treat rheumatoid arthritis.
+- Anakinra is an anti-IL-1RA targeting IL-1β with a central role in the occurrence of auto-inflammatory diseases like rheumatoid arthritis.
+- Anakinra is an anti-IL-1RA targeting IL-1β with a central role in the occurrence of auto-inflammatory diseases
+
+EXACT_ANSWER:
+- anakinra
+- anti-il-1ra

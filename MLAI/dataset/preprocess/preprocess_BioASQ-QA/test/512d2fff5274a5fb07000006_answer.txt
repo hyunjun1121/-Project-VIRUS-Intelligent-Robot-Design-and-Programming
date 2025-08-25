@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- H3K4me3 is associated with transcriptionally active genes, but its function in the transcription process is still unclear. It is well known to occur in the promoter region of genes for transcription activation but its levels correlate positively with the antisense expression levels of the associated sense genes implying that it may be also involved in the activation of antisense transcription. Although it is mostly associated with transcription initiation H3K4me3 levels determine the efficiency of transcription elongation.
+
+EXACT_ANSWER:
+- transcriptional initiation

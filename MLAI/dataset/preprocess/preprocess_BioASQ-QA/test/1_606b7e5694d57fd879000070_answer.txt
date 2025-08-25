@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- FoundationOne CDx comprises a 324-gene panel.
+
+EXACT_ANSWER:
+- 324

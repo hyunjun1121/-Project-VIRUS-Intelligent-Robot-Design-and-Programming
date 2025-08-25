@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- A medium depth may be considered as 8x while the most common values vary between 30x and 60x. Values more than 75x or even up to 125x may be considered for the investigation of rare disease variants.
+
+EXACT_ANSWER:
+- 30x-60x

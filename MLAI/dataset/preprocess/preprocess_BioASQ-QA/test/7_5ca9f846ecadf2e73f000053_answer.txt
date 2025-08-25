@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- The gas vesicle wall is solely formed of proteins with the two major components, GvpA and GvpC, and
+- The gas vesicle wall is solely formed of proteins with the two major components, GvpA and GvpC, and seven additional accessory proteins are also involved.
+- Gas vesicles are proteinaceous, gas-filled nanostructures produced by some bacteria and archaea. The hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall.
+- The gas vesicle wall is solely formed of proteins with the two major components, GvpA and GvpC,
+- the gas vesicle wall is solely formed of proteins with the two major components, gvpa and gvpc,
+
+EXACT_ANSWER:
+- GvpA forms the gas vesicle wall

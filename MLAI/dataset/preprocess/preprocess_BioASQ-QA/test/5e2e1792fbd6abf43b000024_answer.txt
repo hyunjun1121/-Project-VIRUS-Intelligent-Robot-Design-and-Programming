@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Mutations in TBC1D24 seem to be an important cause of DOORS syndrome and can cause diverse phenotypes. Thus, individuals with DOORS syndrome without deafness and seizures but with the other features should still be screened for TBC1D24 mutations. More information is needed to understand the cellular roles of TBC1D24 and identify the genes responsible for DOORS phenotypes in individuals who do not have a mutation in TBC1D24.
+
+EXACT_ANSWER:
+- TBC1D24

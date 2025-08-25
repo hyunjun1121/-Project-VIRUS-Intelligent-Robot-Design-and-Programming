@@ -1,0 +1,10 @@
+QUESTION: The common house cat, Felis silvestris catus and the domestic dog, Canis familiaris both belong to what taxonomic order?
+
+IDEAL_ANSWER:
+- Domestic dogs and cats can be interpreted in terms of their descent from members of the order Carnivora. 
+- The common house cat and domestic dog both belong to the order Carnivora in the class Mammalia
+- domestic dogs and cats can be interpreted in terms of their descent from members of the order Carnivora. 
+- domestic dogs and cats can be interpreted in terms of their descent from members of the order Carnivora.
+
+EXACT_ANSWER:
+- Carnivora

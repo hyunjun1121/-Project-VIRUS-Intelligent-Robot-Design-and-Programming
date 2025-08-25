@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Lucio's phenomenon is a rare but distinctive skin eruption seen in patients with diffuse lepromatous leprosy.
+
+EXACT_ANSWER:
+- leprosy

@@ -1,0 +1,9 @@
+QUESTION: Rickettsia felis was described as a human pathogen almost two decades ago, what is it's main arthropod vector?
+
+IDEAL_ANSWER:
+- Cat fleas (Ctenocephalides felis) carry Rickettsia felis
+- Cat fleas (Ctenocephalides felis) carrying Rickettsia felis and Bartonella species in Hong Kong.
+- Cat fleas (Ctenocephalides felis) carrying Rickettsia felis and Bartonella species in Hong Kong
+
+EXACT_ANSWER:
+- Cat fleas (Ctenocephalides felis)

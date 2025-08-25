@@ -1,0 +1,7 @@
+QUESTION: How many selenoproteins are encoded in the human genome?
+
+IDEAL_ANSWER:
+- 25. 15kDa, DI1, DI2, DI3, GPx1, GPx2, GPx3, GPx4, GPx6, SelH, SelI, SelK, SelM, SelN, SelO, SelP, SelR, SelS, SPS2, SelT, TR1, TR2, TR3, SelV and SelW.
+
+EXACT_ANSWER:
+- 25

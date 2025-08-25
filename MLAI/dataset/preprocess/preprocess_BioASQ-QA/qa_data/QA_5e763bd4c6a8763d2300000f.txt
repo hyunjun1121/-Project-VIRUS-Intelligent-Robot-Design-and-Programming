@@ -1,0 +1,7 @@
+QUESTION: When was vivotif first licenced in Europe?
+
+IDEAL_ANSWER:
+- The vaccine vivotif was first licensed in Europe in 1983.
+
+EXACT_ANSWER:
+- 1983

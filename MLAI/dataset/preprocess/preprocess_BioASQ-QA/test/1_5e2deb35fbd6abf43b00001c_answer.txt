@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- SLIC-CAGE has been developed as a method to identify transcriptome-wide the binding sites of transcription start sites (TSSs) using a simple two-step protocol with 500-50,000 cells and reveals the interplay between genomic locations of DNA-binding proteins, transcription, individual nucleosomes and transcriptional starting sites.
+- Cap analysis of gene expression (CAGE) is a methodology for genome-wide quantitative mapping of mRNA 5' ends to precisely capture transcription start sites at a single nucleotide resolution. In combination with high-throughput sequencing, CAGE has revolutionized our understanding of the rules of transcription initiation, led to discovery of new core promoter sequence features, and discovered transcription initiation at enhancers genome-wide. SLIC-CAGE is a Super-Low Input Carrier-CAGE approach to capture 5' ends of RNA polymerase II transcripts from as little as 5-10 ng of total RNA. This dramatic increase in sensitivity is achieved by specially designed, selectively degradable carrier RNA.
+- SLIC-CAGE has been developed as a method to identify transcriptome-wide the binding sites of transcription start sites (TSSs) using a simple two-step protocol with 500-50,000 cells and reveals the interplay between genomic locations of DNA-binding sites, transcription, mRNA, and nucleosomes.
+
+EXACT_ANSWER:
+- SLIC-CAGE

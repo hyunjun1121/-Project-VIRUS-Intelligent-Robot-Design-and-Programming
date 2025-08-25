@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Han-Wistar and Sprague-Dawley rats
+- Han Wistar and Sprague Dawley are breeds of Rats
+
+EXACT_ANSWER:
+- rats

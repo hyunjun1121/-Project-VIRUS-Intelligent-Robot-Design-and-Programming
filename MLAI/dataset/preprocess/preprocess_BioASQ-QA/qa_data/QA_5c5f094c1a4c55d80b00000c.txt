@@ -1,0 +1,7 @@
+QUESTION: Where is the protein Bouncer located?
+
+IDEAL_ANSWER:
+- Bouncer is membrane bound.
+
+EXACT_ANSWER:
+- Bouncer is membrane bound.

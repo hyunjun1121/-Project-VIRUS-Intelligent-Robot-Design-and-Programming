@@ -1,0 +1,20 @@
+IDEAL_ANSWER:
+- Belimumab is a fully human monoclonal antibody directed against BAFF.  Belimumab, a human monoclonal antibody specific for soluble BLyS, was ultimately approved by the United States Food and Drug Administration (FDA) in March 2011 for active autoantibody patients with systemic lupus erythematosus (SLE) despite standard therapy.
+- blys
+- The main therapeutic target of belimumab is BLyS
+- Belimumab: a BLyS-specific inhibitor for systemic lupus erythematosus To review the efficacy, safety, dosing, drug interactions, as well as economic and therapeutic considerations of belimumab, an inv
+- Belimumab is an anti-BAFF monoclonal antibody. BAFF is also known as BLyS (B-lymphocyte stimulator).
+- Belimumab: a BLyS-specific inhibitor for systemic lupus erythematosus To review the efficacy, safety, dosing, drug interactions, as well as economic and therapeutic considerations of belimumab, an investigational B-lymphocyte stimulator (BLyS) inhibitor.
+- Belimumab, a fully human monoclonal antibody against B lymphocyte stimulator (BLyS), a B-cell survival factor, was licensed in 2011 for the treatment of autoantibody-positive SLE
+- Belimumab: a BLyS-specific inhibitor for systemic lupus erythematosus Belimumab, an anti-BAFF monoclonal antibody
+- Belimumab: a BLyS-specific inhibitor for systemic lupus erythematosus Belimumab, a fully human monoclonal antibody against B lymphocyte stimulator (BLyS), a B-cell survival factor, was licensed in 2011 for the treatment of autoantibody-positive SLE
+- belimumab is a blys-specificsor for systemic lupus erythematos
+- Belimumab is a fully human anti-BLyS monoclonal antibody with specificity for BLyS. It is approved for SLE treatment.
+- Belimumab, a fully human monoclonal antibody against B lymphocyte stimulator (BLyS), was licensed in 2011 for the treatment of autoantibodies to Systemic Lupus Erythematosus.
+- Belimumab: a BLyS-specific inhibitor for systemic lupus erythematosus.
+- Belimumab: a BLyS-specific inhibitor for systemic lupus erythematosus To review the efficacy, safety, dosing, drug interactions, as well as economic and therapeutic considerations of belimumab, an investigational B-lymphocyte stimulator (BLyS) inhibitor. Belimumab, an anti-BAFF monoclonal antibody
+
+EXACT_ANSWER:
+- B-cell activating factor
+- BAFF
+- BLyS (B-lymphocyte stimulator)

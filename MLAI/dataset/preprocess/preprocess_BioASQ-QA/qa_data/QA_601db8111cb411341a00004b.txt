@@ -1,0 +1,16 @@
+QUESTION: What is a HapMap
+
+IDEAL_ANSWER:
+- HapMap is a international effort for creating an annotated haplotype map of the world’s most commonhaplotype sequences.
+- HapMap provides linkage disequilibrium information on a sample of 3.7 million SNPs that can be used for tag SNP selection in whole-genome association studies.
+- A haplotype map (HapMap)is aimed at describing these variation patterns across the entire genome and has been recently developed by the International HapMap Consortium. HapMap characterizes over 3.1 million human single nucleotide polymorphisms (SNPs) genotyped in 270 individuals from four geographically diverse populations and includes 25-35% of common SNP variation in the populations surveyed.
+- The "HapMap" project is now underway to characterize patterns of LD in the human genome.
+- The HapMap haplotype map project aims to systematically map all human haplotypes, chromosome by chromosome, in a gene-dependent manner through dedicated efforts from national and international teams.
+- The HapMap haplotype map project aims to systematically map all human haplotypes, chromosome by chromosome, in a gene-rich manner through dedicated efforts from national and international teams.
+- The International Haplotype Map Project (HapMap) is an international effort for creating an annotated haplotype map of the human genome using protein sequences and other genomic data.
+- A HapMap is a map of the human genome. It's a 3.1 million human single nucleotide polymorphisms (SNPs) that can be genotyped and mapped.
+
+EXACT_ANSWER:
+- a haplotype map of the human genome
+- The "HapMap" project is now underway to characterize patterns of LD in the human genome
+- Phase II HapMap, which characterizes over 3.1 million human single nucleotide polymorphisms

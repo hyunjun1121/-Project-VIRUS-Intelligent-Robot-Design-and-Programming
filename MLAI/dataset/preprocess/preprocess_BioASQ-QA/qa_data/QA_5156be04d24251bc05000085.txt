@@ -1,0 +1,7 @@
+QUESTION: What gene test is recommended for clopidogrel?
+
+IDEAL_ANSWER:
+- The genetic test recommended for clopidogrel is CYP2C19 genotyping.
+
+EXACT_ANSWER:
+- CYP2C19 genotyping

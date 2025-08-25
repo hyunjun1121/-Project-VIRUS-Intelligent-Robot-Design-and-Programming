@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- MethPed
+- The MethPed R package efficiently classifies pediatric brain tumors using the developed MethPed classifier. MethPed is available via Bioconductor: http://bioconductor.org/packages/MethPed/
+- The MethPed classifier, which is a multiclass random forest algorithm, based on DNA methylation profiles from many subgroups of pediatric brain tumors
+
+EXACT_ANSWER:
+- MethPed

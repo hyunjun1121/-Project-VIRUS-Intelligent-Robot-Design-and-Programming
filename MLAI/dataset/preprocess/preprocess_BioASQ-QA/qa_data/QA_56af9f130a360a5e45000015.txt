@@ -1,0 +1,7 @@
+QUESTION: Where is the protein Pannexin1 located?
+
+IDEAL_ANSWER:
+- The protein Pannexin1 is localized to the plasma membranes.
+
+EXACT_ANSWER:
+- plasma membrane

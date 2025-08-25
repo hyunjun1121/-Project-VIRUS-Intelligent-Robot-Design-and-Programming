@@ -1,0 +1,7 @@
+QUESTION: What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?
+
+IDEAL_ANSWER:
+- The fusion protein BCR-ABL
+
+EXACT_ANSWER:
+- BCR-ABL

@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- The human RCA locus is located on chromosome 1 (CA1) and consists of approximately 750 kb.
+- Genome and expressed sequence tag information of Xenopus tropicalis suggested that short-consensus repeat (SCR)-containing proteins are encoded by three genes that are mapped within a 300-kb downstream of PFKFB2, which is a marker gene for the regulator of complement activation (RCA) loci in human and chicken
+- The locus containing the ribosomal protein A (RCA) gene is located at a perinuclear structure 3 kb from the left end and 610 kb in bps, leaving a footprint of 7.4 kb on chromosome 1.
+- The human RCA locus is located on chromosome 1q21-32 and measures approximately 2-3 kb in bps.
+- The human RCA locus is located on chromosome 1q21-32 and consists of approximately 150 tandemly repeated copies of a 9.1 kb locus.
+
+EXACT_ANSWER:
+- 300kbp

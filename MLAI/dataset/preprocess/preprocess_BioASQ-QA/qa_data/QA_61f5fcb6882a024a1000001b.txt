@@ -1,0 +1,7 @@
+QUESTION: What causes Ocular Thelaziasis?
+
+IDEAL_ANSWER:
+- Ocular Thelaziasis is caused by Thelazia callipaeda.
+
+EXACT_ANSWER:
+- Thelazia callipaeda

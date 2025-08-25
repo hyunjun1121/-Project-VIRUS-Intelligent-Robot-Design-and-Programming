@@ -1,0 +1,12 @@
+QUESTION: How many genes constitute the DosR regulon, controlled by the dormancy survival regulator (DosR) in Mycobacterium tuberculosis?
+
+IDEAL_ANSWER:
+- The Mycobacterium dormancy survival regulator (DosR) regulon is composed of 48 co-regulated genes.
+- During this phase, at least 48 genes, collectively named Dormancy survival regulator (DosR) regulon, are important for the long-term survival of bacilli under a non-respiring state, a condition that bacilli encounter inside granulomatous lesions.  DosR/DevR of M. tuberculosis is a two component dormancy survival response regulator which induces the expression of 48 genes. 
+- During this phase, at least 48 genes, collectively named Dormancy survival regulator (DosR) regulon, are important for the long-term survival of bacilli under a non-respiring state, a condition that bacilli encounter inside granulomatous lesions. The dormancy survival regulator (DosR) regulon, composed of 48 co-regulated genes, is held as essential for Mtb persistence.
+- The dormancy survival regulator  regulon, composed of 48 co-regulated genes, is held as essential for Mtb persistence. The two component sensor/regulator dosRS is a major mediator in the transcriptional response of M. tuberculosis to hypoxia and controls a regulon of approximately 50 genes that are induced under this condition. 
+- During this phase, at least 48 genes, collectively named Dormancy survival regulator (DosR) regulon, are important for the long-term survival of bacilli under a non-respiring state, a condition that bacilli encounter inside granulomatous lesions.
+- The dormancy survival regulator (DosR) regulon, composed of 48 co-regulated genes, is held as essential for Mtb persistence. During this phase, at least 48 genes, collectively named Dormancy survival regulator (DosR) regulon, are important for the long-term survival of bacilli under a non-respiring state, a condition that bacilli encounter inside granulomatous lesions.
+
+EXACT_ANSWER:
+- 48 genes

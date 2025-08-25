@@ -1,0 +1,7 @@
+QUESTION: What is romiplostim targeting?
+
+IDEAL_ANSWER:
+- Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist approved for treatment of adults with chronic immune thrombocytopenia (ITP).
+
+EXACT_ANSWER:
+- Romiplostim (ROM) is a thrombopoietin (TPO)-receptor-agonist

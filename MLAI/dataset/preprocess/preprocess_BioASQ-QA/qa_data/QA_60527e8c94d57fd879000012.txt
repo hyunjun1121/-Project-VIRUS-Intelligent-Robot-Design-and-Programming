@@ -1,0 +1,7 @@
+QUESTION: What is the most advanced phase of clinical trial that fingolimod has entered?
+
+IDEAL_ANSWER:
+- Fingolimod has been assessed in phase IV clinical trials.
+
+EXACT_ANSWER:
+- phase IV

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Evolocumab (AMG145) is a fully human monoclonal antibody to proprotein convertase subtilisin/kexin type 9 (PCSK9) that demonstrated marked reductions in plasma low-density lipoprotein cholesterol concentrations in statin-intolerant patients.
+
+EXACT_ANSWER:
+- proprotein convertase subtilisin/kexin type 9

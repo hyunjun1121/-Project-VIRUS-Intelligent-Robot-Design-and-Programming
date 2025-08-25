@@ -1,0 +1,12 @@
+QUESTION: For how long do Drosophila embryos use maternal genome mRNA?
+
+IDEAL_ANSWER:
+- mitoses before interphase 14 run on maternal products and occur in metasynchronous waves
+- before interphase 14
+- Mitoses before interphase 14 run on maternal products, and occur in metasynchronous waves. In many animals, the first few hours of life proceed with little or no transcription, and developmental regulation at these early stages is dependent on maternal cytoplasm rather than the zygotic nucleus.
+- Mitoses before interphase 14 run on maternal products, and occur in metasynchronous waves.
+- In Drosophila embryogenesis mitoses before interphase 14 run on maternal products, and occur in metasynchronous waves.
+- Mitoses before interphase 14 run on maternal products, and occur in metasynchronous waves. An exceptional case of  Nos-independent regulation by  Pum has been described-repression of maternal bicoid (bcd) m RNA at the anterior pole of the early embryo, dependent on both  Pum and conserved  Pum binding sites in the 3'- UTR of the m RNA
+
+EXACT_ANSWER:
+- 14 cell divisions

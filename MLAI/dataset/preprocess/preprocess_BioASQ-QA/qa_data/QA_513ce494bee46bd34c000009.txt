@@ -1,0 +1,7 @@
+QUESTION: Which is the most common disease attributed to malfunction or absence of primary cilia?
+
+IDEAL_ANSWER:
+- When ciliary function is perturbed, photoreceptors may die, kidney tubules develop cysts, limb digits multiply and brains form improperly. Mice display abnormalities very similar to those of patients with neonatal diabetes and hypothyroidism syndrome, including the development of diabetes and polycystic kidney disease. Malformation of primary cilia, and in the collecting ducts of kidney tubules this is accompanied by development of autosomal recessive polycystic kidney disease (PKD).
+
+EXACT_ANSWER:
+- Polycystic kidney disease (PKD)

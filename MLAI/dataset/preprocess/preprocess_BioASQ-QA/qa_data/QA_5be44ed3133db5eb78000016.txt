@@ -1,0 +1,7 @@
+QUESTION: What is the origin of human breast milk bacteria?
+
+IDEAL_ANSWER:
+- It is believed that certain bacteria from the maternal gastrointestinal tract could translocate through a mechanism involving mononuclear immune cells, migrate to the mammary glands via an endogenous cellular route (the bacterial entero-mammary pathway), and subsequently colonize the gastrointestinal tract of the breast-fed neonate
+
+EXACT_ANSWER:
+- Bacterial endero-mammary pathway

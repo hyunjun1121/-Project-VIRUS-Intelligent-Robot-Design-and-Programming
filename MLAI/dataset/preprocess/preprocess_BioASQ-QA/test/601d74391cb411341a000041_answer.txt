@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Extracorporeal membrane oxygenation (ECMO) is an increasingly prevalent treatment for acute respiratory failure (ARF)
+- The method of extracorporeal membrane oxygenation (VA-ECMO) has developed from being used as a 'rescue therapy' to become an accepted treatment option for patients with acute lung failure.
+- Extracorporeal membrane oxygenation (ECMO) is an increasingly prevalent treatment for acute respiratory failure (ARF) and is used to treat severe symptoms of Covid-19 as well as other cases of severe respiratory and/or circulatory failure over periods of several days to several weeks
+- Extracorporeal membrane oxygenation (ECMO) is an increasingly prevalent treatment for acute respiratory failure (ARF).
+
+EXACT_ANSWER:
+- Extracorporeal membrane oxygenation

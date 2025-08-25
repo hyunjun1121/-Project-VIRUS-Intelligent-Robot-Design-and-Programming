@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Administration of pembrolizumab requires a companion diagnostic test, to assess PD-L1 status of patients.
+
+EXACT_ANSWER:
+- PD-L1 status

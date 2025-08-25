@@ -1,0 +1,7 @@
+QUESTION: Which method has been developed for assignment of enhancers to target genes?
+
+IDEAL_ANSWER:
+- While genomic assays can identify putative enhancers en masse, assigning target genes is a complex challenge. McEnhancer is a machine learning approach, which links target genes to putative enhancers via a semi-supervised learning algorithm that predicts gene expression patterns based on enriched sequence features. Predicted expression patterns were 73-98% accurate, predicted assignments showed strong Hi-C interaction enrichment, enhancer-associated histone modifications were evident, and known functional motifs were recovered.
+
+EXACT_ANSWER:
+- McEnhancer

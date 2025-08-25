@@ -1,0 +1,7 @@
+QUESTION: What is the target of Inebilizumab?
+
+IDEAL_ANSWER:
+- Inebilizumab is an anti-CD19 antibody with enhanced antibody-dependent cell-mediated cytotoxicity against B cells, is currently being evaluated in multiple sclerosis and neuromyelitis optica.
+
+EXACT_ANSWER:
+- CD19

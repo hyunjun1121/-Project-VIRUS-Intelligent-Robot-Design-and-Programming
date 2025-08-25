@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Sarcoplasmic reticulum Ca(2+)-ATPase (SERCA) is the pump crucial for calcium homeostasis. SERCA is a membrane protein that belongs to the family of P-type ion translocating ATPases and pumps free cytosolic calcium into intracellular stores.
+
+EXACT_ANSWER:
+- Sarcoplasmic reticulum Ca(2+)-ATPase
+- SERCA
+- serca2

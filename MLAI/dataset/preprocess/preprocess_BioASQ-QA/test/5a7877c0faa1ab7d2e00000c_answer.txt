@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Sarcoidosis is a systemic granulomatous disease that affects numerous organs, commonly manifesting at the lungs and skin. Corticosteroids remain the first line of treatment.
+
+EXACT_ANSWER:
+- Corticosteroids

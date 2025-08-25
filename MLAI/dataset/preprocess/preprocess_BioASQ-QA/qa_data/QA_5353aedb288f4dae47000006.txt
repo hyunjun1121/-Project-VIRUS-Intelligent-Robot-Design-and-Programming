@@ -1,0 +1,7 @@
+QUESTION: Which is the transcript responsible for X-chromosome inactivation?
+
+IDEAL_ANSWER:
+- The long non- coding RNA Xist (X inactive specific transcript)
+
+EXACT_ANSWER:
+- Xist

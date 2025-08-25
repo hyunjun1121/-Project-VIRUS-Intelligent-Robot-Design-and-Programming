@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Marfan syndrome (MFS) is an autosomal dominant disorder caused by mutations in the fibrillin 1 gene (FBN1).
+
+EXACT_ANSWER:
+- fibrillin 1 gene
+- FBN1

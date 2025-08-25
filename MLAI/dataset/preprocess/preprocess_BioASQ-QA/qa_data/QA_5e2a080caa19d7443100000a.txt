@@ -1,0 +1,7 @@
+QUESTION: Through which molecular pathway does LB-100 reduce hepatic steatosis?
+
+IDEAL_ANSWER:
+- PP2A inhibition by LB100 significantly ameliorates hepatic steatosis by regulating hepatic lipogenesis and fatty acid oxidation via the AMPK/Sirt1 pathway.
+
+EXACT_ANSWER:
+- AMPK/Sirt1 pathway

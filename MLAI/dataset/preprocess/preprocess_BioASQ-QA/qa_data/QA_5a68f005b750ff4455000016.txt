@@ -1,0 +1,7 @@
+QUESTION: Which personality disorder is treated using dialectical behavior therapy?
+
+IDEAL_ANSWER:
+- Dialectical behavior therapy is an evidence-based psychosocial treatment with efficacy in reducing self-harm behaviors in borderline personality disorder.
+
+EXACT_ANSWER:
+- borderline personality disorder

@@ -1,0 +1,7 @@
+QUESTION: Which gene-defect causes the Vel-blood type?
+
+IDEAL_ANSWER:
+- A cohort of 70 Vel- individuals was found to be uniformly homozygous for a 17 nucleotide deletion in the coding sequence of SMIM
+
+EXACT_ANSWER:
+- a 17 nucleotide deletion

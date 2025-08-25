@@ -1,0 +1,7 @@
+QUESTION: What is the typical rash associated with gluten ?
+
+IDEAL_ANSWER:
+- Dermatitis herpetiformis is a lifelong, gluten-sensitive, blistering skin disease with pathognomonic immunoglobulin (Ig)A deposits in the papillary dermis.
+
+EXACT_ANSWER:
+- dermatitis herpetiformis

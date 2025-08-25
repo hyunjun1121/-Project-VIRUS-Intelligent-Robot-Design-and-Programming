@@ -1,0 +1,7 @@
+QUESTION: Which is the catalytic activity of the protein encoded by the gene KMT2C? 
+
+IDEAL_ANSWER:
+- The lysine methyltransferase KMT2C (also known as MLL3), a subunit of the COMPASS complex, implements monomethylation of Lys4 on histone H3 (H3K4) at gene enhancers.
+
+EXACT_ANSWER:
+- lysine methyltransferase activity

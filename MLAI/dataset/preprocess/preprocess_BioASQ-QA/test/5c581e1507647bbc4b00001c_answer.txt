@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Geck is a tool for trio-based comparative benchmarking tool of variant calls. It is a statistical mixture model for comparing two variant calling pipelines from genotype data they produce after running on individual members of a trio.
+
+EXACT_ANSWER:
+- geck

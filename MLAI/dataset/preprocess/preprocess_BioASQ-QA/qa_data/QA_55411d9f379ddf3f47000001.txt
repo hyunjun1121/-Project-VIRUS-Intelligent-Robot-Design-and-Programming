@@ -1,0 +1,7 @@
+QUESTION: Which is the most typical peptide sequence responsible for retrieval of endoplasmic reticulum (ER) lumenal proteins from the Golgi apparatus?
+
+IDEAL_ANSWER:
+- The lumenal endoplasmic reticulum (ER) proteins carry a specific sorting signal which enables their retrieval from multiple post-ER compartments (up to the TGN along the exocytotic pathway), back to the ER. The most typical such signal is the carboxyl-terminal Lys-Asp-Glu-Leu (KDEL), which is bound by a KDEL receptor in the Golgi apparatus, as well as in the intermediate compartment. Thus KDEL functions as a retrieval signal of lumenal ER proteins from Golgi to ER.
+
+EXACT_ANSWER:
+- the carboxyl-terminal Lys-Asp-Glu-Leu (KDEL)

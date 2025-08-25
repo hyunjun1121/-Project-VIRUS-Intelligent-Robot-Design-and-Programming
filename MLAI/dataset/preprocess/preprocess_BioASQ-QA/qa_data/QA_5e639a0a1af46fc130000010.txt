@@ -1,0 +1,15 @@
+QUESTION: HER-2 belongs to what family of proteins?
+
+IDEAL_ANSWER:
+- Her-2 belongs to the family of the human epidermal growth factor receptors (EGFRs).
+- HER-2 belongs to the human epidermal growth factor receptor family, which is a family of proteins that also includes EGF, EGF1, HER3, HER4, HER5, and HER6.
+- HER-2 belongs to the human epidermal growth factor receptor family, which is a family of proteins that also includes EGF, EGF1, HER2, HER3, HER4, HER5, HER6, and HER8.
+- HER-2 belongs to the human epidermal growth factor receptor family, which is a family of proteins that also includes EGF, EGF1, HER2, HER3, HER4, HER5, and HER6.
+- HER-2 belongs to the human epidermal growth factor receptor family, which is a family of proteins that also includes EGF, EGF1, HER2, HER3, HER4, HER5, HER6, HER7, HER8, and HER9.
+- HER-2 is also known as human epidermal growth factor receptor 2 and is a member of the Epidermal growth factor receptor (EGFR) family, members of which are: EGFR, HER2, HER3, and HER4.
+- HER-2 belongs to the human epidermal growth factor receptor family, which is a family of proteins that also includes EGF, EGF1, HER2, HER3, HER4, HER5, HER6, HER7, and HER8.
+- Her-2 belongs to the human epidermal growth factor receptor 2 (EGF) family of proteins.
+- Herceptin-2 belongs to the human epidermal growth factor receptor 2 (HER2) family of proteins.
+
+EXACT_ANSWER:
+- Epidermal growth factor receptor family

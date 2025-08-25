@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Restless legs syndrome (RLS), also known as Willis-Ekbom disease (WED), is a common movement disorder characterized by an uncontrollable urge to move because of uncomfortable, sometimes painful sensations in the legs with a diurnal variation and a release with movement.
+
+EXACT_ANSWER:
+- Restless legs syndrome

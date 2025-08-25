@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Netherton syndrome (NS) is a serious inherited skin disorder caused by mutations in the gene SPINK5 (serine protease inhibitor Kazal type 5) which encodes for a serine protease inhibitor LEKTI (lymphoepithelial Kazal type-related inhibitor)
+
+EXACT_ANSWER:
+- LEKTI
+- lymphoepithelial Kazal type-related inhibitor

@@ -1,0 +1,7 @@
+QUESTION: Mutations in which gene determine response to both erlotinib and gefitinib?
+
+IDEAL_ANSWER:
+- Patients who carry somatic activating mutations in the tyrosine kinase domain of the epidermal growth factor receptor (EGFR) gene, respond well to erlotinib and gefitinib.
+
+EXACT_ANSWER:
+- epidermal growth factor receptor (EGFR) gene

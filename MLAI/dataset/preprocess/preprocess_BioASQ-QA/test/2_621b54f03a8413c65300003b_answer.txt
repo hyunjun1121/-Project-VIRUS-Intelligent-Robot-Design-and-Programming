@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- PUX proteins specifically associate with the nucleoskeleton underneath the INM.
+
+EXACT_ANSWER:
+- PUX proteins specifically associate with the nucleoskeleton underneath the INM.

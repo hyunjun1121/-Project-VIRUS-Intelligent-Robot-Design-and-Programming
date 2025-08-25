@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Medulloblastoma is the most common malignant cerebellar tumor seen in the pediatric age group, which has a known ability to metastasize extraneurally.
+- Medulloblastoma is a malignant cerebellar tumor seen primarily in the pediatric age group that has a known ability to metastasize extraneurally  
+
+EXACT_ANSWER:
+- Medulloblastoma

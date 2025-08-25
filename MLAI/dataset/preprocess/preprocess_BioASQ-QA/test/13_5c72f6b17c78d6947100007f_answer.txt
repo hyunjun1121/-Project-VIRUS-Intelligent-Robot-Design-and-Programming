@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Deficiency of lysosomal acid lipase (LAL) causes Wolman disease.
+
+EXACT_ANSWER:
+- lysosomal acid lipase

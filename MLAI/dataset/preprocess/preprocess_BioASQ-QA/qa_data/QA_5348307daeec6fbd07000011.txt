@@ -1,0 +1,7 @@
+QUESTION: What does iBAQ stand for in proteomic analysis?
+
+IDEAL_ANSWER:
+- iBAQ stands for intensity-based absolute quantification.
+
+EXACT_ANSWER:
+- intensity-based absolute quantification

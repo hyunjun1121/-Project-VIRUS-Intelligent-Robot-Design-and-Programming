@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- he genes causative of CSS mainly encode the SWI/SNF complex, which contributes to chromatin remodeling and regulates the access of transcriptional factors to specific gene sites.
+- Report. Mutations in the BAF-Complex Subunit DPF2 Are Associated with Coffin-Siris Syndrome. Variants affecting the function of different subunits of the BAF chromatin-remodelling complex lead to various neurodevelopmental syndromes, including Coffin-Siris syndrome.
+
+EXACT_ANSWER:
+- SWI/SNF complex

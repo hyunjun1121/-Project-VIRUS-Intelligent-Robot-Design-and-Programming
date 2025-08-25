@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- fidaxomicin has recently been introduced as a new antibiotic that has been shown to significantly reduce the recurrence of this infection. fidaxomicin is a new antibiotic used to treat clostridium difficile infection (cdi).
+- Fidaxomicin has recently been introduced as a new antibiotic that has been shown to significantly reduce the recurrence of this infection. Fidaxomicin is a new antibiotic used to treat Clostridium difficile infection (CDI).
+- Fidaxomicin has recently been introduced as a new antibiotic that has been shown to significantly reduce the recurrence of this infection.Fidaxomicin is a new antibiotic used to treat Clostridium difficile infection (CDI)
+- Clostridium difficile continues to be one of the most prevalent hospital-acquired bacterial infections in the developed world, despite the recent introduction of a novel and effective antibiotic agent  fidaxomicin
+
+EXACT_ANSWER:
+- Fidaxomicin

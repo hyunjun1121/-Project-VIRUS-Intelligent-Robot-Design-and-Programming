@@ -1,0 +1,7 @@
+QUESTION: Which R package is used for the detection of chromosomal abnormalities from microarray data?
+
+IDEAL_ANSWER:
+- CAFE is an R package for the detection of gross chromosomal abnormalities from gene expression microarray data.
+
+EXACT_ANSWER:
+- CAFE

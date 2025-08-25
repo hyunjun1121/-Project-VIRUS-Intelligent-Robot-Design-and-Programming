@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Between 0.125 and 39 in every 1000 live births. Most probably 1:5000 of live-born.
+
+EXACT_ANSWER:
+- 1:5000

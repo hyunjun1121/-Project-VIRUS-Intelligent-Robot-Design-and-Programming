@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- G+C content is the primary determinant of MNase-derived nucleosome occupancy.
+
+EXACT_ANSWER:
+- G+C content
+- GC%

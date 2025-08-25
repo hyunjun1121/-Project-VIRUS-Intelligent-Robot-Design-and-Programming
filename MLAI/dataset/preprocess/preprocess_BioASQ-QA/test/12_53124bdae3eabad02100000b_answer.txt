@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The molecular target of Rapamycin is mTOR
+
+EXACT_ANSWER:
+- mTOR

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The Pfam database provides a collection of curated protein families.
+
+EXACT_ANSWER:
+- The Pfam database is a collection of curated protein families.

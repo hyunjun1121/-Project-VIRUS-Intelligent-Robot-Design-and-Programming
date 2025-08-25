@@ -1,0 +1,7 @@
+QUESTION: What is the mode of inheritance of Acromicric dysplasia?
+
+IDEAL_ANSWER:
+- Acromicric dysplasia has an autosomal dominant mode of inheritance
+
+EXACT_ANSWER:
+- autosomal dominant

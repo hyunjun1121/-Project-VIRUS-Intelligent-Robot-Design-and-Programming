@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Fanconi anemia (FA) is a rare inherited syndrome with diverse clinical symptoms including developmental defects, short stature, bone marrow failure, and a high risk of malignancies. Fifteen genetic subtypes have been distinguished so far. The mode of inheritance for all subtypes is autosomal recessive, except for FA-B, which is X-linked  
+- Fanconi anemia (FA) is a rare inherited syndrome. So far, fifteen genetic subtypes have been distinguished. The mode of inheritance for all subtypes is autosomal recessive, except for FANCB, which is X-linked.
+
+EXACT_ANSWER:
+- Autosomal recessive, except for FANCB, which is X-linked.

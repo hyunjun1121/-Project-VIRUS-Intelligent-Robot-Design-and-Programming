@@ -1,0 +1,496 @@
+instruction,output
+You are in the danger zone.,[]
+You have entered the danger zone.,[]
+This place is within the danger zone.,[]
+You currently stand in a hazardous area.,[]
+You are located in a risky zone.,[]
+You find yourself in a perilous region.,[]
+You are inside the danger zone.,[]
+You are now in the area marked as dangerous.,[]
+You’re situated in a zone of danger.,[]
+You have stepped into a dangerous zone.,[]
+You’re present in the danger zone.,[]
+You’re within the boundaries of the danger zone.,[]
+You are positioned in a danger zone.,[]
+You have reached a danger zone.,[]
+You stand inside the peril zone.,[]
+You are in the vicinity of danger.,[]
+You are exposed to danger in this area.,[]
+"This area is known as the danger zone, and you’re in it.",[]
+You’re currently positioned in a hazardous zone.,[]
+You are within an area classified as dangerous.,[]
+"VIRUS, check the hallway to the right silently.","[
+    [{""cmd"": ""rotate_x"", ""val"": 90}]
+]"
+"VIRUS, quietly inspect the hallway on the right.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}]
+]"
+"VIRUS, stealthily examine the corridor to your right.","[
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 30}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -30}],
+    [{""cmd"": ""rotate_x"", ""val"": -90}]
+]"
+"VIRUS, take a silent look down the hallway to the right.","[
+    [{""cmd"": ""steer"", ""val"": 45}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, silently scout the passageway on the right side.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -90}]
+]"
+"VIRUS, creep along the right hallway without making a sound.","[
+    [{""cmd"": ""move"", ""val"": 10}]
+]"
+"VIRUS, move quietly and survey the hallway to the right.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 30}],
+    [{""cmd"": ""rotate_x"", ""val"": 45}],
+    [{""cmd"": ""rotate_x"", ""val"": -45}]
+]"
+"VIRUS, cautiously and silently check the corridor on your right.","[
+    [{""cmd"": ""steer"", ""val"": 45}],
+    [{""cmd"": ""move"", ""val"": 20}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, inspect the hallway on the right with no noise.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -90}]
+]"
+"VIRUS, silently investigate the right-hand hallway.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"VIRUS, conduct a quiet check of the hallway to the right.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, sneak a silent peek down the right corridor.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"VIRUS, without making noise, explore the hallway to the right.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"VIRUS, silently patrol the hallway located to your right.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -90}]
+]"
+"VIRUS, quietly make your way to the right hallway and check it.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, silently survey the passage on the right side.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"VIRUS, take a noiseless look at the hallway on the right.","[
+    [{""cmd"": ""steer"", ""val"": 45}]
+]"
+"VIRUS, check out the right corridor with complete silence.","[
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""rotate_x"", ""val"": -90}]
+]"
+"VIRUS, move softly and inspect the hallway to your right.","[
+    [{""cmd"": ""move"", ""val"": 20}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}]
+]"
+"VIRUS, silently proceed to check the hallway on the right side.","[
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}]
+]"
+"Good, VIRUS. Let's move front.","[[{""cmd"": ""move"", ""val"": 50}]]"
+"1. Well done, VIRUS. Let's advance forward.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"2. Excellent, VIRUS. It's time to push ahead.","[[{""cmd"": ""move"", ""val"": 50}]]"
+"3. Nice work, VIRUS. Let’s proceed onward.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"4. Great job, VIRUS. Let's move ahead.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"5. Good going, VIRUS. Let’s continue forward.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"6. Fine work, VIRUS. Let's press on.",[]
+"7. Nice, VIRUS. Let's move straight ahead.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"8. Well executed, VIRUS. Let's head forward.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"9. Good effort, VIRUS. Let's advance.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"10. Bravo, VIRUS. Time to move forward.","[
+    [{""cmd"": ""move"", ""val"": 10}]
+]"
+"11. Superb, VIRUS. Let’s keep moving ahead.","[[{""cmd"": ""move"", ""val"": 100}]]"
+"12. Solid work, VIRUS. Let's push forward.","[
+    [{""cmd"": ""move"", ""val"": 100}]
+]"
+"13. Perfect, VIRUS. Let's proceed straight on.","[
+    [{""cmd"": ""move"", ""val"": 100}]
+]"
+"14. Great, VIRUS. Let’s advance our position.","[[{""cmd"": ""move"", ""val"": 50}]]"
+"15. Good job, VIRUS. Time to move frontward.","[
+    [{""cmd"": ""move"", ""val"": 15}]
+]"
+"16. Excellent work, VIRUS. Let's keep going forward.","[[{""cmd"": ""move"", ""val"": 100}]]"
+"17. Well done, VIRUS. Onward we go.",[]
+"18. Nice job, VIRUS. Let’s move on ahead.","[[{""cmd"": ""move"", ""val"": 50}]]"
+"19. Good going, VIRUS. Let's make forward progress.","[
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+"Ok, VIRUS. Chase him with continuous shooting.",[]
+"Alright, VIRUS. Keep firing nonstop and pursue him.",[]
+"VIRUS, go after him and maintain constant gunfire.","[
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Alright VIRUS, shoot continuously while chasing him.",[]
+"VIRUS, keep up the relentless shooting as you follow him.","[
+    [{""cmd"": ""shoot"", ""val"": 0}, {""cmd"": ""move"", ""val"": 20}]
+]"
+"Okay, VIRUS, track him down with unceasing fire.","[
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, pursue him with nonstop shooting.","[
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Alright, VIRUS, maintain continuous shooting while you chase him.",[]
+"VIRUS, keep shooting without pause as you go after him.","[
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Okay VIRUS, keep the gunfire going while you follow him.","[
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}, {""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, chase him down with a steady stream of shots.","[
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Alright, VIRUS. Engage him with continuous shooting as you pursue.",[]
+"VIRUS, maintain a constant barrage of shots while chasing him.","[
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Okay, VIRUS, keep firing without stopping as you track him.","[[{""cmd"": ""shoot"", ""val"": 0}]]"
+"VIRUS, follow him and keep shooting non-stop.",[]
+"Alright, VIRUS, use continuous shooting to chase him.",[]
+"VIRUS, pursue him with an unbroken series of shots.","[
+    [{""cmd"": ""move"", ""val"": 20}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 20}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Okay VIRUS, keep the shots coming as you chase him down.","[
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, chase him while firing continuously.",[]
+"Alright, VIRUS, make sure to shoot nonstop as you pursue him.",[]
+"Ok, VIRUS. Cease fire. Cease fire. Cease fire. Just pursue him.",[]
+"Alright, VIRUS. Stop shooting. Stop shooting. Stop shooting. Just go after him.",[]
+"VIRUS, hold your fire. Hold your fire. Hold your fire. Focus on chasing him.",[]
+"Okay, VIRUS, halt the attack. Halt the attack. Halt the attack. Just follow him.",[]
+"VIRUS, stand down. Stand down. Stand down. Concentrate on pursuing him.",[]
+"Enough, VIRUS. Cease all fire. Cease all fire. Cease all fire. Simply track him down.","[
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"VIRUS, cut the firing. Cut the firing. Cut the firing. Just keep after him.",[]
+"Alright, VIRUS, stop the gunfire. Stop the gunfire. Stop the gunfire. Chase him instead.",[]
+"VIRUS, end the shooting immediately. End the shooting immediately. End the shooting immediately. Just pursue him.",[]
+"VIRUS, cease hostilities. Cease hostilities. Cease hostilities. Focus solely on pursuit.",[]
+"Okay, VIRUS, discontinue fire. Discontinue fire. Discontinue fire. Just follow his trail.",[]
+"VIRUS, put down your weapons. Put down your weapons. Put down your weapons. Go after him.",[]
+"VIRUS, stop firing right now. Stop firing right now. Stop firing right now. Just chase him.",[]
+"Alright, VIRUS, drop fire. Drop fire. Drop fire. Concentrate only on pursuit.","[
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    []
+]"
+"VIRUS, end all gunfire. End all gunfire. End all gunfire. Just focus on chasing him.",[]
+"VIRUS, no more shooting. No more shooting. No more shooting. Just pursue him relentlessly.",[]
+"Okay, VIRUS, cease all shooting. Cease all shooting. Cease all shooting. Concentrate on following him.",[]
+"VIRUS, halt your guns. Halt your guns. Halt your guns. Just track him carefully.",[]
+"VIRUS, stop all firing. Stop all firing. Stop all firing. Focus on the chase.",[]
+"Alright, VIRUS, end the gunfire. End the gunfire. End the gunfire. Pursue him exclusively.",[]
+"Virus, road marker spotted. Execute T pattern room clear.","[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 180}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Virus detected near the road marker. Initiate T pattern for room clearing.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Road marker sighted along with virus presence. Proceed with T pattern to clear the room.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""rotate_x"", ""val"": -180}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+A virus has been spotted by the road marker; commence room clearance using the T pattern.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Detected virus at the road marker location. Begin clearing the room following the T pattern.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}]
+]"
+Virus located near the road marker. Carry out a T pattern sweep to clear the room.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+Road marker area shows virus activity. Execute the T pattern to ensure the room is clear.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -100}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Virus identified at the road marker. Start the room clearing operation using T pattern.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""rotate_x"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Spotting virus by the road marker, proceed with T pattern to clear the area.","[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}]
+]"
+Virus found adjacent to the road marker; implement T pattern to secure the room.,"[
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 30}],
+    [{""cmd"": ""rotate_x"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 80}],
+    [{""cmd"": ""rotate_x"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 30}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}]
+]"
+Virus presence confirmed at road marker. Deploy T pattern for comprehensive room clearance.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""rotate_x"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""rotate_x"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Near the road marker, a virus has been observed. Conduct room clearing in a T pattern.","[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+"Virus has appeared by the road marker, initiate T pattern for room sweep.","[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Road marker vicinity shows virus detected. Perform room clearing via T pattern.,"[
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 30}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -30}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 30}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -30}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Virus spotted at the road marker spot. Execute room clearing with T pattern movement.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Virus near road marker confirmed. Carry out room clearance by following the T pattern.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}, {""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}, {""cmd"": ""shoot"", ""val"": 0}]
+]"
+Detection of virus by the road marker. Begin room clearance using the T pattern method.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Virus sighted close to the road marker; clear the room using a T-shaped pattern.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 180}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Road marker virus detection complete. Start T pattern room clearing procedure.,"[
+    [{""cmd"": ""rotate_x"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": -180}],
+    [{""cmd"": ""move"", ""val"": 200}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""steer"", ""val"": 90}],
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"
+Virus located at the road marker; proceed to clear the room employing the T pattern.,"[
+    [{""cmd"": ""move"", ""val"": 100}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""steer"", ""val"": 180}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""steer"", ""val"": -90}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}],
+    [{""cmd"": ""move"", ""val"": -50}],
+    [{""cmd"": ""steer"", ""val"": 180}],
+    [{""cmd"": ""move"", ""val"": 50}],
+    [{""cmd"": ""shoot"", ""val"": 0}]
+]"

@@ -1,0 +1,7 @@
+QUESTION: Name monoclonal antibody against SLAMF7.
+
+IDEAL_ANSWER:
+- Elotuzumab is a humanized monoclonal antibody specific for signaling lymphocytic activation molecule-F7 (SLAMF7, also known as CS1, CD319, or CRACC) that enhances natural killer cell-mediated antibody-dependent cellular cytotoxicity of SLAMF7-expressing myeloma cells.
+
+EXACT_ANSWER:
+- signaling lymphocytic activation molecule-F7

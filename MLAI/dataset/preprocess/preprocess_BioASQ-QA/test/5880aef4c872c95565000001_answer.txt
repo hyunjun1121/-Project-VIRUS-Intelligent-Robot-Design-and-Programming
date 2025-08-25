@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Daratumumab is a fully human anti-CD38 IgG1-κ monoclonal antibody. It is approved for treatment of multiple myeloma.
+
+EXACT_ANSWER:
+- CD38

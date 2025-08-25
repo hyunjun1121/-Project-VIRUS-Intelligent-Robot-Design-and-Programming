@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Identification of a deletion in plakoglobin in arrhythmogenic right ventricular cardiomyopathy with palmoplantar keratoderma and woolly hair (Naxos disease).Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited disorder associated with arrhythmias and sudden death. A recessive mutation in the gene encoding plakoglobin has been shown to cause Naxos disease, a cardiocutaneous syndrome characterized by ARVC and abnormalities of hair and skin.
+- Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited disorder associated with arrhythmias and sudden death. A recessive mutation in the gene encoding plakoglobin has been shown to cause Naxos disease, a cardiocutaneous syndrome characterized by ARVC and abnormalities of hair and skin.  
+- A homozygous loss-of-function mutation of the Plakoglobin (Jup) gene, which encodes a major component of the desmosome and the adherens junction, had been identified in Naxos patients, although the underlying mechanism remained elusive.
+- A homozygous loss-of-function mutation of the Plakoglobin (Jup) gene, had been identified in Naxos Disease patients, a subset of ARVC, which is characterized by cutaneous disorder.
+
+EXACT_ANSWER:
+- The Plakoglobin gene
+- plakoglobin[jup]

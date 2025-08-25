@@ -1,0 +1,7 @@
+QUESTION: Which one was the first chromone in clinical use?
+
+IDEAL_ANSWER:
+- The first chromone in clinical use, khellin.
+
+EXACT_ANSWER:
+- Khellin

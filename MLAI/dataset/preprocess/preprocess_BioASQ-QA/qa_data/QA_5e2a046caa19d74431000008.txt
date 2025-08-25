@@ -1,0 +1,7 @@
+QUESTION: How many different miRNAs can be upregulated by LB-100?
+
+IDEAL_ANSWER:
+- LB-100 has been reported to upregulate one miRNA, namely miR-181b-1.
+
+EXACT_ANSWER:
+- One

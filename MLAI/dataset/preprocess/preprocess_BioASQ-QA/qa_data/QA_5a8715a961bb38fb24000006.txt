@@ -1,0 +1,9 @@
+QUESTION: Silent Allosteric Modulation of mGluR5 is a form of treatment for what disease?
+
+IDEAL_ANSWER:
+- silent allosteric modulation of mGluR5 has promise as a disease-modifying AD intervention with a broad therapeutic window. 
+- silent allosteric modulation of mGluR5 has promise as a disease-modifying AD intervention with a broad therapeutic window.
+- Silent allosteric modulation of mGluR5 has promise as a disease-modifying Alzheimer's Disease therapy.
+
+EXACT_ANSWER:
+- Alzheimer's disease

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Imetelstat works by inhibiting telomerase.
+
+EXACT_ANSWER:
+- telomerase

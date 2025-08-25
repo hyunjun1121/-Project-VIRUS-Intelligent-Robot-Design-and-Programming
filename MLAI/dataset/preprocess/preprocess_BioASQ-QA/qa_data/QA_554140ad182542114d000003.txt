@@ -1,0 +1,9 @@
+QUESTION: Which is the database of molecular recognition features in membrane proteins?
+
+IDEAL_ANSWER:
+- mpMoRFsDB provides valuable information related to disorder-based protein-protein interactions in membrane proteins.
+- mpMoRFsDB provides valuable information related to disorder-based protein-protein interactions in membrane proteins  
+- mpMoRFsDB provides valuable information related to disorder-based protein-protein interactions in membrane proteins
+
+EXACT_ANSWER:
+- mpMoRFsDB

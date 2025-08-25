@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- GV1001 is a 16-amino-acid vaccine peptide derived from the human telomerase reverse transcriptase sequence. It has been developed as a vaccine against various cancers.
+
+EXACT_ANSWER:
+- human telomerase reverse transcriptase

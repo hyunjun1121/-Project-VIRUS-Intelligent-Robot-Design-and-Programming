@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Daratumumab, a human monoclonal antibody that targets CD38, has been used to treat Lupus Erythematosus.
+
+EXACT_ANSWER:
+- Daratumumab

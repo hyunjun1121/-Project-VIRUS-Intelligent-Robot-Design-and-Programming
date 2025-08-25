@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The Gleason score is an important parameter for clinical outcome in prostate cancer patients
+- The Gleason score is an important parameter for clinical outcome in prostate cancer patients.
+
+EXACT_ANSWER:
+- prostate

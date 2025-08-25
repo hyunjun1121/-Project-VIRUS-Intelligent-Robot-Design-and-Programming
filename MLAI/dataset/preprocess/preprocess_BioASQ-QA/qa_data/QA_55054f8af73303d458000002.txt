@@ -1,0 +1,7 @@
+QUESTION: Which bone protein is used in archaelogy for dating and species identification?
+
+IDEAL_ANSWER:
+- Collagen is the main protein extracted from bones and analyzed by mass spectrometry. It is traditionally used for radiocarbon dating but sophisticated new technologies are using collagen for species identification as well.
+
+EXACT_ANSWER:
+- Collagen

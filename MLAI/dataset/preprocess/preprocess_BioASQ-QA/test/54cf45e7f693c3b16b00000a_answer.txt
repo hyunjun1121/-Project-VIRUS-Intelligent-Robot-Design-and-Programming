@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Calsequestrin is the major calcium-binding protein of cardiac and skeletal muscles whose function is to sequester Ca(2+ )in the lumen of the sarcoplasmic reticulum (SR).
+- Calsequestrin is the major calcium-binding protein of cardiac and skeletal muscles whose function is to sequester Ca(2+ )in the lumen of the sarcoplasmic reticulum (SR).  
+
+EXACT_ANSWER:
+- Calsequestrin
+- casq

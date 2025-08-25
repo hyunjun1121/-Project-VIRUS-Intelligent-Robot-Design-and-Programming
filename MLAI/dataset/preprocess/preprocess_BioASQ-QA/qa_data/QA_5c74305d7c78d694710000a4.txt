@@ -1,0 +1,8 @@
+QUESTION: Which mRNAs are sequestered in stress granules?
+
+IDEAL_ANSWER:
+- Stress granules are higher order assemblies of nontranslating mRNAs and proteins that form when translation initiation is inhibited. 
+This subset of mRNAs is characterized by extended length and adenylate-uridylate (AU)-rich motifs, is highly enriched with genes critical for cell survival and proliferation. mRNA accumulation in stress granules correlates with longer coding and UTR regions and poor translatability
+
+EXACT_ANSWER:
+- long, AU-rich and non-ribosome associating mRNA

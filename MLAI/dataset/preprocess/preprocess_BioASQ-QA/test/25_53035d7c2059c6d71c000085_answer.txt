@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Commotio cordis is a term used to describe cases of blunt thoracic impact causing sudden death without structural damage of the heart
+
+EXACT_ANSWER:
+- blunt thoracic impact causing sudden death

@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Magnetic Resonance Imaging (MRI)
+
+EXACT_ANSWER:
+- Magnetic Resonance Imaging
+- MRI

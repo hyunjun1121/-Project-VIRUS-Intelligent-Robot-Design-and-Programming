@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- There are seven "Baltimore classes" (BCs) that define the major features of virus reproduction.
+- seven "Baltimore classes" (BCs) that define the major features of virus reproduction
+- The Baltimore Classification system consists of seven classes (A, B, C, D, E, F, G, C and D) that are classified into seven different regions based on sequence similarity.
+
+EXACT_ANSWER:
+- 7
+- seven

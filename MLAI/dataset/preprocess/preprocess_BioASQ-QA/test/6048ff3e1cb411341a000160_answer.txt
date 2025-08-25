@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Degranulation of mast cells (MCs) releases several mediators such as vascular endothelial growth factor (VEGF), chymase, tryptase, histamine, and cytokines.
+
+EXACT_ANSWER:
+- Mast cells

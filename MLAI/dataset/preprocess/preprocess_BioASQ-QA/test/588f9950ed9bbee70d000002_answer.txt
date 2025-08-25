@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- PLA2G6 gene is mutated in the Karak syndrome.
+
+EXACT_ANSWER:
+- PLA2G6

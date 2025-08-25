@@ -1,0 +1,7 @@
+QUESTION: What is the color of the protein Ranasmurfin?
+
+IDEAL_ANSWER:
+- Ranasmurfin is a blue protein.
+
+EXACT_ANSWER:
+- Blue

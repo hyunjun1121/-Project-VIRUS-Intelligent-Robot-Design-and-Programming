@@ -1,0 +1,7 @@
+QUESTION: How many genes are in the gene signature screened by MammaPrint?
+
+IDEAL_ANSWER:
+- Mammaprint has a 70 gene signature.
+
+EXACT_ANSWER:
+- 70 genes

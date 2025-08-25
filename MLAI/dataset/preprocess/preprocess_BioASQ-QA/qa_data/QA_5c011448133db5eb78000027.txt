@@ -1,0 +1,7 @@
+QUESTION: What does gepotidacin do to bacteria?
+
+IDEAL_ANSWER:
+- Gepotidacin inhibits bacterial DNA replication.
+
+EXACT_ANSWER:
+- Inhibits bacterial DNA replication

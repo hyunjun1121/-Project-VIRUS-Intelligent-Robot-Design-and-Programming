@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Mutation of aryl hydrocarbon receptor interacting protein (AIP) gene was implicated in the familial isolated pituitary adenoma (FIPA) syndrome. About 20% of the families with FIPA harbor inactivating mutation in AIP gene.
+
+EXACT_ANSWER:
+- aryl hydrocarbon receptor interacting protein

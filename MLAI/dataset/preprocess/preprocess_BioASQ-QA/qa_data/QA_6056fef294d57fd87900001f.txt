@@ -1,0 +1,7 @@
+QUESTION: Which glands in the bee secretes royal jelly?
+
+IDEAL_ANSWER:
+- hypopharyngeal glands
+
+EXACT_ANSWER:
+- hypopharyngeal glands

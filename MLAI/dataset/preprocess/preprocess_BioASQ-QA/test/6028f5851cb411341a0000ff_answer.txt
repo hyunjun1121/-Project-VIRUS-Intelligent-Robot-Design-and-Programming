@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- 1.1% frequency
+- The P.Pro50Thr allele is present at 1.1% frequency in Finns but virtually absent in other ancestries.
+- A study identified a novel association between the coding variant (p.Pro50Thr) in AKT2 and fasting plasma insulin (FI), a gene in which rare fully penetrant mutations are causal for monogenic glycemic disorders. The low-frequency allele is associated with a 12% increase in FI levels. This variant is present at 1.1% frequency in Finns but virtually absent in individuals from other ancestries. Carriers of the FI-increasing allele had increased 2-h insulin values, decreased insulin sensitivity, and increased risk of type 2 diabetes (odds ratio 1.05). In cellular studies, the AKT2-Thr50 protein exhibited a partial loss of function.
+
+EXACT_ANSWER:
+- 1.1%

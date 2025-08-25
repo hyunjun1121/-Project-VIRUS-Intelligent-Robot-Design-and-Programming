@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Inhaled Molgramostim was shown to be effective for Autoimmune Pulmonary Alveolar Proteinosis.
+
+EXACT_ANSWER:
+- Autoimmune Pulmonary Alveolar Proteinosis

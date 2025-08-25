@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- The IRE1a-XBP1 pathway is a conserved adaptive mediator of the unfolded protein response, playing an important role in the regulation of cell differentiation.
+- The IRE1a-XBP1 pathway is a conserved adaptive mediator of the unfolded protein response, playing an important role in the regulation of cell proliferation and differentiation.
+- The inositol-requiring enzyme 1a (IRE1a)/X-box binding protein 1 (XBP1) pathway plays crucial roles in cell survival and cell death by upregulating UPR-associated genes involved in protein entry into the endoplasmic reticulum  and ER-associated degradation (ERAD).
+- The IRE1a-XBP1 pathway is a conserved adaptive mediator of the unfold protein response.
+- The IRE1a-XBP1 pathway is a conserved adaptive mediator of the unfolded protein response. The pathway is indispensable for the development of secretory cells by facilitating protein folding and enhancing secretory capacity.
+- The IRE1a-XBP1 pathway is a conserved adaptive mediator of the unfolded protein response.
+- Genome-wide analyses reveal the IRE1a-XBP1 pathway promotes T helper cell differentiation by resolving secretory stress and accelerating proliferation.
+- The IRE1a-XBP1 pathway is a conserved adaptive mediator of the unfolded protein response. It is indispensable for the development of secretory cells by facilitating protein folding and enhancing secretory capacity.
+
+EXACT_ANSWER:
+- Promotion of T helper cell differentiation by resolving secretory stress and accelerating proliferation

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The most effective strategy therein was vaccination of 12-year-olds, plus a temporary 12-24-year-old catch-up program covering both sexes; whereby HPV 6/11/16/18-related cervical cancer, high-grade cervical precancer, and genital wart incidence was reduced by 84-98% during year 50 following vaccine introduction. Vaccine efficacy in prevention of CIN 2 or higher lesions in HPV 16 or HPV 18 negative women, who received all vaccination doses, ranges between 98% and 100%
+
+EXACT_ANSWER:
+- Cervical precancer and similar neoplasias were reduced by 84-100%

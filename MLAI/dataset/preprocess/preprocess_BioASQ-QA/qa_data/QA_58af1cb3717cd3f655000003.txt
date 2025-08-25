@@ -1,0 +1,12 @@
+QUESTION: Which is the main abnormality that arises with Sox9 locus duplication?
+
+IDEAL_ANSWER:
+- The 46,XX testicular disorder of sex development (DSD), also known as 46,XX male syndrome, is a rare form of DSD and clinical phenotype shows complete sex reversal from female to male. A complex network of genes determines sex in mammals. Differentiation of testicular tissue in 46,XX individuals is seen either in XX males, the majority of them with SRY gene, or in individuals, usually SRY(-), with ovotesticular disorder of sex development (OT-DSD). SOX9 is one of the genes that play critical roles in male sexual differentiation.
+- Thus, SOX9 duplication is the most likely cause for the sex reversal in this case because it plays an important role in male sex determination and differentiation. The SRY-box 9 (SOX9) gene has several important functions during testis development and differentiation in males, and overexpression of SOX9 leads to the male development of 46,XX gonads in the absence of SRY.
+- Autosomal XX sex reversal caused by duplication of SOX9. Mutations of SOX9 leading to haploinsufficiency can cause campomelic dysplasia and XY sex reversal. We report here evidence supporting that SOX9 duplication can cause XX sex reversal. Fluorescent in situ hybridization (FISH) with a BAC clone containing the SOX9 gene demonstrated that the SOX9 gene is duplicated on the rearranged chromosome 17. SOX9 duplication linked to intersex in deer. 
+- SOX9 duplication can cause XX sex reversal.  SOX9 duplication has been found to be a rare cause of 46,XX testicular DSD in humans.
+- Mutations of SOX9 leading to haploinsufficiency can cause campomelic dysplasia and XY sex reversal. In addition, SOX9 duplication has been found to be a rare cause of 46,XX testicular DSD in humans.
+- Autosomal XX sex reversal caused by duplication of SOX9
+
+EXACT_ANSWER:
+- Autosomal XX sex reversal

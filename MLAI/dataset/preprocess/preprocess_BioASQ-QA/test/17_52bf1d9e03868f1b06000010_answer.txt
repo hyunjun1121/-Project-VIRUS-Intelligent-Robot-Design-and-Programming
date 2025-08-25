@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Denosumab is a monoclonal antibody against the RANKL
+
+EXACT_ANSWER:
+- RANKL

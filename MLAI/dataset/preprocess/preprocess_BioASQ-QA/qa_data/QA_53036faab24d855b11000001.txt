@@ -1,0 +1,7 @@
+QUESTION: What is the incidence of sudden cardiac death among young athletes?
+
+IDEAL_ANSWER:
+- the incidence of sudden cardiac death among young athletes ranges from 0.5  to 3  per 100,000 athletes per year  .
+
+EXACT_ANSWER:
+- 0.5  to 3  per 100,000 athletes per year

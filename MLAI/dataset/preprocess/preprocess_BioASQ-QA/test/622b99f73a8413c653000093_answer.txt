@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Her2 is targeted by Herceptin.
+
+EXACT_ANSWER:
+- Her2

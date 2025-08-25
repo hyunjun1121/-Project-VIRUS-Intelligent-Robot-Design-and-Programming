@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The outbreak of the hypervirulent strain belonging to ribotype 027 has increased the incidence and severity of CDI in some countries.
+
+EXACT_ANSWER:
+- Ribotype 027

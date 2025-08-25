@@ -1,0 +1,7 @@
+QUESTION: What does MVA85A stand for?
+
+IDEAL_ANSWER:
+- MVA85A is the Modified Vaccinia virus Ankara expressing Antigen 85A.
+
+EXACT_ANSWER:
+- Modified Vaccinia virus Ankara expressing Antigen 85A

@@ -1,0 +1,7 @@
+QUESTION: Which human tissue synthesize CRP?
+
+IDEAL_ANSWER:
+- CRP is predominantly produced in the liver in a native pentameric form (nCRP).
+
+EXACT_ANSWER:
+- liver

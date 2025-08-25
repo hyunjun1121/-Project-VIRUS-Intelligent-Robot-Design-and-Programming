@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Capnocytophaga canimorsus infection is typically associated with dog bites, especially in asplenic or immunocompromised patients, and typically manifest as sepsis and/or bacteremia.
+
+EXACT_ANSWER:
+- Dog

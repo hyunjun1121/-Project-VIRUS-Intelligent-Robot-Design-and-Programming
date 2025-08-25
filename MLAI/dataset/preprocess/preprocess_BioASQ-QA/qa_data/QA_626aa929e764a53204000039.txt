@@ -1,0 +1,7 @@
+QUESTION: What happens to the expression levels of piRNAs in the case of intracranial aneurysm rupture?
+
+IDEAL_ANSWER:
+- piRNAs showed a substantial decrease in RNA abundance that was sustained after IA rupture.
+
+EXACT_ANSWER:
+- Decreased

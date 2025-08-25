@@ -1,0 +1,7 @@
+QUESTION: Which resource contains accurate enhancer predictions in the developing limb?
+
+IDEAL_ANSWER:
+- Limb-Enhancer Genie (LEG) is a collection of highly accurate, genome-wide predictions of enhancers in the developing limb, available through a user-friendly online interface. Limb enhancers are predicted using a combination of >50 published limb-specific datasets and clusters of evolutionarily conserved transcription factor binding sites, taking advantage of the patterns observed at previously in vivo validated elements.
+
+EXACT_ANSWER:
+- Limb-Enhancer Genie (LEG)

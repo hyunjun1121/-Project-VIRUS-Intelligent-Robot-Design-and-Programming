@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- 3,4-diaminobenzoic acid derivatives are inhibitors of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties. Cell-based analysis indicated that the lead compounds can be effective in downregulating macrophage activation induced by lipopolysaccharide and interferon-γ as well as cross-presentation by bone marrow-derived dendritic cells.
+
+EXACT_ANSWER:
+- Inhibition of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties.

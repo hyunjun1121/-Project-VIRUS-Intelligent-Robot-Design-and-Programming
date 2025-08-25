@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- N(6)-methyladenosine (m6A) is the most abundant modified base in eukaryotic mRNA and has been linked to diverse effects on mRNA fate. m6A predominantly and directly reduces mRNA stability.
+
+EXACT_ANSWER:
+- mRNA stability

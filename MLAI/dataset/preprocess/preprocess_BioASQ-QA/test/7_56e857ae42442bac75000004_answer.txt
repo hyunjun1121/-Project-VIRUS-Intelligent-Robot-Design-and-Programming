@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Extracellular matrix metalloproteinases (MMPs) are a family of zinc-dependent neutral endopeptidases.
+
+EXACT_ANSWER:
+- zinc

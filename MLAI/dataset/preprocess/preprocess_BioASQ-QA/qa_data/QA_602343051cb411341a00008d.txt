@@ -1,0 +1,7 @@
+QUESTION: What is the target of Volanesorsen?
+
+IDEAL_ANSWER:
+- Volanesorsen is a second-generation antisense oligonucleotide inhibiting apoC-III (apolipoprotein C-III) transcription/translation that has been recently approved in Europe for Familial Chylomicronemia Syndrome (FCS) treatment.
+
+EXACT_ANSWER:
+- apoC-III

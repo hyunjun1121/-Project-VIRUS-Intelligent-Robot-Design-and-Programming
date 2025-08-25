@@ -1,0 +1,8 @@
+QUESTION: Which is the genetic basis of Spinal Muscular Atrophy (SMA)?
+
+IDEAL_ANSWER:
+- The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1). Mutations of the SMN1 gene are responsible for SMA. A single nucleotide in the SMN gene regulates splicing and is responsible for spinal muscular atrophy. A critical question is why only the homozygous loss of SMN1, and not SMN2, results in spinal muscular atrophy (SMA). H4F5 is also highly deleted in type I SMA chromosomes, and thus is a candidate phenotypic modifier for SMA.
+The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1).
+
+EXACT_ANSWER:
+- The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1)

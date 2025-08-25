@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Afrezza was approved by the FDA in June 2014.
+
+EXACT_ANSWER:
+- June 2014

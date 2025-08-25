@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Nyctinasty is the circadian rhythmic nastic movement of leguminous plants in response to the onset of darkness; a unique and intriguing phenomenon that has attracted attention for centuries.
+- Leguminous plants open their leaves during the daytime and close them at night as if sleeping, a type of movement that follows circadian rhythms, and is known as nyctinastic movement
+
+EXACT_ANSWER:
+- movement of leguminous plants in response to darkness

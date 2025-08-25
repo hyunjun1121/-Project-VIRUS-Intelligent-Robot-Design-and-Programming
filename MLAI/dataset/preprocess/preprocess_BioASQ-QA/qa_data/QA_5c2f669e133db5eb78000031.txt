@@ -1,0 +1,7 @@
+QUESTION: How many genes in S. cerevisiae are the result of an ancient whole genome duplication?
+
+IDEAL_ANSWER:
+- The two genomes subsequently converged onto similar current sizes (5,600 protein-coding genes each) and independently retained sets of duplicated genes that are strikingly similar. Almost half of their surviving single-copy genes are not orthologs but paralogs formed by WGD, as would be expected if most gene pairs were resolved independently.
+
+EXACT_ANSWER:
+- 2500

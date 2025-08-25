@@ -1,0 +1,12 @@
+QUESTION: What is the protein that is truncated to produce progerin?
+
+IDEAL_ANSWER:
+- The truncated lamin A protein produced "progerin
+- Hutchinson Gilford progeria syndrome (HGPS) is a devastating accelerated aging disease caused by LMNA gene mutation. The truncated lamin A protein produced "progerin"
+
+EXACT_ANSWER:
+- lamin-A
+- prelamin
+- lamin a
+- progerin
+- lamin A (LMNA)

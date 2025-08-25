@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Kymriah™ has been approved for the treatment of pediatric patients and young adults with refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia.
+
+EXACT_ANSWER:
+- children and young adults with refractory or relapse B cell precursor acute lymphoblastic leukemia

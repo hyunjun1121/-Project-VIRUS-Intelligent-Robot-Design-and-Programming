@@ -1,0 +1,7 @@
+QUESTION: Which bacteria caused plague?
+
+IDEAL_ANSWER:
+- Yersinia pestis is the causative bacteria of the plague.
+
+EXACT_ANSWER:
+- Yersinia pestis

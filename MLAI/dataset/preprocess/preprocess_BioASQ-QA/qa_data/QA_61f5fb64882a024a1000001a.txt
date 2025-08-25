@@ -1,0 +1,7 @@
+QUESTION: Which disease is treated with Tebentafusp?
+
+IDEAL_ANSWER:
+- Tebentafusp is used for treatment of Metastatic Uveal Melanoma.
+
+EXACT_ANSWER:
+- Metastatic Uveal Melanoma

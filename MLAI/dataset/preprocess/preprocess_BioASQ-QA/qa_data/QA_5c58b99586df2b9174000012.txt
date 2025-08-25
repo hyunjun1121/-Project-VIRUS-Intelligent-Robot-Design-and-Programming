@@ -1,0 +1,7 @@
+QUESTION: Cemiplimab is used for treatment of which cancer?
+
+IDEAL_ANSWER:
+- Cemiplimab is a PD-1 inhibitor that is approved for treatment of metastatic or locally advanced cutaneous squamous cell carcinoma.
+
+EXACT_ANSWER:
+- cutaneous squamous cell carcinoma

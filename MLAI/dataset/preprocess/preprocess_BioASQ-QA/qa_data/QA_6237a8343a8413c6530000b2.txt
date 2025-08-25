@@ -1,0 +1,7 @@
+QUESTION: Which protein family is epiregulin a member of?
+
+IDEAL_ANSWER:
+- EREG (epiregulin), a member of the epidermal growth factor (EGF) family.
+
+EXACT_ANSWER:
+- epidermal growth factor family

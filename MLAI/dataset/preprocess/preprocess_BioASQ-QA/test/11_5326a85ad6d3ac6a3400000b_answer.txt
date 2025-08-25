@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- PABP4  binds mRNA poly(A) tails.
+
+EXACT_ANSWER:
+- PABP4  binds mRNA poly(A) tails.

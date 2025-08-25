@@ -1,0 +1,7 @@
+QUESTION: What are the structures formed when keratin molecules come together?
+
+IDEAL_ANSWER:
+- Keratins form the intermediate filaments of the cytoskeleton and provide scaffold structures within cells.
+
+EXACT_ANSWER:
+- Intermediate filaments

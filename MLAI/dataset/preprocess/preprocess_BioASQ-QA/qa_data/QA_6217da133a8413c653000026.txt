@@ -1,0 +1,7 @@
+QUESTION: Where is the the protein perforin localized?
+
+IDEAL_ANSWER:
+- Perforin are stored inside the leukocytes in secretory granules.
+
+EXACT_ANSWER:
+- In secretory granules

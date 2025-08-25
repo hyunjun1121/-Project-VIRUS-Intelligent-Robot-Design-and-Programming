@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- RTS,S/AS01 vaccine was developed for prevention of malaria.
+
+EXACT_ANSWER:
+- malaria

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Molecular radiotherapy is working through tumor-targeted radionuclides.
+
+EXACT_ANSWER:
+- Molecular radiotherapy is working through tumor-targeted radionuclides.

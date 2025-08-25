@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- NF1 gene, encoding neurofibromin 1
+
+EXACT_ANSWER:
+- NF1

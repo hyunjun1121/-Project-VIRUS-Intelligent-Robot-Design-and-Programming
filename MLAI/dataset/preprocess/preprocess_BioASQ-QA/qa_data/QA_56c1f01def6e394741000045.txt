@@ -1,0 +1,7 @@
+QUESTION: Orteronel was developed for treatment of which cancer?
+
+IDEAL_ANSWER:
+- Orteronel was developed for treatment of castration-resistant prostate cancer.
+
+EXACT_ANSWER:
+- castration-resistant prostate cancer

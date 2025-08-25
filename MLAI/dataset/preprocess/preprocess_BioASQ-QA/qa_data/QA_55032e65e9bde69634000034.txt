@@ -1,0 +1,8 @@
+QUESTION: What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.
+
+IDEAL_ANSWER:
+- Cerebral hemiatrophy (atrophy of one cerebral hemisphere) is the characteristic feature of the Dyke-Davidoff-Masson syndrome. It develops due to an insult to the brain in fetal or early childhood period. Calvarial thickening, skull and facial asymmetry, contralateral hemiparesis, cognitive impairment and seizures are also characteristic to the Dyke-Davidoff-Masson syndrome.
+.
+
+EXACT_ANSWER:
+- cerebral hemiatrophy

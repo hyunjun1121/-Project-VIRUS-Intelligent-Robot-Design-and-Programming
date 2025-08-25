@@ -1,0 +1,21 @@
+QUESTION: What is marked by DNaseI hypersensitive sites?
+
+IDEAL_ANSWER:
+- Hypersensitive sites are chromosomal regions up to 2kb distant to known genomic regulatory regions and 5 kb from known regulatory regions.
+- Hypersensitivity of cis-regulatory elements to digestion with DNaseI remains the gold-standard approach to locating such elements.
+- DNaseI hypersensitive sites correspond to regions of the genome that have recently been isolated as well as specific genomic regulatory regions.
+- DNaseI hypersensitive sites are chromosomal regions up to 2kb distant to known genomic regulatory regions and 5 kb from known regulatory regions.
+- DNAaseI hypersensitive sites consist of covalent domains that are hypersensitive to DNA polymerase I and are generally found in genomic regulatory regions where transcription starts and stops at these regions.
+- Mapping DNaseI hypersensitive sites is commonly used to identify regulatory regions in the genome.
+- In genetics, DNase I hypersensitive sites (DHSs) are regions of chromatin that are sensitive to cleavage by the DNase I enzyme. In these specific regions of the genome, chromatin has lost its condensed structure, exposing the DNA and making it accessible.
+- Yes, DNaseI hypersensitive sites have been shown to be markers for all types of active cis-acting regulatory elements, including promoters, enhancers, silencers, insulators, and locus control regions.
+- DNA hypomethylation and the presence of DNaseI hypersensitive sites correlate with transcriptional activity of P1.1. Mapping sites within the genome that are hypersensitive to digestion withDNaseI is an important method for identifying DNA elements that regulate transcription.
+- Mapping sites within the genome that are hypersensitive to digestion with DNaseI is an important method for identifying DNA elements that regulate transcription . The identification of cis-regulatory elements is central to understanding gene transcription . Of two promoter-like duplications in each spacer, only the most upstream copy is associated with hypersensitivity to DNAaseI .
+- DNaseI hypersensitive sites correspond to regions along genomic regulatory regions where transcription starts and stops.
+- The identification of cis-regulatory elements is central to understanding gene transcription. Hypersensitivity of cis-regulatory elements to digestion with DNaseI remains the gold-standard approach to locating such elements in regions of open chromatin.
+
+EXACT_ANSWER:
+- sites of transcriptional regulation
+- gene regulatory sites
+- transcriptional regulation binding sites
+- cis-regulatory elements

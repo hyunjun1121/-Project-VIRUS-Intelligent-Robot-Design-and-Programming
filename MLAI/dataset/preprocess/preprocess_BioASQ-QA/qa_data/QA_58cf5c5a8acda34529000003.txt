@@ -1,0 +1,12 @@
+QUESTION: Where is base J found in the genome of Leishmania tarentolae?
+
+IDEAL_ANSWER:
+- Base J (β-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei.
+- Base J (-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei. J is enriched at sites involved in RNA polymerase (RNAP) II initiation and termination. 
+- Base J (Î²-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei.
+- Base J (β-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops.
+- j (β-d-glucosyl-hydroxymethyluracil) replaces 1% of t in the leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. . j is found predominantly in repetitive dna and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in trypanosoma brucei. . 
+- base j (β-d-glucosyl-hydroxymethyluracil) replaces 1% of t in the leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops.
+
+EXACT_ANSWER:
+- telomeric repeats

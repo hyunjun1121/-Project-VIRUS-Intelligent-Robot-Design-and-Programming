@@ -1,0 +1,7 @@
+QUESTION: In which condition was protein S100A7 originally identified?
+
+IDEAL_ANSWER:
+- Psoriasin (S100A7) was originally identified in psoriasis.
+
+EXACT_ANSWER:
+- psoriasis

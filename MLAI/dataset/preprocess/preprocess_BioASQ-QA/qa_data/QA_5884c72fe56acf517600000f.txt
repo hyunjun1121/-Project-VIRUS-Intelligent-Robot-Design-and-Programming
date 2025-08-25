@@ -1,0 +1,8 @@
+QUESTION: What molecule is targeted by Avelumab?
+
+IDEAL_ANSWER:
+- Avelumab is a monoclonal antibody that binds programmed death-ligand 1 (PD-L1).
+
+EXACT_ANSWER:
+- programmed death-ligand 1
+- PD-L1

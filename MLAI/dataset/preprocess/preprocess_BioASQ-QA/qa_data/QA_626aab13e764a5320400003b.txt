@@ -1,0 +1,7 @@
+QUESTION: What is the rate of epimutations in C. elegans?
+
+IDEAL_ANSWER:
+- In C. elegans epimutations arise spontaneously at a rate approximately 25 times greater than DNA sequence changes.
+
+EXACT_ANSWER:
+- 25 times greater than DNA sequence changes

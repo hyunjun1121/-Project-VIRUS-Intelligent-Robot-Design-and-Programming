@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Autosomal dominant leukodystrophy (ADLD) is an adult onset demyelinating disorder that is caused by duplications of the lamin B1 (LMNB1) gene.
+
+EXACT_ANSWER:
+- Lamin B1 gene
+- LMNB1

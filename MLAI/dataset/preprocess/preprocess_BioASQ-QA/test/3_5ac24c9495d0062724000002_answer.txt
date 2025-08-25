@@ -1,0 +1,11 @@
+IDEAL_ANSWER:
+- Precise Identification of DNA-Binding Proteins Genomic Location by Exonuclease Coupled Chromatin Immunoprecipitation (ChIP-exo).
+- ChIP-exo method for identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy. 
+- ChIP-exo method for identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy. ChIP-exo allows identification of a nearly complete set of the binding locations of DNA-binding proteins at near-single-nucleotide resolution with almost no background. Precise Identification of DNA-Binding Proteins Genomic Location by Exonuclease Coupled Chromatin Immunoprecipitation (ChIP-exo).
+- ChIP-exo method for identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy.
+- ChIP-exo is a molecular biology method for identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy.
+- ChIP-exo method for identifying genomic location of DNA-binding proteins with near-single-nucleotide accuracy. ChIP-exo allows identification of a nearly complete set of the binding locations of DNA-binding proteins at near-single-nucleotide resolution with almost no background.
+- ChIP-exo allows identification of a nearly complete set of the binding locations of DNA-binding proteins at near-single-nucleotide resolution with almost no background. The key distinction of the ChIP-exo methodology is the incorporation of lambda exonuclease digestion in the library preparation workflow to effectively footprint the left and right 5' DNA borders of the protein-DNA crosslink site. 
+
+EXACT_ANSWER:
+- location of DNA binding proteins at high resolution

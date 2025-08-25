@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- T1 mapping can quantitatively characterize myocardial tissue, in particular diffuse and interstitial fibrosis, edema in both overt and subclinical cardiophyopathies. However more research is required before a large-scale application for clinical decision-making can be recommended.
+- The clinical indication of cardiac T1 mapping magnetic resonance is the detection  of diffuse myocardial fibrosis in nonischemic cardiomyopathies
+
+EXACT_ANSWER:
+- detection  of myocardial fibrosis in nonischemic cardiomyopathies
+- T1 mapping can quantitatively characterize myocardial tissue, i.e. fibrosis and edema.

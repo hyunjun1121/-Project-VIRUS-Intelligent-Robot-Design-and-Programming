@@ -1,0 +1,8 @@
+QUESTION: What percentage of patients of nasopharyngeal carcinoma (NPC) develop recurrent disease?
+
+IDEAL_ANSWER:
+- 1.04% of patients with nasopharyngeal carcinoma develop recurrent disease. The overall recurrence rate is 75%.
+- The overall recurrence rate was 75% in HPV negative patients and 11% in HPV positive ones. Disease recurred in a spared parotid gland in three patients (1.04%).
+
+EXACT_ANSWER:
+- 11-75%

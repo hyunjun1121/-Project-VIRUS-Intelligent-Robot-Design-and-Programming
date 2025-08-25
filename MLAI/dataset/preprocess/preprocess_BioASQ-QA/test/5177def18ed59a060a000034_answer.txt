@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Activating point mutations most frequently in codon 12
+
+EXACT_ANSWER:
+- Point mutations

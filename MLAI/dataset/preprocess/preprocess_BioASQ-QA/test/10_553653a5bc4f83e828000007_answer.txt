@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Molecular detection of EWS-FLI1 chimeric transcripts in Ewing family tumors is carried out by reverse transcription-polymerase chain reaction (RT-PCR).
+
+EXACT_ANSWER:
+- Reverse transcription - polymerase chain reaction (RT-PCR)

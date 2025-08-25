@@ -1,0 +1,8 @@
+QUESTION: What is the average diameter of intermediate filaments?
+
+IDEAL_ANSWER:
+- Intermediate filaments have an average diameter of 10 nanometers (nm).
+
+EXACT_ANSWER:
+- 10 nanometers
+- 10 nm

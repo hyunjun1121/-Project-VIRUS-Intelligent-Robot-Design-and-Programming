@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- thyroid hormone transporter MCT8 is implicated in thyroid hormone resistance syndrome
+- Hemizygous MCT8 mutations cuases TH resistance syndrome in males characterized by severe psychomotor retardation, known as the Allan-Herndon-Dudley syndrome (AHDS).
+
+EXACT_ANSWER:
+- monocarboxylate transporter 8
+- TH monocarboxylate transporter 8 (MCT8) mutation is implicated in the TH resistance syndrome
+- MCT8

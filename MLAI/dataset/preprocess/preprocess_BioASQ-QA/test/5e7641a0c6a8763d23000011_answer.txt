@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Vaxchora is the first vaccine approved by the Food and Drug Administration for the prophylaxis of cholera infection.
+
+EXACT_ANSWER:
+- Vaxchora

@@ -1,0 +1,9 @@
+QUESTION: What is the major adverse effect of adriamycin(doxorubicin)?
+
+IDEAL_ANSWER:
+- Cardiac toxicity is a major adverse effect caused by doxorubicin (DOX) therapy  
+- Cardiac toxicity is a major adverse effect caused by doxorubicin (DOX) therapy. In spite of the routine use of this drug its major adverse effect, the dose-dependent cardiotoxicity, cannot be prevented yet. Cardiotoxicity is a major adverse effect of the anthracycline antibiotics and can be acute or chronic.
+
+EXACT_ANSWER:
+- Cardiotoxicity
+- Cardiac toxicity

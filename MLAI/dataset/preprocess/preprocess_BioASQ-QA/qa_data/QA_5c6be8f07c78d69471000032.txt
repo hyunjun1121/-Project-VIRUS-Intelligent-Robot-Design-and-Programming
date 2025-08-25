@@ -1,0 +1,7 @@
+QUESTION: Which database has been developed that contains experimentally-confirmed carbonylated proteins?
+
+IDEAL_ANSWER:
+- Protein carbonylation, a chemically diverse oxidative post-translational modification, is widely considered as the biomarker for oxidative stress and protein damage. CarbonylDB has been developed as a manually curated data-resource of experimentally-confirmed carbonylated proteins/sites. The CarbonylDB currently contains 1495 carbonylated proteins and 3781 sites from 21 species, with human, rat and yeast as the top three species.
+
+EXACT_ANSWER:
+- CarbonylDB

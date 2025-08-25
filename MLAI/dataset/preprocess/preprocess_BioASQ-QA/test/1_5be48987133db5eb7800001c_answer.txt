@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Alterations in the oral microbiota in the immunosuppressed population may be associated with diseases such as Kaposi's sarcoma.
+
+EXACT_ANSWER:
+- Kaposi's  sarcoma

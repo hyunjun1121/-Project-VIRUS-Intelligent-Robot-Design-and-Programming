@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Myotonic dystrophy (DM) is a heterogeneous neuromuscular disease with an autosomal dominant pattern of inheritance.
+
+EXACT_ANSWER:
+- autosomal dominant

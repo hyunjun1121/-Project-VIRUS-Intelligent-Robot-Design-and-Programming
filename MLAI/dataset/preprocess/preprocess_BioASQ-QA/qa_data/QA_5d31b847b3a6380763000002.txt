@@ -1,0 +1,8 @@
+QUESTION: How many genes belong to the KRAB-ZNF family in the human genome?
+
+IDEAL_ANSWER:
+- The KRAB-ZNF family is a multisubunit protein family comprised of 70 co-regulated genes, denoted KLR1-ZNF15, that is represented by multigene families in the human genome.
+- There are 70 human KRAB-ZNFs.
+
+EXACT_ANSWER:
+- 70

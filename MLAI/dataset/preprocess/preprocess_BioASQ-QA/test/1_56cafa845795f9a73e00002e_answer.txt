@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- mTORC1, in coordination with mTORC2, controls cell proliferation by regulating FoxO3a gene expression and SGK1-mediated phosphorylation of FOXO3a at Ser314.
+
+EXACT_ANSWER:
+- The mTOR pathway

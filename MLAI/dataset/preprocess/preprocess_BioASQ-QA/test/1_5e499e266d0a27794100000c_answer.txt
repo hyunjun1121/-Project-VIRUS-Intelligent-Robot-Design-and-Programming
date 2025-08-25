@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The trade name of sildenafil is Viagra.
+
+EXACT_ANSWER:
+- Viagra

@@ -1,0 +1,9 @@
+QUESTION: What drug treatment can cause a spinal epidural hematoma?
+
+IDEAL_ANSWER:
+- Spinal epidural hematoma (SEH) is a rare disease that causes cord compression and neurologic deficit. Spontaneous SEH is related to minor trauma, bleeding disorders, and anticoagulant medications.
+- Spinal epidural hematomas are rare entity in neurosurgery practice. Most of them are spontaneous due to anticoagulant therapy and called spontaneous spinal epidural hematomas (SSEHs).
+- Spinal epidural hematoma (SEH) is a rare disease that causes cord compression and neurologic deficit.pinal subdural hematoma associated with antiplatelet therapy
+
+EXACT_ANSWER:
+- Anticoagulant therapy

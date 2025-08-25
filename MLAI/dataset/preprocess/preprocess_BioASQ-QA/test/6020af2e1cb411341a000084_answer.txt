@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- BIVV001 fusion protein has been developed as Factor VIII replacement therapy for hemophilia A
+
+EXACT_ANSWER:
+- Hemophilia A

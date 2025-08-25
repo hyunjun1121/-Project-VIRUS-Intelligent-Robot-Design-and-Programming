@@ -1,0 +1,7 @@
+QUESTION: Which disease is linked to mutations within BRAG1?
+
+IDEAL_ANSWER:
+- Mutations in BRAG1 have been identified in families with X-linked intellectual disability (XLID).
+
+EXACT_ANSWER:
+- X-linked intellectual disability

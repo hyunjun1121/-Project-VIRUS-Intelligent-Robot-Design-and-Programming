@@ -1,0 +1,7 @@
+QUESTION: What is emicizumab?
+
+IDEAL_ANSWER:
+- ACE910 (emicizumab) is a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function.
+
+EXACT_ANSWER:
+- ACE910 (emicizumab) is a humanized bispecific antibody recognizing factor IXa and X mimicking factor VIII function.

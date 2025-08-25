@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- It spans approximately 7 kb on chromosome 10 and consists of seven exons. The groucho-related genes (Grg) of the mouse comprise at least four family members.
+- The groucho-related genes  of the mouse comprise at least four family members. The Grg gene encodes a 197 amino acid protein homologous to the amino-terminal domain of the product of the groucho gene of the Drosophila Enhancer of split complex. The murine grg  products are believed to interact with transcription factors and repress transcription, thereby regulating cell proliferation and differentiation. 
+- The groucho-related genes (Grg) of the mouse comprise at least four family members.
+- We have isolated cDNAs representing multiple members of murine groucho homologues, designated Grg for groucho-related genes.  The groucho-related genes (Grg) of the mouse comprise at least four family members.
+
+EXACT_ANSWER:
+- four
+- 4

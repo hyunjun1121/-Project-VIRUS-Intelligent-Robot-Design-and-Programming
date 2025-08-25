@@ -1,0 +1,8 @@
+QUESTION: What gene is mutated in Sickle Cell Anemia?
+
+IDEAL_ANSWER:
+- Sickle cell anemia (SCA) is an autosomal recessive disease caused by by the HBB:c.20A>T mutation that leads to hemoglobin S synthesis.
+-  sca patients present clinical and hematologic variability that cannot be only explained by the single mutation in the beta-globin gene.
+
+EXACT_ANSWER:
+- HBB

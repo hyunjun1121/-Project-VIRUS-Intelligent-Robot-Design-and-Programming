@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- TBC1D7 was identified as a stably associated and ubiquitous third core subunit of the TSC1-TSC2 complex. It was demonstrated that TSC1-TSC2-TBC1D7 (TSC-TBC) is the functional complex that senses specific cellular growth conditions and possesses Rheb-GAP activity to negatively regulate mTORC1 activity. In agreement with this, TBC1D7 knockdown was shown to result in increased mTORC1 signaling, delayed induction of autophagy, and enhanced cell growth under poor growth conditions.
+
+EXACT_ANSWER:
+- TBC1D7

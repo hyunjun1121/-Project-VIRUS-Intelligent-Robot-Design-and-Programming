@@ -1,0 +1,7 @@
+QUESTION: Does dasatinib promote or inhibit T-cell proliferation?
+
+IDEAL_ANSWER:
+- Dasatinib inhibits T-cell proliferation
+
+EXACT_ANSWER:
+- inhibits

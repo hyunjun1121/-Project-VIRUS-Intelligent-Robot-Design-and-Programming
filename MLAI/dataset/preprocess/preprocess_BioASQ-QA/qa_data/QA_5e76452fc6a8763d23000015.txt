@@ -1,0 +1,7 @@
+QUESTION: What is the protective efficacy of vaxchora against moderate to severe cholera?
+
+IDEAL_ANSWER:
+- The protective efficacy of vaxchora  against moderate to severe cholera is 80-100%.
+
+EXACT_ANSWER:
+- 80-100%

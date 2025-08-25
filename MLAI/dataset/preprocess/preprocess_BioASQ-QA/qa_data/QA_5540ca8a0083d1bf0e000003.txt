@@ -1,0 +1,7 @@
+QUESTION: Which intermediate filament (IF) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone?
+
+IDEAL_ANSWER:
+- Nestin can be used as a nonspecific marker protein for precursor cells in the subventricular zone (SVZ). Nestin is a unique intermediate filament protein. While it is robustly expressed in developing brain, postnatal expression is limited to the brain's SVZ.
+
+EXACT_ANSWER:
+- Nestin

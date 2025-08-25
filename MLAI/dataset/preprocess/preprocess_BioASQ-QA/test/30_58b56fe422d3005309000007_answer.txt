@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Schwann cells and melanocytes originate from the multipotent population of neural crest cells.
+
+EXACT_ANSWER:
+- neural crest cells
+- NCC

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- N-glycolylneuraminic acid (Neu5Gc) is an immunogenic sugar of dietary origin that metabolically incorporates into diverse native glycoconjugates in humans.  Humans lack a functional cytidine monophosphate-N-acetylneuraminic acid hydroxylase (CMAH) protein and cannot synthesize the sugar Neu5Gc, an innate mammalian signal of self. N-Glycolylneuraminic acid (Neu5Gc) can be incorporated in human cells and can trigger immune response, a response that is diverse and polyclonal. As dietary Neu5Gc is primarily found in red meat and milk products, it is suggested that this ongoing antigen-antibody reaction may generate chronic inflammation, possibly contributing to the high frequency of diet-related carcinomas and other diseases in humans.
+
+EXACT_ANSWER:
+- Neu5Gc is an immune message to self

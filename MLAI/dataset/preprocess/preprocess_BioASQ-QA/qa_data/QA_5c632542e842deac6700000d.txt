@@ -1,0 +1,8 @@
+QUESTION: Which approach was used to diagnose a patient with Cutis Verticis Gyrata-Intellectual Disability (CVG-ID) syndrome?
+
+IDEAL_ANSWER:
+- Magnetic Resonance Imaging (MRI)
+
+EXACT_ANSWER:
+- Magnetic Resonance Imaging
+- MRI

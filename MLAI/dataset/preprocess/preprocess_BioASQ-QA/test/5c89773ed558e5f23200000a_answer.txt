@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Luxturna is approved by the Food and Drug Administration (FDA) for the treatment of inherited retinal dystrophy.
+
+EXACT_ANSWER:
+- Luxturna

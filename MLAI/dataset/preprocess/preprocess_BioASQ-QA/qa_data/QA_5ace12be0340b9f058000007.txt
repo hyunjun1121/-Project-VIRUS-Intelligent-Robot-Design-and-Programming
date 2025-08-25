@@ -1,0 +1,11 @@
+QUESTION: Which gene is responsible for proper speech development?
+
+IDEAL_ANSWER:
+- Transcription factor forkhead box protein P2 (FOXP2) plays an essential role in the development of language and speech.
+- The Key Regulator for Language and Speech Development, FOXP2, is a Novel Substrate for SUMOylation.
+- The Key Regulator for Language and Speech Development, FOXP2, is a Novel Substrate for SUMOylation. The data also point to a role for differential parent-of-origin expression of FOXP2 in human speech development.
+- Transcription factor forkhead box protein p2 plays an essential role in the development of language and speech.The key regulator for language and speech development , foxp2 , is a novel substrate for sumoylation.
+- The Key Regulator for Language and Speech Development, FOXP2, is a Novel Substrate for SUMOylation. Transcription factor forkhead box protein P2 (FOXP2) plays an essential role in the development of language and speech.
+
+EXACT_ANSWER:
+- FOXP2

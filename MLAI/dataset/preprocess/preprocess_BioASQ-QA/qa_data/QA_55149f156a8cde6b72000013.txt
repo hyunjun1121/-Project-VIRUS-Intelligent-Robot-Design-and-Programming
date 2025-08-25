@@ -1,0 +1,10 @@
+QUESTION: Which gene fusion is the result of the "philadelphia translocation" or the "philadelphia chromosome" mutation?
+
+IDEAL_ANSWER:
+- Chronic myeloid leukemia (CML) is genetically characterized by the presence of the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR/ABL gene fusion on the derivative chromosome 22 called the Philadelphia (Ph) chromosome. The Philadelphia chromosome and its corresponding fusion gene, BCR-ABL, is one of the best-known genetic abnormalities in hematological malignancies. Major BCR-ABL translocation is much more common in chronic myelogenous leukemia (CML) and minor BCR-ABL in acute lymphoblastic leukemia. 
+- Chronic myeloid leukemia (CML) is genetically characterized by the presence of the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR/ABL gene fusion on the derivative chromosome 22 called the Philadelphia (Ph) chromosome.   
+- The Philadelphia chromosome is recognized as the cytogenetic result of a rearrangement of the ABL gene on chromosome 9 and the BCL gene on chromosome 22, which leads to the creation of a BCR/ABL fusion gene on chromosome 22.
+
+EXACT_ANSWER:
+- The BCR/ABL gene fusion
+- ABL/BCR fusion

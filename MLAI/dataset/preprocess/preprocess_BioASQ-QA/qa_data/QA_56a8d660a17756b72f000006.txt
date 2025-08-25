@@ -1,0 +1,8 @@
+QUESTION: What is the link between Nonidet-40 (NP-40) and biotinylation?
+
+IDEAL_ANSWER:
+- 0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins.
+- NP-40 reduces contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins.
+
+EXACT_ANSWER:
+- Reduction of contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins.

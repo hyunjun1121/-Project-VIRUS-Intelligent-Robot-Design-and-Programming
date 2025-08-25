@@ -1,0 +1,7 @@
+QUESTION: What is the inheritance pattern of Li–Fraumeni syndrome?
+
+IDEAL_ANSWER:
+- Li-Fraumeni syndrome shows autosomal dominant inheritance.
+
+EXACT_ANSWER:
+- Autosomal dominant

@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- And persistent pain produced by peripheral tissue injury and inflammation was modeled by formalin test. 
+- And persistent pain produced by peripheral tissue injury and inflammation was modeled by formalin test.
+- Persistent pain, In vivo antinociceptive activity, is produced by peripheral tissue injury and inflammation and is modeled by formalin test.
+
+EXACT_ANSWER:
+- pain modeling

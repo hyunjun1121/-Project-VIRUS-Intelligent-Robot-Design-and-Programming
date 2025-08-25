@@ -1,0 +1,14 @@
+QUESTION: What disease is associated with a Malar rash?
+
+IDEAL_ANSWER:
+- Cutaneous manifestations of SLE are frequently the presenting symptoms, typically noted in the classic malar "butterfly" rash;
+- Malar rash is associated with a disease of the skin called Systemic lupus erythematosis.
+- Malar rash is a systemic lupus erythematosus (SLE) syndrome characterized by cutaneous manifestions (contact dermatitis, pompholyx, hand dermatitis dyshydrosis, urticaria) with chronic course and chronic course.
+- The malar or butterfly rash is seen on the face and is associated with systemic Lupus erythematosus
+-  Cutaneous manifestations of SLE are frequently the presenting symptoms, typically noted in the classic malar "butterfly" rash;
+- the cutaneous effects of sle are frequently the presenting symptoms. typically noted in the classic malar "butterfly " rash
+- Malar rash is associated with a Systemic lupus erythematosus.
+-  Cutaneous manifestations of SLE are frequently the presenting symptoms, typically noted in the classic malar "butterfly" rash; 
+
+EXACT_ANSWER:
+- butterfly rash associated with SLE

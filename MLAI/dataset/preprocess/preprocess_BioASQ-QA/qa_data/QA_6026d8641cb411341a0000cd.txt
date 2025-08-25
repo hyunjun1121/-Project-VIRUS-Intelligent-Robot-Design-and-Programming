@@ -1,0 +1,7 @@
+QUESTION: What is the synonym of MK-1602?
+
+IDEAL_ANSWER:
+- MK-1602 is also named Ubrogepant.
+
+EXACT_ANSWER:
+- ubrogepant

@@ -1,0 +1,9 @@
+QUESTION: Which disease of the central nervous system is characterized by the presence of Lewy bodies?
+
+IDEAL_ANSWER:
+- Parkinson s disease (PD) is one of the most common degenerative disorders of the central nervous system that produces motor and non-motor symptoms. The majority of cases are idiopathic and characterized by the presence of Lewy bodies containing fibrillar α-synuclein  
+- Parkinson's disease (PD) is one of the most common degenerative disorders of the central nervous system that produces motor and non-motor symptoms. The majority of cases are idiopathic and characterized by the presence of Lewy bodies containing fibrillar α-synuclein.
+- Parkinsons disease (PD) is one of the most common degenerative disorders of the central nervous system that produces motor and non-motor symptoms. The protein α-synuclein is well recognized to contribute to the pathogenesis of Parkinson disease and is the major component of Lewy bodies and Lewy neurites
+
+EXACT_ANSWER:
+- Parkinson's disease (PD)

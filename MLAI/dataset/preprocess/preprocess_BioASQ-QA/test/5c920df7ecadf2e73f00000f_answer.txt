@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Apixaban is administered orally.
+
+EXACT_ANSWER:
+- Oral

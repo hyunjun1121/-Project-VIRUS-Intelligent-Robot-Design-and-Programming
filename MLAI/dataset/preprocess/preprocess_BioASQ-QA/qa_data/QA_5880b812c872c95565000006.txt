@@ -1,0 +1,7 @@
+QUESTION: Which infection can be prevented with Dapivirine?
+
+IDEAL_ANSWER:
+- Vaginal ring containing Dapivirine is used for HIV prevention in women.
+
+EXACT_ANSWER:
+- HIV

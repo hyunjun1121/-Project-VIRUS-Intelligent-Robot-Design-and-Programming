@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The family Flaviviridae is comprised of three genera: Flavivirus, Pestivirus and Hepacivirus.
+
+EXACT_ANSWER:
+- three
+- 3

@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Circular dichroism and UV spectral analysis demonstrated that mitochondrial G-rich sequences near deletion breakpoints prevalent in human disease form G-quadruplex DNA structures.
+- Non-B DNA conformations are a key element of the mtDNA deletion process and most of the analyzed deletion breakpoints showed nucleotide repeats flanking the deletions. Circular dichroism and UV spectral analysis demonstrated that mitochondrial G-rich sequences near deletion breakpoints prevalent in human disease form G-quadruplex DNA structures. Current findings suggest that mitochondrial G-quadruplexes are also likely to be a source of instability for the mitochondrial genome by perturbing the normal progression of the mitochondrial replication machinery, including DNA unwinding by Twinkle helicase.
+- n this work, we performed a computational analysis of the human mitochondrial genome using the "Pattern Finder" G-quadruplex (G4) predictor algorithm to assess whether G4-forming sequences reside in close proximity (within 20 base pairs) to known mitochondrial DNA deletion breakpoints.
+- Circular dichroism and UV spectral analysis demonstrated that mitochondrial G-rich sequences near deletion breakpoints prevalent in human disease form G-quadruplex DNA structures. Direct repeat sequences are not required at the breakpoints of age-associated mitochondrial DNA deletions in rhesus monkeys. Most of the analyzed deletion breakpoints showed nucleotide repeats flanking the deletions. N this work, we performed a computational analysis of the human mitochondrial genome using the "Pattern Finder" G-quadruplex to known mitochondrial DNA deletion breakpoints. 
+
+EXACT_ANSWER:
+- Near mitochondrial G-rich sequences

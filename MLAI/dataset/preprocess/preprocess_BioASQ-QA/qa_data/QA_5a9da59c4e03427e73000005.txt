@@ -1,0 +1,7 @@
+QUESTION: What is PNPPP?
+
+IDEAL_ANSWER:
+- personally normalized plasma protein profiles (PNPPP)
+
+EXACT_ANSWER:
+- personally normalized plasma protein profiles

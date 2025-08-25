@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Primaquine (PQ) not only eliminates P. falciparum gametocytes but also kills liver dormant forms of P. vivax and P. ovale.
+
+EXACT_ANSWER:
+- anti-Malarial

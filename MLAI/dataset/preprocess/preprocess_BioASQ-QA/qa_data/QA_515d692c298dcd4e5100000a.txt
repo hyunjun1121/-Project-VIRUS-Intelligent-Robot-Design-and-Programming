@@ -1,0 +1,7 @@
+QUESTION: Which is the binding site motif of Sp1?
+
+IDEAL_ANSWER:
+- Sp1 binds to a GC-rich sequence element containing the decanucleotide consensus sequence 5′-(G/T)GGGCGG(G/A)(G/A)(C/T)-3′ (GC box element) in double stranded DNA (dsDNA). Gel shift competition studies and DNase I footprinting analyses revealed that Sp1 specifically interacts with the CACCC motif.
+
+EXACT_ANSWER:
+- (G/T)GGGCGG(G/A)(G/A)(C/T)

@@ -1,0 +1,7 @@
+QUESTION: What body parts are also known as phalanges?
+
+IDEAL_ANSWER:
+- The anatomical structure of each finger is comprised of four phalanges (distal, middle, proximal, and metacarpal phalange). Toes are also known as phalages
+
+EXACT_ANSWER:
+- bones of the digits, fingers or toes

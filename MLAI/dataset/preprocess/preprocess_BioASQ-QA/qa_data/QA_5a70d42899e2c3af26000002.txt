@@ -1,0 +1,7 @@
+QUESTION: Mutation of which gene causes arterial tortuosity syndrome?
+
+IDEAL_ANSWER:
+- Arterial tortuosity syndrome is an autosomal recessive connective tissue disorder caused by loss-of-function mutations in SLC2A10, which encodes facilitative glucose transporter 10 (GLUT10).
+
+EXACT_ANSWER:
+- SLC2A10

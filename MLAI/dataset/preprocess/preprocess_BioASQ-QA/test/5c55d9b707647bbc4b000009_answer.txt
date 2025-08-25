@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Caplacizumab is anti-von Willebrand factor (VWF) antibody that blocks the interaction between VWF and platelets. It is used for treatment of acquired thrombotic thrombocytopenic purpura (aTTP).
+
+EXACT_ANSWER:
+- von Willebrand factor

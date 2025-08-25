@@ -1,0 +1,7 @@
+QUESTION: Which polyQ tract protein is linked to Spinocerebellar Ataxia type 2?
+
+IDEAL_ANSWER:
+- Ataxin-2 is an evolutionarily conserved protein first identified in humans as responsible for spinocerebellar ataxia type 2 (SCA2). The molecular basis of SCA2 is the expansion of a polyglutamine tract in Ataxin-2, encoding a Lsm domain that may bind RNA and a PAM2 motif that enables interaction with the poly (A) binding protein.
+
+EXACT_ANSWER:
+- Ataxin 2

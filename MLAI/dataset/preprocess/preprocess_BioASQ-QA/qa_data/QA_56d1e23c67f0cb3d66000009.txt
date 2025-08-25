@@ -1,0 +1,7 @@
+QUESTION: Which are the coactivators of the Yes-associated protein (yap)?
+
+IDEAL_ANSWER:
+- The Yap protein forms complex with Tead (TEA domain) transcription factors.
+
+EXACT_ANSWER:
+- Tead (TEA domain) transcription factors.

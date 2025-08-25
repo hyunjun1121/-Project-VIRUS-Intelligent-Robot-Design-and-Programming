@@ -1,0 +1,8 @@
+QUESTION: What is the mammalian version of arginine vasotocin?
+
+IDEAL_ANSWER:
+- Arginine vasotocin (AVT) is the non-mammalian homolog of arginine vasopressin (AVP)
+- Arginine vasopressin (AVP) is the mammalian homolog of arginine vasotocin (AVT).
+
+EXACT_ANSWER:
+- Arginine vasopressin (AVP)

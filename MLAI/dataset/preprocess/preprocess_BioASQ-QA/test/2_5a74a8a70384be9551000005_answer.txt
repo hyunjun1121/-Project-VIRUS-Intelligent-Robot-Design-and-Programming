@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- siG12D-LODERTM has been tested in a phase 1/2a clinical trial of patients with pancreatic cancer.
+- siG12D-LODER™
+
+EXACT_ANSWER:
+- siG12D-LODERTM

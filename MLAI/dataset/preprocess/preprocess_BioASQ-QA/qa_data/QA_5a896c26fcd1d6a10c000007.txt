@@ -1,0 +1,12 @@
+QUESTION: In which syndrome is the RPS19 gene most frequently mutated?
+
+IDEAL_ANSWER:
+- Ribosomal protein S19 (RPS19), currently the only gene associated with DBA, is mutated in 25% of DBA patients, but its role in erythropoiesis is unknown. 
+- Diamond-Blackfan anemia (DBA) is a rare congenital red-cell aplasia characterized by anemia, bone-marrow erythroblastopenia, and congenital anomalies and is associated with heterozygous mutations in the ribosomal protein (RP) S19 gene (RPS19) in approximately 25% of probands. Mutations in the gene encoding ribosomal protein S19 (RPS19) have been identified in approximately 25% of DBA families.
+- Among these patients, RPS19 was the most frequently mutated gene. It has been proven that defects of ribosomal proteins can lead to this disease and that RPS19 is the most frequently mutated gene in DBA patients. Mutations in the ribosomal protein S19 gene (RPS19) have been found in 25% of patients with Diamond-Blackfan anemia, a rare syndrome of congenital bone marrow failure characterized by erythroblastopenia and various malformations. The association of mental retardation with large deletions at the 19q locus points to a contiguous gene syndrome. Analysis of pre-rRNA processing in primary DBA lymphoblastoid cell lines demonstrated similar alterations of large ribosomal subunit rRNA in both RPL35A-mutated and some RPL35A wild-type patients, suggesting additional large ribosomal subunit gene defects are likely present in some cases of DBA. No genotype-phenotype correlation has been found so far in RPS19 mutated patients. Hematologic findings, malformations and outcome are similar in the RPS19 mutated and the non-mutated groups. Recent reports show that the ribosomal protein S19 (RPS19) gene is mutated in 25% of all patients with DBA.
+- The RPS19 mutation group was associated with higher requirement for chronic treatment for anemia than other DBA groups.
+- Mutations in the gene encoding ribosomal protein S19 (RPS19) have been identified in approximately 25% of DBA families. Diamond-Blackfan anemia (DBA) is a rare congenital red-cell aplasia characterized by anemia, bone-marrow erythroblastopenia, and congenital anomalies and is associated with heterozygous mutations in the ribosomal protein (RP) S19 gene (RPS19) in approximately 25% of probands.
+
+EXACT_ANSWER:
+- Diamond-Blackfan Anemia
+- DBA

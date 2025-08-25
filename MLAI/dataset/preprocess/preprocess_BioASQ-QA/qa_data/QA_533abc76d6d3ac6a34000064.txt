@@ -1,0 +1,7 @@
+QUESTION: Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?
+
+IDEAL_ANSWER:
+- p16INK4 (also known as CDKN2A)
+
+EXACT_ANSWER:
+- p16INK4

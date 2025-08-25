@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- The acronym SUDEP refers to  Sudden Unexpected Death in Epilepsy
+- Sudden Unexpected Death in Epilepsy (SUDEP). sudden unexpected death in epilepsy (SUDEP),. 
+-  sudden unexpected death in epilepsy (SUDEP), Sudden Unexpected Death in Epilepsy (SUDEP)
+- Sudden Unexpected Death in Epilepsy (SUDEP)
+
+EXACT_ANSWER:
+- Sudden Unexpected Death in Epilepsy (SUDEP)

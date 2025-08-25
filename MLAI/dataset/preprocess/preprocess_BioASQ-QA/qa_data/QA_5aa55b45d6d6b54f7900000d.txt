@@ -1,0 +1,7 @@
+QUESTION: What organism causes scarlet fever also known as scarletina?
+
+IDEAL_ANSWER:
+- Scarlet fever is a disease which can occur as a result of a group A streptococcus (group A strep), group C Streptococcus and Streptococcus hemolyticus infection.
+
+EXACT_ANSWER:
+- Group A Streptococcus or Streptococcus pyogenes

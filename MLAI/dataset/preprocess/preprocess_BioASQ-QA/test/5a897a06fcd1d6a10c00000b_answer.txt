@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- According to the American Kennel Club (AKC), a temperature of 101 to 102.5 degrees Fahrenheit (38.3 to 39.2 degrees Celsius) is typical for dogs
+
+EXACT_ANSWER:
+- 101 to 102.5 degrees Fahrenheit  or 38.3 to 39.2 degrees Celsius

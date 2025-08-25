@@ -1,0 +1,7 @@
+QUESTION: Isotocin is an homolog of what hormone?
+
+IDEAL_ANSWER:
+- Isotocin is a homolog of oxytocin.
+
+EXACT_ANSWER:
+- oxytocin

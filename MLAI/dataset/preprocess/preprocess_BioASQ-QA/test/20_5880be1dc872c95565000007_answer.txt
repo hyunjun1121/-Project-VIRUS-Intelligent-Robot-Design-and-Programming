@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Niraparib is a Poly(ADP-ribose) Polymerase (PARP) Inhibitor. It is used for ovarian cancer treatment.
+
+EXACT_ANSWER:
+- Poly(ADP-ribose) Polymerase

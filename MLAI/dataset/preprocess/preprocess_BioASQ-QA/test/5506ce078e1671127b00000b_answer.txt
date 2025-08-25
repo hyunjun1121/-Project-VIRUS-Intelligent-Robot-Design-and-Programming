@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Protein phosphatase-1 activity is regulated by two binding partners, inhibitor-1 and the small heat shock protein 20, Hsp20. Cell fractionation, coimmunoprecipitation, and coimmunolocalization studies, revealed an association between Hsp20 and PP1. Small heat shock protein 20 interacts with protein phosphatase-1 and enhances sarcoplasmic reticulum calcium cycling.
+- Moreover, protein phosphatase-1 activity is regulated by two binding partners, inhibitor-1 and the small heat shock protein 20, Hsp20. Small heat shock protein 20 interacts with protein phosphatase-1 and enhances sarcoplasmic reticulum calcium cycling.
+
+EXACT_ANSWER:
+- Protein phosphatase 1
+- PP1

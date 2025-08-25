@@ -1,0 +1,7 @@
+QUESTION: What pathological condition is MK-1602 used for?
+
+IDEAL_ANSWER:
+- MK-1602 has been assessed in clinical trials for the acute treatment of migraine.
+
+EXACT_ANSWER:
+- acute treatment of migraine

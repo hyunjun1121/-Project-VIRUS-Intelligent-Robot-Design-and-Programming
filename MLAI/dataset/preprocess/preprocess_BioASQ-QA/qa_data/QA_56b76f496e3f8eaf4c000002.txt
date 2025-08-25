@@ -1,0 +1,7 @@
+QUESTION: What does the SAGA complex acronym stands for?
+
+IDEAL_ANSWER:
+- SAGA stands for Spt-Ada-Gcn5-acetyltransferase (SAGA)
+
+EXACT_ANSWER:
+- Spt-Ada-Gcn5-acetyltransferase

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- A herd immunity of 95% of the population is required to prevent sporadic outbreaks.
+
+EXACT_ANSWER:
+- 95 %

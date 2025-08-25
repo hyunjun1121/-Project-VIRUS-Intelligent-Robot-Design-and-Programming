@@ -1,0 +1,25 @@
+[project]
+name = "eval-next-backend"
+version = "0.1.0"
+description = "FastAPI backend for Eval Next project"
+authors = [
+    {name = "Eval Next Team"}
+]
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.24.0",
+    "pydantic>=2.0.0",
+    "sqlalchemy>=2.0.0",
+]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+    "httpx>=0.24.0",
+]

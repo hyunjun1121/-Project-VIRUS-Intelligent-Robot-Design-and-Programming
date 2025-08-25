@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Afatinib is a small molecule covalently binding and inhibiting the EGFR, HER2 and HER4 receptor tyrosine kinases. Trials showed promising efficacy in patients with EGFR-mutant NSCLC or enriched for clinical benefit from EGFR tyrosine kinase inhibitors gefitinib or erlotinib.
+- Afatinib is a novel irreversible inhibitor of the ErbB family members EGFR, tyrosine kinase-type cell surface receptors HER2 and HER4. It shows preclinical efficacy in NSCLC with common EGFR-activating mutations and the T790M mutation typically associated with EGFR TKI resistanceBIBW2992 is an irreversible EGFR TKI that also inhibits HER2 and vascular epidermal growth factor receptors
+
+EXACT_ANSWER:
+- EGFR-mutant non small cell lung carcinoma
+- EGFR-mutant NSCLC

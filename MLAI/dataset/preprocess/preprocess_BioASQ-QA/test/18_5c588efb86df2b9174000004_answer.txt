@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Brigatinib targets anaplastic lymphoma kinase. It is used for treatment of lung cancer (NSCLC).
+
+EXACT_ANSWER:
+- anaplastic lymphoma kinase

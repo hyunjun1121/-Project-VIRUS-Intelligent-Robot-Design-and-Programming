@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Pexidartinib is a selective tyrosine kinase inhibitor against CSF1R.
+
+EXACT_ANSWER:
+- CSF1R

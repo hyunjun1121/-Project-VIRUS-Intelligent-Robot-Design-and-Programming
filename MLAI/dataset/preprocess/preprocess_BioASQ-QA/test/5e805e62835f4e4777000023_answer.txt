@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Classic Bartter's syndrome has been demonstrated to result from defective chloride transport across the basolateral membrane in the distal nephron due to mutations in the chloride channel gene CLCNKB.
+
+EXACT_ANSWER:
+- Classic Bartter's syndrome has been demonstrated to result from defective chloride transport across the basolateral membrane in the distal nephron due to mutations in the chloride channel gene CLCNKB.

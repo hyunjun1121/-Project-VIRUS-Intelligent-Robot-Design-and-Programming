@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose.
+
+EXACT_ANSWER:
+- The GBA2 gene encodes the non-lysosomal glucosylceramidase (NLGase), an enzyme that catalyzes the conversion of glucosylceramide (GlcCer) to ceramide and glucose.

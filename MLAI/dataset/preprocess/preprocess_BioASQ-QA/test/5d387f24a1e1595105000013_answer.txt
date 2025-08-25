@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- The human pseudoautosomal region 2 (PAR2), which is located in the long arm of chromosome 9 (LTR6B) and consists of 32 exons, is320-kb long.
+- The 320-kb human pseudoautosomal region 2 (PAR2) at the tips of the long arms of the X and Y chromosomes is thought to have been duplicated onto the Y chromosome recently in primate evolution
+- The human pseudoautosomal region 2 (PAR2) is 320-kb long.
+
+EXACT_ANSWER:
+- 320kbp

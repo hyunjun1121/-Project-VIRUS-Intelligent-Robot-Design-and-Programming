@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Brodifacoum poisoning was linked to marijuana use.
+
+EXACT_ANSWER:
+- marijuana

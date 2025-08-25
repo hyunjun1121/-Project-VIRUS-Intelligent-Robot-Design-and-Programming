@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- The Bluetongue virus (BTV) genome contains ten double-stranded RNA segments.
+- Bluetongue virus (BTV) genome contains ten double-stranded RNA segments. 
+- Bluetongue virus (BTV) genome contains ten double-stranded RNA segments.
+- Bluetongue virus (BTV) genome contains ten double-stranded RNA segments
+- bluetongue virus (btv) genome contains ten double-stranded rna segments.
+
+EXACT_ANSWER:
+- double stranded, segmented RNA

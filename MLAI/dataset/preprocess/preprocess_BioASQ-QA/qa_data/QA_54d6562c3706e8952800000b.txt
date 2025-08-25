@@ -1,0 +1,7 @@
+QUESTION: Which is the enzymatic activity of the myotubularin family of proteins?
+
+IDEAL_ANSWER:
+- The myotubularin family of proteins are lipid inositol phosphatases
+
+EXACT_ANSWER:
+- lipid inositol phosphatase activity

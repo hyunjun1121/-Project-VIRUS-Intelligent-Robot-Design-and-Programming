@@ -1,0 +1,7 @@
+QUESTION: What is the name of the Cas13 based diagnostic test for the Zika and dengue viruses?
+
+IDEAL_ANSWER:
+- The Cas13-based platform that can detect Zika and dengue viruses is called SHERLOCK (specific high-sensitivity enzymatic reporter unlocking).
+
+EXACT_ANSWER:
+- SHERLOCK (specific high-sensitivity enzymatic reporter unlocking)

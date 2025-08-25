@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Fibrodysplasia ossificans progressiva (FOP), a congenital heterotopic ossification (HO) syndrome caused by gain-of-function mutations of bone morphogenetic protein (BMP) type I receptor ACVR1, manifests with progressive ossification of skeletal muscles, tendons, ligaments, and joints.
+
+EXACT_ANSWER:
+- 3.	Fibrodysplasia ossificans progressiva (FOP), a congenital heterotopic ossification (HO) syndrome caused by gain-of-function mutations of bone morphogenetic protein (BMP) type I receptor ACVR1, manifests with progressive ossification of skeletal muscles, tendons, ligaments, and joints.

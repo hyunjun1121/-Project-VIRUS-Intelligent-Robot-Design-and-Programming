@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The measles outbreak started an Amish community in Ohio
+
+EXACT_ANSWER:
+- Ohio

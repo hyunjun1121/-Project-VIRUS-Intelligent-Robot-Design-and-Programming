@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Common variants at 12q14 and 12q24 are associated with hippocampal volume. Aging is associated with reductions in hippocampal volume that are accelerated by Alzheimer's disease and vascular risk factors.
+- Common variants at 12q14 and 12q24 are associated with hippocampal volume. As we age, our hippocampus (the part of the brain that is responsible for memory and cognition) becomes less and less efficient at storing information. As a result, the volume of the hippocampus shrinks.
+- Common variants at 12q14 and 12q24 are associated with hippocampal volume.
+- Aging is associated with reductions in hippocampal volume that are accelerated by Alzheimer's disease and vascular risk factors. Common variants at 12q14 and 12q24 are associated with hippocampal volume.
+
+EXACT_ANSWER:
+- Hippocampal volume

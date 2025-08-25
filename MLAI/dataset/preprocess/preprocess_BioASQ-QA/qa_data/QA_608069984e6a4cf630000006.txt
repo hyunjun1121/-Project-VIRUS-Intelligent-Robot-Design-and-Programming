@@ -1,0 +1,7 @@
+QUESTION: What is the function of the stard10 protein?
+
+IDEAL_ANSWER:
+- STARD10, a member of the steroidogenic acute regulatory protein (StAR)-related lipid transfer (START) protein family, is highly expressed in the liver and has been shown to transfer phosphatidylcholine.
+
+EXACT_ANSWER:
+- STARD10 is a lipid transfer protein

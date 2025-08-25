@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- HLA-B*1502 has a high frequency in Han Chinese and other Asian populations, except Japanese. (There is a strong association between human leucocyte antigen (HLA)-B*1502 and carbamazepine-induced Stevens-Johnson syndrome (SJS)).
+
+EXACT_ANSWER:
+- Han Chinese and other Asian populations, except Japanese

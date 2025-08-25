@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Giant axonal neuropathy (GAN) is a progressive neurodegenerative disease caused by autosomal recessive mutations in the GAN gene resulting in a loss of a ubiquitously expressed protein, gigaxonin
+- Giant axonal neuropathy (GAN) is a progressive neurodegenerative disease caused by autosomal recessive mutations in the GAN gene, resulting in a loss of a ubiquitously expressed protein, gigaxonin.
+
+EXACT_ANSWER:
+- GAN gene

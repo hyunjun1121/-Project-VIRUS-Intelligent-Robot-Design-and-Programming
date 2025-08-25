@@ -1,0 +1,7 @@
+QUESTION: What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?
+
+IDEAL_ANSWER:
+- Facioscapulohumeral muscular dystrophy has an autosomal dominant inheritance pattern.
+
+EXACT_ANSWER:
+- autosomal dominant

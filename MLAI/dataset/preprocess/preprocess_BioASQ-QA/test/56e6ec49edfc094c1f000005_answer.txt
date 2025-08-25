@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Denosumab (Dmab) is a fully human monoclonal antibody against the receptor activator of nuclear factor-κB ligand (RANKL).
+
+EXACT_ANSWER:
+- receptor activator of nuclear factor-κB ligand
+- RANKL

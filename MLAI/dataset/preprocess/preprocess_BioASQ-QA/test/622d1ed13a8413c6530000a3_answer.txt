@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined.
+
+EXACT_ANSWER:
+- The daughterless (da) gene in Drosophila encodes a broadly expressed transcriptional regulator whose specific functions in the control of sex determination and neurogenesis have been extensively examined.

@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Waylivra is being developed by Ionis Pharmaceuticals through its subsidiary company, Akcea Therapeutics.
+
+EXACT_ANSWER:
+- Ionis Pharmaceuticals
+- Akcea Therapeutics

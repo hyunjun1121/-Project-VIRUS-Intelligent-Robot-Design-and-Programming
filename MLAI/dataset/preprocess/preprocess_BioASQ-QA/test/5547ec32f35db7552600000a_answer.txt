@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Pupil size is determined by the interaction of the parasympathetic and the sympathetic nervous system. The sympathetic nervous system acts either directly on the dilator muscle (peripherally) or centrally by inhibiting the Edinger-Westphal nucleus. Thus, the sympathetic nervous system mediates pupillary dilatation.
+
+EXACT_ANSWER:
+- pupillary dilatation (increase of the pupil size)

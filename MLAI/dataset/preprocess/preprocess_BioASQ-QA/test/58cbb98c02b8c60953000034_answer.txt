@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Mutations in the gene for tyrosinase (TYR), the key enzyme in melanin synthesis, are responsible for oculocutaneous 1 (OCA1)-type albinism.
+
+EXACT_ANSWER:
+- tyrosinase
+- TYR

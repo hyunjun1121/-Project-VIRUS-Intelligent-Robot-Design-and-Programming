@@ -1,0 +1,7 @@
+QUESTION: What is apelin?
+
+IDEAL_ANSWER:
+- Apelin, a small regulatory peptide, is the endogenous ligand for the apelin receptor (APJ) receptor.
+
+EXACT_ANSWER:
+- Apelin, a small regulatory peptide, is the endogenous ligand for the apelin receptor (APJ) receptor.

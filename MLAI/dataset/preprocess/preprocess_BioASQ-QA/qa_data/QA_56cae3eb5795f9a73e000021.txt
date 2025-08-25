@@ -1,0 +1,7 @@
+QUESTION: What is the most likely age of diagnosis of Crohn's disease (CD)?
+
+IDEAL_ANSWER:
+- Crohn's disease has a bimodal age distribution of disease onset diagnosis. The peaks (20 and 50 years) may represent different phenotypes or different genetic and/or environmental influences between younger- and older-onset individuals. When the age-related incidence of Crohn's disease was plotted for all countries from which such data were available, the peaks of greatest case frequency occurred at ages 15 to 25 years and paralleled a similar peak representing the number of Peyer's patches as a function of age. For those with biologic use, average age at time of diagnosis of Crohn's disease was 32.3 ± 12.2 years, compared with 43.7 ± 16.3 years for those who had not received biologics (P = 0.005).
+
+EXACT_ANSWER:
+- Crohn's disease has a bimodal age distribution of disease onset diagnosis. The peaks (20 and 50 years) may represent different phenotypes or different genetic and/or environmental influences between younger- and older-onset individuals.

@@ -1,0 +1,7 @@
+QUESTION: Which is the defective protein causing the lysosomal storage disease Fabry?
+
+IDEAL_ANSWER:
+- Anderson-Fabry disease (referred to as Fabry disease) is an X-linked disorder characterized by a deficiency of the lysosomal enzyme alpha-galactosidase A and the subsequent accumulation in various tissues of globotriaosylceramide (Gb(3)), the main substrate of the defective enzyme.
+
+EXACT_ANSWER:
+- alpha-galactosidase A

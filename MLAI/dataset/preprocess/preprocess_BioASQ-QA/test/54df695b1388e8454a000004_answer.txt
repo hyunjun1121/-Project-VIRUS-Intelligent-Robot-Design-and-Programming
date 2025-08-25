@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Lubag disease is also known as X-linked dystonia-parkinsonism (XDP). This disease is characterized by dystonia and parkinsonism, and afflicts Filipino men, and rarely, women originating principally from the Panay Island.
+
+EXACT_ANSWER:
+- X-linked dystonia-parkinsonism

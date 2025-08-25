@@ -1,0 +1,13 @@
+QUESTION: Mutations in which gene cause Schimke immune-osseous dysplasia?
+
+IDEAL_ANSWER:
+- SMARCAL1, also known as HARP, is an ATP-dependent annealing helicase that stabilizes replication forks during DNA damage. Mutations in this gene are the cause of Schimke immune-osseous dysplasia, an autosomal recessive disorder characterized by T-cell immunodeficiency and growth dysfunctions. 
+- Mutations in this gene are the cause of Schimke immune-osseous dysplasia (SIOD), an autosomal recessive disorder characterized by T-cell immunodeficiency and growth dysfunctions. SMARCAL1 (SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A-Like 1), also known as HARP, is an ATP-dependent annealing helicase that stabilizes replication forks during DNA damage.
+- Smarcal1 , also known as harp, is an atp-dependent annealing helicase that stabilizes replication forks during dna damage. Mutations in this gene are the cause of schimke immune-osseous dysplasia , an autosomal recessive disorder characterized by t-cell immunodeficiency and growth dysfunctions. 
+- Mutations in this gene are the cause of Schimke immune-osseous dysplasia (SIOD), an autosomal recessive disorder characterized by T-cell immunodeficiency and growth dysfunctions. SMARCAL1 (SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A-Like 1), also known as HARP, is an ATP-dependent annealing helicase that stabilizes replication forks during DNA damage. 
+- Mutations in this gene are the cause of Schimke immune-osseous dysplasia , an autosomal recessive disorder characterized by T-cell immunodeficiency and growth dysfunctions. SMARCAL1 , also known as HARP, is an ATP-dependent annealing helicase that stabilizes replication forks during DNA damage. 
+- SMARCAL1 (SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A-Like 1), also known as HARP, is an ATP-dependent annealing helicase that stabilizes replication forks during DNA damage. Mutations in this gene are the cause of Schimke immune-osseous dysplasia (SIOD), an autosomal recessive disorder characterized by T-cell immunodeficiency and growth dysfunctions.
+
+EXACT_ANSWER:
+- SMARCAL1 (SWI/SNF Related, Matrix Associated, Actin Dependent Regulator Of Chromatin, Subfamily A-Like 1)
+- HARP

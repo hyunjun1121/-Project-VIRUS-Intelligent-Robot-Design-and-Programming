@@ -1,0 +1,8 @@
+QUESTION: Which tool exists for microsatellite (SSR) loci detection and primer design?
+
+IDEAL_ANSWER:
+- Microsatellites are genomic sequences comprised of tandem repeats of short nucleotide motifs widely used as molecular markers in population genetics. FullSSR is a new bioinformatic tool for microsatellite (SSR) loci detection and primer design using genomic data from NGS assay.
+- FullSSR is a new bioinformatic tool for microsatellite (SSR) loci detection and primer design using genomic data from NGS assay. 
+
+EXACT_ANSWER:
+- FullSSR

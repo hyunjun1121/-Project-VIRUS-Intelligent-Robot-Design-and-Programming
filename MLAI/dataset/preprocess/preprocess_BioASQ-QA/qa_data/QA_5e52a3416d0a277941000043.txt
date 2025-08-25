@@ -1,0 +1,10 @@
+QUESTION: What is the purpose of the Unique Connectivity of Uncharged Compounds (UC2) search tool?
+
+IDEAL_ANSWER:
+- The Unique Connectivity of Uncharged Compounds (UC2) search tool uses unique connectivity of uncharged compounds for metabolite annotation by database searching in mass spectrometry-based metabolomics.
+- The Unique Connectivity of Uncharged Compounds (UC2) search tool uses unique connectivity of uncharged compounds for metabolite annotation by database searching in mass spectrometry-based metabolomics. The UC2 search tool is available at http://unc.bioqrator.org/UC2/.
+- The Unique Connectivity of Uncharged Compounds (UC2) search tool is used for metabolite annotation by database searching in mass spectrometry-based metabolomics.
+- For metabolite annotation in metabolomics, variations in the registered states of compounds (charged molecules and multiple components, such as salts) and their redundancy among compound databases could be the cause of misannotations and hamper immediate recognition of the uniqueness of metabolites while searching by mass values measured using mass spectrometry. The search system named UC2 (Unique Connectivity of Uncharged Compounds) has been developed where compounds are tentatively neutralized into uncharged states and stored on the basis of their unique connectivity of atoms after removing their stereochemical information using the first block in the hash of the IUPAC International Chemical Identifier, by which false-positive hits are remarkably reduced, both charged and uncharged compounds are properly searched in a single query and records having a unique connectivity are compiled in a single search result.
+
+EXACT_ANSWER:
+- Metabolite annotation by database searching in mass spectrometry-based metabolomics

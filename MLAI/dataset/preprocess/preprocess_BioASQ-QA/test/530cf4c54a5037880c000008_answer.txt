@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Ibrutinib is the covalent inhibitor of Bruton's tyrosine kinase that can be used for treatment of chronic lymphocytic leukemia (CLL). Ibrutinib has shown highly encouraging results in phase I/II trials in patients with treatment-naive, relapsed and refractory CLL even in the presence of high risk disease or poor prognostic markers. Ibrutinib demonstrated that Bruton's tyrosine kinase inhibition sensitizes CLL cells to apoptosis and alters their migratory behavior. Ibrutinib has excellent activity in other B cell malignancies, including in particular mantle cell lymphoma and Waldenstrom macroglobulinemia.
+
+EXACT_ANSWER:
+- Ibrutinib

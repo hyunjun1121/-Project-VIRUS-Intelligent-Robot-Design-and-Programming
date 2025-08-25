@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Color-blindness problems are detected by the Ishihara Test.
+- 12 patients had color blindness based on the Ishihara test
+- 12 patients had color blindness based on the Ishihara test. 
+
+EXACT_ANSWER:
+- Ishihara test
+- Ishihara

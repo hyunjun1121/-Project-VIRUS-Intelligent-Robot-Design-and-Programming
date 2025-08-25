@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Afrezza has been marketed by Sanofi since February 2015.
+
+EXACT_ANSWER:
+- Sanofi

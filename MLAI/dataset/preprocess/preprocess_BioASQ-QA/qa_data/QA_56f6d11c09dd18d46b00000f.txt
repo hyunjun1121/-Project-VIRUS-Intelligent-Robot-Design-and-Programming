@@ -1,0 +1,7 @@
+QUESTION: Which is the protein encoded by the human gene GRIK?
+
+IDEAL_ANSWER:
+- Glutamate Receptor Ionotropic Kainate
+
+EXACT_ANSWER:
+- glutamate receptor ionotropic kainate

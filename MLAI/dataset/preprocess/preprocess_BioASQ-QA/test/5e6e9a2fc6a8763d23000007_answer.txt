@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- nticitrullinated protein antibodies (ACPAs) are serological biomarkers associated with early, rapidly progressing rheumatoid arthritis (RA)
+- Anticitrullinated peptide antibodies (ACPAs) are associated with rheumatoid arthritis.
+- Anticitrullinated peptide antibodies (ACPAs) have been shown to be associated with rheumatoid arthritis
+- The aim of this study was to evaluate the presence of autoantibodies to cyclic citrullinated synthetic peptides (ACPAs) in the sputum of patients with long-standing rheumatoid arthritis.
+- Anticitrullinated protein antibodies are found in patients with rheumatoid arthritis
+
+EXACT_ANSWER:
+- rheumatoid arthritis

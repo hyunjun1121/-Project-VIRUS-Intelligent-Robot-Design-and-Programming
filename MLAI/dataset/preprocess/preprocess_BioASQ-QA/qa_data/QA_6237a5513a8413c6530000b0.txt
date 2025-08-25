@@ -1,0 +1,7 @@
+QUESTION: What does the gene symbol EREG stand for?
+
+IDEAL_ANSWER:
+- The gene symbol EREG stands for the gene epiregulin.
+
+EXACT_ANSWER:
+- epiregulin

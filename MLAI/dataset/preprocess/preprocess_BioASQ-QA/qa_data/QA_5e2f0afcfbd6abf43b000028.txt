@@ -1,0 +1,7 @@
+QUESTION: Which receptor is inhibited by Tivozanib?
+
+IDEAL_ANSWER:
+- Tivozanib is a selective inhibitor of vascular endothelial growth factor receptors (VEGFRs) 1, 2 and 3 tyrosine kinases.
+
+EXACT_ANSWER:
+- vascular endothelial growth factor receptors

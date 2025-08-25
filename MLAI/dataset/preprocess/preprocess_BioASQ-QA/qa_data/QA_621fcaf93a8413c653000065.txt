@@ -1,0 +1,11 @@
+QUESTION: What is the function of the protein encoded by PUMILIO1?
+
+IDEAL_ANSWER:
+- Pumilio1 (Pum1) has been shown to play key roles in translational regulation of target mRNAs in many systems of diverse organisms.
+- Pumilio is a member of the highly conserved PUF family of RNA-binding proteins that function as a developmental regulator in diverse animal species. Pumilio1 (Pum1) has been shown to play key roles in translational regulation of target mRNAs in many systems of diverse organisms.
+
+EXACT_ANSWER:
+- developmental and translational regulator of RNA
+- regulate specific target mRNAs posttranscriptionally
+- translational regulation of target mRNAs
+- RNA-binding proteins that function as a developmental regulator in diverse animal species.

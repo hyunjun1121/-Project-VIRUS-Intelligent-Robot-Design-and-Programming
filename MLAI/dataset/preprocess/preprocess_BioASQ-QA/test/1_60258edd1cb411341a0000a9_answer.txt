@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Tocilizumab is considered first-line treatment for rheumatoid arthritis.
+
+EXACT_ANSWER:
+- Rheumatoid arthritis

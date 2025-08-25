@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The transcriptional co-activator p300 is a histone acetyltransferase (HAT) that is typically recruited to transcriptional enhancers and regulates gene expression by acetylating chromatin.
+
+EXACT_ANSWER:
+- histone acetyltransferase

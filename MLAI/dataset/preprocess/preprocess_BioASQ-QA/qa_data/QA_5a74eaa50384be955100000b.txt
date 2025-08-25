@@ -1,0 +1,9 @@
+QUESTION: What part of the body is affected by mesotheliomia?
+
+IDEAL_ANSWER:
+- Mesothelioma is a type of cancer that develops from the thin layer of tissue that covers many of the internal organs (known as the mesothelium). The most common area affected is the lining of the lungs and chest wall.
+- Malignant pleural mesothelioma (MPM) is a hard to treat malignancy arising from the mesothelial surface of the pleura. 
+- Malignant pleural mesothelioma (MPM) is a hard to treat malignancy arising from the mesothelial surface of the pleura.
+
+EXACT_ANSWER:
+- lining of the lungs and chest wall

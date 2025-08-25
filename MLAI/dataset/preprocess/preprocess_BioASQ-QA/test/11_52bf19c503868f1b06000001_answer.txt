@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Facioscapulohumeral muscular dystrophy has an autosomal dominant inheritance pattern.
+
+EXACT_ANSWER:
+- autosomal dominant

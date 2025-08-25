@@ -1,0 +1,8 @@
+QUESTION: Which intraflagellar transport (IFT) motor protein has been linked to human skeletal ciliopathies?
+
+IDEAL_ANSWER:
+- Cytoplasmic dynein-2 (dynein-2) performs intraflagellar transport and is associated with human skeletal ciliopathies
+- Intraflagellar transport (IFT) depends on two evolutionarily conserved modules, subcomplexes A (IFT-A) and B (IFT-B), to drive ciliary assembly and maintenance. All six IFT-A components and their motor protein, DYNC2H1, have been linked to human skeletal ciliopathies, including asphyxiating thoracic dystrophy (ATD; also known as Jeune syndrome), Sensenbrenner syndrome, and Mainzer-Saldino syndrome (MZSDS).
+
+EXACT_ANSWER:
+- Intraflagellar transport (IFT) motor protein DYNC2H1

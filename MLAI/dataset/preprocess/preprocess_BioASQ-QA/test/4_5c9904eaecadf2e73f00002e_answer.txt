@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- gamabufotalin (GBT) was isolated from toad venom.
+
+EXACT_ANSWER:
+- toad venom

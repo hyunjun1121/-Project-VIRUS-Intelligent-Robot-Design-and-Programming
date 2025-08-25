@@ -1,0 +1,7 @@
+QUESTION: What is carboxyglutamate?
+
+IDEAL_ANSWER:
+- One of the important glutamic acid modifications is post-translationally modified 4-carboxyglutamate.
+
+EXACT_ANSWER:
+- carboxyglutamateis a  a post-translational glutamic acidof

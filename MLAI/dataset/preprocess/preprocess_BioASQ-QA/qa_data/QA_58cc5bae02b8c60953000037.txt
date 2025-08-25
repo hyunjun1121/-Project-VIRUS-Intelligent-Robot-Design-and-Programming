@@ -1,0 +1,9 @@
+QUESTION: What is the incidence of new cases of X-linked adrenoleukodystrophy (ALD) in Australian and New Zealand in the late 1990's?
+
+IDEAL_ANSWER:
+- cases of ALD diagnosed in Australia and New Zealand between 1981 and 1996 and their families. We estimate that the combined incidence of ALD and its variants in Australasia is at least 1.6 per 100,000. 
+- cases of ALD diagnosed in Australia and New Zealand between 1981 and 1996 and their families. We estimate that the combined incidence of ALD and its variants in Australasia is at least 1.6 per 100,000.
+- When looking cases of  ALD diagnosed in Australia and New Zealand between 1981 and 1996, it was estimated that the combined incidence of ALD and its variants in Australasia is at least 1.6 per 100,000.
+
+EXACT_ANSWER:
+- 1.6 per 100,000 people

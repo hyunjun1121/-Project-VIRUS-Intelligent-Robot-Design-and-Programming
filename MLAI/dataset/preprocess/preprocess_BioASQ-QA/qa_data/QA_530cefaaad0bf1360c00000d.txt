@@ -1,0 +1,7 @@
+QUESTION: Which hormone abnormalities are common in Williams syndrome ?
+
+IDEAL_ANSWER:
+- Thyroid hormone abnormalities are common in Williams syndrome. Oxytocin and vasopressin, cortisol, growth hormone and calcitonin were also implicated in the Williams syndrome.
+
+EXACT_ANSWER:
+- thyroid

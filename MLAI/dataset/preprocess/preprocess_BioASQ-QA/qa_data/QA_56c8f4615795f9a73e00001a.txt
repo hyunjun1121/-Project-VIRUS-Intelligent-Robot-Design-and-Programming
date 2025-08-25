@@ -1,0 +1,7 @@
+QUESTION: Which genome browser database for DNA shape annotations is available?
+
+IDEAL_ANSWER:
+- The Genome Browser for DNA shape annotations (GBshape; freely available at http://rohslab.cmb.usc.edu/GBshape/) provides minor groove width, propeller twist, roll, helix twist and hydroxyl radical cleavage predictions for the entire genomes of 94 organisms. Additional genomes can easily be added using the GBshape framework. GBshape can be used to visualize DNA shape annotations qualitatively in a genome browser track format, and to download quantitative values of DNA shape features as a function of genomic position at nucleotide resolution.
+
+EXACT_ANSWER:
+- GBshape

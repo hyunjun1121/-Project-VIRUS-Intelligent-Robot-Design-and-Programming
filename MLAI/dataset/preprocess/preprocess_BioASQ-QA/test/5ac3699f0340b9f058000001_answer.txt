@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Our data further reveal that recently evolved enhancers can be associated with genes under positive selection, demonstrating the power of this approach for annotating regulatory adaptations in genomic sequences. We report that rapid evolution of enhancers is a universal feature of mammalian genomes. 
+- We report that rapid evolution of enhancers is a universal feature of mammalian genomes.
+- Rapid evolution of enhancers is a universal feature of mammalian genomes.
+
+EXACT_ANSWER:
+- enhancers

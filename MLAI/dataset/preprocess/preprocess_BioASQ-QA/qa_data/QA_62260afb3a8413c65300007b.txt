@@ -1,0 +1,7 @@
+QUESTION: In which motif of the RUNX1T1 protein is the rs34269950 SNP located?
+
+IDEAL_ANSWER:
+- The rs34269950 SNP of RUNX1T1 is located in the 'RRACH' motif.
+
+EXACT_ANSWER:
+- RRACH motif

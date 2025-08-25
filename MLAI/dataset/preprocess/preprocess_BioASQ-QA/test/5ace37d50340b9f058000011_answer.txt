@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection. Currently, 4.0% patients with AIDS in the United Kingdom are known to have developed cryptococcosis. The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade. 
+- It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection. The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade.
+- The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade. It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection. Currently, 4.0% patients with AIDS in the United Kingdom are known to have developed cryptococcosis.
+- It is an increasing cause of infection in immunosuppressed patients with aids in the united kingdom are known to have developed cryptococcosis. It is an increasing cause of infection in immunosuppressed patients, most notably those with hiv infection. It is an increasing cause of infection with cryptococcus neoformans has increased four-fold in the last decade. 
+- The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade. It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection.
+- It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection. The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade. Currently, 4.0% patients with AIDS in the United Kingdom are known to have developed cryptococcosis.
+- The incidence of infection with Cryptococcus neoformans has increased four-fold in the last decade. It is an increasing cause of infection in immunosuppressed patients, most notably those with HIV infection. Currently, 4.0% patients with AIDS in the United Kingdom are known to have developed cryptococcosis. 
+
+EXACT_ANSWER:
+- HIV infection
+- HIV

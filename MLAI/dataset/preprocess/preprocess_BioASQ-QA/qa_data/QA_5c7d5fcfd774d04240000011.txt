@@ -1,0 +1,7 @@
+QUESTION: Where are pannexins localized?
+
+IDEAL_ANSWER:
+- Pannexins (Panxs) are a multifaceted family of ion and metabolite channels that play key roles in a number of physiological and pathophysiological settings. These single membrane large-pore channels exhibit a variety of tissue, cell type, and subcellular distributions.
+
+EXACT_ANSWER:
+- In membranes

@@ -1,0 +1,7 @@
+QUESTION: Which method is available for whole genome identification of pathogenic regulatory variants in mendelian disease?
+
+IDEAL_ANSWER:
+- Genomiser
+
+EXACT_ANSWER:
+- Genomiser

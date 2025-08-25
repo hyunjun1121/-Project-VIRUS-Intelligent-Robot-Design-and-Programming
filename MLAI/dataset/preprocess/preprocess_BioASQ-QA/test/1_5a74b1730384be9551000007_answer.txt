@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- AAV2-hRPE65v2, also called voretigene neparvovec, targets the RPE65 gene, whose mutations lead to retinal dystrophy.
+
+EXACT_ANSWER:
+- RPE65

@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- Methylsulfonylmethane (MSM) is a sulfur-based nutritional supplement that is purported to have pain and inflammation-reducing effects.
+- Methylsulfonylmethane (MSM) is an anti-inflammatory drug with anti-proinflammatory activity
+- Methylsulfonylmethane (MSM) exerts anti-inflammatory effects in animal models of inflammation
+- These findings indicate that MSM may protect against inflammation in the heart
+- Methylsulfonylmethane (MSM) is an anti-inflammatory agent that acts by inhibiting inflammatory cytokine production and epithelial cell proliferation and differentiation.
+- Methylsulfonylmethane (MSM) exerts anti-inflammatory activity in the body
+- Methylsulfonylmethane (MSM) is a naturally occurring compound that demonstrates anti-inflammatory effects in humans and various animal and cell culture models.
+- Methylsulfonylmethane (MSM) is a sulfur-based compound that is purported to have anti-inflammatory and inflammation-reducing effects.  URL_0
+
+EXACT_ANSWER:
+- reduces inflammation

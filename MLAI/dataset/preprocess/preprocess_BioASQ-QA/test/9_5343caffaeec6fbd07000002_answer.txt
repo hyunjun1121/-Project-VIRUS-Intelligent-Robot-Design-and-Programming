@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Selenoprotein P, that contains 10 selenocysteines.
+
+EXACT_ANSWER:
+- Selenoprotein P

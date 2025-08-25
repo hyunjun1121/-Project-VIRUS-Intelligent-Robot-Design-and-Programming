@@ -1,0 +1,7 @@
+QUESTION: Idecabtagene vicleucel can be used for treatment of which disease?
+
+IDEAL_ANSWER:
+- Idecabtagene vicleucel was shown to be effective for Relapsed and Refractory Multiple Myeloma.
+
+EXACT_ANSWER:
+- Multiple Myeloma

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Vaxchora was licensed by the FDA on June 10 2016.
+
+EXACT_ANSWER:
+- 10 June 2016

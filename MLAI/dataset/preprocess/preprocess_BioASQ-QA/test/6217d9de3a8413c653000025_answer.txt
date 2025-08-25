@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Granzyme B is a serine protease that is secreted by Natural Killer (NK) cells and cytotoxic T lymphocytes during a cellular immune response and can induce apoptosis.
+
+EXACT_ANSWER:
+- Granzyme B is a serine protease

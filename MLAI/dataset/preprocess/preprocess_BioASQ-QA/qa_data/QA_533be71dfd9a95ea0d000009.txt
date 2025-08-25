@@ -1,0 +1,7 @@
+QUESTION: Which is the histone residue methylated by MLL1?
+
+IDEAL_ANSWER:
+- Histone H3 at lysine 4 (H3K4)
+
+EXACT_ANSWER:
+- H3K4

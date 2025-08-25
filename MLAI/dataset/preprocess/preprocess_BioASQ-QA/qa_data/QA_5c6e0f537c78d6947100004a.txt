@@ -1,0 +1,7 @@
+QUESTION: Which molecule is inhibited by larotrectinib?
+
+IDEAL_ANSWER:
+- Larotrectinib is oral, potent, and selective inhibitor of tropomyosin receptor kinases (TRK). It demonstrated unprecedented efficacy on unresectable or metastatic solid tumors with neurotrophic tropomyosin receptor kinase (NTRK)-fusion proteins in adult and pediatric patients.
+
+EXACT_ANSWER:
+- tropomyosin receptor kinases

@@ -1,0 +1,10 @@
+QUESTION: What is Telangiectasia?
+
+IDEAL_ANSWER:
+- Telangiectasia (macroscopically visible dilated skin vessels)
+- Telangiectasias are small focal red macules and papules created by abnormally prominent capillaries, venules, and arterioles
+- Telangiectasias are prominent small vessels (venules, capillaries or arterioles) that are visible as small red-purple focal lesions in the skin and mucous membranes.
+- Telangiectasias are small focal red macules and papules created by abnormally prominent capillaries, venules, and arterioles Telangiectasia (macroscopically visible dilated skin vessels)
+
+EXACT_ANSWER:
+- prominent small vessels

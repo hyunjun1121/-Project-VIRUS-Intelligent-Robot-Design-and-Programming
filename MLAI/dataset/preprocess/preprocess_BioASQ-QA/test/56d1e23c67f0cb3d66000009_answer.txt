@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The Yap protein forms complex with Tead (TEA domain) transcription factors.
+
+EXACT_ANSWER:
+- Tead (TEA domain) transcription factors.

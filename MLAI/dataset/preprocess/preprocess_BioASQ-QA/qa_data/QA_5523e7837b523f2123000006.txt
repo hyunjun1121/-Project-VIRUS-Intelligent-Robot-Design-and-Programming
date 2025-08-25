@@ -1,0 +1,7 @@
+QUESTION: What is Trypan blue used for?
+
+IDEAL_ANSWER:
+- Trypan blue is used in the "trypan blue exclusion assay" for assessing cell viability/cell death.
+
+EXACT_ANSWER:
+- cell viability - cell death assessment

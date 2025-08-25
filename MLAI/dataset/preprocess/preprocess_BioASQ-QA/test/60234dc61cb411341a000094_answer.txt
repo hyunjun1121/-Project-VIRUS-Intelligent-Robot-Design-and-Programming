@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Emapalumab is a human monoclonal antibody directed against interferon-γ (IFN-γ) that was approved by the Food and Drug Administration for primary hemophagocytic lymphohistiocytosis (HLH).
+
+EXACT_ANSWER:
+- primary hemophagocytic lymphohistiocytosis

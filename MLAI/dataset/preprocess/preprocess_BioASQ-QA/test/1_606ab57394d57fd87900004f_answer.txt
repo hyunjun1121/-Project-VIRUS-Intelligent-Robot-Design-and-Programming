@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Carbamazepine is an inducer of CYP3A4.
+
+EXACT_ANSWER:
+- Induces
+- inducer
+- induction

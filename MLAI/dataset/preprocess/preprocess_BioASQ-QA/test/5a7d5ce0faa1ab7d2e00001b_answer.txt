@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- In humans, elevated GDF15 correlates with weight loss, and the administration of GDF15 to mice with obesity reduces body weight, at least in part, by decreasing food intake.
+
+EXACT_ANSWER:
+- Reduces body weight

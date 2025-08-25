@@ -1,0 +1,8 @@
+QUESTION: Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity?
+
+IDEAL_ANSWER:
+- Extensive functional proteomic analysis established SLC38A9 as an integral part of the Ragulator-RAG GTPases machinery that controls the activation of mTOR.
+- SLC38A9 localizes with Rag-Ragulator complex components on lysosomes and associates with Rag GTPases in an amino acid-sensitive and nucleotide binding state-dependent manner. Depletion of SLC38A9 inhibits mTORC1 activity in the presence of amino acids and in response to amino acid replenishment following starvation. Thus SLC38A9 is a physical and functional component of the amino acid sensing machinery that controls the activation of mTOR. The serine/threonine kinase mTORC1 regulates cellular homeostasis in response to many cues, such as nutrient status and energy level.
+
+EXACT_ANSWER:
+- Amino Acid-DepeLysosomal Membrane Protein SLC38A9

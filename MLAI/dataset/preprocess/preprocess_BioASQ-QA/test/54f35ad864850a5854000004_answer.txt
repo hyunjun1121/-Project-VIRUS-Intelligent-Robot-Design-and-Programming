@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- LY450139 is investigational name of Semagacestat. It is a γ-secretase inhibitor developed for treatment for Alzheimer's disease. Chemical name of LY450139 is hydroxylvaleryl monobenzocaprolactam.
+
+EXACT_ANSWER:
+- semagacestat

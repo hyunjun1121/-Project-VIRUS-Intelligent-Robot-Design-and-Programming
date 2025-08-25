@@ -1,0 +1,7 @@
+QUESTION: Which tumor suppressor is referred to as "the guardian of the genome"?
+
+IDEAL_ANSWER:
+- The major tumour suppressor protein, p53, is one of the most well-studied proteins in cell biology. It plays a crucial role in regulating the transcription of numerous genes responsible for cells cycle arrest, DNA repair, angiogenesis, cell senescence, or apoptosis in response to various stress signals, and is considered one of the most important players in the development of cancer. p53 contributes to the maintenance of genomic stability. Thus, p53 has been described as "the guardian of the genome".
+
+EXACT_ANSWER:
+- p53

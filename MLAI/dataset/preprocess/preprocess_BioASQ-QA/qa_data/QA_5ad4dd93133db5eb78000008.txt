@@ -1,0 +1,7 @@
+QUESTION: What is the clathrin triskelia structure?
+
+IDEAL_ANSWER:
+- The clathrin triskelion, which is a three-legged pinwheel-shaped heteropolymer, is a major component in the protein coats of certain post-Golgi and endocytic vesicles.
+
+EXACT_ANSWER:
+- A three-legged pinwheel-shaped heteropolymer.

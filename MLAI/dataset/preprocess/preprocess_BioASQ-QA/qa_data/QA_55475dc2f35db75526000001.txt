@@ -1,0 +1,7 @@
+QUESTION: Which is the most known bacterium responsible for botulism (sausage-poisoning)?
+
+IDEAL_ANSWER:
+- Botulism is a severe neuroparalytic disease caused by botulinum neurotoxin (BoNT), and affects humans, all warm-blooded animals, birds, and some fishes. Botulinum toxin is produced under anaerobic conditions by the bacterium Clostridium botulinum, which is the most known etiological agent of the disease, and some other clostridia, and is one of the most dangerous toxin in the world.
+
+EXACT_ANSWER:
+- Clostridium botulinum

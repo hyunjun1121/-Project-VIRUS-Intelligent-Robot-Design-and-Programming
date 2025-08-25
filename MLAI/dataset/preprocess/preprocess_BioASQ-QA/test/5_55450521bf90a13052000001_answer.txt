@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- EMD increased the osteogenic potential of hDPCs. The expression levels of osteogenesis-related genes, such as ALP, DSPP, BMP, and OPN were also upregulated. In addition, the expression levels of odontogenesis-related transcription factors Osterix and Runx2 were upregulated. Proliferated pulp tissue partly filled the space initially occupied by EMDgel and isolated masses within the proliferated pulp tissue.
+
+EXACT_ANSWER:
+- increase of the osteogenic potential of hDPCs

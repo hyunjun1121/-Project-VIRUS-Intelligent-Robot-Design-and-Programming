@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Lysozymes are an ancient group of antimicrobial enzymes of the innate immune system. Lysozyme activity is a marker of Paneth cell function.
+
+EXACT_ANSWER:
+- lysozyme is an antimicrobial enzyme.

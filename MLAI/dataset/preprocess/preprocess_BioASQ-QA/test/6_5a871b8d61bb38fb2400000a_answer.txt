@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Dentate gyrus mossy cells control spontaneous convulsive seizures and cognition
+
+EXACT_ANSWER:
+- eplipsy and cognition

@@ -1,0 +1,7 @@
+QUESTION: Treatment of which disease was studied in the Gore REDUCE Clinical Study?
+
+IDEAL_ANSWER:
+- The Gore REDUCE Clinical Study studied superiority of patent foramen ovale closure in conjunction with antiplatelet therapy over antiplatelet therapy alone in reducing the risk of recurrent clinical ischemic stroke or new silent brain infarct in patients who have had a cryptogenic stroke.
+
+EXACT_ANSWER:
+- patent foramen ovale

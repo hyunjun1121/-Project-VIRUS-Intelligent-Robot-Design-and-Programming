@@ -1,0 +1,7 @@
+QUESTION: Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?
+
+IDEAL_ANSWER:
+- Cyclophilin is the intracellular receptor protein for cyclosporin A  (CsA).
+
+EXACT_ANSWER:
+- cyclophilin

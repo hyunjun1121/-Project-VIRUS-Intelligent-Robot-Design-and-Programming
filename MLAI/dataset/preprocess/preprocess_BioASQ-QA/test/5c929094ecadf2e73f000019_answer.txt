@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Retrotransposons are activated as organisms age
+
+EXACT_ANSWER:
+- Activation

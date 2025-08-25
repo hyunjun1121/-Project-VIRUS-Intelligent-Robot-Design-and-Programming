@@ -1,0 +1,7 @@
+QUESTION: Which is the genetic defect causing Neurofibromatosis type 1?
+
+IDEAL_ANSWER:
+- Neurofibromatosis type 1 (NF1) is due to all types of mutations in the neurofibromin (NF1) gene.
+
+EXACT_ANSWER:
+- Mutation in NF1 gene.

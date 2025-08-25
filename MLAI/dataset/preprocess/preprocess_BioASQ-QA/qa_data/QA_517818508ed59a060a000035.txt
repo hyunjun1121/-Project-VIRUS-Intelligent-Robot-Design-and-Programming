@@ -1,0 +1,7 @@
+QUESTION: Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?
+
+IDEAL_ANSWER:
+- The neurodevelopmental disorder named Rett syndrome, originally termed as cerebroatrophic hyperammonemia. Although most exclusively affects females, has also been found in male patients.
+
+EXACT_ANSWER:
+- Rett syndrome

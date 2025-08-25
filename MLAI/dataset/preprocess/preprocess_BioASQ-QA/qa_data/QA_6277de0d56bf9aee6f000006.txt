@@ -1,0 +1,11 @@
+QUESTION: What is the most sensitive test for the diagnosis of multiple sclerosis?
+
+IDEAL_ANSWER:
+- These results support previous conclusions that MRI is the most sensitive test for detecting white matter asymptomatic lesions, and the most predictive for the diagnosis of CDMS.
+- MRI is the most sensitive tool for the diagnosis of multiple sclerosis (MS). It can detect asymptomatic lesions in the white matter and is the most predictive test for diagnosing clinically definite multiple sclerosis (CDMS). It is also a reliable measure of the current disease activity. The presence of oligoclonal bands in the cerebrospinal fluid (CSF) provides supportive evidence for the diagnosis of MS.
+- MRI is the most sensitive test for detecting white matter asymptomatic lesions, and the most predictive for the diagnosis of CDMS. MRI also is a reliable measure of the extent of the MS process, serial MRI scans detect evidence of disease activity in MS not always disclosed by clinical evaluation. Results indicate that the presence of oligoclonal bands provides sensitive supporting evidence
+
+EXACT_ANSWER:
+- Magnetic resonance imaging
+- MRI
+- MR

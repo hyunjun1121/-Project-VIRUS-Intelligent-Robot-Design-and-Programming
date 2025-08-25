@@ -1,0 +1,8 @@
+QUESTION: What is the cause of lactose intolerance?
+
+IDEAL_ANSWER:
+- Lactose intolerance is a common condition caused by lactase deficiency and may result in symptoms of lactose malabsorption (bloating, flatulence, abdominal discomfort, and change in bowel habits).
+Four clinical subtypes of lactose intolerance may be distinguished, namely lactase deficiency in premature infants, congenital lactase deficiency, adult-type hypolactasia and secondary lactase intolerance.
+
+EXACT_ANSWER:
+- Lactase deficiency

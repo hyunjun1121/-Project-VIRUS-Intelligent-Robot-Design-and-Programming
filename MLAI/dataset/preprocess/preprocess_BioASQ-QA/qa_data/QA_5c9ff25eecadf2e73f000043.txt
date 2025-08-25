@@ -1,0 +1,10 @@
+QUESTION: Where, in the body, would the Cobb-Stainsby excision arthroplasty be performed?
+
+IDEAL_ANSWER:
+- The Cobb-Stainsby forefoot arthroplasty combines partial phalangectomy ( Stainsby ) with extensor tendon transfer to the metatarsal head ( Cobb ) .
+- The Cobb-Stainsby forefoot arthroplasty combines partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb)
+- The Cobb-Stainsby forefoot arthroplasty combines partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb).
+- The Cobb-Stainsby forefoot arthroplasty combines partial phalangectomy (Stainsby) with extensor tendon transfer
+
+EXACT_ANSWER:
+- foot

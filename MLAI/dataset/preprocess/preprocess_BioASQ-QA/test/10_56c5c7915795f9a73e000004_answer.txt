@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Cohesin subunits associate with viral and cellular CTCF sites involved in complex gene regulation and chromatin organization. Cohesin cobinds across the genome with transcription factors independently of CTCF, plays a functional role in estrogen-regulated transcription, and may help to mediate tissue-specific transcriptional responses via long-range chromosomal interactions.
+Numerous CTCF/cohesin sites potentially form the bases of the multiloop rosette structures at the Igh locus that compact during Ig heavy chain rearrangement. Cohesins colocalize with CTCF at two additional imprinted loci, the Dlk1-Dio3 and the Kcnq1/Kcnq1ot1 loci.
+
+EXACT_ANSWER:
+- In imprinted and repressed, highly compacted loci that are prone to recombination events.

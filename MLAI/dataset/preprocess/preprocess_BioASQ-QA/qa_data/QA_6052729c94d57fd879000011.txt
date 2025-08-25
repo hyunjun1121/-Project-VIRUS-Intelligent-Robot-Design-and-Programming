@@ -1,0 +1,7 @@
+QUESTION: Fingolimod is a selective antagonist for which molecule?
+
+IDEAL_ANSWER:
+- Fingolimod is a selective S1P1 functional antagonist by induction of irreversible S1P1 internalization and degradation.
+
+EXACT_ANSWER:
+- S1P1

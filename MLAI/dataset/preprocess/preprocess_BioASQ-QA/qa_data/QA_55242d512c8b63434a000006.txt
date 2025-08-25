@@ -1,0 +1,7 @@
+QUESTION: Which receptors can be evaluated with the [18F]altanserin?
+
+IDEAL_ANSWER:
+- 5-HT2A (5-hydroxytryptamine type 2a) receptor can be evaluated with the [18F]altanserin.
+
+EXACT_ANSWER:
+- 5-HT2A

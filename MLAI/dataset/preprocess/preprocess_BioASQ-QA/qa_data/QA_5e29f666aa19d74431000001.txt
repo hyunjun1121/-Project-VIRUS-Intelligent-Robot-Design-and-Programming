@@ -1,0 +1,7 @@
+QUESTION: Which phosphatase is inhibited by LB-100?
+
+IDEAL_ANSWER:
+- LB-100 is a phosphatase 2A inhibitor
+
+EXACT_ANSWER:
+- Protein phosphatase 2A

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- ALS- and FTD-associated missense mutations in TBK1 differentially disrupt mitophagy.
+
+EXACT_ANSWER:
+- mitophagy

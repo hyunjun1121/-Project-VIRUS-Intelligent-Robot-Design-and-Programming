@@ -1,0 +1,9 @@
+QUESTION: Which MAP kinase phosphorylates the transcription factor c-jun?
+
+IDEAL_ANSWER:
+- c-Jun is phosphorylated by c-Jun NH2-terminal kinase (JNK).
+- An in vitro kinase assay revealed that c-Jun phosphorylation is primarily mediated via activated c-Jun N-terminal protein kinase (JNK).
+
+EXACT_ANSWER:
+- c-Jun NH2-terminal kinase
+- JNK

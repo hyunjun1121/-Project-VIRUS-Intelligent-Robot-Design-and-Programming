@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The excision of introns from nascent eukaryotic transcripts is catalyzed by the spliceosome, a highly complex and dynamic macromolecular machine composed of RNA and protein.
+
+EXACT_ANSWER:
+- The excision of introns from nascent eukaryotic transcripts is catalyzed by the spliceosome.

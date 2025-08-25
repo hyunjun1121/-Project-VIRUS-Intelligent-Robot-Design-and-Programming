@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- Bacillus Calmette-Guérin (BCG) immunotherapy is used for treatment of bladder cancer.
+- Bacillus Calmette- Guérin (BCG) immunotherapy is used for treatment of bladder cancer.
+- Bacillus Calmette- Guérin (BCG) immunotherapy is used in the treatment of bladder cancer.
+- BCG immunotherapy is the choice of care for high-grade non-muscle invasive bladder cancer (NMIBC) after transurethral resection.
+- BCG immunotherapy is the choice of care for high-grade non-muscle invasive bladder cancer.
+- Bacillus Calmette-guérin (BCG) immunotherapy is used in the treatment of bladder cancer.
+
+EXACT_ANSWER:
+- bladder cancer
+- bladder cancer (NMIBC)
+- high-grade non-muscle invasive bladder cancer (NMIBC)

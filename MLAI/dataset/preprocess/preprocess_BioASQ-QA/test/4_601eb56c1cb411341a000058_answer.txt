@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- The MKKS gene is mapped to chromosome 20
+
+EXACT_ANSWER:
+- 20
+- 20p12
+- mkks or bbs6 gene on chromosome 20p12
+- 20p12 between D20S162 and D20S894 markers

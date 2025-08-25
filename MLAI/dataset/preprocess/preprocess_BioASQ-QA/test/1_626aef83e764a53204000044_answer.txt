@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Vitravene was approved in Brazil in the summer of 1999.
+
+EXACT_ANSWER:
+- 1999

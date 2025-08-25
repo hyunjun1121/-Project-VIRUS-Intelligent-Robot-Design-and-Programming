@@ -1,0 +1,9 @@
+QUESTION: What classes of drugs does Retapamulin belong to?
+
+IDEAL_ANSWER:
+- Retapamulin is a member of the pleuromutilin family of antibiotics.
+- Pleuromutilins have a potential to be developed as a new class of antibiotics for  use in humans. This class includes valnemulin, tiamulin, and retapamulin.
+- Retapamulin belongs to the class of gentamycin-resistant antibiotics.
+
+EXACT_ANSWER:
+- antibiotics

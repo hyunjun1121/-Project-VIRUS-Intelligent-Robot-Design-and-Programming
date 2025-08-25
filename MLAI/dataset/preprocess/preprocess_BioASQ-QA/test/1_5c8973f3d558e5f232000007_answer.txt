@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The first gene therapy to receive marketing authorization in the European Union was Glybera (alipogene tiparvovec).
+
+EXACT_ANSWER:
+- Glybera
+- Alipogene tiparvovec

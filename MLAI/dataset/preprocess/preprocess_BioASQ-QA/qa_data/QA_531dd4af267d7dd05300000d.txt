@@ -1,0 +1,7 @@
+QUESTION: Inhibition of which enzyme is mechanism of action of alisertib?
+
+IDEAL_ANSWER:
+- Alisertib (MLN8237) is selective Aurora kinase inhibitor that acts by interfering with spindle organization and chromosome alignment during mitosis. It has been tested in patients with gastric cancer, breast cancer, relapsed and refractory aggressive B- and T-cell non-Hodgkin lymphomas, epithelial ovarian, fallopian tube, and primary peritoneal carcinoma.
+
+EXACT_ANSWER:
+- aurora kinase

@@ -1,0 +1,9 @@
+QUESTION: What disease is associate with defects in both the KDM6A (lysine specific demethylase 6A) and KMT2D (lysine methyltransferase 2D)
+
+IDEAL_ANSWER:
+- Over the last 20 years, mutations in five key COMPASS complex genes have been linked to three human congenital syndromes: Kabuki syndrome (type 1 [KMT2D] and 2 [KDM6A]
+- Kabuki syndrome is a rare genetic disorder, caused by mutation in the KMT2D or KDM6A genes, which affects several organs in the majority of patients, among which are the eyes.
+
+EXACT_ANSWER:
+- Kabuki syndrome
+- KS

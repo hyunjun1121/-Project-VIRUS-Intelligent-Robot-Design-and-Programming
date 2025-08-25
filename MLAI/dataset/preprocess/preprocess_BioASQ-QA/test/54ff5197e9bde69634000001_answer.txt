@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The retrotransposon known as long interspersed nuclear element-1 (L1) is 6-7 kb long,
+
+EXACT_ANSWER:
+- 6-7 kb

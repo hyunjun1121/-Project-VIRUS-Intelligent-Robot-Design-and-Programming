@@ -1,0 +1,7 @@
+QUESTION: What is the mode of inheritance of Marchesani syndrome?
+
+IDEAL_ANSWER:
+- Marchesani syndrome is transmitted either by an autosomal dominant (mutations in FBN1) or an autosomal recessive (mutations in ADAMTS10) mode of inheritance
+
+EXACT_ANSWER:
+- autosomal dominant or autosomal recessive

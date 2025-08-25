@@ -1,0 +1,10 @@
+QUESTION: Which is the main epigenetic difference between poised and constitutive enhancers?
+
+IDEAL_ANSWER:
+- We find that histone H3K27ac distinguishes active enhancers from inactive/poised enhancer elements containing H3K4me1 alone.
+- Histone H3K27ac separates active from poised enhancers and predicts developmental state.
+- . The poised enhancer signature, involving H3K4me1 and low levels of H3K27ac, has been reported to mark inactive enhancers that are poised for future activation.. Histone H3K27ac separates active from poised enhancers and predicts developmental state.. We find that histone H3K27ac distinguishes active enhancers from inactive/poised enhancer elements containing H3K4me1 alone.. These chromatin domains, mostly constitutive, may have been used as genomic niches where novel regulations could evolve due to both the preexistence of a structural backbone poised to integrate novel regulatory inputs, and a highly adaptive transcriptional readout. These results support a model in which the PRC2 complex is redistributed to poised enhancers in H3.3K27M mutant cells and contributes to tumorigenesis in part by locally enhancing H3K27me3, and hence silencing of tumor suppressor genes
+- Histone H3K27ac distinguishes active enhancers from inactive/poised enhancer elements containing H3K4me1 alone.
+
+EXACT_ANSWER:
+- H3K27ac

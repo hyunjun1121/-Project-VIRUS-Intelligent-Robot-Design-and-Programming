@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The RV3-BB human neonatal rotavirus vaccine aims to provide protection from severe rotavirus disease from birth.
+
+EXACT_ANSWER:
+- rotavirus disease

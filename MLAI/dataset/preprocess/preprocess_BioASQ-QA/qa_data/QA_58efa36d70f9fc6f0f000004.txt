@@ -1,0 +1,7 @@
+QUESTION: What is the cause of Tardive dyskinesia?
+
+IDEAL_ANSWER:
+- Tardive dyskinesia (TD) is a movement disorder characterized by abnormal involuntary facial movements induced by chronic therapy with classical antipsychotic medications.
+
+EXACT_ANSWER:
+- Tardive dyskinesia (TD) is a movement disorder characterized by abnormal involuntary facial movements induced by chronic therapy with classical antipsychotic medications.

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- AlphaFold is a novel machine learning approach that incorporates physical and biological knowledge about protein structure, leveraging multi-sequence alignments, into the design of the deep learning algorithm.
+
+EXACT_ANSWER:
+- Highly accurate protein structure prediction approoach

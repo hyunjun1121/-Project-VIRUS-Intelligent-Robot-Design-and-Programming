@@ -1,0 +1,15 @@
+QUESTION: Which domain of the MOZ/MYST3 protein complex associates with histone H3?
+
+IDEAL_ANSWER:
+- The double PHD finger domain of MOZ/MYST3 induces a-helical structure of the histone H3 tail
+- The double PHD finger domain of MOZ/MYST3 induces a-helical structure of the histone H3 tail to facilitate acetylation and methylation sampling and modification In addition to sampling H3 and H4 modification status, we show that the DPF cooperates with the MYST domain to promote H3K9 and H3K14 acetylation, although not if H3K4 is trimethylated
+- MOZ/MYST3 complex associates with histone H3 with high affinity and specificity. Both proteins share a PHD finger domain.
+- The double PHD finger domain of MOZ/MYST3 induces a-helical structure of the histone H3 tail to facilitate acetylation and methylation sampling and modification.
+- In conclusion, our data show that Moz regulates H3K9 acetylation at Hox gene loci and that RA can act independently of Moz to establish specific Hox gene expression boundaries. The double PHD finger domain of MOZ/MYST3 induces a-helical structure of the histone H3 tail to facilitate acetylation and methylation sampling and modification
+- MOZ/MYST3 complex associates with histone H3 with PHD finger domain.
+- ere we report novel insights into histone H3 tail structure in complex with the double PHD finger (DPF) of the lysine acetyltransferase MOZ/MYST3/KAT6A.
+- ere we report novel insights into histone H3 tail structure in complex with the double PHD finger (DPF) of the lysine acetyltransferase MOZ/MYST3/KAT6A. In addition to sampling H3 and H4 modification status, we show that the DPF cooperates with the MYST domain to promote H3K9 and H3K14 acetylation, although not if H3K4 is trimethylated
+- In conclusion, our data show that Moz regulates H3K9 acetylation at Hox gene loci and that RA can act independently of Moz to establish specific Hox gene expression boundaries. The double PHD finger domain of MOZ/MYST3 induces a-helical structure of the histone H3 tail to facilitate acetylation and methylation sampling and modification ere we report novel insights into histone H3 tail structure in complex with the double PHD finger (DPF) of the lysine acetyltransferase MOZ/MYST3/KAT6A.
+
+EXACT_ANSWER:
+- the double PHD finger domain

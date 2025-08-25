@@ -1,0 +1,4 @@
+Which R package can infer protein-protein interactions via thermal proximity coaggregation (TPCA)?
+
+[PMID: 32717044]
+Rtpca is an R package implementing methods for inferring protein-protein interactions (PPIs) based on thermal proteome profiling experiments of a single condition or in a differential setting via an approach called thermal proximity coaggregation. It offers user-friendly tools to explore datasets for their PPI predictive performance and easily integrates with available R packages. Rtpca is available from Bioconductor (https://bioconductor.org/packages/Rtpca). Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- A commonly used measure for gene expression in RNA-seq experiments is  Reads Per Kilobase per Million mapped reads (RPKM). In ocasions, and to account for partially mapped read, read Fragments per Kilobase per Million mapped reads (FPKM) is alternatively used.
+
+EXACT_ANSWER:
+- Reads Per Kilobase per Million mapped reads (RPKM)

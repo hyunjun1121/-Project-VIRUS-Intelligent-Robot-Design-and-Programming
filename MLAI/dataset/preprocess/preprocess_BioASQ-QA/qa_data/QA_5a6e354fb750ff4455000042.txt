@@ -1,0 +1,8 @@
+QUESTION: Which R/bioconductor package has been developed to aid in epigenomic analysis?
+
+IDEAL_ANSWER:
+- DeepBlueR is a package that allows for large-scale epigenomic analysis in R.
+- DeepBlueR
+
+EXACT_ANSWER:
+- DeepBlueR

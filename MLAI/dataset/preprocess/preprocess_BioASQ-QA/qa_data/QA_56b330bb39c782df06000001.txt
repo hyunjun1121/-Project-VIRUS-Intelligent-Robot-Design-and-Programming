@@ -1,0 +1,7 @@
+QUESTION: Which R/bioconductor package is used for integrative genomics visualizations?
+
+IDEAL_ANSWER:
+- Sushi.R is a flexible, quantitative and integrative genomic visualizations for publication-quality multi-panel figures using common genomic data formats including Browser Extensible Data (BED), bedGraph and Browser Extensible Data Paired-End (BEDPE). Sushi.R is open source and made publicly available through GitHub (https://github.com/dphansti/Sushi) and Bioconductor (http://bioconductor.org/packages/release/bioc/html/Sushi.html).
+
+EXACT_ANSWER:
+- Sushi.R

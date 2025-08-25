@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- CNV-RF Is a Random Forest-Based Copy Number Variation Detection Method Using Next-Generation Sequencing.
+
+EXACT_ANSWER:
+- CNV-RF

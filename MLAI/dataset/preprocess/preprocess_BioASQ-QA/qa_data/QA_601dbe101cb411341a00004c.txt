@@ -1,0 +1,8 @@
+QUESTION: What is the brand name for erenumab?
+
+IDEAL_ANSWER:
+- Aimovig (erenumab; erenumab-aooe in the United States) is the only US Food and Drug Administration (FDA)-approved monoclonal antibody (mAb) therapy against the CGRP receptor (CGRPR) for the prevention of migraine.
+- Erenumab-aooe (erenumab, Aimovig®)-a fully human monoclonal antibody that inhibits the calcitonin gene-related peptide (CGRP) receptor-is approved for the prevention of migraine in adults in a number of countries
+
+EXACT_ANSWER:
+- Aimovig

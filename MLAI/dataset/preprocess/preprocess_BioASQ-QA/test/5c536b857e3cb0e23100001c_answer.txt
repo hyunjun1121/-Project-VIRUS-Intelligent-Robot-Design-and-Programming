@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- To compare the outcome of per oral endoscopic myotomy (POEM) and laparoscopic Heller myotomy (LHM) for the treatment of esophageal achalasia
+- Laparoscopic Heller myotomy (LHM) is the preferred surgical method for treating achalasia.
+
+EXACT_ANSWER:
+- achalasia

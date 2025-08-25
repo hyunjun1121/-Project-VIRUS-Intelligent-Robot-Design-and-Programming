@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not the PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1. 
+- Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not The PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1. 
+- Using a system in which only a single EYFP-linked PML isoform is expressed, PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not
+- Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not
+- Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do notThe PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1.
+- The PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1. Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not. 
+- Using a system in which only a single EYFP-linked PML isoform is expressed, we demonstrate that PMLI, PMLII and PMLVI accumulate in the cytoplasm following arsenic treatment, whereas PMLIII, PMLIV and PMLV do not the PML isoforms that are most sensitive to virus infection correspond closely to those which have recently been identified as being covalently conjugated to PIC1.
+
+EXACT_ANSWER:
+- 3
+- three

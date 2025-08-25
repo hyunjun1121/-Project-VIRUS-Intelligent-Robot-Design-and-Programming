@@ -1,0 +1,7 @@
+QUESTION: What is an exosome?
+
+IDEAL_ANSWER:
+- Exosomes are a subset of extracellular vesicles (EVs) that have important roles in intercellular communication. They contain and carry bioactive molecules within their membranes which are delivered to target cells.
+
+EXACT_ANSWER:
+- Exosomes are a subset of extracellular vesicles (EVs) that have important roles in intercellular communication. They contain and carry bioactive molecules within their membranes which are delivered to target cells.

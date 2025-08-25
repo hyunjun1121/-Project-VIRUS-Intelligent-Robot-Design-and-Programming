@@ -1,0 +1,7 @@
+QUESTION: How many genes are screened by the FoundationOne companion diagnostic?
+
+IDEAL_ANSWER:
+- FoundationOne CDx comprises a 324-gene panel.
+
+EXACT_ANSWER:
+- 324

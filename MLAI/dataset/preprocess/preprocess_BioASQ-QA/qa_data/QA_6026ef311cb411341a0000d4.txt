@@ -1,0 +1,7 @@
+QUESTION: Which company developed eptinezumab?
+
+IDEAL_ANSWER:
+- Eptinezumab was developed by Lundbeck Seattle BioPharmaceuticals.
+
+EXACT_ANSWER:
+- Lundbeck Seattle BioPharmaceuticals

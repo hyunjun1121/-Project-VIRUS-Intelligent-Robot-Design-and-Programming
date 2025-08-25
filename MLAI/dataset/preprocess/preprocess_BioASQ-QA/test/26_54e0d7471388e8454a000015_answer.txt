@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Secukinumab (AIN457) is a fully human anti-interleukin-17A monoclonal antibody that neutralizes interleukin-17A.
+
+EXACT_ANSWER:
+- interleukin-17A

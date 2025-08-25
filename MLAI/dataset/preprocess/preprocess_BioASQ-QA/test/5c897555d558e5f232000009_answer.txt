@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The first adeno-associated virus vector gene therapy product in the United States was Luxturna.
+
+EXACT_ANSWER:
+- Luxturna

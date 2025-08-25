@@ -1,0 +1,7 @@
+QUESTION: What is the mechanism of viroid replication?
+
+IDEAL_ANSWER:
+- The replication of many viral and subviral pathogens as well as the amplification of certain cellular genes proceeds via a rolling circle mechanism. Viroid replication occurs via a rolling circle mechanism using either a symmetric or asymmetric pathway in three steps, RNA transcription, processing and ligation. Replication of these minimal genomes, composed exclusively by a circular RNA of 246-401 nt, occurs in the nucleus (family Pospiviroidae) or in the chloroplast (family Avsunviroidae) by an RNA-based rolling-circle mechanism with three steps: (1) synthesis of longer-than-unit strands catalyzed by host DNA-dependent RNA polymerases recruited and redirected to transcribe RNA templates, (2) cleavage to unit-length, which in family Avsunviroidae is mediated by hammerhead ribozymes, and (3) circularization through an RNA ligase or autocatalytically.
+
+EXACT_ANSWER:
+- rolling cycle

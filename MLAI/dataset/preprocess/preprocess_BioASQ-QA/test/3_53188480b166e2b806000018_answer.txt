@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The specific cellular target of Gefitinib (Iressa) is the epidermal growth factor receptor (EGFR).
+
+EXACT_ANSWER:
+- Epidermal growth factor receptor (EGFR)

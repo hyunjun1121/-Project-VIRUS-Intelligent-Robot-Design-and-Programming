@@ -1,0 +1,7 @@
+QUESTION: Which DNA repair system is involved in HNPCC?
+
+IDEAL_ANSWER:
+- In HNPCC families, germline mutations in any of four genes encoding proteins of a specialized DNA repair system, the mismatch repair, predispose to cancer development.
+
+EXACT_ANSWER:
+- In HNPCC, the mismatch DNA repair system is involved.

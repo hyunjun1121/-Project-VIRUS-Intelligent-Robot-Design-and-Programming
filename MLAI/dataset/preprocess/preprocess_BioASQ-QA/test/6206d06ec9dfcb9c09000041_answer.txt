@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Khellin is extracted from the seeds of the plant Ammi visnaga.
+
+EXACT_ANSWER:
+- Ammi visnaga

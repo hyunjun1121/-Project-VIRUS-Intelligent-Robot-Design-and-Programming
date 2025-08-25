@@ -1,0 +1,20 @@
+QUESTION: What is blepharospasm?
+
+IDEAL_ANSWER:
+- The neurophysiological disruptions underlying blepharospasm, a disabling movement disorder characterized by increased blinking and involuntary muscle spasms of the eyelid, remain poorly understood.
+- Yes, blepharospasm is an adult-onset dystonia typically present at rest and exacerbated by bright light, stress and voluntary movements of eyes and eyelids.
+- Blepharospasm is a type of focal dystonia depicted by periodic and spontaneous closure of the orbicularis oculi and surrounding muscles.
+- Blepharospasm (BL) is characterized by involuntary closures of the eyelids due to spasms of the orbicularis oculi muscle.
+- Blepharospasm is a type of focal dystonia. It is a movement disorder characterized by periodic and spontaneous closure of the orbicularis oculi muscle and surrounding muscles.
+- Blepharospasm is a type of focal dystonia. It's a movement disorder characterized by periodic and spontaneous closure of the orbicularis oculi muscle and surrounding muscles.
+- Blepharospasm is a type of focal dystonia. It's a movement disorder characterized by periodic and spontaneous closure of the orbicularis oculi and surrounding muscles.
+- Blepharospasm means involuntary twitching, blinking or closure of the eyelids resulting from any cause.
+
+EXACT_ANSWER:
+- involuntary blinking
+- increased blinking and involuntary muscle spasms of the eyelid
+- involuntary closures of the eyelids
+- increased blinking and involuntary muscle spasms of the eyelid, remain poorly understood
+- involuntary closures of the eyelids due to spasms of the orbicularis oculi muscle.
+- movement disorder characterized by increased blinking and involuntary muscle spasms of the eyelid
+- a disabling movement disorder characterized by increased blinking and involuntary muscle spasms of the eyelid

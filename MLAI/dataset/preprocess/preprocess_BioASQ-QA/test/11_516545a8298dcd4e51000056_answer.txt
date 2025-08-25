@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Disruption of SMIM1 causes the Vel- blood type. The protein carrying the Vel blood group antigen was biochemically purified from red blood cell membranes. Mass spectrometry-based de novo peptide sequencing identified this protein to be small integral membrane protein 1 (SMIM1), a previously uncharacterized single-pass membrane protein. Expression of SMIM1 cDNA in Vel- cultured cells generated anti-Vel cell surface reactivity, confirming that SMIM1 encoded the Vel blood group antigen. (PMID: 23505126)
+- SMIM1
+
+EXACT_ANSWER:
+- SMIM1

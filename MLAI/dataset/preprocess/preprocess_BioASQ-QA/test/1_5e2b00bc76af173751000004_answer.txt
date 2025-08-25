@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Deep Learning has had an impact in many research areas by achieving new state-of-the-art model performance. DeepSynergy has been developed as a tool that uses chemical and genomic information as input information, a normalization strategy to account for input data heterogeneity, and conical layers to model drug synergies.
+- DeepSynergy is an online tool for predicting drug synergy with deep learning. It is a method for predicting anti-cancer drug synergy based on a semi-supervised learning algorithm that is trained on a corpus of k-nearest neighbor data and combines pharmacological, structural and pharmacological features extracted from a large variety of biological datasets.
+
+EXACT_ANSWER:
+- DeepSynergy

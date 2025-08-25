@@ -1,0 +1,8 @@
+QUESTION: Which tool has been developed for annotation of Gα, Gβ and Gγ subunits of G-proteins?
+
+IDEAL_ANSWER:
+- GprotPRED is an online tool that uses profile Hidden Markov Models (pHMMs) and application to proteomes. The sensitivity and specificity for all pHMMs were equal to 100% with the exception of the Gβ case, where sensitivity equals to 100%, while specificity is 99.993%.
+- GprotPRED is a tool that has been developed for annotation of Gα, Gβ and Gγ subunits of G-proteins using profile Hidden Markov Models (pHMMs).
+
+EXACT_ANSWER:
+- GprotPRED

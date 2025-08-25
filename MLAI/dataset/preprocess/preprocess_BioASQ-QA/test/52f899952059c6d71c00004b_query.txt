@@ -1,0 +1,4 @@
+Which mutation is associated with PLMS (periodic limb movements in sleep)?
+
+[PMID: 19619967]
+Mutations of the DCX gene (Xp22.3) cause X-linked lissencephaly in males and double cortex syndrome (DCS) or subcortical band heterotopia (SBH) in females. SBH is characterized by bilateral bands of grey matter interposed in the white matter between the cortex and the lateral ventricles. The main clinical manifestation in patients with SBH is epilepsy, which may be partial or generalized and is intractable in approximately 65% of the patients. An association of periodic limb movements (PLMs) and SBH has not been documented previously. We describe a 2-year-old girl affected by SBH with epilepsy and periodic limb movements (PLMs), in whom a novel "de novo" missense substitution, Met1Val (M1V), was identified in the DCX gene. Physiopathological links between PLMs and SBH are discussed.

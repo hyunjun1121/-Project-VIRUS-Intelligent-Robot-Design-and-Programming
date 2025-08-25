@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Rubinstein-Taybi syndrome (RTS) is a rare autosomal dominant disorder (prevalence 1:125,000) characterised by broad thumbs and halluces, facial dysmorphism, psychomotor development delay, skeletal defects, abnormalities in the posterior fossa and short stature. The known genetic causes are a microdeletion at 16p13.3 or mutations or deletions of the cAMP-response element binding protein-BP (CREBBP) (50-60% of the cases) and of the homologous gene E1A-binding protein (EP300) at 22q13 (5%). Direct sequencing of CREBBP performed in 13 RSTS patients identified the three zinc fingers (CH1, CH2, CH3) and HAT domain as mutational hotspots. Thus about 55% of patients have cytogenetic or molecular abnormalities in the Crebbp or E1A binding protein p300 (Ep300) gene, leaving the diagnosis in 45% of patients to rest on clinical features only.
+
+EXACT_ANSWER:
+- Mutations or/and deletions in the genes of the cAMP-response element binding protein-BP (CREBBP) (50-60% of the cases) and of the homologous gene E1A-binding protein (EP300) at 22q13 (5%).

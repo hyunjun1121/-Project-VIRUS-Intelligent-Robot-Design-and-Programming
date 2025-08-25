@@ -1,0 +1,7 @@
+QUESTION: What is the cause of Krabbe disease?
+
+IDEAL_ANSWER:
+- Globoid cell leukodystrophy (GLD), or Krabbe disease, is an inherited, neurologic disorder that results from deficiency of a lysosomal enzyme, galactosylceramidase.
+
+EXACT_ANSWER:
+- deficiency of β-galactocerebrosidase

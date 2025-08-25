@@ -1,0 +1,7 @@
+QUESTION: What disease can be treated with Avacopan?
+
+IDEAL_ANSWER:
+- Avacopan is effective for ANCA-associated vasculitis.
+
+EXACT_ANSWER:
+- ANCA-associated vasculitis

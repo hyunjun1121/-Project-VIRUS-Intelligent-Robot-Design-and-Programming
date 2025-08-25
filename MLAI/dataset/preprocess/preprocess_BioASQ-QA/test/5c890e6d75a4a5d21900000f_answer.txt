@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Sideritis scardica is also known as ironwort or mountain tea.
+
+EXACT_ANSWER:
+- Mountain tea
+- Ironwort

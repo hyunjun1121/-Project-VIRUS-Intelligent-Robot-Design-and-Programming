@@ -1,0 +1,15 @@
+QUESTION: Which gene is the paralog of yeast UPC2?
+
+IDEAL_ANSWER:
+- the related transcription factors Ecm22 and Upc2 play a crucial role in Saccharomyces cerevisiae filamentation.
+- Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation. The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways. 
+- zinc cluster proteins Upc2 and Ecm22 promote filamentation
+- The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways.Here, we examine the role of the related transcription factors ecm22 and upc2 in saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways.Here, we examine the role of the related transcription factors ecm22 and upc2 in saccharomyces cerevisiae filamentation.
+- The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways. Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation. 
+- The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways. Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation.
+- Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation. The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways.
+- Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation.The zinc cluster proteins Upc2 and Ecm22 promote filamentation in Saccharomyces cerevisiae by sterol biosynthesis-dependent and -independent pathways.
+- Here, we examine the role of the related transcription factors Ecm22 and Upc2 in Saccharomyces cerevisiae filamentation.
+
+EXACT_ANSWER:
+- Ecm22

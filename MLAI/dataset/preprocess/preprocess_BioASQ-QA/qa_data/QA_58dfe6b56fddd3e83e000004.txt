@@ -1,0 +1,7 @@
+QUESTION: What is the enzymatic activity of PARL?
+
+IDEAL_ANSWER:
+- the mitochondrial protease presenilin-associated rhomboid-like (PARL). Rhomboids are a recently discovered family of widely distributed intramembrane serine proteases.
+
+EXACT_ANSWER:
+- PARL are serine proteases

@@ -1,0 +1,10 @@
+QUESTION: Which graph database is used by the Reactome graph database?
+
+IDEAL_ANSWER:
+- Reactome is a free, open-source, open-data, curated and peer-reviewed knowledgebase of biomolecular pathways. The Neo4j graph database and its query language, Cypher, provide efficient access to the complex Reactome data model, facilitating easy traversal and knowledge discovery.
+- The Neo4j graph database and its query language, Cypher, provide efficient access to the complex Reactome data model, facilitating easy traversal and knowledge discovery. The adoption of this technology greatly improved query efficiency, reducing the average query time by 93%.
+- The Reactome graph database organizes data and annotations (called tracks) around the reference sequences or draft assemblies of many eukaryotic biomolecular pathways and presents them using a powerful web-based graphical interface. The data are stored in a relational database, Neo4j, which is updated regularly with the addition of new data and corrections to previous data.
+- The Neo4j graph database and its query language, Cypher, provide efficient access to the complex Reactome data model, facilitating easy traversal and knowledge discovery. The adoption of this technology greatly improved query efficiency, reducing the average query time by 93%. The web service built on top of the graph database provides programmatic access to Reactome data by object oriented queries, but also supports more complex queries that take advantage of the new underlying graph-based data storage.
+
+EXACT_ANSWER:
+- Neo4j

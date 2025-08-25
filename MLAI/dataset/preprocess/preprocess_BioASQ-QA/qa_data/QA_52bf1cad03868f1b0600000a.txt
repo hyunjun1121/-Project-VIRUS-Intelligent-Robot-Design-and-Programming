@@ -1,0 +1,7 @@
+QUESTION: Which virus is Cidofovir (Vistide) indicated for?
+
+IDEAL_ANSWER:
+- Cidofovir is commonly used in the treatment of cytomegalovirus (CMV) infection and disease.
+
+EXACT_ANSWER:
+- cytomegalovirus

@@ -1,0 +1,7 @@
+QUESTION: What part of the body is affected by Meniere's disease?
+
+IDEAL_ANSWER:
+- The inner ear is the body part that is associated with Meniere's disease.
+
+EXACT_ANSWER:
+- inner ear

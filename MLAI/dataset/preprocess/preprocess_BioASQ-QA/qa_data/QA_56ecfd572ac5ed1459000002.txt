@@ -1,0 +1,7 @@
+QUESTION: How is oprozomib administered?
+
+IDEAL_ANSWER:
+- Oprozomib is administered orally.
+
+EXACT_ANSWER:
+- Orally

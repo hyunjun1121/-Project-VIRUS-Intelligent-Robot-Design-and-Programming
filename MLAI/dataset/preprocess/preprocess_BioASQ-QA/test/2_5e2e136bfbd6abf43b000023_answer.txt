@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The OncoPPi Portal has been developed as an interactive web resource that allows investigators to access, manipulate and interpret a high-quality cancer-focused network of protein-protein interactions (PPIs) experimentally detected in cancer cell lines. To facilitate prioritization of PPIs for further biological studies, this resource combines network connectivity analysis, mutual exclusivity analysis of genomic alterations, cellular co-localization of interacting proteins and domain-domain interactions. Estimates of PPI essentiality allow users to evaluate the functional impact of PPI disruption on cancer cell proliferation. Furthermore, connecting the OncoPPi network with the approved drugs and compounds in clinical trials enables discovery of new tumor dependencies to inform strategies to interrogate undruggable targets like tumor suppressors. The OncoPPi Portal serves as a resource for the cancer research community to facilitate discovery of cancer targets and therapeutic development.
+
+EXACT_ANSWER:
+- The OncoPPi Portal

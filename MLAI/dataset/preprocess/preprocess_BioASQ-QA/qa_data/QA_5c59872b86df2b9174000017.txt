@@ -1,0 +1,8 @@
+QUESTION: Which tool has been developed for coverage calculation for genomes?
+
+IDEAL_ANSWER:
+- Mosdepth is a command-line tool for rapidly calculating genome-wide sequencing coverage. It measures depth from BAM or CRAM files at either each nucleotide position in a genome or for sets of genomic regions. Genomic regions may be specified as either a BED file to evaluate coverage across capture regions, or as a fixed-size window as required for copy-number calling. Mosdepth uses a simple algorithm that is computationally efficient and enables it to quickly produce coverage summaries.
+- Mosdepth is a new command-line tool for rapidly calculating genome-wide sequencing coverage. It measures depth from BAM or CRAM files at either each nucleotide position in a genome or for sets of genomic regions.
+
+EXACT_ANSWER:
+- Mosdepth

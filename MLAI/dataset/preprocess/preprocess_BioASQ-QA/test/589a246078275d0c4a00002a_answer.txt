@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Teriflunomide was evaluated in the Teriflunomide Multiple Sclerosis Oral (TEMSO) trial.
+
+EXACT_ANSWER:
+- Teriflunomide

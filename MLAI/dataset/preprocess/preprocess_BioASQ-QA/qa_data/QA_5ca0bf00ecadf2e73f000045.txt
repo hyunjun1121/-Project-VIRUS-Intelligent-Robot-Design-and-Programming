@@ -1,0 +1,8 @@
+QUESTION: Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?
+
+IDEAL_ANSWER:
+- Reslizumab in the treatment of severe eosinophilic asthma: an update.
+- Reslizumab is a humanized monoclonal antibody to treat eosinophilic asthma
+
+EXACT_ANSWER:
+- eosinophilic asthma

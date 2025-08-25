@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- LHCII, the largest plant photosynthetic pigment-protein complex of photosystem II, is a most abundant membrane protein in living organisms and comprises approximately half of the pool of chlorophyll molecules in the biosphere.
+
+EXACT_ANSWER:
+- Light-harvesting pigment-protein complex of Photosystem II
+- LHCII

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The metaxin complex is localized to the outer mitochondrial membrane.
+
+EXACT_ANSWER:
+- To the outer mitochondrial membrane.

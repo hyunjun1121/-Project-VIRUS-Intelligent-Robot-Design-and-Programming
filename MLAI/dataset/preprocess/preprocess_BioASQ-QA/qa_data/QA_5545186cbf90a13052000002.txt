@@ -1,0 +1,7 @@
+QUESTION: Which gene strand is targeted by transcription-coupled repair (TCR)?
+
+IDEAL_ANSWER:
+- Nucleotide Excision Repair (NER) removes a variety of helix-distorting lesions from DNA. It has two sub-pathways, the global genome (gg) NER and the transcription-coupled repair (TCR). TCR is triggered when a RNA polymerase, translocating along the transcribed strand, is arrested at a lesion or unusual structure in the DNA. TCR is dedicated to target and repair the transcribed strand of an active gene.
+
+EXACT_ANSWER:
+- the transcribed strand

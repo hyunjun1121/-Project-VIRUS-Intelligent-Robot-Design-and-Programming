@@ -1,0 +1,8 @@
+QUESTION: Which enzyme is deficient in Gaucher's disease?
+
+IDEAL_ANSWER:
+- Gaucher's disease is caused by deficient lysosomal glucocerebrosidase activity
+- Gaucher disease is an inborn recessive autosomal disease due to a partial deficiency of the lysosomal enzyme beta glucocerebrosidase. The deficient activity leads to accumulation of the lipid glucocerebroside in the liver, the spleen and bone marrow with concomitant anemia and thrombocytopenia.
+
+EXACT_ANSWER:
+- Beta glucocerebrosidase

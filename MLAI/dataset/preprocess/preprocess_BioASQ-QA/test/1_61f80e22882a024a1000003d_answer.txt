@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Bi-allelic loss-of-function variants in BCAS3 cause a syndromic neurodevelopmental disorder. BCAS3 microtubule-associated cell migration factor (BCAS3) is a large, highly conserved cytoskeletal protein previously proposed to be critical in angiogenesis and implicated in human embryogenesis and tumorigenesis.
+- Bi-allelic loss-of-function variants in BCAS3 cause a syndromic neurodevelopmental disorder.
+- BCAS3 microtubule-associated migration factor (BCAS3) is a large, highly tuned cytoskeletal protein previously proposed to be critical in angiogenesis and implicated in the growth of tumors. It has been linked to a syndromic neurodevelopmental disorder.
+- BCAS3 microtubule-associated cell migration factor (BCAS3) is a large, highly conserved cytoskeletal protein previously proposed to be critical in angiogenesis and implicated in human embryogenesis and tumorigenesis. Bi-allelic loss-of-function variants in BCAS3 cause a syndromic neurodevelopmental disorder.
+
+EXACT_ANSWER:
+- A syndromic neurodevelopmental disorder

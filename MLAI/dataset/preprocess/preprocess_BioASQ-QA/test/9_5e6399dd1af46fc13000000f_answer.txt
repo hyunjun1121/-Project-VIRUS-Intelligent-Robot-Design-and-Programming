@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- The Janus Kinase/Signal Transducers and Activators of Transcription (JAK/STAT) signaling pathway is utilized by numerous cytokines and interferons, and is essential for the development and function of both innate and adaptive immunity.
+- The serine/threonine kinase JAK/STAT is a major regulator of Janus kinase activity and plays a critical role in regulating the ubiquitin/proinflammatory signaling pathway.
+- JAK/STAT is a master regulator of immunity
+- JAK/STAT is involved in the regulation of immunity
+
+EXACT_ANSWER:
+- inflammation

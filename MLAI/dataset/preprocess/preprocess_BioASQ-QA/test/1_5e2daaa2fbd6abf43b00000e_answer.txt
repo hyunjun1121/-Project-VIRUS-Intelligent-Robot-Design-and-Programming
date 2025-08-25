@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Istradefylline is a selective adenosine A2A receptor antagonist.
+
+EXACT_ANSWER:
+- Selective adenosine A2A receptor antagonist

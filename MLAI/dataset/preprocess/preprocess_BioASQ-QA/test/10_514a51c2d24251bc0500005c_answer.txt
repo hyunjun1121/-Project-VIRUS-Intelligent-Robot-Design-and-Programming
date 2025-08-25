@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Prolactinoma is a pituitary adenoma that is strongly associated with infertility in women mainly due to increased prolactin secretion causing hyperprolactinemia. Other pituitary lesions can also be associated with infertility.
+
+EXACT_ANSWER:
+- prolactinoma

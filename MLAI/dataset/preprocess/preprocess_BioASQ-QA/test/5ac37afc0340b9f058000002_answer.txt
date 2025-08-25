@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Studies have identified enhancers that were pivotal for morphological divergence and highlighted how novel genetic networks shaping form emerged from pre-existing ones.Most of the recently evolved enhancers arise from ancestral dna exaptation , rather than lineage-specific expansions of repeat elements.
+- Recently evolved enhancers arise from ancestral DNA exaptation, rather than lineage-specific expansions of repeat elements.
+- Most of the recently evolved enhancers arise from ancestral DNA exaptation, rather than lineage-specific expansions of repeat elements. The sequences of some gene regulatory elements diverge considerably, even between closely related species. 
+- The trend is one of high divergence of cis-regulatory elements between species, possibly compensated by extensive creation and loss of regulatory elements and rewiring of their target genes.  Most of the recently evolved enhancers arise from ancestral DNA exaptation, rather than lineage-specific expansions of repeat elements.
+
+EXACT_ANSWER:
+- exaptation of ancestral DNA

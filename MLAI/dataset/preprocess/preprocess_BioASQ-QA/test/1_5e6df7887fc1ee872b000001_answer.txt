@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human.
+
+EXACT_ANSWER:
+- PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human.

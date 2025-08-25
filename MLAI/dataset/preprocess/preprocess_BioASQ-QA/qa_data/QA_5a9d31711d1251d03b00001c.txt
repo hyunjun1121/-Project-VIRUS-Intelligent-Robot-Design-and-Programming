@@ -1,0 +1,7 @@
+QUESTION: What is the approximate size of gas vesicles?
+
+IDEAL_ANSWER:
+- The diameter of gas vesicles is approximately 100nm.
+
+EXACT_ANSWER:
+- 100 nm

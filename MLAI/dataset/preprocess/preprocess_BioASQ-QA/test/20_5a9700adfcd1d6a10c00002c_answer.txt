@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Sclerostin plays a critical role in bone homeostasis and its deficiency or pharmacological neutralization increases bone formation
+
+EXACT_ANSWER:
+- bone metabolism

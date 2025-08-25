@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- transcriptional activation is associated with a dynamic bi-modal 3d organization, whereby the genes switch autonomously from an inactive to an active compartment.
+- Initially, Hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks. Transcriptional activation is associated with a dynamic bi-modal 3D organization, whereby the genes switch autonomously from an inactive to an active compartment. 
+- , hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks. . activation is associated with a dynamic bi-modal 3d organization , whereby the genes switch autonomously from an inactive to an active compartment. . 
+- Initially, Hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks. Transcriptional activation is associated with a dynamic bi-modal 3D organization, whereby the genes switch autonomously from an inactive to an active compartment.
+
+EXACT_ANSWER:
+- two
+- 2

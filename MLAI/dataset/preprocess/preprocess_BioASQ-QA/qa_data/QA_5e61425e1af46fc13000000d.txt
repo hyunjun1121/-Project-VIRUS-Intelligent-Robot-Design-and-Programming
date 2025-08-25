@@ -1,0 +1,8 @@
+QUESTION: Roughly how many base pairs are in the human mitochondrial genome or mtDNA?
+
+IDEAL_ANSWER:
+- The mitochondrial genome, mtDNA, is  16569 base pairs.
+- The number of base pairs in the human mitochondrial genome (mhl) is currently estimated at 16569.
+
+EXACT_ANSWER:
+- 16569 bps

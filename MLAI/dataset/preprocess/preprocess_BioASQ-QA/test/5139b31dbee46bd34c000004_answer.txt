@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Experimental autoimmune encephalomyelitis (EAE) is a classical, conventional and widely recognized animal model for studying multiple sclerosis (MS). EAE is the best available model for the inflammatory processes that occur in MS, and for the disease process. A less commonly used model is that of Theiler's murine encephalomyelitis virus (TMEV).
+
+EXACT_ANSWER:
+- Experimental autoimmune encephalomyelitis (EAE)

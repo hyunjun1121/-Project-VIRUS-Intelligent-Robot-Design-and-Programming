@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- HEXA gene, encoding the alpha-subunit of the lysosomal enzyme, beta-N-acetylhexosaminidase A
+
+EXACT_ANSWER:
+- HEXA

@@ -1,0 +1,11 @@
+QUESTION: What is Dravet syndrome?
+
+IDEAL_ANSWER:
+- Dravet syndrome is one of the most severe epilepsy syndromes of early childhood, and it comes with very high morbidity and mortality. It is likely that Dravet syndrome is underdiagnosed in adults with treatment-resistant epilepsy.
+- dravet syndrome is one of the most severe epilepsy syndromes of early childhood, and it comes with very high morbidity and mortality.
+- Dravet syndrome is one of the most severe epilepsy syndromes of early childhood, and it comes with very high morbidity and mortality. The typical presentation is characterized by hemiclonic or generalized clonic seizures triggered by fever during the first year of life, followed by myoclonic, absence, focal and generalized tonic-clonic seizures.
+- Dravet syndrome is one of the most severe epilepsy syndromes of early childhood, and it comes with very high morbidity and mortality.
+- Dravet syndrome is one of the most severe epilepsy syndromes of early childhood, and is associated with high morbidity and mortality. The typical presentation is characterized by hemiclonic or generalized clonic seizures triggered by fever during the first year of life, followed by myoclonic, absence, focal and generalized tonic-clonic seizures.
+
+EXACT_ANSWER:
+- A severe epilepsy of chidhood

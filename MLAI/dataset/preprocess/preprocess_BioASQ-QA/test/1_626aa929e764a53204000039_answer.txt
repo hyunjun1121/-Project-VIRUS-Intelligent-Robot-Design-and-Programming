@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- piRNAs showed a substantial decrease in RNA abundance that was sustained after IA rupture.
+
+EXACT_ANSWER:
+- Decreased

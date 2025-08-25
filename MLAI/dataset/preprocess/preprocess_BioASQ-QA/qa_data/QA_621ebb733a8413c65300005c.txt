@@ -1,0 +1,8 @@
+QUESTION: What is the indication for Favipiravir?
+
+IDEAL_ANSWER:
+- Favipiravir (FVP) has been used for treatment of COVID-19 in many countries.
+
+EXACT_ANSWER:
+- Covid-19
+- influenza

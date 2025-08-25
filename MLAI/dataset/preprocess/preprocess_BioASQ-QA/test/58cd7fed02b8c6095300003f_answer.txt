@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis.
+The CaSR is a key regulator for such diverse processes as hormone secretion, gene expression, inflammation, proliferation, differentiation, and apoptosis. Due to this pleiotropy, the CaSR is able to regulate cell fate and is implicated in the development of many types of benign or malignant tumours of the breast, prostate, parathyroid, and colon.
+
+EXACT_ANSWER:
+- The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis.

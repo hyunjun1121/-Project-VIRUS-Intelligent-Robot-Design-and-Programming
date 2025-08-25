@@ -1,0 +1,7 @@
+QUESTION: In which kingdom do microsporidia belong, according to their current classification scheme?
+
+IDEAL_ANSWER:
+- Traditionally, microsporidia were considered as protozoans, but recently they have been reclassified as the earliest-diverging clade of sequenced fungi. Microsporidia are a diverse group of obligate, intracellular, eukaryotic, spore-forming parasites; they are ubiquitous fungi, with genomes that have undergone a strong reduction.
+
+EXACT_ANSWER:
+- Fungi

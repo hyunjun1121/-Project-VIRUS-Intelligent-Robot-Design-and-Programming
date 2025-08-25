@@ -1,0 +1,8 @@
+QUESTION: Which histone modification is primarily linked to elongating transcription?
+
+IDEAL_ANSWER:
+- Similarly, H3K36 trimethylation, a mark associated with transcription elongation, was specifically increased at the HD locus in the striatum and not in the cerebellum. Recent studies reviewed here demonstrate that histone deacetylation on the body of a transcribed gene is regulated via Set2-mediated methylation of histone H3-K36.
+
+EXACT_ANSWER:
+- H3K36me3
+- H3K36 trimethylation

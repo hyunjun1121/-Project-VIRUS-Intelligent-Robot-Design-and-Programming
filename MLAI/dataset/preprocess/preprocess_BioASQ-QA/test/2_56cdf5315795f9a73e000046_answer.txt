@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The removal of the 5'-cap structure by the decapping enzyme DCP2 and its coactivator DCP1 shuts down translation and exposes the mRNA to 5'-to-3' exonucleolytic degradation by XRN1
+- The removal of the 5'-cap structure by the decapping enzyme DCP2 and its coactivator DCP1 shuts down translation and exposes the mRNA to 5'-to-3' exonucleolytic degradation by XRN1.
+
+EXACT_ANSWER:
+- XRN1

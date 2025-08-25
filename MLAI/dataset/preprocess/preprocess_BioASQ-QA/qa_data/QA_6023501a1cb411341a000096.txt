@@ -1,0 +1,7 @@
+QUESTION: What is the generic name of the Xofluza?
+
+IDEAL_ANSWER:
+- Baloxavir marboxi is the generic name of Xofluza. It is approved for influenza.
+
+EXACT_ANSWER:
+- Baloxavir marboxi

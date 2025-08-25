@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The Protein Contacts Atlas is an interactive resource of non-covalent contacts from over 100,000 PDB crystal structures. The Protein Contacts Atlas enables researchers from different disciplines to investigate diverse questions in the framework of non-covalent contacts, including the interpretation of allostery, disease mutations and polymorphisms, by exploring individual subunits, interfaces, and protein-ligand contacts and by mapping external information. The Protein Contacts Atlas is available at http://www.mrc-lmb.cam.ac.uk/pca/ and also through PDBe.
+- The Protein Contacts Atlas is an interactive resource of non-covalent contacts at different scales of organization: atoms, residues, secondary structures, secondary structure, subunits, and entire complexes.
+
+EXACT_ANSWER:
+- Protein Contacts Atlas

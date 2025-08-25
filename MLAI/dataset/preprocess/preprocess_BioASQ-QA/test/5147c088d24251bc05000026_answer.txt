@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Small-cell lung cancer is most commonly associated with Lambert-Eaton syndrome. Case reports suggest that other non-small-cell lung cancer types, such as large-cell neuroendocrine carcinoma and squamous cell carcinoma,  can be also very rarely associated this syndrome.
+
+EXACT_ANSWER:
+- small-cell lung cancer

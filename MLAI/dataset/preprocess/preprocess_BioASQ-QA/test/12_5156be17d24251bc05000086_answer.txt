@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Mirtazapine is predominantly used in the treatment of major depression.
+
+EXACT_ANSWER:
+- major depression

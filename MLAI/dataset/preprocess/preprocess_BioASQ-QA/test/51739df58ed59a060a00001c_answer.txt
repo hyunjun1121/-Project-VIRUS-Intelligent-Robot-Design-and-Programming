@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The mutational status of the immunoglobulin heavy variable (IGHV) genes, defines two subsets: mutated and unmutated CLL. Unmutated CLL patients show a shorter progression-free and overall survival than mutated CLL patients.
+
+EXACT_ANSWER:
+- The mutational status of the IGHV genes.

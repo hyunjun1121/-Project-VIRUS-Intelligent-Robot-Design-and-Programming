@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- transcription factor Otx2 acts as a negative switch in the regulation of transition from naive to primed pluripotency. Otx2 and Oct4 drive early activation during embryonic stem cell transition from naive pluripotency.
+- Otx2 is an intrinsic determinant of the embryonic stem cell state and is required to stabilize the EpiSC state by suppressing the mesendoderm-to-neural fate switch by suppressing BMP4 and FGf2.
+- The transcription factor Otx2 acts as a negative switch in the regulation of transition from naive to primed pluripotency in mouse pluripotent stem cells. Otx2 is an intrinsic determinant of the embryonic stem cell state and is required for transition to a stable epiblast stem cell condition.
+- Otx2 is an intrinsic determinant of the embryonic stem cell state and is required to stabilize the EpiSC state by suppressing the Mesendoderm to Neuron fate switch.
+- The transcription factor Otx2 acts as a negative switch in the regulation of transition from naive to primed pluripotency in mouse pluripotent stem cells.
+- Otx2 is an intrinsic determinant of the embryonic stem cell state and is required to stabilize the EpiSC state by suppressing the mesendoderm-to-neural fate switch by suppressing BMP4 and FGf2. The transcription factor OTX2 acts as a negative switch in the regulation of transition from naive to primed pluripotency.
+- Otx2 is required to maintain the ESC metastable state by antagonizing ground state pluripotency and promoting commitment to differentiation. Furthermore, Otx2 is required for ESC transition into EpiSCs and, subsequently, to stabilize the EpiSC state by suppressing, in pluripotent cells, the mesendoderm-to-neural fate switch in cooperation with BMP4 and Fgf2. Otx2 is a novel intrinsic determinant controlling the functional integrity of ESCs and EpiSCs. Otx2 and Oct4 drive early enhancer activation during embryonic stem cell transition from naive pluripotency.
+- Otx2 is an intrinsic determinant of the embryonic stem cell state and is required to stabilize the EpiSC state by suppressing the mesendoderm-to-neural fate switch.
+
+EXACT_ANSWER:
+- formative pluripotency

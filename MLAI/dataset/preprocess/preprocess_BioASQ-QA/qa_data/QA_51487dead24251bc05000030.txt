@@ -1,0 +1,7 @@
+QUESTION: Which pharmacogenetic test is available for abacavir?
+
+IDEAL_ANSWER:
+- The pharmacogenetic test recommended prior to abacavir administration is the HLA B*5701 genotyping.
+
+EXACT_ANSWER:
+- HLA B*5701 genotyping

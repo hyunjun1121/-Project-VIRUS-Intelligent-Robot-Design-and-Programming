@@ -1,0 +1,7 @@
+QUESTION: Which company produces Glybera?
+
+IDEAL_ANSWER:
+- Glybera is a product of Chiesi Pharma.
+
+EXACT_ANSWER:
+- Chiesi Pharma

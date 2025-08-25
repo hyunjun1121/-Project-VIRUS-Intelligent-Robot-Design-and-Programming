@@ -1,0 +1,7 @@
+QUESTION: What cellular process are okazaki fragments associated with?
+
+IDEAL_ANSWER:
+- Okazaki fragments are involved in DNA replication
+
+EXACT_ANSWER:
+- DNA replication

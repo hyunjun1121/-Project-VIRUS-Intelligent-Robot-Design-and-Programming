@@ -1,0 +1,12 @@
+QUESTION: Which is the main gene signature in Systemic Lupus Erythematosus (SLE)?
+
+IDEAL_ANSWER:
+- Systemic Lupus Erythematosus (SLE) has a type I interferon (IFN) gene signature.
+- SLE is characterized by a type-I interferon gene signature.
+- Systemic Lupus Erythematosus (SLE) is a type I interferon (IFN) disease. The main gene signature is a 4-gene expression of 4 genes.
+- SLE is characterized by dysregulation of both the innate and the adaptive immune systems. An increased expression of type I IFN-regulated genes, termed IFN signature, has been reported in patients with SLE.
+- A role for interferon (IFN) in systemic lupus erythematosus (SLE) pathogenesis is inferred from the prominent IFN gene signature (IGS), but the major IFN species and its relationship to disease activity are unknown.
+
+EXACT_ANSWER:
+- IFN signature
+- Interferon signature

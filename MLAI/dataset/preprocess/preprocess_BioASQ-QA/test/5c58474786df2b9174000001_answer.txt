@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Clust is a method for automatic extraction of optimal co-expressed gene clusters from gene expression data. Clust is available at https://github.com/BaselAbujamous/clust.
+
+EXACT_ANSWER:
+- Clust

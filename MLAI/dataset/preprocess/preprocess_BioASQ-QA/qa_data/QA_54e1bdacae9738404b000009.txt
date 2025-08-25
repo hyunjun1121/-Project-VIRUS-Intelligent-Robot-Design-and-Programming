@@ -1,0 +1,7 @@
+QUESTION: What is generic name of drug Adempas?
+
+IDEAL_ANSWER:
+- Riociguat is generic name of drug Adempas. It is a soluble guanylate cyclase stimulator that was approved for the treatment of patients with chronic thromboembolic pulmonary hypertension and pulmonary arterial hypertension.
+
+EXACT_ANSWER:
+- riociguat

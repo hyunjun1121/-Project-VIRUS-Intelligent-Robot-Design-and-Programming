@@ -1,0 +1,9 @@
+QUESTION: Which disorder is caused by biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1)?
+
+IDEAL_ANSWER:
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare subtype of congenital stationary night blindness (CSNB).
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare subtype of congenital stationary night blindness (CSNB)
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare subtype of congenital stationary night blindness (CSNB), which is caused by a protein-coupled receptor-protein interaction.
+
+EXACT_ANSWER:
+- Oguchi disease

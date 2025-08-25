@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Sutimlimab is a novel humanized monoclonal antibody directed against classical pathway complement factor C1s.
+
+EXACT_ANSWER:
+- C1s

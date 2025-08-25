@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Ataxin-3 is a ubiquitously expressed deubiqutinating enzyme with important functions in the proteasomal protein degradation pathway and regulation of transcription. The C-terminus of the ataxin-3 protein contains a polyglutamine (PolyQ) region that, when mutationally expanded to over 52 glutamines, causes the neurodegenerative disease spinocerebellar ataxia 3 (SCA3).
+- Spinocerebellar ataxia type 3 (SCA3) is the most frequent inherited cerebellar ataxia in Europe, the US and Japan, leading to disability and death through motor complications. Although the affected protein ataxin-3 is found ubiquitously in the brain, grey matter atrophy is predominant in the cerebellum and the brainstem
+
+EXACT_ANSWER:
+- Ataxin-3

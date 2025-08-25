@@ -1,0 +1,7 @@
+QUESTION: Is METTL3 an m6A writer, reader or eraser?
+
+IDEAL_ANSWER:
+- The methyltransferase METTL3 is an m6A writer.
+
+EXACT_ANSWER:
+- Writer

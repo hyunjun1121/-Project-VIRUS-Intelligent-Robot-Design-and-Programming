@@ -1,0 +1,7 @@
+QUESTION: Which molecule is targeted by Olaratumab?
+
+IDEAL_ANSWER:
+- Olaratumab is a recombinant human monoclonal antibody that binds to platelet-derived growth factor receptor-α (PDGFRα). It is used for treatment of soft tissue sarcoma.
+
+EXACT_ANSWER:
+- platelet-derived growth factor receptor-α

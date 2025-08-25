@@ -1,0 +1,7 @@
+QUESTION: What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?
+
+IDEAL_ANSWER:
+- The Ret gene may have gain of mutation functions in MEN2 cancer as well as loss of function mutations in Hirschprung disease.
+
+EXACT_ANSWER:
+- Ret

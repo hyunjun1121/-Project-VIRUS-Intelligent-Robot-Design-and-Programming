@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- ZP-PTH is used for the treatment of osteoporosis.
+
+EXACT_ANSWER:
+- Osteoporosis

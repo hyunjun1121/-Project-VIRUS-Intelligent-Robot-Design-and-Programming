@@ -1,0 +1,11 @@
+IDEAL_ANSWER:
+- Dysfunction of the ciliary ARMC9/TOGARAM1 protein module causes Joubert syndrome.
+- Dysfunction of the ciliary ARMC9/TOGARAM1 protein causes Joubert syndrome.
+- Joubert syndrome (JBTS) is a recessive neurodevelopmental disorder caused by dysfunction of the ciliary ARMC9/TOGARAM1 protein.
+- Dysfunction of the ciliary ARMC9/TOGARAM1 protein module causes Joubert syndrome. All known JBTS genes encode proteins involved in the structure or function of primary cilia, ubiquitous antenna-like organelles essential for cellular signal transduction.
+- Joubert syndrome is a rare autosomal recessive disorder caused by dysfunction of the ciliary ARMC9/TOGARAM1 protein.
+- Dysfunction of the ciliary ARMC9/TOGARAM1 protein module causes Joubert syndrome. Joubert syndrome (JBTS) is a recessive neurodevelopmental ciliopathy characterized by a pathognomonic hindbrain malformation.
+- Joubert syndrome (JBTS) is a rare autosomal recessive disorder caused by dysfunction of the ciliary ARMC9/TOGARAM1 protein.
+
+EXACT_ANSWER:
+- Joubert syndrome

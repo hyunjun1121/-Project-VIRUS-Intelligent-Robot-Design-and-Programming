@@ -1,0 +1,7 @@
+QUESTION: Which tool is used to visualise the junction sites of chloroplast genomes?
+
+IDEAL_ANSWER:
+- IRscope is an online program to visualize the junction sites of chloroplast genomes. It allows the users to depict the genetic architecture of up to ten chloroplast genomes in the vicinity of the sites connecting the inverted repeats to the short and long single copy regions. The software and its dependent libraries are fully coded in R and the reflected plot is scaled up to realistic size of nucleotide base pairs in the vicinity of the junction sites. The input of the program is an annotation GenBank (.gb) file, the accession or GI number of the sequence or a DOGMA output file.
+
+EXACT_ANSWER:
+- IRscope

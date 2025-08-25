@@ -1,0 +1,13 @@
+IDEAL_ANSWER:
+- Liebenberg syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeobox 2 (ZEB2) gene. Patients present with prominent neurological, medical, and behavioral symptoms.
+- We discuss the genetic abnormality that causes Liebenberg syndrome, the genomic rearrangement at the PITX1 locus on chromosome 5
+- We re-define the phenotype of Liebenberg syndrome as a transformation of the upper limbs to reflect lower limb characteristics. We speculate that the area of deletion contains a regulatory sequence that suppresses the expression of PITX1 in the upper limb buds.
+- Liebenberg syndrome is caused by genetic changes near the PITX1 gene. The protein produced from this gene plays a critical role in lower limb development by controlling the activity of other genes involved in limb development, directing the shape and structure of bones and other tissues in the legs and feet.
+- Liebenberg syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeobox 2 (ZEB2) gene.
+- Liebenberg syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeodomain complex 1 (PITX1) gene.
+- Liebenberg syndrome is caused by a deletion upstream to the PITX1 gene resulting in transformation of the upper limbs to reflect lower limb characteristics The deleted region is upstream to the PITX1 gene.
+- Liebenberg syndrome is caused by a deletion upstream to the PITX1 gene resulting in transformation of the upper limbs to reflect lower limb characteristics
+
+EXACT_ANSWER:
+- PITX1
+-

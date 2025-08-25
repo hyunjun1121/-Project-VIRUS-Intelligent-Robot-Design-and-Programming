@@ -1,0 +1,7 @@
+QUESTION: Which fusion protein is involved in the development of Ewing sarcoma?
+
+IDEAL_ANSWER:
+- Ewing sarcoma is the second most common bone malignancy in children and young adults. In almost 95% of the cases, it is driven by oncogenic fusion protein EWS/FLI1, which acts as an aberrant transcription factor, that upregulates or downregulates target genes, leading to cellular transformation.
+
+EXACT_ANSWER:
+- EWS/FLI1

@@ -1,0 +1,11 @@
+QUESTION: What tissue is commonly affected in Marfan's syndrome
+
+IDEAL_ANSWER:
+- Marfan syndrome (MS) is a connective tissue disorder that affects thousands of adolescents 
+- Marfan syndrome (MS) is a connective tissue disorder that affects thousands of adolescents
+- Marfan syndrome (MS) is a connective tissue disorder that affects thousands of adolescents. 
+- Marfan syndrome (MS) is a connective tissue disorder that affects thousands of adolescents.
+- marfan syndrome (ms) is a connective tissue disorder that affects thousands of adolescents .
+
+EXACT_ANSWER:
+- connective tissue

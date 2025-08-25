@@ -1,0 +1,7 @@
+QUESTION: What is liquid liquid phase transition?
+
+IDEAL_ANSWER:
+- The influence of membrane-free microcompartments resulting from crowding-induced liquid/liquid phase separation (LLPS) on the dynamic spatial organization of FtsZ, the main component of the bacterial division machinery, has been studied using several LLPS systems.
+
+EXACT_ANSWER:
+- membrane-free microcompartments

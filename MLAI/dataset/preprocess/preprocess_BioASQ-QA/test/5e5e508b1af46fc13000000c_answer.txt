@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Retapamulin  is a small molecule covalently binding and inhibiting the bacterium Staphylococcus aureus (MRSA).
+- Retapamulin is used to treat topical bacterial infections with both methicillin-susceptible and resistant S. aureus and streptococcus infections.
+- Retapamulin is an antiviral medication used in the treatment of methicillin-resistant Staphylococcus aureus.
+
+EXACT_ANSWER:
+- bacterial infections

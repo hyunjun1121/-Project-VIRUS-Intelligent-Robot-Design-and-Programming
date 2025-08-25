@@ -1,0 +1,7 @@
+QUESTION: Which is the genetic lesion associated with Huntington’s disease?
+
+IDEAL_ANSWER:
+- The genetic lesion associated with Huntington's disease is a CAG trinucleotide repeat expansion in the HD (or HTT) gene.
+
+EXACT_ANSWER:
+- A CAG trinucleotide repeat expansion in the HD gene

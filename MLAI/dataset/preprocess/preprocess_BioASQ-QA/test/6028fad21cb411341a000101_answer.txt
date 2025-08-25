@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Galcanezumab was approved by the FDA in September 2018.
+
+EXACT_ANSWER:
+- September 2018

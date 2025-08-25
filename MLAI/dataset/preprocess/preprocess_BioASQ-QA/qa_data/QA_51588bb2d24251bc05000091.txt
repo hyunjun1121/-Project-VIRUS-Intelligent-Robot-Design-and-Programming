@@ -1,0 +1,7 @@
+QUESTION: Which antiepileptic drug is most strongly associated with spina bifida? 
+
+IDEAL_ANSWER:
+- Phenytoin is not used in pregnancy as it is associated with a severe fetal deformation. From the other anticonvulsants most studies report the higher association between use during pregnancy and spin bifida to occur with Valproate.
+
+EXACT_ANSWER:
+- Valproate

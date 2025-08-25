@@ -1,0 +1,7 @@
+QUESTION: Which are the two main bacterial phyla in human gut?
+
+IDEAL_ANSWER:
+- Out of thousands of bacterial species-level phylotypes inhabiting the human gut, the majority belong to two dominant phyla, the Bacteroidetes and Firmicutes
+
+EXACT_ANSWER:
+- Bacteroidetes and Firmicutes

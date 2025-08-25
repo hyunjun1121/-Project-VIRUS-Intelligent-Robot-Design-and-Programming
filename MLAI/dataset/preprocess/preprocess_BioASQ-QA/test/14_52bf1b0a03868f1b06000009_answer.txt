@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Wilson's disease (WD) is an autosomal recessive disorder.
+
+EXACT_ANSWER:
+- autosomal recessive

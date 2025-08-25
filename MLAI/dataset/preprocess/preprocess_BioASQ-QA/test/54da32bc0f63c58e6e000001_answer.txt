@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Flecainide is a class 1c antiarrhythmic that acts by blocking sodium channels and is used mainly in the treatment of supraventricular arrhythmias.
+
+EXACT_ANSWER:
+- The sodium channel

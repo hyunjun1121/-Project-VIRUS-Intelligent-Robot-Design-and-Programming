@@ -1,0 +1,7 @@
+QUESTION: Which is the subcellular localization of the protein angiogenin?
+
+IDEAL_ANSWER:
+- Under growth conditions, ANG is located in nucleolus where it promotes ribosomal RNA (rRNA) transcription thereby stimulating cell growth. In adverse conditions, ANG is relocated to cytoplasm to promote damage repairs and cell survival.
+
+EXACT_ANSWER:
+- Both nucleolar and cytoplasmic

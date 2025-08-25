@@ -1,0 +1,8 @@
+QUESTION: As of September 2018, what machine learning algorithm is used to for cardiac arrhythmia detection from a  short single-lead ECG recorded by a wearable device?
+
+IDEAL_ANSWER:
+- Support Vector machines( SVM) can be used for cardiac arrhythmia detection in from an ECG recorded by a wearable device.
+- SVM approach for cardiac arrhythmias detection in short single-lead ECG recorded by a wearable device
+
+EXACT_ANSWER:
+- SVM OR Support Vector Machine

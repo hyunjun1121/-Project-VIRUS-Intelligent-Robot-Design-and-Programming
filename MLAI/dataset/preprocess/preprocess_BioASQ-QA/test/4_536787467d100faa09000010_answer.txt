@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- There is no clear evidence of the relationship between sweating and anaerobic threshold
+
+EXACT_ANSWER:
+- There is no clear evidence of the relationship between sweating and anaerobic threshold

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Metagenomics of the Human Intestinal Tract (MetaHIT) project are focusing mainly on the human microbiome
+
+EXACT_ANSWER:
+- Metagenomics of the Human Intestinal Tract

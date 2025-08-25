@@ -1,0 +1,7 @@
+QUESTION: Which biomarker is widely used in the diagnosis of Ewing sarcoma?
+
+IDEAL_ANSWER:
+- CD99 is a hallmark marker for Ewing sarcoma and primitive neuroectodermal tumors.
+
+EXACT_ANSWER:
+- CD99

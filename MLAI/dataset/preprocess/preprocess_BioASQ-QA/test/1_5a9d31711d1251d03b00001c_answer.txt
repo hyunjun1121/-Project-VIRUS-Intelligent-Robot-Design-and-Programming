@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The diameter of gas vesicles is approximately 100nm.
+
+EXACT_ANSWER:
+- 100 nm

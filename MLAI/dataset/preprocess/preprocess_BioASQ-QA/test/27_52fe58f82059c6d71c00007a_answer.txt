@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Some archaea replicate from single origins but most archaea and all eukaryotes replicate using multiple origins.
+- Multiple functional sites of origin of replication may exist in the genomes of most archaea. This has only been demonstrated recently. Two studies have shown that multiple origins of replication function in two archaeal species.
+
+EXACT_ANSWER:
+- mostly multiple
+- Multiple

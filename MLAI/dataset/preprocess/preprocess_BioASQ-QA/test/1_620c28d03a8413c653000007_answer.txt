@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Small-molecule inhibition of METTL3 is a strategy against myeloid leukaemia. Targeting of RNA-modifying enzymes represents a promising avenue for anticancer therapy.
+- Small-molecule inhibition of METTL3 as a strategy against myeloid leukaemia.
+
+EXACT_ANSWER:
+- myeloid leukaemia

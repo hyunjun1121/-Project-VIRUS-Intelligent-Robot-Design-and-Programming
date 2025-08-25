@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Dovitinib (TKI258) is a tyrosine kinase receptor inhibitor with potent activity against fibroblast growth factor receptor (FGFR) and vascular endothelial growth factor receptor (VEGFR).
+
+EXACT_ANSWER:
+- tyrosine kinase receptor inhibitor

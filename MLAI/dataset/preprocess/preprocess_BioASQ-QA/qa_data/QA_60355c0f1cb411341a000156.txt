@@ -1,0 +1,7 @@
+QUESTION: What is the function of the protein Cuf1?
+
+IDEAL_ANSWER:
+- Cuf1 is a copper-sensing transcription factor.
+
+EXACT_ANSWER:
+- Cuf1 is a copper-sensing transcription factor.

@@ -1,0 +1,7 @@
+QUESTION: CURB65 score is used for stratification of which disease?
+
+IDEAL_ANSWER:
+- CURB65 (confusion, urea, respiration, blood pressure; age>65 years) is used for assessment of pneumonia severity.
+
+EXACT_ANSWER:
+- pneumonia

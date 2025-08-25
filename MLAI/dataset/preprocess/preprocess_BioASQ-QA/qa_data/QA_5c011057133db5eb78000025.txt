@@ -1,0 +1,7 @@
+QUESTION: In which phase of clinical trials was sutezolid in 2018?
+
+IDEAL_ANSWER:
+- By 2018 sutezolid had been evaluated in phase II clinical trials.
+
+EXACT_ANSWER:
+- phase II

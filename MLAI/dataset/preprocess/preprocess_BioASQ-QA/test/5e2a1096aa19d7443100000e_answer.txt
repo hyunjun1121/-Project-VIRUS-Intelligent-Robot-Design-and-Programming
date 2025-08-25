@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- AZD8601 is a modified mRNA.
+
+EXACT_ANSWER:
+- mRNA

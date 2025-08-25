@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Saccharomyces cerevisiae Swr1, a Swi2/Snf2-related ATPase, is the catalytic core of a multisubunit chromatin remodeling enzyme, called the SWR1 complex, that efficiently replaces conventional histone H2A in nucleosomes with histone H2A.Z. We identified a complex containing 13 different polypeptides associated with a soluble pool of H2A.Z in Saccharomyces cerevisiae.
+- The multisubunit nucleosome-remodeling enzyme complex SWR1, conserved from yeast to mammals, catalyzes the ATP-dependent replacement of histone H2A in canonical nucleosomes with H2A.Z. The SWR1 complex replaces the canonical histone H2A with the variant H2A.Z (Htz1 in yeast) at specific chromatin regions.
+- The multisubunit nucleosome-remodeling enzyme complex SWR1, conserved from yeast to mammals, catalyzes the ATP-dependent replacement of histone H2A in canonical nucleosomes with H2A.Z.
+- The chromatin remodeler SWR1 mediates site-specific incorporation of H2A.Z by a multi-step histone replacement reaction, evicting histone H2A-H2B from the canonical nucleosome and depositing the H2A.Z-H2B dimer
+- The multisubunit nucleosome-remodeling enzyme complex SWR1, conserved from yeast to mammals, catalyzes the ATP-dependent replacement of histone H2A in canonical nucleosomes with H2A.Z. Saccharomyces cerevisiae Swr1, a Swi2/Snf2-related ATPase, is the catalytic core of a multisubunit chromatin remodeling enzyme, called the SWR1 complex, that efficiently replaces conventional histone H2A in nucleosomes with histone H2A.Z.
+
+EXACT_ANSWER:
+- SWR1

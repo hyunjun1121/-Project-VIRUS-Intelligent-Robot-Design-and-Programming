@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- This is a classic description of a subarachnoid hemorrhage (SAH). The gold standard for the diagnostic evaluation of a SAH remains non-contrast head computed tomography (CT) followed by lumbar puncture if the CT is negative.
+- Headache is the most common presenting symptom of subarachnoid hemorrhage (SAH), ranging from mild headache to the "worst headache of my life"
+- Aneurysmal subarachnoid hemorrhage (SAH) is associated with a mortality of more than 30%. Acute, severe headache, typically described as the worst headache of the patient's life, and meningismus are the characteristic manifestations of SAH.
+
+EXACT_ANSWER:
+- Subarachnoid hemorrhage (SAH)
+- Aneurysmal subarachnoid hemorrhage

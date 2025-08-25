@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Report the outcomes of laser in situ keratomileusis (LASIK) for high myopia correction after long-term follow-up
+- ['Report the outcomes of laser in situ keratomileusis (LASIK) for high myopia correction after long-term follow-up.']
+- Laser in situ keratomileusis  is also known as LASIK
+- Laser in situ keratomileusis (LASIK)
+
+EXACT_ANSWER:
+- LASIK

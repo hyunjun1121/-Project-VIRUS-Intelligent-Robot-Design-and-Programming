@@ -1,0 +1,7 @@
+QUESTION: What does the strimvelis treatment consist of?
+
+IDEAL_ANSWER:
+- Strimvelis consists of autologous CD34+ cells transduced to express adenosine deaminase [ADA].
+
+EXACT_ANSWER:
+- autologous CD34+ cells transduced to express adenosine deaminase

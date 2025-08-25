@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Nemolizumab has been shown to be effective for atopic dermatitis.
+
+EXACT_ANSWER:
+- atopic dermatitis

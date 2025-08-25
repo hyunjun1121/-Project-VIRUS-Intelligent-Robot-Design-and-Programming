@@ -1,0 +1,7 @@
+QUESTION: What is another name for AZD0530?
+
+IDEAL_ANSWER:
+- AZD0530 is also known as saracatinib.
+
+EXACT_ANSWER:
+- Saracatinib

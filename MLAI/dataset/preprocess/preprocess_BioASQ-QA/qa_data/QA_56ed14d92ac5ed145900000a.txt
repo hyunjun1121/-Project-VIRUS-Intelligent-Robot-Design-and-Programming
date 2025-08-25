@@ -1,0 +1,9 @@
+QUESTION: What is the genetic basis of tuberous sclerosis?
+
+IDEAL_ANSWER:
+- The genetic basis of tuberous sclerosis has been attributed to mutations in one of two unlinked genes, TSC1 and TSC2. The functions of the TSC1 and TSC2 gene products, hamartin and tuberin, respectively, have remained ill defined until recently. Genetic, biochemical, and biologic analyses have highlighted their role as negative regulators of the mTOR signaling pathway. Tuberin, serving as a substrate of AKT and AMPK, mediates mTOR activity by coordinating inputs from growth factors and energy availability in the control of cell growth, proliferation, and survival. Emerging evidence also suggests that the TSC 1/2 complex may play a role in modulating the activity of beta-catenin and TGFbeta. These findings provide novel functional links between the TSC genes and other tumor suppressors.
+- The genetic basis of this disease has been attributed to mutations in one of two unlinked genes, TSC1 and TSC2.
+- We previously found TSC2 loss of heterozygosity in 7 of 13 (54%) of angiomyolipomas from sporadic LAM patients, suggesting that LAM and TSC could have a common genetic basis. In this study, we report the identification of somatic TSC2 mutations in five of seven angiomyolipomas from sporadic LAM patients. Our data demonstrate that somatic mutations in the TSC2 gene occur in the angiomyolipomas and pulmonary LAM cells of women with sporadic LAM, strongly supporting a direct role of TSC2 in the pathogenesis of this disease. The study of hereditary tumor syndromes has laid a solid foundation toward understanding the genetic basis of cancer.
+
+EXACT_ANSWER:
+- TSC1 and TSC2 genes

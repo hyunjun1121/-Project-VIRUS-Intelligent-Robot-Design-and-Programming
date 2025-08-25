@@ -1,0 +1,7 @@
+QUESTION: Treprostinil is an analogue for which prostaglandin?
+
+IDEAL_ANSWER:
+- Treprostinil is a prostaglandin I(2) (PGI(2)) analog.
+
+EXACT_ANSWER:
+- Prostaglandin I(2)

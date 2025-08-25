@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- SERT is a Serotonin transporter.
+
+EXACT_ANSWER:
+- Serotonin transporter

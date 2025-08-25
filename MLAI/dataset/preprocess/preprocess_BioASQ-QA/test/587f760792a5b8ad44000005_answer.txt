@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- JAMM (Joint Analysis of NGS replicates via Mixture Model clustering) is a peak finder that can integrate information from biological replicates, determine enrichment site widths accurately and resolve neighboring narrow peaks. JAMM is a universal peak finder that is applicable to different types of datasets.
+
+EXACT_ANSWER:
+- JAMM

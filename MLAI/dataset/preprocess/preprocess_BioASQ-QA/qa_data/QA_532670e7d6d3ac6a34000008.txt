@@ -1,0 +1,7 @@
+QUESTION: What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?
+
+IDEAL_ANSWER:
+- Low T3 Syndrome is the more frequent alteration of thyroid hormone profile early after coronary artery bypass graft surgery.
+
+EXACT_ANSWER:
+- Low T3 syndrome occurs frequently after CABG

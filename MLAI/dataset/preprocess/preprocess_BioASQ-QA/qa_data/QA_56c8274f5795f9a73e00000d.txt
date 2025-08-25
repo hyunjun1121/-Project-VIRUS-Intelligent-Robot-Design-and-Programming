@@ -1,0 +1,7 @@
+QUESTION: Which type of cells is affected in Amyotrophic Lateral Sclerosis?
+
+IDEAL_ANSWER:
+- Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder in which motor neurons are affected.
+
+EXACT_ANSWER:
+- Motor neurons

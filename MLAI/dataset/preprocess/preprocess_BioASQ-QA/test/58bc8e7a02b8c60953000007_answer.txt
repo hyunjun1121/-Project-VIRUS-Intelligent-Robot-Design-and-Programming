@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Plantar fascia (PF) disorders like plantar fasciitis commonly cause heel pain and disability and are thought to be degenerative rather than inflammatory in nature
+
+EXACT_ANSWER:
+- heel pain

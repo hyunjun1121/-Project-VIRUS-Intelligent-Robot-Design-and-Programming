@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The drug Olaparib target the protein poly(ADP-ribose) polymerase.
+
+EXACT_ANSWER:
+- poly(ADP-ribose) polymerase
+- PARP

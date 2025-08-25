@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- SOX2 anophthalmia syndrome is an uncommon autosomal dominant syndrome caused by mutations in the SOX2 gene and clinically characterized by severe eye malformations (anophthalmia/microphthalmia) and extraocular anomalies mainly involving brain, esophagus, and genitalia.
+
+EXACT_ANSWER:
+- SOX2 anophthalmia syndrome

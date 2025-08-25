@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Nemaline  myopathy has a autosomal dominant or recessive mode of inheritance.
+
+EXACT_ANSWER:
+- autosomal dominant
+- autosomal recessive

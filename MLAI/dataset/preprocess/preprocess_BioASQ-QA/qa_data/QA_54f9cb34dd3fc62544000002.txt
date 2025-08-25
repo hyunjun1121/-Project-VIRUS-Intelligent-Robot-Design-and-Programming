@@ -1,0 +1,10 @@
+QUESTION: Which protein has been found to interact with phospholamban (PLN) and is also an anti-apoptotic protein?
+
+IDEAL_ANSWER:
+- Phospholamban interacts with HAX-1, a mitochondrial protein with anti-apoptotic function.The discovery of the PLN/HAX-1 interaction therefore unveils an important new link between Ca(2+) homeostasis and cell survival, with significant therapeutic potential.
+- The HS-1 associated protein X-1 (HAX-1) is a mitochondrial protein with anti-apoptotic function and presents with numerous similarities to Bcl-2. and was identified as a phospholamban-binding partner. Using the yeast-two-hybrid system, HS-1 associated protein X-1 (HAX-1) was identified as a PLN-binding partner.
+- The sarco(endo)plasmic reticulum (SR) Ca(2+) transport ATPase (SERCA2a) and its inhibitor phospholamban (PLN) control the uptake of Ca(2+) by SR membranes during relaxation. Recently, the antiapoptotic HS-1-associated protein X-1 (HAX-1) was identified as a binding partner of PLN, and this interaction was postulated to regulate cell apoptosis.Phospholamban interacts with HAX-1, a mitochondrial protein with anti-apoptotic function.
+
+EXACT_ANSWER:
+- The HS-1 associated protein X-1
+- (HAX-1)

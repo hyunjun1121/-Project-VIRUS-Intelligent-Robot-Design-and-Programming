@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The short-QT syndrome is characterized by QT intervals <300-330 msec
+
+EXACT_ANSWER:
+- below 300-330 msec

@@ -1,0 +1,7 @@
+QUESTION: Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?
+
+IDEAL_ANSWER:
+- Thyroid dysfunction, particularly low T3 syndrome,  is a strong predictor of short-term and long-term poor prognoses in patients with acute myocardial infarctions.
+
+EXACT_ANSWER:
+- Low T3 Syndrome isassociatedwithpoor prognosis in patients with acute myocardial infarction

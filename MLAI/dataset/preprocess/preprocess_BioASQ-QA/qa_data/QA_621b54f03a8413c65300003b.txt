@@ -1,0 +1,7 @@
+QUESTION: Where are the PUX proteins found?
+
+IDEAL_ANSWER:
+- PUX proteins specifically associate with the nucleoskeleton underneath the INM.
+
+EXACT_ANSWER:
+- PUX proteins specifically associate with the nucleoskeleton underneath the INM.

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Sonidegib is a Hedghog signalling pathway inhibitor.
+
+EXACT_ANSWER:
+- Hedghog signalling pathway

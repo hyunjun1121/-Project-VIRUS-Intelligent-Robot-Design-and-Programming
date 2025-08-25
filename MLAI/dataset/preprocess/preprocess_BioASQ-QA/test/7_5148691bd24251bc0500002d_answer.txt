@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- dusp8 (M3/6) is a dual-specificity phosphatase selective for JNK.
+
+EXACT_ANSWER:
+- JNK

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Ankylosing spondylitis (Bechterew's disease) is the most typical form of axial SpA whereby sacroiliitis can be found on X-rays of the SI joints.
+
+EXACT_ANSWER:
+- Ankylosing spondylitis

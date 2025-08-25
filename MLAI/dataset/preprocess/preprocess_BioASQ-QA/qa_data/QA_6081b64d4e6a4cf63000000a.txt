@@ -1,0 +1,7 @@
+QUESTION: What is the function of the HSJ1 proteins?
+
+IDEAL_ANSWER:
+- HSJ1 is a neuronal enriched member of the HSP40/DNAJ co-chaperone family.
+
+EXACT_ANSWER:
+- HSJ1 are chaperones.

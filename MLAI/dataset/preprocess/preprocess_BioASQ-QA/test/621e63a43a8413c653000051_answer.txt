@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- PheneBank is a Web-portal for retrieving human phenotype-disease associations that have been text-mined from the whole of Medline. This approach exploits state-of-the-art machine learning for concept identification by utilising an expert annotated rare disease corpus from the PMC Text Mining subset. Evaluation of the system for entities is conducted on a gold-standard corpus of rare disease sentences and for associations against the Monarch initiative data.
+- PheneBank is a Web-portal for retrieving human phenotype-disease associations that have been text-mined from the whole of Medline.
+
+EXACT_ANSWER:
+- PheneBank

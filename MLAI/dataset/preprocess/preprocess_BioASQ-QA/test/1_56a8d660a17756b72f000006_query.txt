@@ -1,0 +1,4 @@
+What is the link between Nonidet-40 (NP-40) and biotinylation?
+
+[PMID: 23500724]
+We describe here a simple procedure for greatly reducing contamination of nuclear extracts by naturally biotinylated cytoplasmic carboxylases, which represent a major source of non-specific background when employing BirA-mediated biotinylation tagging for the purification and characterization of nuclear protein complexes by mass spectrometry. We show that the use of 0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination of nuclear extracts by carboxylases and to greatly reduce background signals in downstream mass spectrometric analyses.

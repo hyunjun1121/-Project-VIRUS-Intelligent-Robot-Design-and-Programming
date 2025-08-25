@@ -1,0 +1,7 @@
+QUESTION: Which drug should be used as an antidote in benzodiazepine overdose?
+
+IDEAL_ANSWER:
+- Flumazenil should be used in all patients presenting with suspected benzodiazepine overdose. Flumazenil is a  potent benzodiazepine receptor antagonist that competitively blocks the central effects of benzodiazepines and reverses behavioral, neurologic, and electrophysiologic effects of benzodiazepine overdose. Clinical efficacy and safety of flumazenil in treatment of benzodiazepine overdose has been confirmed in a number of rigorous clinical trials. In addition, flumazenil is also useful to to reverse benzodiazepine induced sedation and to and to diagnose benzodiazepine overdose.
+
+EXACT_ANSWER:
+- flumazenil

@@ -1,0 +1,8 @@
+QUESTION: Which molecule is targeted by Daratumumab?
+
+IDEAL_ANSWER:
+- Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma.
+- Daratumumab is a novel, high-affinity, therapeutic human monoclonal antibody against unique CD38 epitope with broad-spectrum killing activity.
+
+EXACT_ANSWER:
+- CD38

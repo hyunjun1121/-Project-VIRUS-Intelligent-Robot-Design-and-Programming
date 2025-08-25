@@ -1,0 +1,7 @@
+QUESTION: In what percentage of skeletal muscle fibers is dystrophin expression restored after PPMO- mediated exon skipping?
+
+IDEAL_ANSWER:
+- PPMO-mediated exon skipping restored the dystrophin expression in nearly 100% skeletal muscle fibers in all age groups.
+
+EXACT_ANSWER:
+- 100%

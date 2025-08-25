@@ -1,0 +1,8 @@
+QUESTION: Which enzyme is inhibited by ribociclib?
+
+IDEAL_ANSWER:
+- Ribociclib is inhibitor of cyclin D-cyclin-dependent kinase 4/6 (CDK 4/6). It is used for breast cancer treatment.
+
+EXACT_ANSWER:
+- cyclin D-cyclin-dependent kinase 4/6
+- CDK4/6

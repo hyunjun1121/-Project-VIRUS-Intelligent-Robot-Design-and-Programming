@@ -1,0 +1,7 @@
+QUESTION: What is the rate of survival after commotio cordis?
+
+IDEAL_ANSWER:
+- Survival rates for commotio cordis are low, even when resuscitation is performed. Survival rates vary between 10% and 28%.
+
+EXACT_ANSWER:
+- 10-28%

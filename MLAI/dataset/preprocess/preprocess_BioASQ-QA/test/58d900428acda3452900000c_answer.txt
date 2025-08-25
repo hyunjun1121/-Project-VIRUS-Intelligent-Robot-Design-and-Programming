@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Barth syndrome (BTHS) has an X-linked recessive pattern of inheritance.
+
+EXACT_ANSWER:
+- X-linked recessive pattern of inheritance

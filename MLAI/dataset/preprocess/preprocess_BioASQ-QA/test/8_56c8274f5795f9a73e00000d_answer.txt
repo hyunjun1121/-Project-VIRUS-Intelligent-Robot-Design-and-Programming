@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder in which motor neurons are affected.
+
+EXACT_ANSWER:
+- Motor neurons

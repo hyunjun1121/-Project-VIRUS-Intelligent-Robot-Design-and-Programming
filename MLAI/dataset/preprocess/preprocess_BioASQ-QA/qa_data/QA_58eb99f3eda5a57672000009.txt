@@ -1,0 +1,9 @@
+QUESTION: Do origins of replication close to yeast centromeres fire early or late?
+
+IDEAL_ANSWER:
+- Epigenetically-inherited centromere and neocentromere DNA replicates earliest in S-phase we discovered that each centromere is associated with a replication origin that is the first to fire on its respective chromosome.
+- In yeast each centromere is associated with a replication origin that is the first to fire on its respective chromosome.
+- Epigenetically-inherited centromere and neocentromere DNA replicates earliest in S-phase we discovered that each centromere is associated with a replication origin that is the first to fire on its respective chromosome. a neocentromere became the first to replicate and became associated with origin recognition complex (ORC) components. 
+
+EXACT_ANSWER:
+- Early

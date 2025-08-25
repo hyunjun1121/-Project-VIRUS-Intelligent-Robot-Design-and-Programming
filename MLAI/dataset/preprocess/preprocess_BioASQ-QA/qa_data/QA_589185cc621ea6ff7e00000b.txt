@@ -1,0 +1,8 @@
+QUESTION: Which disease is treated with Nusinersen?
+
+IDEAL_ANSWER:
+- Nusinersen us used for treatment of Spinal Muscular Atrophy.
+
+EXACT_ANSWER:
+- Spinal Muscular Atrophy
+- SMA

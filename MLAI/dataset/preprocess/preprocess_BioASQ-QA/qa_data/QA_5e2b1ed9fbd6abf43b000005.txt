@@ -1,0 +1,7 @@
+QUESTION: PDQ39 questionnaires is design for which disease?
+
+IDEAL_ANSWER:
+- PDQ39 is Parkinson's Disease Questionnaire that is used for assessment of quality of life in patients with Parkinson's Disease.
+
+EXACT_ANSWER:
+- Parkinson's Disease

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Runt related factor-2
+
+EXACT_ANSWER:
+- Runt related factor-2

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The falciform ligament sign (gas outlining the falciform ligament) is characteristic to pneumoperitoneum due to intestinal perforation.
+
+EXACT_ANSWER:
+- pneumoperitoneum

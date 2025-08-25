@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Clue cells are characteristic to Gardnerella vaginalis vaginitis (bacterial vaginosis). Depopulation of lactobacilli from the normal vaginal flora and overgrowth of Gardnerella vaginalis and other anaerobic species are the presumed etiology. The diagnosis is confirmed when at least three of the following four findings are present (Amsel's criteria): 1) thin, homogenous discharge, 2) pH greater than 4.5, 3) positive amine test, and 4) presence of clue cell.
+
+EXACT_ANSWER:
+- Gardnerella vaginalis

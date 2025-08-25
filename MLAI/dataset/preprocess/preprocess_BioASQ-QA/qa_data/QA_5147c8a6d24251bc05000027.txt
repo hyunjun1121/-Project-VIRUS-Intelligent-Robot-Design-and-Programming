@@ -1,0 +1,7 @@
+QUESTION: Which enzyme is deficient in Krabbe disease?
+
+IDEAL_ANSWER:
+- Galactocerebrosidase is an enzyme that is deficient in Krabbe disease (also known as globoid-cell leukodystrophy). This leads to accumulation of psychosine (galactosylsphingosine) primarily in oligodendrocytes.
+
+EXACT_ANSWER:
+- galactocerebrosidase

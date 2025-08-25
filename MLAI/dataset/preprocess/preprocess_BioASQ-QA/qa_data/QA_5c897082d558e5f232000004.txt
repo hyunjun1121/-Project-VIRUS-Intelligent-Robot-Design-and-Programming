@@ -1,0 +1,7 @@
+QUESTION: What is the price of KYMRIAH treatment in 2019?
+
+IDEAL_ANSWER:
+- Kymriah, produced by Novartis has a price tag of US$475,000.
+
+EXACT_ANSWER:
+- 475,000 USD

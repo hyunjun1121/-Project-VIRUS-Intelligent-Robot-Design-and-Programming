@@ -1,0 +1,7 @@
+QUESTION: Which gene is required for the efficient function of clopidogrel?
+
+IDEAL_ANSWER:
+- The prodrug clopidogrel requires activation by cytochrome P-450 (CYP) enzymes for its antiplatelet effect. Variability in clopidogrel response might be influenced by polymorphisms in genes coding for drug metabolism enzymes (cytochrome P450 CYP2C19), transport proteins (P-glycoprotein) and/or target proteins for the drug (adenosine diphosphate-receptor P2Y12). The CYP2C19 loss-of-function alleles had a gene dose effect on the pharmacodynamics and composite ischemic events of clopidogrel in our study population. Neither the ABCB1 nor the PON1 genotype significantly influenced the antiplatelet effect and clinical outcomes of clopidogrel in these patients
+
+EXACT_ANSWER:
+- cytochrome P450, CYPC19

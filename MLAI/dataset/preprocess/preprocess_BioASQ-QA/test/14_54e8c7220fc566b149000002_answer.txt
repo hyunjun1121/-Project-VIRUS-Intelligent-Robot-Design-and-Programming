@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- S100A4 interacts with p53 in the cell nucleus.
+
+EXACT_ANSWER:
+- nucleus

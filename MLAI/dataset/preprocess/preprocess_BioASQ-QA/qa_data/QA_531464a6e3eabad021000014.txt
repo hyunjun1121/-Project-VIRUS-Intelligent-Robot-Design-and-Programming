@@ -1,0 +1,7 @@
+QUESTION: Mutation of which gene is associated with McLeod syndrome?
+
+IDEAL_ANSWER:
+- Mutation of XK gene  is associated with McLeod syndrome. The XK gene is an X-chromosomal gene. The McLeod phenotype is derived from various forms of XK gene defects that result in the absence of XK protein, and is defined hematologically by the absence of Kx antigen, weakening of Kell system antigens, and red cell acanthocytosis.
+
+EXACT_ANSWER:
+- XK

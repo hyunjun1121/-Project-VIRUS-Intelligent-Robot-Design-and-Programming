@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Azeliragon is an inhibitor of receptor for advanced glycation end products (RAGE).
+
+EXACT_ANSWER:
+- Inhibitory

@@ -1,0 +1,7 @@
+QUESTION: Which protein does empagliflozin inhibit?
+
+IDEAL_ANSWER:
+- Empagliflozin (Jardiance)  is a SGLT2 inhibitor.
+
+EXACT_ANSWER:
+- SGLT2

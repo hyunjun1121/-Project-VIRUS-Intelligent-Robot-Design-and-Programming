@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Eptinezumab is administered intravenously.
+
+EXACT_ANSWER:
+- Intravenously

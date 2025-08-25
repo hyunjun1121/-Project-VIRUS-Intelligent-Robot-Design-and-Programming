@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- CisMapper predicts the regulatory targets of a TF using the correlation between a histone mark at the TF's bound sites and the expression of each gene across a panel of tissues. CisMapper is more accurate at predicting the target genes of a TF than the distance-based approaches currently used, and is particularly advantageous for predicting the long-range regulatory interactions typical of tissue-specific gene expression. CisMapper also predicts which TF binding sites regulate a given gene more accurately than using genomic distance. Unlike distance-based methods, CisMapper can predict which transcription start site of a gene is regulated by a particular binding site of the TF.
+
+EXACT_ANSWER:
+- CisMapper

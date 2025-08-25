@@ -1,0 +1,7 @@
+QUESTION: Is there any genetic determinant of hair pigmentation that could be useful in forensic analyses?
+
+IDEAL_ANSWER:
+- Yes, there are at least 12 genes associated with human hair color variation such as: TYR, TYRP1, OCA2, SLC45A2, SLC24A5, MC1R, ASIP and KITLG.
+
+EXACT_ANSWER:
+- Yes, there are at least 12 genes associated with human hair color variation such as: TYR, TYRP1, OCA2, SLC45A2, SLC24A5, MC1R, ASIP and KITLG.

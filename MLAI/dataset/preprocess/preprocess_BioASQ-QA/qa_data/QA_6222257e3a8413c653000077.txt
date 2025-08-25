@@ -1,0 +1,7 @@
+QUESTION: What are TAMs in cancer therapy?
+
+IDEAL_ANSWER:
+- TAMs are Tumor Associated Macrophages and are important in Cancer therapy.
+
+EXACT_ANSWER:
+- Tumor Associated Macrophages

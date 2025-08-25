@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Development of a novel zolmitriptan intracutaneous microneedle system (Qtrypta™) for the acute treatment of migraine
+- Zolmitriptan is an effective medicine used in the treatment of migraine.
+- zolmitriptan is approved for the treatment of migraine.
+- zolmitriptan is approved for migraine treatment.
+
+EXACT_ANSWER:
+- migraine
+- headache

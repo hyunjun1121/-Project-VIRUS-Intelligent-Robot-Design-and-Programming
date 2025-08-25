@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Variants of the melanocyte-stimulating hormone receptor gene are associated with red hair and fair skin in humans.
+- Red hair is the null phenotype of MC1R.  Loss-of-function mutations at the MC1R are associated with a switch from eumelanin to phaeomelanin production, resulting in a red or yellow coat colour. 
+- Melanocortin-1 receptor (MC1R) gene variants are associated with fair skin and red hair.
+- Variants of the melanocyte-stimulating hormone receptor gene are associated with red hair and fair skin in humans. Individuals with red hair have a predominance of phaeomelain in hair and skin and/or a reduced ability to produce eumelanin, which may explain why they fail to tan and are at risk from UVR.
+
+EXACT_ANSWER:
+- Melanocortin 1 receptor
+- MC1R

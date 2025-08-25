@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- A de novo novel heterozygous predicted deleterious missense variant c.G2873A (p.R958H) in ABCC8 in a child with idiopathic PAH.
+
+EXACT_ANSWER:
+- c.G2873A
+- p.R958H

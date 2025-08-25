@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- DSMNC is a database of somatic mutations in normal cells (http://dsmnc.big.ac.cn/) and provides a comprehensive catalogue of somatic SNVs in single cells from various normal tissues. In the current version, the database collected ∼0.8 million SNVs accumulated in ∼600 single normal cells (579 human cells and 39 mouse cells). The database interface supports the user-friendly capability of browsing and searching the SNVs and their annotation information.
+
+EXACT_ANSWER:
+- DSMNC
+- Database of Somatic Mutations in Normal Cells

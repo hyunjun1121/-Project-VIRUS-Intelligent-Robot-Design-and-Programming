@@ -1,0 +1,7 @@
+QUESTION: Is the long non- coding RNA malat-1 up or downregulated in cancer?
+
+IDEAL_ANSWER:
+- Malat-1 expression is upregulated in several tumor types
+
+EXACT_ANSWER:
+- upregulated

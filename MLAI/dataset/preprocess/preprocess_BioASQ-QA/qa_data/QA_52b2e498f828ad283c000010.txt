@@ -1,0 +1,7 @@
+QUESTION: Mutation of which gene is associated with Achondroplasia?
+
+IDEAL_ANSWER:
+- Achondroplasia is due to mutations in the fibroblast growth factor receptor 3 (FGFR3) gene.
+
+EXACT_ANSWER:
+- fibroblast growth factor receptor 3 (FGFR3)

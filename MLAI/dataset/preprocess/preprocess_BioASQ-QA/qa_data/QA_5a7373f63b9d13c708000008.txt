@@ -1,0 +1,7 @@
+QUESTION: Which disease is treated with Fexinidazole?
+
+IDEAL_ANSWER:
+- Oral fexinidazole is effective for late-stage human african  trypanosomiasis.
+
+EXACT_ANSWER:
+- human african  trypanosomiasis

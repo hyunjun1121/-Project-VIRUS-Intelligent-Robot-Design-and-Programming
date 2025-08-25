@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Mutations in five genes (NIPBL, SMC1A, SMC3, RAD21, and HDAC8), all regulators or structural components of cohesin, have been identified.
+- Approximately 60% of Cornelia de Lange Syndrome (CdLS) cases are due to NIPBL mutations, 5% caused by mutations in SMC1A, RAD21, and HDAC8 and one proband was found to carry a mutation in SMC3. Mutations in five genes (NIPBL, SMC1A, SMC3, RAD21, and HDAC8), all regulators or structural components of cohesin, have been identified.
+- Mutations in five genes (NIPBL, SMC1A, SMC3, RAD21, and HDAC8), all regulators or structural components of cohesin, have been identified. 60% of CdLS cases are due to NIPBL mutations, 5% caused by mutations in SMC1A, RAD21, and HDAC8 and one proband was found to carry a mutation in SMC3.
+
+EXACT_ANSWER:
+- Mutations in genes that are associated with cohesin

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Vaxchora is an oral vaccine.
+
+EXACT_ANSWER:
+- Oral

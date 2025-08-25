@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- A SERM is a Selective Estrogen Receptor Modulator.
+- selective estrogen receptor modulator (SERM),
+- elective estrogen receptor modulator (SERM),
+- elective estrogen receptor modulator (SERM),. 
+
+EXACT_ANSWER:
+- Selective Estrogen Receptor Modulator

@@ -1,0 +1,7 @@
+QUESTION: Which company produces the HercepTest?
+
+IDEAL_ANSWER:
+- DAKO is the company producing the companion diagnostic HercepTest.
+
+EXACT_ANSWER:
+- DAKO

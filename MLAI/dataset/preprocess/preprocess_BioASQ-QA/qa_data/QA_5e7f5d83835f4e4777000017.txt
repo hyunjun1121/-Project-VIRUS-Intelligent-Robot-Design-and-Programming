@@ -1,0 +1,7 @@
+QUESTION: What delivery system is used for the Fluzone Intradermal vaccine?
+
+IDEAL_ANSWER:
+- Fluzone was the first influenza vaccine licensed in the USA that uses a new microinjection system for intradermal delivery of vaccines (Soluvia(tm), Becton Dickinson).
+
+EXACT_ANSWER:
+- Microinjection system for intradermal vaccine delivery

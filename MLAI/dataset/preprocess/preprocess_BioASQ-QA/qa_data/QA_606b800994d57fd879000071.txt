@@ -1,0 +1,8 @@
+QUESTION: What methodology does the FoundationOne CDx test use?
+
+IDEAL_ANSWER:
+- FoundationOne CDx is a next generation sequencing (NGS) based test.
+
+EXACT_ANSWER:
+- next generation sequencing
+- NGS

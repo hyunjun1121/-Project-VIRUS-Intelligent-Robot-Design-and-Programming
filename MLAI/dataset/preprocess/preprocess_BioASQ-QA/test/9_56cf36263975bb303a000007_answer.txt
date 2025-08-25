@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Disruption of ALX1 causes extreme microphthalmia and severe facial clefting: expanding the spectrum of autosomal-recessive ALX-related frontonasal dysplasia.
+
+EXACT_ANSWER:
+- frontonasal dysplasia

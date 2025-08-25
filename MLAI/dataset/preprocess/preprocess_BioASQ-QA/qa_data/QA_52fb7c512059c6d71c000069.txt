@@ -1,0 +1,7 @@
+QUESTION: How much should be the duration of the QT interval in patients with short QT syndrome?
+
+IDEAL_ANSWER:
+- The short-QT syndrome is characterized by QT intervals <300-330 msec
+
+EXACT_ANSWER:
+- below 300-330 msec

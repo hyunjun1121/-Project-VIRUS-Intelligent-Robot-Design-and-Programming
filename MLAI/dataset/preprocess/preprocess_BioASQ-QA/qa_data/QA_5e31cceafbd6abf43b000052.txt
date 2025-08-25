@@ -1,0 +1,11 @@
+QUESTION: What is the chromosomal location of the LDL receptor gene associated with autosomal dominant Familial Hypercholesterolemia?
+
+IDEAL_ANSWER:
+- Familial hypercholesterolemia (FH) is an autosomal dominant inherited metabolic disorder resulting in advanced vascular atherosclerosis and premature death, primarily from coronary artery disease. The primary defect is a mutation in the gene encoding for the plasma LDL receptor located on the short arm of chromosome 19
+- Mutations in the LDLr gene (LDLR), which is located on chromosome 19, cause familial hypercholesterolemia
+- The chromosomal location of the LDL receptor gene associated with autosomal dominant Familial Hypercholesterolemia is chromosome 19q13.3.
+- Familial hypercholesterolemia (FH) is an autosomal dominant inherited metabolic disorder resulting in advanced vascular atherosclerosis and premature death, primarily from coronary artery disease. The primary defect is a mutation in the gene encoding for the plasma LDL receptor located on the short arm of chromosome 19.
+- The primary defect is a mutation in the gene encoding for the plasma LDL receptor located on the short arm of chromosome 19.
+
+EXACT_ANSWER:
+- short arm of chromosome 19

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The human HOXD complex contains nine genes: HOXD1, HOXD3, HOXD4, HOXD8, HOXD9, HOXD10, HOXD11, HOXD12 and HOXD13, which are clustered from 3′ to 5′ in an approximately 100-kb stretch on chromosome 2q31.1 with HOXD1 at the 3' end and HOXD13 the 5′ end.
+
+EXACT_ANSWER:
+- 9

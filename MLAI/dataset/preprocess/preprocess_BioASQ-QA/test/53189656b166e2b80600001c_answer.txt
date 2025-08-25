@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- alpha-Synuclein is a presynaptic protein, which was identified as a specific component of Lewy bodies (LB) and Lewy neurites. Therefore, immunostaining for detecting the presence of Lewy bodies is carried out using antibodies against alpha-synuclein.
+
+EXACT_ANSWER:
+- alpha-Synuclein

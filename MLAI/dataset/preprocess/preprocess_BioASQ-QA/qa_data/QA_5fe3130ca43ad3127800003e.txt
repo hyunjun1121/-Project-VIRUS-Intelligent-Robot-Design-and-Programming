@@ -1,0 +1,11 @@
+QUESTION: Which disease is monitored in the BIOCURA cohort?
+
+IDEAL_ANSWER:
+- Rheumatoid Arthritis (RA) is one of the diseases that is monitored in the BIOCURA cohort. There are other diseases that are monitored as well, such as breast cancer, ovarian cancer, and thyroid cancer.
+- BiOCura cohort is used to monitor rheumatoid arthritis.
+- The BiOCURA registry includes patient with Rheumatoid Arthritis (RA) with the aim of defining their response profile to different RA treatments.
+- BiOCura cohort is used for clinical monitoring of rheumatoid arthritis.
+
+EXACT_ANSWER:
+- Rheumatoid Arthritis
+- RA

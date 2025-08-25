@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Salzburg EEG criteria are used to diagnose Nonconvulsive Status Epilepticus.
+
+EXACT_ANSWER:
+- Nonconvulsive Status Epilepticus

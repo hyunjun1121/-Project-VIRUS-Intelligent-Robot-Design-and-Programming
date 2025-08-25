@@ -1,0 +1,7 @@
+QUESTION: Which disease category is LB-100 mostly assessed for?
+
+IDEAL_ANSWER:
+- LB-100 is designed to sensitize cancer cells to DNA damage from irradiation and chemotherapy. It is assessed for its therapeutic potential against cancer.
+
+EXACT_ANSWER:
+- Cancer

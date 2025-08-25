@@ -1,0 +1,7 @@
+QUESTION: What is another name for the drug AMG334?
+
+IDEAL_ANSWER:
+- AMG334 is also called erenumab.
+
+EXACT_ANSWER:
+- Erenumab

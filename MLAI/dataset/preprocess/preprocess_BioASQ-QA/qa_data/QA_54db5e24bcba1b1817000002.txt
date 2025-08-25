@@ -1,0 +1,8 @@
+QUESTION: What is the disorder in which mutations in U4atac snRNA are detected?
+
+IDEAL_ANSWER:
+- Mutations in U4atac snRNA are thought to be the cause of Microcephalic Osteodysplastic Primordial Dwarfism type I (MOPDI), a recessive form of developmental disorder.
+- Biallelic mutations of the human RNU4ATAC gene, which codes for the minor spliceosomal U4atac snRNA, cause the developmental disorder, MOPD I/TALS  
+
+EXACT_ANSWER:
+- Microcephalic osteodysplastic primordial dwarfism type I (MOPDI)

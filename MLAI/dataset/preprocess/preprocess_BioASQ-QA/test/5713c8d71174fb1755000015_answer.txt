@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Charcot-Marie-Tooth (CMT) 4D disease is a severe autosomal recessive demyelinating neuropathy with extensive axonal loss leading to early disability, caused by mutations in the N-myc downstream regulated gene 1 (NDRG1).
+- CMT4D disease is a severe autosomal recessive demyelinating neuropathy with extensive axonal loss leading to early disability, caused by mutations in the N-myc downstream regulated gene 1 (NDRG1)
+
+EXACT_ANSWER:
+- Charcot-Marie-Tooth (CMT) 4D disease

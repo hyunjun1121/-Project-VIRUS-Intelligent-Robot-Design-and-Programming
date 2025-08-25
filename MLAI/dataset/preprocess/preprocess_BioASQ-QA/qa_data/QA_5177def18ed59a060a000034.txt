@@ -1,0 +1,7 @@
+QUESTION: Which is the molecular mechanism underlying K-ras alterations in carcinomas?
+
+IDEAL_ANSWER:
+- Activating point mutations most frequently in codon 12
+
+EXACT_ANSWER:
+- Point mutations

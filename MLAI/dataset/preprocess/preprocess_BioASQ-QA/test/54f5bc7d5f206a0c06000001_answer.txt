@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation.
+
+EXACT_ANSWER:
+- Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation.

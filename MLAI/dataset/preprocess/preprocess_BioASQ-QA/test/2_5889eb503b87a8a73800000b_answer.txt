@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Mice lacking sister chromatid cohesion protein Pds5b exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome.
+- Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome. 
+- Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome.
+- Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome
+- mice lacking sister chromatid cohesion protein pds5b exhibit developmental abnormalities reminiscent of cornelia de lange syndrome.
+
+EXACT_ANSWER:
+- Cornelia de Lange syndrome.

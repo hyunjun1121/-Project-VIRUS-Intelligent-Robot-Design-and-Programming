@@ -1,0 +1,7 @@
+QUESTION: Galassi classification is used for which disorder?
+
+IDEAL_ANSWER:
+- Galassi classification system is used to classify arachnoid cysts.
+
+EXACT_ANSWER:
+- arachnoid cyst

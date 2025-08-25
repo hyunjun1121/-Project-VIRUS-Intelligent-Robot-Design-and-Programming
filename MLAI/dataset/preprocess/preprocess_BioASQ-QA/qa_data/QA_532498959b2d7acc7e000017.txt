@@ -1,0 +1,7 @@
+QUESTION: Which enzyme is targeted by the drug Imetelstat?
+
+IDEAL_ANSWER:
+- Imetelstat sodium (GRN163L), is a 13-mer oligonucleotide N3'→P5' thio-phosphoramidate lipid conjugate, which represents the latest generation of telomerase inhibitors targeting the template region of the human functional telomerase RNA subunit. In preclinical trials, this compound has been found to inhibit telomerase activity in multiple cancer cell lines, as well as in vivo xenograft mouse models.
+
+EXACT_ANSWER:
+- Human Telomerase

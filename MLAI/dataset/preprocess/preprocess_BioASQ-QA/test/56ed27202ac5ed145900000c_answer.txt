@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- In the rat brain, lamin A and C are expressed in relatively equal amounts, while the expressions of lamin B1 and B2 vary depending on the cell type. Human cells with reduced expression of the major B-type lamin protein, lamin B1, were generated using RNA interference. In addition, horizontal cells and a subpopulation of retinal ganglion cells expressed lamin A and C, while photoreceptor cells expressed neither lamin A nor C, and all other retinal neurons expressed lamin C only. Parallel in vivo experiments showed that treatment with thioglycollate caused the percentage of lamin A/C-positive peritoneal macrophages to increase from 5 to 80% between Days 0 and 6.
+- Early embryonic cells and stem cells of mammals generally possess only lamin B while lamins A and C appear later during differentiation. Northern analysis and immunoblotting demonstrated that lamin A/C mRNA and protein were not detectable in some human cell lines whereas lamin B1 was always present. Hemopoietic cells from blood and bone marrow of mammals usually do not express lamins A/C but only lamin B, and this feature distinguishes these cells from the vast majority of somatic cells of the adult animal, which reveal lamins A/C as well as lamin B.
+
+EXACT_ANSWER:
+- late differentiating primary cells

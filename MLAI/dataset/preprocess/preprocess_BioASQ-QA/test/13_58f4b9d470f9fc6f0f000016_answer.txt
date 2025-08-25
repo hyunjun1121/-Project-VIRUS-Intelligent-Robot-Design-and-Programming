@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Francisella tularensis, the agent of tularemia, is a Gram-negative coccobacillus primarily pathogen for animals and occasionally for humans. F. tularensis is the causative agent of zoonotic tularemia. 
+- Francisella tularensis, the agent of tularemia, is a Gram-negative coccobacillus primarily pathogen for animals and occasionally for humans.
+- Francisella tularensis, the agent of tularemia, is a Gram-negative coccobacillus primarily pathogen for animals and occasionally for humans. 
+- francisella tularensis, the agent of tularemia, is a gram-negative coccobacillus primarily pathogen for animals and occasionally for humans.
+
+EXACT_ANSWER:
+- Francisella tularensis

@@ -1,0 +1,20 @@
+QUESTION: What percentage of C. elegans genes reside in operons?
+
+IDEAL_ANSWER:
+- Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter. Our evidence indicates that the genome contains at least 1,000 operons, 2 8 genes long, that contain about 15% of all C. elegans genes.
+- Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter.
+- Approximately 15% of the genes in C. elegans are operons.
+- Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter. Both methods indicate that the pre-mRNAs of about 70% of Caenorhabditis elegans  genes are trans-spliced and as many as a quarter are transcribed in these operons.
+- about 15% of genes in Caenorhabditis elegans, a model organism belonging to Nematoda, reside in operons (Blumenthal et al. 2002; Blumenthal and Gleason 2003). For two reasons, nematode and prokaryotic operons are believed to have separate origins.
+- Our evidence indicates that the genome contains at least 1,000 operons, 2 8 genes long, that contain about 15% of all C. elegans genes. Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter.
+- Our data indicate that 15% of the genes in C. elegans reside in operons.
+- Approximately 15% of the genes in C. elegans are located in operons, of which at least 15% are known to date.
+- Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter. Our evidence indicates that the genome contains at least 1,000 operons, 2 8 genes long, that contain about 15% of all C. elegans genes. Because operons account for about 15% of the genes in C. elegans, this lower duplication frequency might place a large constraint on the plasticity of the genome.
+- Nearly 15% of the ~20,000 C. elegans genes are contained in operons, multigene clusters controlled by a single promoter. Because operons account for about 15% of the genes in C. elegans, this lower duplication frequency might place a large constraint on the plasticity of the genome.
+- Our evidence indicates that the genome contains at least 1,000 operons, 2 8 genes long, that contain about 15% of all C. elegans genes. Because operons account for about 15% of the genes in C. elegans, this lower duplication frequency might place a large constraint on the plasticity of the genome.
+- Approximately 15% of the genes in C. elegans are located in operons.
+- About 15% of all C. elegans genes reside in operons.  URL_0   > Nearly 15 percent of the ~20,000 C. Elegans genes are contained in operon, multigene clusters controlled by a single promoter.
+- Evidence indicates that the genome of C. elegans contains at least 1,000 operons, 2 8 genes long, that contain about 15% of all C. elegans genes.
+
+EXACT_ANSWER:
+- 15%

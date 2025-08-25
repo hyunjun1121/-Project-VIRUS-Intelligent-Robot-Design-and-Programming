@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Mutations in the VPS4A gene, which encodes the alpha-subunit of the lysosomal sorting enzyme, beta-N-acetylhexosaminidase 4, are the cause of multisystem disease type 4 or Ferroportin disease.
+- De novo mutations in the gene encoding for endosomal sorting enzyme VPS4A (Val4A) cause multisystem disease
+- De νovo VPS4A mutations cause multisystem disease with abnormal neurodevelopment.
+
+EXACT_ANSWER:
+- Multisystem disease with abnormal neurodevelopment

@@ -1,0 +1,9 @@
+QUESTION: What is the main symptom of Marfan syndrome patients?
+
+IDEAL_ANSWER:
+- The diagnosis and surgical treatment of patients with Marfan syndrome remain controversial. Pathohistological alterations of the aorta in patients with Marfan syndrome consisted in pronounced restructuring of the wall with deep irreversible alternative changes. The risk of aortic dissection, which is the most serious manifestation of the Marfan syndrome, increases as the aorta enlarges. Surgical replacement of the aortic root with a composite graft does not end the disease process.
+- Marfan syndrome is a multisystemic connective tissue disorder caused mainly by mutations in the fibrillin-1 gene. The entire cardiovascular system is affected in patients with Marfan syndrome. Aortic root dilatation, which may involve the proximal and distal aorta,  mitral valve prolapse, and mitral regurgitation, aortic valve regurgitation or - the most feared and life-threatening symptom - aortic root dissection are the most common manifestations.
+- The diagnosis and surgical treatment of patients with Marfan syndrome remain controversial. It is of utmost importance to identify patients at risk for acute aortic events to establish the correct surgical timing and the appropriate surgical treatment
+
+EXACT_ANSWER:
+- aortic root dissection

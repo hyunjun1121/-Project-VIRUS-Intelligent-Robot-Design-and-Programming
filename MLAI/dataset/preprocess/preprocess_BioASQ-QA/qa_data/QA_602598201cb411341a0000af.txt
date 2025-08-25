@@ -1,0 +1,7 @@
+QUESTION: What does bDMARD stand for?
+
+IDEAL_ANSWER:
+- bDMARDs are biologic disease-modifying antirheumatic drugs.
+
+EXACT_ANSWER:
+- biologic disease-modifying antirheumatic drugs

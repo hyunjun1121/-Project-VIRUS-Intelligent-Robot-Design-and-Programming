@@ -1,0 +1,7 @@
+QUESTION: How many tissue kallikrein genes are present in the human genome?
+
+IDEAL_ANSWER:
+- Tissue kallikreins (KLKs) are a group of closely related serine proteinases that are represented by multigene families in the human genome. The human tissue kallikrein gene family consists of 15 genes, denoted KLK1–KLK15, tandemly arranged on chromosomal locus 19q13.4.
+
+EXACT_ANSWER:
+- 15

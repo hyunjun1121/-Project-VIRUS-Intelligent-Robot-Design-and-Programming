@@ -1,0 +1,7 @@
+QUESTION: What disease is also known as Bechterew's Disease?
+
+IDEAL_ANSWER:
+- Ankylosing spondylitis (Bechterew's disease) is the most typical form of axial SpA whereby sacroiliitis can be found on X-rays of the SI joints.
+
+EXACT_ANSWER:
+- Ankylosing spondylitis

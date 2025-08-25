@@ -1,0 +1,7 @@
+QUESTION: Which tool has been developed for proteome-wide detection of membrane lipid-binding proteins?
+
+IDEAL_ANSWER:
+- MBPpred is a profile Hidden Markov Model based method capable of detecting Membrane Binding Proteins (MBPs) from information encoded in their amino acid sequence.
+
+EXACT_ANSWER:
+- MBPpred

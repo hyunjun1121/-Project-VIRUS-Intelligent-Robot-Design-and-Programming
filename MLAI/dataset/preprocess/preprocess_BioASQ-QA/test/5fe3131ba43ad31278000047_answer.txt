@@ -1,0 +1,14 @@
+IDEAL_ANSWER:
+- Analogously to mRNAs, the non-protein-encoding enhancer RNAs are synthesized by RNA Pol II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail.
+- Enhancers are bound by sequence-specific transcription factors, which in turn facilitate the cooperative binding of chromatin remodeling enzymes, histone modifying enzymes, other co-factors, and ultimately the RNA polymerase II complex (RNA pol II). Both the target genes and the enhancers are transcribed by RNA pol II.
+- Analogously to mRNAs, the non-protein-encoding enhancer RNAs are synthesized by RNA Pol II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail. Recent evidence indicates that miRNA genes are transcribed by RNA polymerase II (Pol II)
+- Enhancer RNAs (eRNAs) are a group of lncRNAs transcribed from enhancers by RNA Polymerase II.
+- Analogously to mRNAs, the non-protein-encoding enhancers are synthesized by RNA polymerase II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail. Recent evidence indicates that miRNA genes are transcribed by RNA Pol II (Pol II)
+- Because the transcripts of most enhancer genes are the products of type-II RNA polymerase, enhancer RNA Pol II (Pol II) has a poly(A) tail and appears in expressed sequence tags (EST). Analogously to mRNAs, the non-protein-encoding enhancer RNAs (ncRNAs) are synthesized by RNAPol II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tails.
+- Because the transcripts of most enhancers are the products of type-II RNA polymerase, enhancer RNA Pol II (Pol II) has a poly(A) tail and appears in expressed sequence tags (EST). Analogously to mRNAs, the non-protein-encoding enhancer RNAs are synthesized by RNAPol II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly ( A) tail.
+- The enhancer produced an eRNA, termed AS1eRNA, that enhanced DHRS4-AS1 transcription by mediating the spatial interactions of the enhancer and DHRS4-AS1 promoter in cooperation with RNA polymerase II and p300/CBP.
+
+EXACT_ANSWER:
+- RNA polymerase II
+- RNA polII
+- RNAPII

@@ -1,0 +1,33 @@
+# Core AI and Audio Processing
+openai
+python-dotenv
+elevenlabs
+
+# Audio Processing
+numpy
+sounddevice
+soundfile
+pygame
+
+# Computer Vision (for client_vlm_parallel_alt.py)
+opencv-python
+requests
+
+# Bluetooth Communication (for pi_exercise.py -> bt.py)
+# pybluez  # Windows installation issues - use alternative methods
+# Alternative for Windows: bleak (cross-platform) or pywin32
+
+# Data Processing and Utilities
+tqdm
+
+# Platform-specific Bluetooth alternatives (choose one):
+# bleak                    # Cross-platform BLE (recommended)
+# pywin32; sys_platform == "win32"  # Windows-specific
+
+# Optional: Additional computer vision libraries
+# pillow
+# face-recognition
+# deepface
+
+# Development Tools (optional)
+# keyboard

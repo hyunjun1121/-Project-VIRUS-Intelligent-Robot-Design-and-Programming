@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Mutations in LYST, a gene encoding a putative lysosomal trafficking protein, cause Chédiak-Higashi syndrome (CHS), an autosomal recessive disorder typically characterized by infantile-onset hemophagocytic syndrome and immunodeficiency, and oculocutaneous albinism. A small number of reports of rare, attenuated forms of CHS exist, with affected individuals exhibiting progressive neurodegenerative disease beginning in early adulthood with cognitive decline, parkinsonism, features of spinocerebellar degeneration, and peripheral neuropathy, as well as subtle pigmentary abnormalities and subclinical or absent immune dysfunction.
+
+EXACT_ANSWER:
+- Chediak-Higashi syndrome

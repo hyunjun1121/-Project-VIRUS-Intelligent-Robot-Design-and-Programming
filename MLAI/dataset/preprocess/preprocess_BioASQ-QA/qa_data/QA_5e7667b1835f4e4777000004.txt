@@ -1,0 +1,7 @@
+QUESTION: What was the predominant rotavirus genotype in the pre-vaccine era, in Australia?
+
+IDEAL_ANSWER:
+- G1P[8] was the dominant genotype in Australia in the prevaccine era (1995-2006).
+
+EXACT_ANSWER:
+- G1P[8]

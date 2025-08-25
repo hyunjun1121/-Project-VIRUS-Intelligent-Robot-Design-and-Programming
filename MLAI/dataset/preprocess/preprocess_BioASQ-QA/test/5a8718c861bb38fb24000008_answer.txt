@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Immune checkpoint blocking monoclonal antibodies are heralded as a promising therapeutic approach in clinical oncology. These mAbs do not directly attack the malignant cells as most anticancer mAbs; rather, they enhance the anti-tumor response of the immune system by targeting immune regulatory pathways.
+
+EXACT_ANSWER:
+- monoclonal antibody drugs that regulate the immune response to cancer

@@ -1,0 +1,7 @@
+QUESTION: What is AZD0530 an inhibitor of?
+
+IDEAL_ANSWER:
+- AZD0530 is a highly selective, dual Src/Abl kinase inhibitor.
+
+EXACT_ANSWER:
+- dual Src/Abl kinase

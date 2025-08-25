@@ -1,0 +1,7 @@
+QUESTION: What is amphiregulin a ligand of?
+
+IDEAL_ANSWER:
+- Amphiregulin (AREG) is an epidermal growth factor receptor (EGFR) ligand.
+
+EXACT_ANSWER:
+- epidermal growth factor receptor

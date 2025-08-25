@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Tofersen is an antisense oligonucleotide that mediates the degradation of superoxide dismutase 1 (SOD1) messenger RNA to reduce SOD1 protein synthesis is being studied for the treatment of amyotrophic lateral sclerosis due to SOD1 mutations.
+
+EXACT_ANSWER:
+- amyotrophic lateral sclerosis

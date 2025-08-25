@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The magnesium transporter 1 (MAGT1) is a critical regulator of basal intracellular free magnesium ([Mg2+]i) levels.
+
+EXACT_ANSWER:
+- Magnesium transporter

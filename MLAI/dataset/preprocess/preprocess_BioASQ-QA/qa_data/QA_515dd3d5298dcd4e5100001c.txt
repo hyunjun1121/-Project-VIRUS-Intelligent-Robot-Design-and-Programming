@@ -1,0 +1,8 @@
+QUESTION: In what proportion of children with heart failure has Enalapril been shown to be safe and effective?
+
+IDEAL_ANSWER:
+- In children with heart failure evidence of the effect of enalapril is empirical. Enalapril was clinically safe and effective in 50% to 80% of for children with cardiac failure secondary to congenital heart malformations before and after cardiac surgery,  impaired ventricular function , valvar regurgitation,  congestive cardiomyopathy,  , arterial hypertension, life-threatening arrhythmias coexisting with circulatory insufficiency.   
+ACE inhibitors have shown a transient beneficial effect on heart failure due to anticancer drugs and possibly a beneficial effect in muscular dystrophy-associated cardiomyopathy, which deserves further studies.
+
+EXACT_ANSWER:
+- 50% to 80%

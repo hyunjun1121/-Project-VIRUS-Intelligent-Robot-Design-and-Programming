@@ -1,0 +1,7 @@
+QUESTION: What is the function of LOX proteins in the ECM?
+
+IDEAL_ANSWER:
+- Lysyl oxidases (LOX) are copper-dependent enzymes that oxidize primary amine substrates to reactive aldehydes. The best-studied role of LOX enzymes is the remodeling of the extracellular matrix (ECM) in animals by cross-linking collagens and elastin
+
+EXACT_ANSWER:
+- The best-studied role of LOX enzymes is the remodeling of the extracellular matrix (ECM) in animals by cross-linking collagens and elastin.

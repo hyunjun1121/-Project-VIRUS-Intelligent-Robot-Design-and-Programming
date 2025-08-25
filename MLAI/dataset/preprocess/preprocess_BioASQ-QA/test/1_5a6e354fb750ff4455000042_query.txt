@@ -1,0 +1,4 @@
+Which R/bioconductor package has been developed to aid in epigenomic analysis?
+
+[PMID: 28334349]
+While large amounts of epigenomic data are publicly available, their retrieval in a form suitable for downstream analysis is a bottleneck in current research. The DeepBlue Epigenomic Data Server provides a powerful interface and API for filtering, transforming, aggregating and downloading data from several epigenomic consortia. To make public epigenomic data conveniently available for analysis in R, we developed an R/Bioconductor package that connects to the DeepBlue Epigenomic Data Server, enabling users to quickly gather and transform epigenomic data from selected experiments for analysis in the Bioconductor ecosystem. http://deepblue.mpi-inf.mpg.de/R . R 3.3, Bioconductor 3.4. felipe.albrecht@mpi-inf.mpg.de or markus.list@mpi-inf.mpg.de. Supplementary data are available at Bioinformatics online.

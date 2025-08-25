@@ -1,0 +1,4 @@
+Which Lisp framework has been developed for image processing?
+
+[PMID: 29106446]
+FunImageJ is a Lisp framework for scientific image processing built upon the ImageJ software ecosystem. The framework provides a natural functional-style for programming, while accounting for the performance requirements necessary in big data processing commonly encountered in biological image analysis. Freely available plugin to Fiji (http://fiji.sc/#download). Installation and use instructions available at http://imagej.net/FunImageJ. kharrington@uidaho.edu. Supplementary data are available at Bioinformatics online.

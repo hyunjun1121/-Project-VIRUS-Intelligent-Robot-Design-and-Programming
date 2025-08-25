@@ -1,0 +1,8 @@
+QUESTION: Which complex is bound by estrogen-related receptor β (Esrrb)?
+
+IDEAL_ANSWER:
+- Co-motif discovery identifies an Esrrb-Sox2-DNA ternary complex as a mediator of transcriptional differences between mouse embryonic and epiblast stem cells.
+- Knockdown of Mp1 redirected FGF4 signaling from differentiation toward pluripotency and up-regulated the pluripotency-related genes Esrrb, Rex1, Tcl1, and Sox2. Dax1 associates with Esrrb and regulates its function in embryonic stem cells. Here, we identified an orphan nuclear receptor, Esrrb (estrogen-related receptor beta), as a Dax1-interacting protein.
+
+EXACT_ANSWER:
+- The Esrrb-Sox2 complex

@@ -1,0 +1,8 @@
+QUESTION: What was the purpose of the FANTOM3 project?
+
+IDEAL_ANSWER:
+-  The FANTOM3 annotation system, consisting of automated computational prediction, manual curation, and final expert curation, facilitated the comprehensive characterization of the mouse transcriptome, and could be applied to the transcriptomes of other species
+- Functional Annotation Of Mouse 3 (FANTOM3), an international collaboration research project focusing on expanding the transcriptome and subsequent analyses. The FANTOM3 annotation system, consisting of automated computational prediction, manual curation, and final expert curation, facilitated the comprehensive characterization of the mouse transcriptome, and could be applied to the transcriptomes of other species.
+
+EXACT_ANSWER:
+- The comprehensive characterization of the mouse transcriptome.

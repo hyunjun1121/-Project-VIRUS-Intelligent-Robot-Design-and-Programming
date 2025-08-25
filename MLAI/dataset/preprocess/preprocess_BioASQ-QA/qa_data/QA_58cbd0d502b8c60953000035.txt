@@ -1,0 +1,8 @@
+QUESTION: Which mutated gene causes the Chédiak–Higashi Syndrome?
+
+IDEAL_ANSWER:
+- Mutation in the lysosomal trafficking regulator (LYST) gene causes the Chédiak-Higashi syndrome (CHS).
+
+EXACT_ANSWER:
+- lysosomal trafficking regulator gene
+- LYST gene

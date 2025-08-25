@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- The possibility that SFTSV transmission may occur by both the transstadial and transovarial routes was suggested by the fact that viral RNA was detected in Haemaphysalis longicornis at all developmental stages. Tick-derived sequences shared over 95.6% identity with human- and animal-derived isolates. This study provides evidence that implicates ticks as not only vectors but also, reservoirs of SFTSV.
+- Seroprevalence in animal species were: goats (66.8%), cattle (28.2%), dogs (7.4%), pigs (4.7%), chickens (1.2%), geese (1.7%), rodents (4.4%) and hedgehogs (2.7%). The possibility that SFTSV transmission may occur by both the transstadial and transovarial routes was suggested by the fact that viral RNA was detected in H. longicornis at all developmental stages. Tick-derived sequences shared over 95.6% identity with human- and animal-derived isolates.
+- The possibility that SFTSV transmission may occur by both the transstadial and transovarial routes was suggested by the fact that viral RNA was detected in H. longicornis at all developmental stages. Severe fever with thrombocytopenia syndrome (SFTS) is a new emerging zoonosis.
+
+EXACT_ANSWER:
+- Haemaphysalis longicornis

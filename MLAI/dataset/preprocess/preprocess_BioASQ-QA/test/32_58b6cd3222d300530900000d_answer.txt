@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The ApoE4 isoform is associated with increased frequency of atherosclerosis and Alzheimer's disease (AD).
+
+EXACT_ANSWER:
+- ApoE4 isoform
+- Apolipoprotein E4 isoform

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- In up to two thirds of breast cancer patients associated with Li-Fraumeni syndrome, the HER-2 status was found to be positive.
+
+EXACT_ANSWER:
+- Positive

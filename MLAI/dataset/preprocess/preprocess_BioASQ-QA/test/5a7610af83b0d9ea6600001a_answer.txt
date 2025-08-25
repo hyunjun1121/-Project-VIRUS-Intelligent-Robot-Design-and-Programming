@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Decernotinib (VX-509) is a potent and selective inhibitor of janus kinase 3 (JAK3).
+
+EXACT_ANSWER:
+- Janus kinase 3 (JAK3)

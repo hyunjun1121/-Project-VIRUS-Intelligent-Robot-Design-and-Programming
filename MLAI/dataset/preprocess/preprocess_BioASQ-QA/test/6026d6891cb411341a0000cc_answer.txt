@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- MK-1602 has been assessed in clinical trials for the acute treatment of migraine.
+
+EXACT_ANSWER:
+- acute treatment of migraine

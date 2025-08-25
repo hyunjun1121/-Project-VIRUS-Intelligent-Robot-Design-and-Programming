@@ -1,0 +1,11 @@
+QUESTION: What is Aortitis?
+
+IDEAL_ANSWER:
+- Aortitis is the inflammation of the aorta due to various causes, such as the manifestation of an underlying infectious or noninfectious disease process.
+- Aortitis is an inflammation of the aorta due to various causes. It can be a symptom of an underlying infectious or non-infectious disease process.
+- Aortitis is inflammation of the aorta due to various causes. It can be caused by an underlying infectious or non-infectious disease process.
+- Aortitis is the inflammation of the aorta due to various causes. Aortitis is classified as non-infectious or infectious.
+- Aortitis includes conditions with infectious or non-infectious etiology, characterized by inflammatory changes in one or more layers in aortic wall.
+
+EXACT_ANSWER:
+- inflammation of the aorta

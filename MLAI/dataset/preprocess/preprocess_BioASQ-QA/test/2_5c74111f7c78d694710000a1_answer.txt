@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- A novel abundant NF-κB-binding site resides in specialized Alu-repetitive elements having the potential for long range transcription regulation, thus suggesting that in addition to its known role, NF-κB has a primate-specific function and a role in human evolution.
+- Remarkably, we identified a novel abundant NF-κB-binding site residing in specialized Alu-repetitive elements having the potential for long range transcription regulation, thus suggesting that in addition to its known role, NF-κB has a primate-specific function and a role in human evolution.
+- Remarkably, we identified a novel abundant NF-κB-binding site residing in specialized Alu-repetitive elements having the potential for long range transcription regulation, thus suggesting that in addition to its known role, NF-κB has a primate-specific function and a role in human evolution. A de novo motif enrichment analysis uncovers secondary TFBSs (AP1, SP1) at characteristic distances from NF-κB/RelA TFBSs.
+
+EXACT_ANSWER:
+- The NF-κB-binding site

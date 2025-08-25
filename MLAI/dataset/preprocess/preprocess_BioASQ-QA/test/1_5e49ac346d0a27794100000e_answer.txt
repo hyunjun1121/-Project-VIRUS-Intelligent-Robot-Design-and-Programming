@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- PF-05190457 is the first oral ghrelin receptor inverse agonist to be profiled in healthy subjects.
+
+EXACT_ANSWER:
+- PF-05190457

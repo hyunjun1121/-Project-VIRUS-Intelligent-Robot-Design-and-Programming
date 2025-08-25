@@ -1,0 +1,7 @@
+QUESTION: What is the effect of thapsigargin treatment?
+
+IDEAL_ANSWER:
+- Thapsigargin is an endoplasmic stress inducer. 	It is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor.
+
+EXACT_ANSWER:
+- Thapsigargin is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor.

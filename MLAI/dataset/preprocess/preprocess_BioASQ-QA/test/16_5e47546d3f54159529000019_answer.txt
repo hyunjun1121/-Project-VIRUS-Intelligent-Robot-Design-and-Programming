@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Rachmilewitz Index is used for assessment of endoscopic disease activity of patients with ulcerative colitis.
+
+EXACT_ANSWER:
+- ulcerative colitis

@@ -1,0 +1,7 @@
+QUESTION: Which enzyme is inhibited by Imetelstat?
+
+IDEAL_ANSWER:
+- Imetelstat works by inhibiting telomerase.
+
+EXACT_ANSWER:
+- telomerase

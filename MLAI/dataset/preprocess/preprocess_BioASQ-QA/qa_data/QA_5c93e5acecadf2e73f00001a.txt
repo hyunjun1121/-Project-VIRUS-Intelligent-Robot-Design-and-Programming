@@ -1,0 +1,7 @@
+QUESTION: What is MOV10?
+
+IDEAL_ANSWER:
+- MOV10 is an RNA helicase
+
+EXACT_ANSWER:
+- RNA helicase

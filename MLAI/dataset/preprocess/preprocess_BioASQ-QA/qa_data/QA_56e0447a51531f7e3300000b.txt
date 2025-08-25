@@ -1,0 +1,8 @@
+QUESTION: Which are the smallest known subviral pathogens of plants?
+
+IDEAL_ANSWER:
+- Contrary to earlier beliefs, viruses are not the smallest causative agents of infectious diseases. Single-stranded RNAs as small as 246 nucleotides exist in certain higher plants and cause more than a dozen crop diseases. These RNAs have been termed viroids. Viroids are plant subviral pathogens whose genomes are constituted by a single-stranded and covalently closed small RNA molecule that does not encode for any protein.
+- Since the discovery of non-coding, small, highly structured, satellite RNAs (satRNAs) and viroids as subviral pathogens of plants , have been of great interest to molecular biologists as possible living fossils of pre-cellular evolution in an RNA world.
+
+EXACT_ANSWER:
+- Viroids

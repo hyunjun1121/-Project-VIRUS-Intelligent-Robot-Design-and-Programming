@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- High doses of potassium iodide are effective to block radioiodine thyroid uptake and to prevent development of thyroid cancer years later.
+
+EXACT_ANSWER:
+- High doses of potassium iodide are effective to block radioiodine thyroid uptake and to prevent development of thyroid cancer years later.

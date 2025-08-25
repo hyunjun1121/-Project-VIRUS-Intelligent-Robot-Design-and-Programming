@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Hirschsprung disease (HSCR, aganglionic megacolon) is a common congenital malformation leading to bowel obstruction, with an incidence of 1/5,000 live births. It is characterized by the absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal tract.  
+- The medical condition characterized by the congenital absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal tract is called aganlionic megacolon or Hirschsprung disease.
+- Hirschsprung disease (HSCR) is a congenital disorder associated with the absence of intrinsic ganglion cells in the distal gastrointestinal tract.This severe congenital condition is caused by the absence of colonic neural ganglia and thus lack of intrinsic innervation of the colon due in turn to improper colonization of the developing intestines by ENS progenitor cells.
+- Hirschsprungs disease (HSCR), also known as aganglionic megacolon, derives from a congenital malformation of the enteric nervous system (ENS). This severe congenital condition is caused by the absence of colonic neural ganglia and thus lack of intrinsic innervation of the colon due in turn to improper colonization of the developing intestines by ENS progenitor cells.
+
+EXACT_ANSWER:
+- Aganlionic megacolon or Hirschsprung disease

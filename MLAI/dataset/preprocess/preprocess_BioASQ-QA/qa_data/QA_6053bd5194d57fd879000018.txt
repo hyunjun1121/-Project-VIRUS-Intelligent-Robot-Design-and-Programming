@@ -1,0 +1,7 @@
+QUESTION: Is fingolimod a drug or a pro-drug?
+
+IDEAL_ANSWER:
+- FTY720 is a prodrug.
+
+EXACT_ANSWER:
+- prodrug

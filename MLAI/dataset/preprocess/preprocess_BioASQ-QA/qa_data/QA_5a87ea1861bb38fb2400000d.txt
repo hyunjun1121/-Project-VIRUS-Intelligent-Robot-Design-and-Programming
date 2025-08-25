@@ -1,0 +1,7 @@
+QUESTION: What is a coligo?
+
+IDEAL_ANSWER:
+- Coligos are circularized oligodeoxynucleotides
+
+EXACT_ANSWER:
+- circularized oligodeoxynucleotides

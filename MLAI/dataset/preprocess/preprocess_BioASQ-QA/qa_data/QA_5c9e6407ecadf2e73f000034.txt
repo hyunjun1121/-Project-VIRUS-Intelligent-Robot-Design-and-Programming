@@ -1,0 +1,7 @@
+QUESTION: Where is the protein protamine 2 expressed?
+
+IDEAL_ANSWER:
+- Human sperm express two types of protamine: protamine 1 (P1) and the family of protamine 2 (P2) proteins.
+
+EXACT_ANSWER:
+- sperm cells

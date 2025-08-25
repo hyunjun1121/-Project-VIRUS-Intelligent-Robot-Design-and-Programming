@@ -1,0 +1,7 @@
+QUESTION: Which drug can be reversed with idarucizumab?
+
+IDEAL_ANSWER:
+- Idarucizumab is an antibody fragment that specifically reverses dabigatran mediated anticoagulation.
+
+EXACT_ANSWER:
+- dabigatran

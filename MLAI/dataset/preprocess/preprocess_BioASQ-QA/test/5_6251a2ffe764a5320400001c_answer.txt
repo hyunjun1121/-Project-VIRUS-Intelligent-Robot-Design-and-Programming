@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- SLC26A5 transporter prestin is fundamental for the higher hearing sensitivity and frequency selectivity of mammals. Prestin is a voltage-dependent transporter found in the cochlear outer hair cells responsible for their electromotility.
+
+EXACT_ANSWER:
+- voltage-dependent transporter

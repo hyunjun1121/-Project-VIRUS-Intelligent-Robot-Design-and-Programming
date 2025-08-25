@@ -1,0 +1,7 @@
+QUESTION: Which is the most common cause of sudden cardiac death in young athletes?
+
+IDEAL_ANSWER:
+- the most common cause of sudden cardiac death in young athletes is hypertrophic cardiomyopathy
+
+EXACT_ANSWER:
+- hypertrophic cardiomyopathy

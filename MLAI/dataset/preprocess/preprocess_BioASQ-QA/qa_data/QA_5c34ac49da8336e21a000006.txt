@@ -1,0 +1,8 @@
+QUESTION: In which way does DNA hydroxymethylation affect patients with Systemic Lupus Erythematosus?
+
+IDEAL_ANSWER:
+- DNA hydroxymethylation contributes to the aberrant regulation of genes transcription in the pathogenesis of SLE.  A combined analysis of differential DNA hydroxymethylation profile and gene expression profile in SLE CD4(+) T cells, shows 131 genes with increased 5-hmC in promoter regions and up-regulated expression in SLE CD4(+) T cells compared with healthy controls, including selected immune-related genes, i.e. SOCS1, NR2F6 and IL15RA.
+- Altered DNA methylation and hydroxymethylation as well as histone modifications mediate changes in chromatin accessibility and gene expression in immune cells from SLE patients. 5-Hydroxymethylcytosine (5-hmC) is a newly discovered modified form of cytosine suspected to be an important epigenetic modification in embryonic development, cell differentiation and cancer.
+
+EXACT_ANSWER:
+- gene activation

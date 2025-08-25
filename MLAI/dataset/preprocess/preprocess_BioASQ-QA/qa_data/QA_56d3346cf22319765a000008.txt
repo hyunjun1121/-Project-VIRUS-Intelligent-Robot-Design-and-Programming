@@ -1,0 +1,7 @@
+QUESTION: What is situs inversus?
+
+IDEAL_ANSWER:
+- Situs inversus totalis is a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs.
+
+EXACT_ANSWER:
+- Situs inversus totalis is a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs.

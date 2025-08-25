@@ -1,0 +1,8 @@
+QUESTION: What is the target of tanezumab?
+
+IDEAL_ANSWER:
+- Tanezumab is a humanized monoclonal antibody against nerve growth factor.
+
+EXACT_ANSWER:
+- nerve growth factor
+- NGF

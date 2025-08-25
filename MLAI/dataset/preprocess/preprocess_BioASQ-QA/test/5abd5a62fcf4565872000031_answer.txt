@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Among hundreds of restriction endonucleases, the Eco R1 enzyme is the most useful and widely investigated enzyme and was isolated from E. coli RY 13
+
+EXACT_ANSWER:
+- E coli

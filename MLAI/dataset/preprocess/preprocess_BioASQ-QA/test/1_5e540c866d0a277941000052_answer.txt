@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- AZD0530 is also known as saracatinib.
+
+EXACT_ANSWER:
+- Saracatinib

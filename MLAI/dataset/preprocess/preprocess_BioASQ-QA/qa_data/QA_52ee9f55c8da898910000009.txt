@@ -1,0 +1,7 @@
+QUESTION: What is the mode of inheritance of Romano Ward long QT syndrome?
+
+IDEAL_ANSWER:
+- The Romano Ward long QT syndrome (LQTS) has an autosomal dominant mode of inheritance.
+
+EXACT_ANSWER:
+- autosomal dominant

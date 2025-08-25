@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Using cffDNA from maternal blood, the fetal gender can be determined as early as 6 to 10 weeks of gestation (during the first trimester of pregnancy).
+
+EXACT_ANSWER:
+- 6th to 10th week of gestation
+- first trimester of pregnancy

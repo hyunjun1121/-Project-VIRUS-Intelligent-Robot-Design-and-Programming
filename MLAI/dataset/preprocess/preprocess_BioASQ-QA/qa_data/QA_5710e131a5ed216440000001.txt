@@ -1,0 +1,10 @@
+QUESTION: In which yeast chromosome does the rDNA cluster reside?
+
+IDEAL_ANSWER:
+- Chromosome XII context is important for rDNA function in yeast
+- The rDNA cluster in Saccharomyces cerevisiae is located 450 kb from the left end and 610 kb from the right end of chromosome XII and consists of approximately 150 tandemly repeated copies of a 9.1 kb rDNA unit.
+- Condensation of a unique region of chromosome XVI and the highly repetitive ribosomal DNA (rDNA) cluster from chromosome XII were also examined in budding yeast. The rDNA cluster in Saccharomyces cerevisiae is located 450 kb from the left end and 610 kb from the right end of chromosome XII and consists of approximately 150 tandemly repeated copies of a 9.1 kb rDNA unit. However, in cells arrested in late mitosis (M) by a cdc15 mutation, the unique DNA appeared decondensed while the repetitive rDNA region appeared condensed, suggesting that the condensation state of separate regions of the genome may be regulated differently. Finally our FISH method provides a new tool to analyze centromeres, telomeres, and gene expression in budding yeast.
+
+EXACT_ANSWER:
+- chromosome XII
+- chromosome 12

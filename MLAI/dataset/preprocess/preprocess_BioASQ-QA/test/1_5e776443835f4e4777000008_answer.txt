@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Eligard is produced by Astellas Pharma GmbH.
+
+EXACT_ANSWER:
+- Astellas Pharma GmbH

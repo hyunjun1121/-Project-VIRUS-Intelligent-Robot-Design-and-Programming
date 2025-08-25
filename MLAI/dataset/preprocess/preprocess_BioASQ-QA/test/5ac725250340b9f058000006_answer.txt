@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- circular RNA-7 (ciRS-7) acts as a sponge of miR-7 and thus inhibits its activity.
+
+EXACT_ANSWER:
+- miR-7

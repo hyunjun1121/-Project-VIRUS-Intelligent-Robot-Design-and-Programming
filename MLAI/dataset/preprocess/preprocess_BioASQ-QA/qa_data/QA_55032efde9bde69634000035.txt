@@ -1,0 +1,7 @@
+QUESTION: Which receptor is targeted by telcagepant?
+
+IDEAL_ANSWER:
+- Telcagepant (MK-0974) is a novel calcitonin gene-related peptide (CGRP) receptor antagonist currently undergoing clinical trials for migraine.
+
+EXACT_ANSWER:
+- calcitonin gene-related peptide

@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis.
+- Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis. 
+- loss of cd28 expression by liver-infiltrating t cells contributes to pathogenesis of primary sclerosing cholangitis.
+
+EXACT_ANSWER:
+- Primary sclerosing cholangitis

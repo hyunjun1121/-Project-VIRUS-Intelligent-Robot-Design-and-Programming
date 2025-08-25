@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- BAX is a central death regulator that controls apoptosis in normal and cancer cells
+- pro-apoptotic protein Bax
+
+EXACT_ANSWER:
+- bax promotes Apoptosis

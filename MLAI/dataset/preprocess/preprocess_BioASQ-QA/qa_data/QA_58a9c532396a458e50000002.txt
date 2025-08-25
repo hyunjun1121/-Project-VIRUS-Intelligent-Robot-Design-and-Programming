@@ -1,0 +1,7 @@
+QUESTION: How many cysteines have alpha-defensins?
+
+IDEAL_ANSWER:
+- Alpha defensins contain six cysteines, which form three well defined disulfide bridges under oxidizing conditions.
+
+EXACT_ANSWER:
+- Alpha defensins contain six conserved cysteines

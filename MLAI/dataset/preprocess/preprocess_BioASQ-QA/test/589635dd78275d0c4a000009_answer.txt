@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- LARVA is an integrative framework for large-scale analysis of recurrent variants in noncoding annotations. It integrates variants with a comprehensive set of noncoding functional elements, modeling the mutation counts of the elements with a β-binomial distribution to handle overdispersion. LARVA, moreover, uses regional genomic features such as replication timing to better estimate local mutation rates and mutational hotspots. Furthermore, LARVA highlights several novel highly mutated regulatory sites that could potentially be noncoding drivers.
+
+EXACT_ANSWER:
+- LARVA

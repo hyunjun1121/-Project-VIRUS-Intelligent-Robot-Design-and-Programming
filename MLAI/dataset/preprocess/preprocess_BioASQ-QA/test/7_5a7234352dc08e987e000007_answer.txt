@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Butterfly glioma is glioblastoma multiforme invading corpus callosum .
+
+EXACT_ANSWER:
+- glioblastoma multiforme

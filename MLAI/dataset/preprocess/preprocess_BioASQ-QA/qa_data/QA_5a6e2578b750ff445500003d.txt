@@ -1,0 +1,8 @@
+QUESTION: Which package in Bioconductor has been developed with the aim to analyze differential DNA loops from sequencing data?
+
+IDEAL_ANSWER:
+- Diffloop is an R/Bioconductor package that provides a suite of functions for the quality control, statistical testing, annotation, and visualization of DNA loops.
+- diffloop
+
+EXACT_ANSWER:
+- Diffloop

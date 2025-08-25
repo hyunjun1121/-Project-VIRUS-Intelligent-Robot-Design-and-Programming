@@ -1,0 +1,9 @@
+QUESTION: Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?
+
+IDEAL_ANSWER:
+- The activity of NFAT proteins is tightly regulated by the Ca(2+)/calmodulin-dependent protein phosphatase 2B/calcineurin (CaN).Dephosphorylation of NFAT by CaN is required for NFAT nuclear localization.
+
+EXACT_ANSWER:
+- Calcineurin
+- CaN
+- phosphatase 2b

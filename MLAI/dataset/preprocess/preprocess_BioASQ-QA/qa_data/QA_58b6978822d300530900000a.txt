@@ -1,0 +1,8 @@
+QUESTION: Which disease the London mutation involved in?
+
+IDEAL_ANSWER:
+- London mutation that is the missense mutation in exon 17 of the amyloid precursor protein gene on chromosome 21 (Val717Ile) is involved in Alzheimer's Disease.
+
+EXACT_ANSWER:
+- Alzheimer's Disease
+- AD

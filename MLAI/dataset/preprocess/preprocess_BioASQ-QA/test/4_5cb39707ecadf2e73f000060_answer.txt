@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED) is a primary immunodeficiency caused by mutations in the autoimmune regulator gene (AIRE)
+
+EXACT_ANSWER:
+- Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED)

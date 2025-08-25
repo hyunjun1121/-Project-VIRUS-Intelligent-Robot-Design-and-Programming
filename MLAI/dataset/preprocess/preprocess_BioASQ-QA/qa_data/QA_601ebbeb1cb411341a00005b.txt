@@ -1,0 +1,11 @@
+QUESTION: What syndrome is associated with mutations in lysine methyltransferase 2D KMT2D?
+
+IDEAL_ANSWER:
+- Mutations in lysine methyltransferase 2D (KMT2D) gene, which encodes the catalytic core of a multisubunit chromatin remodeling enzyme, are responsible for the neurodegenerative disorder Kabuki syndrome.
+- Mutations in lysine methyltransferase 2D (KMT2D) cause Kabuko syndrome.
+- Kabuki syndrome (KS) is commonly caused by mutations in the histone-modifying enzyme lysine methyltransferase 2D (KMT2D).
+- Mutations in the lysine methyltransferase 2D (KMT2D) gene, which encodes the alpha-subunit of the kappaB gene, are associated with the autosomal dominant hemophagocytic syndrome type 4 or Ferroportin syndrome.
+- Kabuki syndrome is a rare autosomal dominant disorder caused by mutations in the lysine methyltransferase 2D (KMT2D) gene.
+
+EXACT_ANSWER:
+- Kabuki syndrome

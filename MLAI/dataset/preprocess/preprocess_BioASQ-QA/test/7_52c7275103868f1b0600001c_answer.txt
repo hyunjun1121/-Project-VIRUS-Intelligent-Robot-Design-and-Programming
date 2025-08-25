@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The Apert syndrome is a disorder of autosomal dominant inheritance.
+
+EXACT_ANSWER:
+- Autosomal dominant

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- DeepLoc is an algorithm which has been developed for prediction of protein subcellular localization using deep learning.
+
+EXACT_ANSWER:
+- DeepLoc

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The so-called Hilbert curve visualization can complement genome browsers and help to get further insights into the structure of one's data. An open-source application, called HilbertVis, has been developed for R/bioconductor that allows the user to produce and interactively explore such plots.
+
+EXACT_ANSWER:
+- HilbertVis

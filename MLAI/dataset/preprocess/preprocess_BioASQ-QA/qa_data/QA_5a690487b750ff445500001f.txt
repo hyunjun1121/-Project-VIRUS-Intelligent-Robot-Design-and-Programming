@@ -1,0 +1,7 @@
+QUESTION: Which virus can be diagnosed with the monospot test?
+
+IDEAL_ANSWER:
+- Epstein-Barr virus (EBV) can be detected with the monospot test. EBV is a highly prevalent virus, transmitted via saliva, which often causes asymptomatic infection in children but frequently results in infectious mononucleosis in adolescents.
+
+EXACT_ANSWER:
+- Epstein-Barr virus

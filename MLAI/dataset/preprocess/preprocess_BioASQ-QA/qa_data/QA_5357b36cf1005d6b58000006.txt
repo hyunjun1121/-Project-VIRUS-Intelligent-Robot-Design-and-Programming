@@ -1,0 +1,7 @@
+QUESTION: Which is the main CHEK2 genetic variant, thought to be involved in familial breast cancer?
+
+IDEAL_ANSWER:
+- CHEK2 1100delC mutation is recurrently detected in the general population and is thought to confer a moderate risk for breast cancer.
+
+EXACT_ANSWER:
+- CHEK2 1100delC mutation

@@ -1,0 +1,7 @@
+QUESTION: Which hormone concentrations are altered in patients with the Allan–Herndon–Dudley syndrome?
+
+IDEAL_ANSWER:
+- Thyroid hormone concentrations are altered in patients with the Allan-Herndon-Dudley syndrome. In particular, high serum T3 levels and low-normal to low T4 serum levels are common in the Allan-Herndon-Dudley syndrome. It is, an X linked condition, is characterized by severe intellectual disability, dysarthria, athetoid movements, muscle hypoplasia and spastic paraplegia in combination.
+
+EXACT_ANSWER:
+- Thyroid

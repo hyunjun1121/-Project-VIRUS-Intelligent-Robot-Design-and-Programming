@@ -1,0 +1,7 @@
+QUESTION: Which is the gene most commonly mutated in Tay-Sachs disease?
+
+IDEAL_ANSWER:
+- HEXA gene, encoding the alpha-subunit of the lysosomal enzyme, beta-N-acetylhexosaminidase A
+
+EXACT_ANSWER:
+- HEXA

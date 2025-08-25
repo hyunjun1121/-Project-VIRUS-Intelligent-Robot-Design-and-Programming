@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The navicular bone is located in the foot
+
+EXACT_ANSWER:
+- foot

@@ -1,0 +1,13 @@
+QUESTION: What does "28" stand for in the Disease Activity Score DAS28?
+
+IDEAL_ANSWER:
+- It stands for the Disease Activity Score 28 Joint Index (DAS28). It’s basically a measure of how active a patient is in regards to how active they are in relation to the DAS28. The 28 joint DAS (28 joints) is a way to measure how active the patient is compared to other people with the same disease.
+- DAS28 is a subjective Disease Activity Score in Rheumatoid Arthritis patients that checks 28 individual joints.
+-  In order to further dissect this issue, we numerically and graphically modeled 28-joint disease activity scale (DAS28), simplified disease activity index (SDAI), and clinical disease activity index (CDAI) by three-dimensional (3D) plotting. The 28-joint DAS (DAS28), clinical disease activity index (CDAI) and simplified disease activity index (SDAI) are indices frequently used to assess disease activity in RA patients.
+- It stands for the Disease Activity Score 28 Joint Index (DAS28). It’s a measure of how active a patient is in regards to how active they are in relation to the DAS28. The 28 joint DAS (28 joints) is the highest score.
+- In order to further dissect this issue, we numerically and graphically modeled 28-joint disease activity scale (DAS28), simplified disease activity index (SDAI), and clinical disease activity index (CDAI) by three-dimensional (3D) plotting.
+- It stands for the Disease Activity Score 28 Joint Index (DAS28). It’s basically a measure of how active a patient is in regards to how active they are in relation to the DAS28. The 28 joint DAS (28 joints) is a way to measure how active the patient is compared to other patients with the same disease.
+- It stands for the Disease Activity Score 28 Joint Index (DAS28). It’s a measure of how active a patient is in regards to how active they are in relation to the DAS28.
+
+EXACT_ANSWER:
+- 28 joints

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Following a stressful event, the hypothalamus-pituitary-adrenal axis mediates the release of the stress hormone cortisol (corticosterone in rodents; CORT).
+
+EXACT_ANSWER:
+- Adrenal glands

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- TAF10 Interacts with the GATA1 Transcription Factor and Controls Mouse Erythropoiesis.
+
+EXACT_ANSWER:
+- Control of Mouse Erythropoiesis

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products.
+
+EXACT_ANSWER:
+- The severe acute respiratory syndrome coronavirus (SARS-CoV) genome is predicted to encode 14 functional open reading frames, leading to the expression of up to 30 structural and non-structural protein products.

@@ -1,0 +1,43 @@
+# 논문 평가 자동화 시스템 설정 파일
+
+# LLM 설정
+llm:
+  model: "gpt-4-turbo-preview"
+  temperature: 0.7
+  max_tokens: 2000
+
+# SEO 설정
+seo:
+  meta_description_length: 155
+  title_length: 60
+  keywords_per_post: 3-5
+
+# 플랫폼 설정
+platforms:
+  medium:
+    enabled: false  # API 토큰 발급 중단으로 비활성화
+    publish_immediately: false
+    tags: ["NLP", "AI", "Paper Review", "Machine Learning", "Research"]
+    alternative_method: "manual_import"  # 수동 import 방식 사용
+  
+  github_pages:
+    enabled: true
+    repo_format: "username/repo-name"
+    branch: "main"
+    posts_dir: "_posts"
+  
+  reddit:
+    enabled: false  # 주의: 스팸 방지를 위해 기본적으로 비활성화
+    subreddits: ["MachineLearning", "LanguageTechnology"]
+    post_prefix: "[P]"
+
+# arXiv 설정
+arxiv:
+  trackback_enabled: true
+  blog_name: "NLP Paper Reviews"
+
+# 출력 설정
+output:
+  markdown_format: true
+  include_references: true
+  include_meta_tags: true

@@ -1,0 +1,12 @@
+QUESTION: Which key gene is involved in interstitial 6q25 microdeletion syndrome?
+
+IDEAL_ANSWER:
+- Interstitial deletions of the long arm of chromosome 6 are rare. Clinically, these deletions are considered to be part of a unique microdeletion syndrome associated with intellectual disability and speech impairment, typical dysmorphic features, structural anomalies of the brain, microcephaly, and non-specific multiple organ anomalies. ARID1B is the key gene behind 6q microdeletion syndrome.
+- Interstitial 6q25 microdeletion syndrome (ICS) is a rare autosomal dominant disorder characterized by loss-of-function mutations of the ARID1B gene and severe intrauterine and post-natal growth retardation
+- The critical region for the interstitial 6q microdeletion phenotype was mapped to 6q24-6q25, particularly the 6q25.3 region containing the genes ARID1B and ZDHHC14.
+- Interstitial 6q25 microdeletion syndrome (IL-6q25) is a rare autosomal dominant disorder caused by mutations in the ARID1B gene, which encodes a major regulator of heme oxygenase 1 (HMOX1), resulting in a loss of a ubiquitously expressed protein, gigaxonin.
+- Interstitial 6q25 microdeletion syndrome (IPS) is a rare autosomal dominant disorder characterized by loss-of-function mutations in the ARID1B gene, which encodes a major regulator of heme oxygenase 1 (HMOX1), and many other genes involved in heme catabolism.
+- Interstitial 6q25 microdeletion syndrome (ICS) is a rare autosomal recessive genetic disorder characterized by loss-of-function mutations in the ARID1B gene, which encodes a major regulator of heme oxygenase activity.
+
+EXACT_ANSWER:
+- ARID1B

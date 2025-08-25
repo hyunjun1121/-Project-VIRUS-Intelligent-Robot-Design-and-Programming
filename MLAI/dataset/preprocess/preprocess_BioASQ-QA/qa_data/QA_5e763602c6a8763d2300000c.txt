@@ -1,0 +1,7 @@
+QUESTION: Which company produces ORMD-0801?
+
+IDEAL_ANSWER:
+- ORMD-0801 is produced by Oramed Pharmaceuticals.
+
+EXACT_ANSWER:
+- Oramed Pharmaceuticals

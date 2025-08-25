@@ -1,0 +1,7 @@
+QUESTION: What impacts stability of genomic imprinting in mouse pluripotent stem cells?
+
+IDEAL_ANSWER:
+- A susceptibility locus on chromosome 13 profoundly impacts the stability of genomic imprinting in mouse pluripotent stem cells.
+
+EXACT_ANSWER:
+- a susceptibility locus on chromosome 13

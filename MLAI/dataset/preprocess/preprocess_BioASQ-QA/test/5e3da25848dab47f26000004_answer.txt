@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+-  The proband had normal molecular analysis of the glypican 6 gene (GPC6), which was recently reported as a candidate for autosomal recessive omodysplasia
+- The proband had normal molecular analysis of the glypican 6 gene (GPC6), which was recently reported as a candidate for autosomal recessive omodysplasia
+- The glypican 6 gene (GPC6), which was recently reported as a candidate for autosomal recessive omodysplasia.
+- Omodysplasia is a rare autosomal recessive disorder with a frequency of 1 in 50,000 newborn, and is associated with mutations in the GPC6 gene on chromosome 13.
+
+EXACT_ANSWER:
+- omodysplasia

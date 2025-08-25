@@ -1,0 +1,8 @@
+QUESTION: Where can you find the annulus of Zinn?
+
+IDEAL_ANSWER:
+- Annulus of Zinn is in the orbit.
+
+EXACT_ANSWER:
+- orbit
+- EYE

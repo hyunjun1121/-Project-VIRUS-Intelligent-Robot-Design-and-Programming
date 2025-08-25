@@ -1,0 +1,7 @@
+QUESTION: What is inhibited by a drug rilotumumab?
+
+IDEAL_ANSWER:
+- Rilotumumab is a fully human monoclonal antibody that selectively targets the hepatocyte growth factor (HGF). It is used for treatment of cancer.
+
+EXACT_ANSWER:
+- hepatocyte growth factor

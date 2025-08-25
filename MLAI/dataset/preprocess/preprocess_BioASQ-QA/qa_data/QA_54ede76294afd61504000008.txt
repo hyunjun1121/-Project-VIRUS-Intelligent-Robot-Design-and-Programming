@@ -1,0 +1,8 @@
+QUESTION: What is the risk of developing acute myelogenous leukemia in Fanconi anemia?
+
+IDEAL_ANSWER:
+- A review of all of the cases of Fanconi anemia (FA) reported to the International Fanconi Anemia Registry (IFAR) indicates that at least 15% manifest acute myelogenous leukemia (AML) or preleukemia.
+- A review of all of the cases of Fanconi anemia (FA) reported to the International Fanconi Anemia Registry (IFAR) indicates that at least 15% manifest acute myelogenous leukemia (AML) or preleukemia  
+
+EXACT_ANSWER:
+- At least 15%, based on the International Fanconi Anemia Registry (IFAR)

@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- To determine the utility of ultrasonography in guiding modification of disease-modifying anti-rheumatic drug (DMARD) and steroid therapy for inflammatory arthritis (IA)
+- DMARDs are Disease Modifying anti-rheumatic drugs (DMARD).
+- Treatment with disease-modifying antirheumatic drugs (DMARDs) was 61% (claims data)
+- Treatment with disease-modifying antirheumatic drugs (DMARDs)
+- Treatment with disease-modifying antirheumatic drugs (DMARDs) was 61% (claims data) and
+
+EXACT_ANSWER:
+- Disease Modifying anti-rheumatic drugs

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Thiazovivin is a selective small molecule that directly targets Rho-associated kinase (ROCK) and increases expression of pluripotency factors.
+
+EXACT_ANSWER:
+- Thiazovivin is a selective small molecule that directly targets Rho-associated kinase (ROCK) and increases expression of pluripotency factors.

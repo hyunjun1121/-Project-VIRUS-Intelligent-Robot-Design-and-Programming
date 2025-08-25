@@ -1,0 +1,2 @@
+[PMID: 25957677]
+Cancer is known for opportunistically utilizing resources from its surroundings for its own growth and survival. In this issue of Cell, Venkatesh et al. demonstrate that this also occurs in the brain, identifying neuronal activity-induced secretion of neuroligin-3 as a novel mechanism promoting glioma proliferation.

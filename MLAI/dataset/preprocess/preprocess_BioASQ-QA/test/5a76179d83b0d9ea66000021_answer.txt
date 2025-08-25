@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Whole-genome sequencing (WGS) data are being generated at an unprecedented rate. Analysis of WGS data requires a flexible data format to store the different types of DNA variation. Variant call format (VCF) is a general text-based format developed to store variant genotypes and their annotations. However, VCF files are large and data retrieval is relatively slow. 'SeqArray' is a new WGS variant data format implemented in the R/Bioconductor package for storing variant calls in an array-oriented manner which provides the same capabilities as VCF, but with multiple high compression options and data access using high-performance parallel computing.
+
+EXACT_ANSWER:
+- SeqArray

@@ -1,0 +1,7 @@
+QUESTION: Is cancer related to global DNA hypo or hypermethylation?
+
+IDEAL_ANSWER:
+- DNA hypermethylation and hypomethylation are independent processes and appear to play different roles in tumor progression.  Cancer cells are characterized by a generalized disruption of the DNA methylation pattern involving an overall decrease in the level of 5-methylcytosine together with regional hypermethylation of particular CpG islands. Tumors have reduced levels of genomic DNA methylation and contain hypermethylated CpG islands.
+
+EXACT_ANSWER:
+- Global hypomethylation is coupled with focal hypermethylation at CpG islands

@@ -1,0 +1,7 @@
+QUESTION: Which signaling pathway does sonidegib inhibit?
+
+IDEAL_ANSWER:
+- Sonidegib is a Hedghog signalling pathway inhibitor.
+
+EXACT_ANSWER:
+- Hedghog signalling pathway

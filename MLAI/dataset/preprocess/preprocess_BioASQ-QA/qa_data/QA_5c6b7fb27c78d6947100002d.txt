@@ -1,0 +1,7 @@
+QUESTION: Burosumab is used for treatment of which disease?
+
+IDEAL_ANSWER:
+- Burosumab is a fully human IgG1 monoclonal antibody directed at fibroblast growth factor 23 (FGF23), is indicated for the treatment of X-linked hypophosphatemia (XLH), a condition associated with excessive FGF23 production.
+
+EXACT_ANSWER:
+- X-linked hypophosphatemia

@@ -1,0 +1,13 @@
+QUESTION: What disease is associated with mutations in the MECP2 transcription factor?
+
+IDEAL_ANSWER:
+- mutations in the methyl-cpg-binding protein-2 gene (mecp2) are commonly associated with rett syndrome
+- Mutations in the MECP2 transcription factor, which codes for the transcription factor ECE1, have been found to be associated with Rett syndrome.
+- Mutations in the methyl-CpG-binding protein-2 gene (MECP2) are commonly associated with Rett syndrome. Mutations in the MECP2 gene cause the neurodevelopmental disorder Rett syndrome (RTT).
+- Mutations in the methyl-CpG-binding protein-2 gene (MECP2) are commonly associated with Rett syndrome.
+- Mutations in the MECP2 gene cause the neurodevelopmental disorder Rett syndrome (RTT).
+- Rett syndrome (RS) is a debilitating neurological disorder affecting mostly girls with heterozygous mutations in the gene encoding the methyl-CpG-binding protein MeCP2 on the X chromosome
+- Mutations in the MECP2 transcription factor, which encodes the cellular iron exporter ferroportin, are associated with Rett syndrome.
+
+EXACT_ANSWER:
+- Rett syndrome

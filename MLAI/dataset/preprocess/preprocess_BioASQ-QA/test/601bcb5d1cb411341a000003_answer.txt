@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Hutchinson-Gilford disease as well as congenital stationary night blindness in around 90% of patients.
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare subtype of congenital stationary night blindness (CSNB).
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare autosomal recessive disorder characterized by congenital stationary night blindness (CSNB).
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1) cause Oguchi disease, a rare subtype of congenital stationary night blindness (CSNB)
+- Biallelic mutations in G-Protein coupled receptor kinase 1 cause Oguchi disease. Oguchi disease is a rare subtype of congenital stationary night blindness.
+
+EXACT_ANSWER:
+- Biallelic mutations in G-Protein coupled receptor kinase 1 (GRK1)

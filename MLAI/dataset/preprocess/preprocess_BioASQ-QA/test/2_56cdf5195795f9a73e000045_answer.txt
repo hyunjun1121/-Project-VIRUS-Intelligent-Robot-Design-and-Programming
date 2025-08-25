@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Hsp90 regulates the function of argonaute 2 and its recruitment to stress granules and P-bodies.
+
+EXACT_ANSWER:
+- Hsp90

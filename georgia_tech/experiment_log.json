@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-08-12T23:12:11.987143",
+    "model_name": "DeepSeek V3 0324",
+    "model_id": "deepseek-ai/DeepSeek-V3-0324",
+    "exp_name": "deepseek_v3_drafterbench",
+    "success": false,
+    "duration_seconds": 0.24125981330871582,
+    "output": "python: can't open file 'E:\\\\Users\\\\±Ë«ˆ¡ÿ\\\\Downloads\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-12T23:12:22.218757",
+    "model_name": "DeepSeek R1 0528",
+    "model_id": "deepseek-ai/DeepSeek-R1-0528",
+    "exp_name": "deepseek_r1_drafterbench",
+    "success": false,
+    "duration_seconds": 0.2283942699432373,
+    "output": "python: can't open file 'E:\\\\Users\\\\±Ë«ˆ¡ÿ\\\\Downloads\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-12T23:12:32.480396",
+    "model_name": "Qwen 3 235B",
+    "model_id": "togetherai/Qwen/Qwen3-235B-A22B-FP8",
+    "exp_name": "qwen_235b_drafterbench",
+    "success": false,
+    "duration_seconds": 0.2592301368713379,
+    "output": "python: can't open file 'E:\\\\Users\\\\±Ë«ˆ¡ÿ\\\\Downloads\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-12T23:43:03.913531",
+    "model_name": "DeepSeek V3 0324",
+    "model_id": "deepseek-ai/DeepSeek-V3-0324",
+    "exp_name": "deepseek_v3_drafterbench",
+    "success": false,
+    "duration_seconds": 0.029439926147460938,
+    "output": "python: can't open file 'E:\\\\Project\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-12T23:43:13.943951",
+    "model_name": "DeepSeek R1 0528",
+    "model_id": "deepseek-ai/DeepSeek-R1-0528",
+    "exp_name": "deepseek_r1_drafterbench",
+    "success": false,
+    "duration_seconds": 0.026944398880004883,
+    "output": "python: can't open file 'E:\\\\Project\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-12T23:43:23.983414",
+    "model_name": "Qwen 3 235B",
+    "model_id": "togetherai/Qwen/Qwen3-235B-A22B-FP8",
+    "exp_name": "qwen_235b_drafterbench",
+    "success": false,
+    "duration_seconds": 0.02788233757019043,
+    "output": "python: can't open file 'E:\\\\Project\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-12T23:43:34.022755",
+    "model_name": "Qwen 3 235B Instruct",
+    "model_id": "togetherai/Qwen/Qwen3-235B-A22B-Instruct-2507-FP8",
+    "exp_name": "qwen_235b_instruct_drafterbench",
+    "success": false,
+    "duration_seconds": 0.028993606567382812,
+    "output": "python: can't open file 'E:\\\\Project\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-13T10:14:37.163846",
+    "model_name": "DeepSeek V3 0324",
+    "model_id": "deepseek-ai/DeepSeek-V3-0324",
+    "exp_name": "deepseek_v3_drafterbench",
+    "success": false,
+    "duration_seconds": 0.03204202651977539,
+    "output": "python: can't open file 'E:\\\\Project\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "timestamp": "2025-08-13T10:14:47.210107",
+    "model_name": "DeepSeek R1 0528",
+    "model_id": "deepseek-ai/DeepSeek-R1-0528",
+    "exp_name": "deepseek_r1_drafterbench",
+    "success": false,
+    "duration_seconds": 0.029999971389770508,
+    "output": "python: can't open file 'E:\\\\Project\\\\georgia_tech\\\\evaluation.py': [Errno 2] No such file or directory\n"
+  }
+]

@@ -1,0 +1,8 @@
+QUESTION: Which CYP gene polymorphism is a well-known predictor of efavirenz disposition?
+
+IDEAL_ANSWER:
+- Cytochrome P450 (CYP) CYP2B6 G516T (rs3745274) is a well-known predictor of efavirenz disposition.
+
+EXACT_ANSWER:
+- CYP2B6 G516T
+- rs3745274

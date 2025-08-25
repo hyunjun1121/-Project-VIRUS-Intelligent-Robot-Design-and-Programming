@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Arboviruses are transmitted by arthropods.
+
+EXACT_ANSWER:
+- By arthropods

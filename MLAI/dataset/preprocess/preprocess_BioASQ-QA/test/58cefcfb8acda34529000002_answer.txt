@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Achondrogenesis type II also known as  Achondroplasia  is an autosomal-dominant disease leading to severe micromelic dwarfism
+- Achondrogenesis type II is an autosomal-dominant disease leading to severe micromelic dwarfism. 
+- Achondrogenesis type II is an autosomal-dominant disease leading to severe micromelic dwarfism.
+- achondrogenesis type ii is an autosomal-dominant disease leading to severe micromelic dwarfism.
+- achondrogenesis type ii is an autosomal-dominant disease to severe micromelic dwarfism. . 
+
+EXACT_ANSWER:
+- An autosomal dominant form of dwarfism

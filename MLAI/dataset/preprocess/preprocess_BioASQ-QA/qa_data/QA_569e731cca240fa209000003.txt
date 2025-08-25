@@ -1,0 +1,7 @@
+QUESTION: What was the purpose of the FANTOM5 project?
+
+IDEAL_ANSWER:
+- The functional annotation of the mammalian genome 5 (FANTOM5) project provides comprehensive expression profiles and functional annotation of mammalian cell-type-specific transcriptomes with wide applications in biomedical research. The FANTOM5 and ENCODE projects represent two independent large scale efforts to map regulatory and transcriptional features to the human genome.
+
+EXACT_ANSWER:
+- To provide comprehensive expression profiles and functional annotation of mammalian cell-type-specific transcriptomes with wide applications in biomedical research.

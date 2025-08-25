@@ -1,0 +1,8 @@
+QUESTION: What is the association between maternal and fetal alloantigens and RANTES production?
+
+IDEAL_ANSWER:
+- Induction of maternal tolerance to fetal alloantigens by RANTES production.
+- Maternal tolerance to fetal alloantigens may be induced by RANTES production.
+
+EXACT_ANSWER:
+- induction of tolerance

@@ -1,0 +1,10 @@
+QUESTION: What is another name for acid sphingomyelinase deficiency (ASMD)?
+
+IDEAL_ANSWER:
+- Acid sphingomyelinase deficiency(ASMD) is also known as Niemann-Pick disease type A and type B.
+- Historically, ASMD has been classified as Niemann-Pick disease (NPD) types A (NPD A) and B (NPD B). The clinical spectrum distinguishes a severe infantile neurological form (type A), a non-neurological visceral form (type B) and a rare intermediate neurovisceral form.
+- Acid sphingomyelinase deficiency (ASMD) is an autosomal recessive disease with a clinical spectrum ranging from a neurovisceral infantile form (Niemann-Pick disease type A) to a chronic visceral form also encountered in adults (Niemann-Pick disease type B, NP-B)
+- niemann-pick disease
+
+EXACT_ANSWER:
+- Niemann-Pick disease type A and type B

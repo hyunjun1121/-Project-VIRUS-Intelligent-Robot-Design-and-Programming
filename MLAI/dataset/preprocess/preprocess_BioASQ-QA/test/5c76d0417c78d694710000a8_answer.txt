@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Cystinosis is a rare autosomal recessive disorder resulting from defective lysosomal transport of cystine due to mutations in the cystinosin lysosomal cystine transporter (CTNS) gene.
+
+EXACT_ANSWER:
+- Mutations in the cystinosin lysosomal cystine transporter (CTNS) gene

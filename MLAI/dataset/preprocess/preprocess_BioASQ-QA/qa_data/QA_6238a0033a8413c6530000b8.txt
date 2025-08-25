@@ -1,0 +1,7 @@
+QUESTION: What part of the body is associated with Cauda equina
+
+IDEAL_ANSWER:
+- The cauda equina is the sack of nerve roots (nerves that leave the spinal cord between spaces in the bones of the spine to connect to other parts of the body) at the lower end of the spinal cord.
+
+EXACT_ANSWER:
+- spine

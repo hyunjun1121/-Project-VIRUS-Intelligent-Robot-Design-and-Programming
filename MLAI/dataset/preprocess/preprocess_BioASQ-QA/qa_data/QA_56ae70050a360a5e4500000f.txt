@@ -1,0 +1,7 @@
+QUESTION: What is the role of the RUNX1-MYEF2 complex?
+
+IDEAL_ANSWER:
+- A novel complex, RUNX1-MYEF2, represses hematopoietic genes in erythroid cells.
+
+EXACT_ANSWER:
+- The repression of hematopoietic genes in erythroid cells.

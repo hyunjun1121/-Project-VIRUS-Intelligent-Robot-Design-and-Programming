@@ -1,0 +1,7 @@
+QUESTION: Which main viral protein is targeted by the drug remdesivir?
+
+IDEAL_ANSWER:
+- Viral Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease.
+
+EXACT_ANSWER:
+- Viral Polymerase

@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Lantibiotic compounds are ribosomally synthesized antimicrobial peptides against which bacteria are not able to produce resistance, hence making them a good alternative to antibiotics. It is interesting that low levels of resistance have been reported for lantibiotics compared with commercial antibiotics. Given that there are very few examples of naturally occurring lantibiotic resistance, attempts have been made to deliberately induce resistance phenotypes in order to investigate this phenomenon. Other general forms of resistance include the formation of spores or biofilms, which are a common mechanistic response to many classes of antimicrobials.
+- One potentially interesting class of antimicrobials are the modified bacteriocins termed lantibiotics, which are bacterially produced, posttranslationally modified, lanthionine/methyllanthionine-containing peptides. Low levels of resistance have been reported for lantibiotics compared with commercial antibiotics. Nisin is the oldest and the most widely used lantibiotic, in food preservation, without having developed any significant resistance against it.
+- One potentially interesting class of antimicrobials are the modified bacteriocins termed lantibiotics, which are bacterially produced, posttranslationally modified, lanthionine/methyllanthionine-containing peptides.
+
+EXACT_ANSWER:
+- Lantibiotics are post-translationally modified natural peptides containing lanthionine

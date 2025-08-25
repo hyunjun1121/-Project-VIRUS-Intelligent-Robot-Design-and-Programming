@@ -1,0 +1,12 @@
+QUESTION: What is the function of the Eyeless associated gene in Drosophila?
+
+IDEAL_ANSWER:
+- Eyeless (ey) also known as Pax6, is one of the most critical transcription factors for initiating the entire eye development in Drosophila.
+- Theeye-associated Pax6 gene controls neuronal navigation in Drosophila.
+- Eyeless (ey) is one of the most critical transcription factors for initiating the entire eye development in Drosophila. Two Pax6 genes are in Drosophila: eyeless (ey) and twin of eyeless (toy)
+- Eyeless (ey) is one of the most critical transcription factors for initiating the entire eye development in Drosophila.
+
+EXACT_ANSWER:
+- transcription factor
+- transcriptional regulator
+- eye development

@@ -1,0 +1,8 @@
+QUESTION: What is formin associated with in the snail?
+
+IDEAL_ANSWER:
+- Formin is associated with Left-Right asymmetry in the pond snail and the frog.
+- Formin Is Associated with Left-Right Asymmetry in the Pond Snail and the Frog
+
+EXACT_ANSWER:
+- Left-Right Asymmetry

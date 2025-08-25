@@ -1,0 +1,7 @@
+QUESTION: Which is the  subcellular localization of ERAP2?
+
+IDEAL_ANSWER:
+- Endoplasmic reticulum aminopeptidase 2 (ERAP2) is localized to the luminal side of the endoplasmic reticulum.
+
+EXACT_ANSWER:
+- luminal side of the endoplasmic reticulum

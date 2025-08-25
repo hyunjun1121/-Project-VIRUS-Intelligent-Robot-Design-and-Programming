@@ -1,0 +1,7 @@
+QUESTION: What is the function of PAPOLA/PAP?
+
+IDEAL_ANSWER:
+- Poly(A)polymerase-alpha (PAPOLA) has been the most extensively investigated mammalian polyadenylating enzyme, mainly in regard to its multifaceted post-translational regulation. PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate.
+
+EXACT_ANSWER:
+- PolyA polymerase (PAP) adds a polyA tail onto the 3'-end of RNAs without a nucleic acid template, using adenosine-5'-triphosphate (ATP) as a substrate.

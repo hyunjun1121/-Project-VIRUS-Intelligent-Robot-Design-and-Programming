@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Fibrolamellar carcinoma is distinctive at clinical and histologic levels. A novel DNAJB1-PRKACA fusion gene characterizes almost all cases.
+
+EXACT_ANSWER:
+- Fibrolamellar carcinoma

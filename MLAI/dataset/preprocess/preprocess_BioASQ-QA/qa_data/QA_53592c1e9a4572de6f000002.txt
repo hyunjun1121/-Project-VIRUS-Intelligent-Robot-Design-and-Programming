@@ -1,0 +1,7 @@
+QUESTION: Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?
+
+IDEAL_ANSWER:
+- NT is physiological for a measurement < 3 mm but the incidence of chromosomal abnormalities (essentially trisomies 21, 18 and 13) increases when NT > or = 3 mm. As women aged, this upper NT threshold value changed according to gestational age. In women aged 35 to 37 years, combined prenatal screening was always positive when NT exceeded 2.8 mm, 3.0 mm, and 3.4 mm at 11, 12, and 13 weeks of gestation, respectively.
+
+EXACT_ANSWER:
+- 3mm

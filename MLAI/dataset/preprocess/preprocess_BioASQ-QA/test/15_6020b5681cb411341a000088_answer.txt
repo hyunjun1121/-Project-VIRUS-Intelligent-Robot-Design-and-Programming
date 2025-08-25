@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- MET Exon 14 Skipping Mutation is targeted by Tepotinib that is used for patients with non-small-cell lung cancer.
+
+EXACT_ANSWER:
+- MET Exon 14 Skipping Mutation

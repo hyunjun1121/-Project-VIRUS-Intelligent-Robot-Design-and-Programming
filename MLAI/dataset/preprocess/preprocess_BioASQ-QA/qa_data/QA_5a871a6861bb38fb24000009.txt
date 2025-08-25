@@ -1,0 +1,7 @@
+QUESTION: What disease is the ALK tyrosine kinase associated with?
+
+IDEAL_ANSWER:
+- The anaplastic lymphoma kinase (ALK) gene encodes a receptor tyrosine kinase, and many kinds of ALK fusion genes have been found in a variety of carcinomas
+
+EXACT_ANSWER:
+- cancer

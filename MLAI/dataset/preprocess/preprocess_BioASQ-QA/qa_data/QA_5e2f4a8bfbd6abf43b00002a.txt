@@ -1,0 +1,8 @@
+QUESTION: What animal is thought to be the host for the Coronavirus causing MERS?
+
+IDEAL_ANSWER:
+- The animal thought to be the host for the Coronavirus causing MERS is camels.
+- The Virus causing MERS is though to have originated in dromedary camels
+
+EXACT_ANSWER:
+- camel

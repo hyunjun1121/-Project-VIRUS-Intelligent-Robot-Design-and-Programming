@@ -1,0 +1,7 @@
+QUESTION: What are the end products of the shikimate pathway?
+
+IDEAL_ANSWER:
+- The shikimate pathway responsible for the generation of aromatic amino acids
+
+EXACT_ANSWER:
+- aromatic amino acids

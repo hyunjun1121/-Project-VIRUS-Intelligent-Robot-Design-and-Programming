@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- The primary protein component of Lewy bodies are fibrils composed of alpha-synuclein.
+
+EXACT_ANSWER:
+- alpha-synuclein
+- α-synuclein
+- αSyn

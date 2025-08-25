@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Bosch-Boonstra-Schaaf optic atrophy syndrome (BBSOAS) is an autosomal-dominant disorder characterized by optic atrophy and intellectual disability caused by loss-of-function mutations in NR2F1.
+- Bosch-Boonstra-Schaaf optic atrophy syndrome
+- Bosch-Boonstra-Schaaf Optic Atrophy Syndrome
+
+EXACT_ANSWER:
+- Bosch-Boonstra-Schaaf optic atrophy syndrome
+- BBSOAS

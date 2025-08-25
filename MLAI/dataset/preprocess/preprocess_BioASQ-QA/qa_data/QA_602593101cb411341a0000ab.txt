@@ -1,0 +1,7 @@
+QUESTION: What does DMARD stand for?
+
+IDEAL_ANSWER:
+- DMARD stands for disease-modifying antirheumatic drug.
+
+EXACT_ANSWER:
+- disease-modifying antirheumatic drug

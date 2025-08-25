@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- A common goal of tumor sequencing projects is finding genes whose mutations are selected for during tumor development. This is accomplished by choosing genes that have more non-synonymous mutations than expected from an estimated background mutation frequency.  
+- A common goal of tumor sequencing projects is finding genes whose mutations are selected for during tumor development. This is accomplished by choosing genes that have more non-synonymous mutations than expected from an estimated background mutation frequency.
+
+EXACT_ANSWER:
+- non-synonymous

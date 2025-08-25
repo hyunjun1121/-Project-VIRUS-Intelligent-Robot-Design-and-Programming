@@ -1,0 +1,7 @@
+QUESTION: Which disease can be treated with Anifrolumab?
+
+IDEAL_ANSWER:
+- Anifrolumab is a type I interferon (IFN) receptor antagonist that has been shown to be effective for moderate-to-severe systemic lupus erythematosus (SLE).
+
+EXACT_ANSWER:
+- systemic lupus erythematosus

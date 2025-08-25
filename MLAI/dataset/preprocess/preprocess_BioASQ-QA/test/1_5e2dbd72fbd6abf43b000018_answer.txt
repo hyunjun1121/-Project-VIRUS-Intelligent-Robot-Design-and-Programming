@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Pimavanserin bears a boxed warning about the risk of death associated with antipsychotic use in elderly patients with dementia.
+
+EXACT_ANSWER:
+- Risk of death associated with antipsychotic use in elderly patients with dementia

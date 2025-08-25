@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Coligos are circularized oligodeoxynucleotides
+
+EXACT_ANSWER:
+- circularized oligodeoxynucleotides

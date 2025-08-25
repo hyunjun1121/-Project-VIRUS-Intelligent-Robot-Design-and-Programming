@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Katayama fever is an acute clinical condition characterised by high fever, dry cough and general malaise occurring during early Schistosoma spp. infection.
+
+EXACT_ANSWER:
+- Schistosoma spp

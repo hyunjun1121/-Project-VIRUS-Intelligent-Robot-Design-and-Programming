@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- NeuroBlate System is used for Laser interstitial thermal therapy.
+
+EXACT_ANSWER:
+- Laser interstitial thermal therapy

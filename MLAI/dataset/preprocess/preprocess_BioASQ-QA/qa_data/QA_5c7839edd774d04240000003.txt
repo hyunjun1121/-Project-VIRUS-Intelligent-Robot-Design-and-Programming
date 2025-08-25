@@ -1,0 +1,8 @@
+QUESTION: When is serum AFP used as marker?
+
+IDEAL_ANSWER:
+- Serum α-Fetoprotein (AFP) is a widely used diagnostic biomarker, but it has limited sensitivity and is not elevated in all Hepato cellular carcinoma (HCC) cases so, we incorporate a second blood-based biomarker, des'γ carboxy-prothrombin (DCP), that has shown potential as a screening marker for HCC.
+
+EXACT_ANSWER:
+- in HCC
+- Hepato cellular carcinoma

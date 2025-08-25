@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Pridopidine is a dopaminergic stabilizer that has shown promising results for treatment of Huntington disease patients.
+
+EXACT_ANSWER:
+- Huntington disease

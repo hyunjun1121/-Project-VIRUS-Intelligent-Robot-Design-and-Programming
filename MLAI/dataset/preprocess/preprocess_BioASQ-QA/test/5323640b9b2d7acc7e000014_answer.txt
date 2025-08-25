@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL), the most common form of familial vascular dementia, is caused by mutations of the NOTCH3 gene.
+
+EXACT_ANSWER:
+- Notch3 gene

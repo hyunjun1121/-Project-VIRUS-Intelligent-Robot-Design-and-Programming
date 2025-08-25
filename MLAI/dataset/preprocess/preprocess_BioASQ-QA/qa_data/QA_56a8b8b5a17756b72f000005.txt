@@ -1,0 +1,7 @@
+QUESTION: What is the outcome of TAF10 interacting with the GATA1 transcription factor?
+
+IDEAL_ANSWER:
+- TAF10 Interacts with the GATA1 Transcription Factor and Controls Mouse Erythropoiesis.
+
+EXACT_ANSWER:
+- Control of Mouse Erythropoiesis

@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The chromDraw graphical tool was developed as a user-friendly graphical tool for visualizing both linear and circular karyotypes based on the same input data matrix. The output graphics, saved in two different formats (EPS and SVG), can be easily imported to and modified in presentation and image-editing computer programs. The tool is freely distributed under GNU General Public License (GPL) and can be installed from Bioconductor or from the chromDraw home page.
+- The chromDraw graphical tool was developed as a user-friendly graphical tool for visualizing both linear and circular karyotypes based on the same input data matrix. The tool is freely distributed under GNU General Public License (GPL) and can be installed from Bioconductor or from the chromDraw home page.
+
+EXACT_ANSWER:
+- chromDraw

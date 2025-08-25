@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- Porphyromonas gingivalis, a keystone pathogen in chronic periodontitis, has been found to associate with remote body organ inflammatory pathologies, including atherosclerosis and Alzheimer's disease (AD).
+- Among bacteria special attention is focused on spirochetes family and on periodontal pathogens such as Porphyromonas gingivalis or Treponema denticola that could cause chronic periodontitis and possibly contribute to the clinical onset of AD.
+
+EXACT_ANSWER:
+- Porphyromonas gingivalis

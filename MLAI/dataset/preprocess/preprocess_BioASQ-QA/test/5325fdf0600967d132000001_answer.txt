@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The artificial urethral sphincter has represented, until today, the gold standard but, in the recent years, sling systems have been investigated as minimally invasive alternative options.
+
+EXACT_ANSWER:
+- Artificial urethral sphincter
+- AUS

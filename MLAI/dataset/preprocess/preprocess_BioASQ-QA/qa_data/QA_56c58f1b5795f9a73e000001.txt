@@ -1,0 +1,7 @@
+QUESTION: Which species of bacteria did the mitochondria originate from?
+
+IDEAL_ANSWER:
+- Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium. Although the Alphaproteobacteria are thought to be the closest relatives of the mitochondrial progenitor, there is dispute as to what its particular sister group is. Accumulating evolutionary data point to a monophyletic origin of mitochondria from the order Rickettsiales. Phylogenetic analyses indicate that R. prowazekii is more closely related to mitochondria than is any other microbe studied so far.
+
+EXACT_ANSWER:
+- Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium.

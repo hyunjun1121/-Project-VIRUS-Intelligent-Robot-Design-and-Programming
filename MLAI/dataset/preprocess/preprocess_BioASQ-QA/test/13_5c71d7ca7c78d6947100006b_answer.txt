@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Erenumab binds to the CGRP receptor to treat migraine headaches
+
+EXACT_ANSWER:
+- CGRP receptor

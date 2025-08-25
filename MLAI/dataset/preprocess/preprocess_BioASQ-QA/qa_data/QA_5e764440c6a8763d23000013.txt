@@ -1,0 +1,7 @@
+QUESTION: How many doses of vaxchora are required?
+
+IDEAL_ANSWER:
+- Vaxchora is a single-dose vaccine.
+
+EXACT_ANSWER:
+- one

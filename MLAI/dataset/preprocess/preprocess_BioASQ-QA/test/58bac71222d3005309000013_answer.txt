@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Pediatric central nervous system tumors are the most common solid tumor of childhood. Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3.
+- Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3. Genome-wide analyses indicate a resetting of the transformed precursors to a developmentally more primitive stem cell state, with evidence of major modifications of histone marks at several master regulator genes.
+- some of these molecular changes with clinicopathological utility have been used for the first time in the most recent edition of the world health organization (who) classification of cns tumours to define entities like ependymoma, rela fusion-positive or diffuse midline glioma, h3 k27m-mutant.
+- Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3
+
+EXACT_ANSWER:
+- K27M in H3.3

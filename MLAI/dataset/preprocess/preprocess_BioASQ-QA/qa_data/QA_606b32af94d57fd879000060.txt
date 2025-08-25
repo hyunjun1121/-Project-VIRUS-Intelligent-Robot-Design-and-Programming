@@ -1,0 +1,7 @@
+QUESTION: What is the Versene Solution used for?
+
+IDEAL_ANSWER:
+- the Versene Solution is used for the detachment of stem cell sheets.
+
+EXACT_ANSWER:
+- for the detachment of cells

@@ -1,0 +1,7 @@
+QUESTION: What is the combined effect of Nfat and miR-25?
+
+IDEAL_ANSWER:
+- Increased calcineurin/Nfat signalling and decreased miR-25 expression integrate to re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium.
+
+EXACT_ANSWER:
+- Re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium.

@@ -1,0 +1,7 @@
+QUESTION: What is the localization of the protein encoded by the gene DNAJC11?
+
+IDEAL_ANSWER:
+- mitochondrial inner membrane
+
+EXACT_ANSWER:
+- mitochondrial inner membrane

@@ -1,0 +1,7 @@
+QUESTION: What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?
+
+IDEAL_ANSWER:
+- LKB1 plays a physiological role in controlling the Wnt-signaling.
+
+EXACT_ANSWER:
+- LKB1 plays a physiological role in controlling the Wnt-signaling.

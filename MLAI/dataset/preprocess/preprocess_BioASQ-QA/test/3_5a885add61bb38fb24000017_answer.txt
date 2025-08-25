@@ -1,0 +1,11 @@
+IDEAL_ANSWER:
+- To identify nucleosomes with alternative structures genome-wide, we used H4S47C-anchored cleavage mapping, which revealed that 5% of budding yeast (Saccharomyces cerevisiae) nucleosome positions have asymmetric histone-DNA interactions. To map fission yeast centromeres, we applied H4S47C-anchored cleavage mapping and native and cross-linked chromatin immunoprecipitation with paired-end sequencing. To resolve this controversy, we have applied H4S47C-anchored cleavage mapping, which reveals the precise position of histone H4 in every nucleosome in the genome.
+- H4S47C-anchored cleavage mapping reveals the precise position of histone H4 in every nucleosome in the genome.
+-  To map fission yeast centromeres, we applied H4S47C-anchored cleavage mapping and native and cross-linked chromatin immunoprecipitation with paired-end sequencing. To resolve this controversy, we have applied H4S47C-anchored cleavage mapping, which reveals the precise position of histone H4 in every nucleosome in the genome.
+- To map fission yeast centromeres, we applied H4S47C-anchored cleavage mapping and native and cross-linked chromatin immunoprecipitation with paired-end sequencing. 
+- To identify nucleosomes with alternative structures genome-wide, we used H4S47C-anchored cleavage mapping, which revealed that 5% of budding yeast (Saccharomyces cerevisiae) nucleosome positions have asymmetric histone-DNA interactions.
+- To map fission yeast centromeres, we applied H4S47C-anchored cleavage mapping and native and cross-linked chromatin immunoprecipitation with paired-end sequencing.
+
+EXACT_ANSWER:
+- nucleosome positioning
+- H4 position

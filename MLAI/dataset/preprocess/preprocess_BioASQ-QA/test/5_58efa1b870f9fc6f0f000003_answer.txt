@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The term "chemobrain" is sometimes used to denote deficits in neuropsychological functioning that may occur as a result of cancer treatment.
+
+EXACT_ANSWER:
+- The term "chemobrain" is sometimes used to denote deficits in neuropsychological functioning that may occur as a result of cancer treatment.

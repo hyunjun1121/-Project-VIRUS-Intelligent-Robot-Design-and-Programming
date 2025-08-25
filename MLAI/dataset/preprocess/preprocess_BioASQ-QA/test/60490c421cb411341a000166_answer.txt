@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- During DNA virus infections, detection of cytosolic DNA by the cGAS-STING pathway leads to activation of IFN-β.
+
+EXACT_ANSWER:
+- By intracellular DNA

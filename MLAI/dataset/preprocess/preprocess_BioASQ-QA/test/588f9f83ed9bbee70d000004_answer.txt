@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Viliuisk encephalomyelitis (VE) is an endemic neurological disease in Northeast Siberia and generally considered to be a chronic encephalomyelitis of unknown origin actually spreading in the Sakha (Yakutian) Republic.
+
+EXACT_ANSWER:
+- Northeast Siberia

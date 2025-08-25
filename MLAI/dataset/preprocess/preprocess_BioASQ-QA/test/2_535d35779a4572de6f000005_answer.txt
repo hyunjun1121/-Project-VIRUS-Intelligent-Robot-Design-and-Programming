@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Between 1% and 2% of human splice sites do not contain the canonical GT-AG dinucleotides
+
+EXACT_ANSWER:
+- Between 1% and 2%

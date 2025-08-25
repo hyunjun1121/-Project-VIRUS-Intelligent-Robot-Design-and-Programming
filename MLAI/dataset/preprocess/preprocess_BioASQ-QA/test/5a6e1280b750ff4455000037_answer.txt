@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- ESCC
+- High expression of uc.189 might reflect poor prognosis of Esophageal squamous cell carcinomas (ESCC) and indicate a potential diagnostic target in ESCC patients. Uc.189 might be considered as a novel molecule involved in ESCC progression, which provides a potential prognostic biomarker and therapeutic target.
+- Quantitative real-time polymerase chain reaction (qRT-PCR) was used to detect the expression level of uc.189 in matched cancerous tissues and adjacent noncancerous tissues from 152 patients with ESCC. Uc.189 might be considered as a novel molecule involved in ESCC progression, which provides a potential prognostic biomarker and therapeutic target.
+
+EXACT_ANSWER:
+- Esophageal squamous cell carcinomas (ESCC)

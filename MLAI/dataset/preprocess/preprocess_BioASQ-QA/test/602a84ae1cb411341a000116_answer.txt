@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Long noncoding RNAs (lncRNAs) constitute the majority of transcripts in the mammalian genomes, and yet, their functions remain largely unknown. As part of the FANTOM6 project, the expression of 285 lncRNAs was systematically knocked down in human dermal fibroblasts. Cellular growth, morphological changes, and transcriptomic responses were quantified using Capped Analysis of Gene Expression (CAGE).
+- The functional annotation of the mammalian genome 6 (FANTOM6) project aims to systematically map all human long noncoding RNAs (lncRNAs) in a gene-dependent manner through dedicated efforts from national and international teams
+
+EXACT_ANSWER:
+- Long noncoding RNAs
+- lncRNAs

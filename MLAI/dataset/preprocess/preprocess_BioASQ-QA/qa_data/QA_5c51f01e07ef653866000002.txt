@@ -1,0 +1,7 @@
+QUESTION: Which algorithm has been developed for finding conserved non-coding elements (CNEs) in genomes?
+
+IDEAL_ANSWER:
+- CNEFinder is a tool for identifying CNEs between two given DNA sequences with user-defined criteria.
+
+EXACT_ANSWER:
+- CNEFinder

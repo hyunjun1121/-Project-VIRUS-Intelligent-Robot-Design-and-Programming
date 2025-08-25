@@ -1,0 +1,12 @@
+QUESTION: The Shingrix vaccine is used to prevent what disease?
+
+IDEAL_ANSWER:
+- Shingrix is a 4-component vaccine against capsular herpes zoster (4CZV), which has recently been licensed in Europe, Canada and Australia.
+- the shingrix vaccine is used for the prevention of herpes zoster and postherpetic neuralgia.
+- Shingrix vaccine is used for prevention of herpes zoster.
+- The Shingrix vaccine is used for prevention of herpes zoster.
+- The Shingrix vaccine prevents Postherpetic neuralgia, also known as Shingles, which is caused by herpes zoster (HZ)
+
+EXACT_ANSWER:
+- Postherpetic neuralgia, also known as Shingles
+- herpes zooster

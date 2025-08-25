@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Gevokizumab is an allosteric anti-IL-1β monoclonal antibody.
+
+EXACT_ANSWER:
+- IL-1β

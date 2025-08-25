@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Idarucizumab is an antidote of Dabigatran. It is used for Dabigatran Reversal.
+
+EXACT_ANSWER:
+- dabigatran

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The incidence of beta-thalassemia trait is 8% in Greek population.
+
+EXACT_ANSWER:
+- 8%

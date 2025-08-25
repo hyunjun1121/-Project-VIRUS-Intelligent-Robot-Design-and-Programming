@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Members of the novel gene family Gasdermin (Gsdm) are exclusively expressed in a highly tissue-specific manner in the epithelium of skin and the gastrointestinal tract.
+
+EXACT_ANSWER:
+- epithelial cells

@@ -1,0 +1,11 @@
+QUESTION: Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation?
+
+IDEAL_ANSWER:
+- IκB degradation involves ubiquitination mediated by a specific E3 ubiquitin ligase SCF(β-TrCP). SCF(β-TrCP) -mediated IκB ubiquitination and degradation is a very efficient process, often resulting in complete degradation of the key inhibitor IκBα within a few minutes of cell stimulation.
+- IkappaB degradation is dependent upon its phosphorylation by the IkappaB kinase (IKK) complex and subsequent ubiquitination facilitated by beta-Trcp E3 ubiquitin ligase.Sequence comparison analysis showed sequence motif identity between CLU and beta-transducin repeat-containing protein (beta-TrCP), a main E3 ubiquitin ligase involved in IkappaB-alpha degradation.
+- IkappaB degradation is dependent upon its phosphorylation by the IkappaB kinase (IKK) complex and subsequent ubiquitination facilitated by beta-Trcp E3 ubiquitin ligase. SCF(β-TrCP) -mediated IκB ubiquitination and degradation is a very efficient process, often resulting in complete degradation of the key inhibitor IκBα within a few minutes of cell stimulation.
+
+EXACT_ANSWER:
+- SCF(β-TrCP)
+- SCF beta-transducin repeat-containing protein (beta-TrCP)
+- beta-Trcp

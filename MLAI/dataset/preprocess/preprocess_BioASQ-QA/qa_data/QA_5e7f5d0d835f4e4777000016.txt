@@ -1,0 +1,7 @@
+QUESTION: When was Fluzone Intradermal replaced with Fluzone Intradermal Quadrivalent?
+
+IDEAL_ANSWER:
+- Fluzone Intradermal was replaced with Fluzone Intradermal Quadrivalent vaccine in advance of the 2015-2016 season.
+
+EXACT_ANSWER:
+- In advance of the 2015-2016 season

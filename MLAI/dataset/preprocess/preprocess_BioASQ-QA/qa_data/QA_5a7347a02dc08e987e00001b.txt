@@ -1,0 +1,7 @@
+QUESTION: Gallbladder carriage is a well recognised means of spread of which bacteria?
+
+IDEAL_ANSWER:
+- Gallbladder carriage is associated with spread of Salmonella Typhi.
+
+EXACT_ANSWER:
+- Salmonella Typhi

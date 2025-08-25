@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- Prader-Willi syndrome (PWS) results from a deletion of the paternal genes in the region of chromosome 15q11-q13.
+-  prader-willi syndrome (pws) results from a deletion of the paternal genes in the region of chromosome 15q11-q13.
+- Prader-Willi syndrome (PWS) results from a deletion of the paternal genes in the region of chromosome 15q11-q13. 
+-  Prader-Willi syndrome (PWS) results from a deletion of the paternal genes in the region of chromosome 15q11-q13.
+
+EXACT_ANSWER:
+- Prader-Willi syndrome

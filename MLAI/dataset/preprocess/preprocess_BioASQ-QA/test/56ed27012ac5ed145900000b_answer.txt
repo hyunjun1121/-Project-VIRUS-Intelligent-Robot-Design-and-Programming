@@ -1,0 +1,7 @@
+IDEAL_ANSWER:
+- Aire regulates the expression of differentiation-associated genes and self-renewal of embryonic stem cells. Aire and Deaf1 help regulate the ectopic expression of diverse tissue-specific antigens to establish self-immune tolerance. Knockdown of Aire in mouse ESCs resulted in significantly decreased clone-forming efficiency as well as attenuated cell cycle, suggesting Aire plays a role in ESC self-renewal. Aire promotes the expression of the pluripotent factor Lin28 and the self-renewal of ES cells.
+- Autoimmune regulator (Aire) is one of the most well-characterized molecules in autoimmunity, but its function outside the immune system is largely unknown. The recent discovery of Aire expression in stem cells and early embryonic cells and its function in the self-renewal of embryonic stem (ES) cells highlight the importance of Aire in these cells.
+- The recent discovery of Aire expression in stem cells and early embryonic cells and its function in the self-renewal of embryonic stem (ES) cells highlight the importance of Aire in these cells. The correlation between Aire and Lin28 expression in germ cells and early embryos indicated an in vivo function for Aire in toti- and pluripotent stem cells. Moreover, it presents the first evidence that microRNAs contribute to the regulatory function of Aire and highlights a novel function of Aire in stem cell biology and reproduction. Monitoring Aire expression in MSCs may thus be a critical parameter for clinical use.
+
+EXACT_ANSWER:
+- stem cell renewal and self-immune tolerance

@@ -1,0 +1,7 @@
+QUESTION: What is the lipid droplet used for in the cell?
+
+IDEAL_ANSWER:
+- Lipid droplets (LDs) are ubiquitous and physiologically active organelles regulating storage and mobilization of lipids in response to metabolic demands.
+
+EXACT_ANSWER:
+- lipid storage and lipid mobilization

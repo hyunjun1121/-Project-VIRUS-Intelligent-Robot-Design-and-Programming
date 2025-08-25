@@ -1,0 +1,10 @@
+QUESTION: Which is the largest metabolic gene cluster in yeast?
+
+IDEAL_ANSWER:
+- The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source.
+- the dal cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable saccharomyces cerevisiae to use allantoin as a nitrogen source.
+- The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source. The DAL cluster is located in a domain of modified chromatin involving both H2A.Z histone exchange and Hst1-Sum1-mediated histone deacetylation, and it may be a coadapted gene complex formed by epistatic selection.
+- The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source. Six of the eight genes involved in allantoin degradation, which were previously scattered around the genome, became relocated to a single subtelomeric site in an ancestor of S. cerevisiae and Saccharomyces castellii.
+
+EXACT_ANSWER:
+- The DAL cluster

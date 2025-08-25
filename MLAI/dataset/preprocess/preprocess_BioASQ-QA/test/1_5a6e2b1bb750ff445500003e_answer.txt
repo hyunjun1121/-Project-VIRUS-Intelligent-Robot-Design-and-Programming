@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- PsyGeNET is a knowledge resource on psychiatric diseases and their genes, developed by text mining and curated by domain experts. Psygenet2r is an R package that contains a variety of functions for leveraging PsyGeNET database and facilitating its analysis and interpretation. The package offers different types of queries to the database along with variety of analysis and visualization tools, including the study of the anatomical structures in which the genes are expressed and gaining insight of gene's molecular function. Psygenet2r is especially suited for network medicine analysis of psychiatric disorders.
+- psygenet2r
+
+EXACT_ANSWER:
+- Psygenet2r

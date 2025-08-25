@@ -1,0 +1,9 @@
+QUESTION: Which R/Bioconductor package has been developed for visualizing differential amino acid group usage in proteomics?
+
+IDEAL_ANSWER:
+- DagLogo is an R/Bioconductor package for identifying and visualizing differential amino acid group usage in proteomics data. DagLogo allows various formats for input sets and provides comprehensive options to build optimal background models. It implements different reduced AA alphabets to group AAs of similar properties. Furthermore, dagLogo provides statistical and visual solutions for differential AA (or AA group) usage analysis of both large and small data sets. Case studies showed that dagLogo can better identify and visualize conserved protein sequence patterns from different types of inputs and can potentially reveal the biological patterns that could be missed by other logo generators.
+- dagLogo is an R/Bioconductor package for identifying and visualizing differential amino acid group usage in data. dagLogo allows various formats for input sets and provides comprehensive options to build optimal background models.
+- DagLogo is an R/Bioconductor package for identifying and visualizing differential amino acid group usage in proteomics data.
+
+EXACT_ANSWER:
+- DagLogo

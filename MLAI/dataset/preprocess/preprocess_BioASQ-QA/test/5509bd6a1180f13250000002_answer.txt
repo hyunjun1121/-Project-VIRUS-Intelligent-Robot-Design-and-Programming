@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- Small bowel lymphoma is commonly associated with celiac disease.
+
+EXACT_ANSWER:
+- Celiac disease
+- gluten-associated enteropathy
+- CELIAC SPRU
+- Non tropical spru
+- Gluten Sensitive Enteropath

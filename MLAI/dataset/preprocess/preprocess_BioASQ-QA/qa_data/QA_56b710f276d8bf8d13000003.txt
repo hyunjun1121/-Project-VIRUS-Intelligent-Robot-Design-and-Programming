@@ -1,0 +1,9 @@
+QUESTION: What is the effect of a defective CLN3 gene?
+
+IDEAL_ANSWER:
+- Mutations in the CLN3 gene, which encodes a lysosomal membrane protein, are responsible for the neurodegenerative disorder juvenile Batten disease.
+
+EXACT_ANSWER:
+- Batten disease
+- juvenile-onset neuronal ceroid lipofuscinosis
+- JNCL

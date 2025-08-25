@@ -1,0 +1,7 @@
+QUESTION: Which package is available for analysing genomic interactions in R/Bioconductor?
+
+IDEAL_ANSWER:
+- r3Cseq is an R/Bioconductor package designed to perform 3C-seq data analysis in a number of different experimental designs. The package reads a common aligned read input format, provides data normalization, allows the visualization of candidate interaction regions and detects statistically significant chromatin interactions, thus greatly facilitating hypothesis generation and the interpretation of experimental results.
+
+EXACT_ANSWER:
+- r3Cseq

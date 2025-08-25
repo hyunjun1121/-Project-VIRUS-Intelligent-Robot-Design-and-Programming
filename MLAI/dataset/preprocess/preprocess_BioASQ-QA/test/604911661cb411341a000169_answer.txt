@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- C-type lectin domain family 11 member A (Clec11a), also known as stem cell growth factor (SCGF), C-type lectin superfamily member 3 (CLECSF3), or osteolectin was initially identified as a growth factor for hematopoietic progenitor cells.
+
+EXACT_ANSWER:
+- osteogenic growth factor

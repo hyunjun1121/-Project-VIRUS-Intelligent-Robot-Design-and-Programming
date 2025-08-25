@@ -1,0 +1,7 @@
+QUESTION: Which clinical trials led to the first approval of Volanesorsen by the EU?
+
+IDEAL_ANSWER:
+- The approval of Volanesorsen by the EU was based on the positive results from the multinational, phase III APPROACH and COMPASS studies.
+
+EXACT_ANSWER:
+- APPROACH and COMPASS

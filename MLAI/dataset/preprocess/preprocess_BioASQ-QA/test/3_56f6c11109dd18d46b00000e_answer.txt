@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Cyclophilin is the intracellular receptor protein for cyclosporin A  (CsA).
+
+EXACT_ANSWER:
+- cyclophilin

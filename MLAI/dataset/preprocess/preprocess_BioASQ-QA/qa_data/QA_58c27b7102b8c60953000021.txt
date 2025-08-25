@@ -1,0 +1,13 @@
+QUESTION: Which effects create neighborhoods of transcriptional regulation in eukaryotes?
+
+IDEAL_ANSWER:
+- Enhancer Sharing Promotes Neighborhoods of Transcriptional Regulation Across Eukaryotes. Here, we present cross-organismic evidence suggesting that most EP pairs are compatible, largely determined by physical proximity rather than specific interactions. we find that the transcription of gene neighbors is correlated over distances that scale with genome size. We propose that enhancer sharing is commonplace among eukaryotes, and that EP distance is an important layer of information in gene regulation. 
+- Enhancer Sharing Promotes Neighborhoods of Transcriptional Regulation Across Eukaryotes Here, we present cross-organismic evidence suggesting that most EP pairs are compatible, largely determined by physical proximity rather than specific interactions.
+-  we propose that enhancer sharing is commonplace among eukaryotes, and that ep distance is an important layer of information in gene regulation.
+- Enhancers physically interact with transcriptional promoters, looping over distances that can span multiple regulatory elements. We propose that enhancer sharing is commonplace among eukaryotes, and that EP distance is an important layer of information in gene regulation.
+- Enhancer Sharing Promotes Neighborhoods of Transcriptional Regulation Across Eukaryotes
+- Enhancer Sharing Promotes Neighborhoods of Transcriptional Regulation Across Eukaryotes  We propose that enhancer sharing is commonplace among eukaryotes, and that EP distance is an important layer of information in gene regulation.
+
+EXACT_ANSWER:
+- the sharing of enhancer elements
+- enhancer sharing

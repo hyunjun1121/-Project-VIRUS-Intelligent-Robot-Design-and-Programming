@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- Filgotinib is an oral selective Janus kinase 1 (JAK1) inhibitor. It has been tested in patients with rheumatoid arthritis and Chroni's disease, and has been shown to be effective.
+- Filgotinib (GLPG0634) is a selective inhibitor of Janus kinase 1 (JAK1) currently in development for the treatment of rheumatoid arthritis and Crohn's disease.
+- Filgotinib is an oral selective JAK inhibitor. It works by inhibiting JAK1.
+- Filgotinib (GLPG0634) is a selective inhibitor of Janus kinase 1 (JAK1).
+- Filgotinib (GS-6034, formerly GLPG0634) is an oral, selective Janus kinase 1 (JAK1) inhibitor that showed early response and sustained efficacy in patients with rheumatoid arthritis and with Crohn's disease. Effect of filgotinib, a selective JAK 1 inhibitor, with and without methotrexate in patients with rheumatoid arthritis: patient-reported outcomes.
+- Filgotinib is an oral selective JAK1 inhibitor. It has been tested in patients with rheumatoid arthritis and Chroni's disease, and has been shown to be safe and efficacious.
+- Efficacy and safety of filgotinib, a selective Janus kinase 1 inhibitor,
+- Selective inhibition of JAK-1 with filgotinib shows initial efficacy in RA with an encouraging safety profile in these exploratory studies. The selectivity of filgotinib for JAK1 may have theoretical advantages in terms of limiting toxicity.
+
+EXACT_ANSWER:
+- JAK1 inhibitor

@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- RUNX1T1 stands for runt-related transcription factor 1.
+
+EXACT_ANSWER:
+- runt-related transcription factor 1

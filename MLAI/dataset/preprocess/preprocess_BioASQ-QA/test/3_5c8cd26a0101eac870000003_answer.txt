@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Exoproteomics aims at describing and quantifying the proteins found outside of the cells.
+
+EXACT_ANSWER:
+- secreted protein content

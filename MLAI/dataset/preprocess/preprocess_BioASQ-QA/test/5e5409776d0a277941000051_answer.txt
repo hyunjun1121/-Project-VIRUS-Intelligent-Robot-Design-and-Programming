@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- AZD0530 is a highly selective, dual Src/Abl kinase inhibitor.
+
+EXACT_ANSWER:
+- dual Src/Abl kinase

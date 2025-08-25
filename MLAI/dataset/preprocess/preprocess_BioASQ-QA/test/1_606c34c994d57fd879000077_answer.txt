@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The HercepTest uses a polyclonal antibody.
+
+EXACT_ANSWER:
+- polyclonal

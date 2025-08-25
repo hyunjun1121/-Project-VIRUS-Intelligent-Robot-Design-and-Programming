@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Leishmania spp. is a group of very successful protozoan parasites that cause a range of diseases from self-healing cutaneous leishmaniasis to visceral leishmaniasis.
+
+EXACT_ANSWER:
+- Leishmania Species

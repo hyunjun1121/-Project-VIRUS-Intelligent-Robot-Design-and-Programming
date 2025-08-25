@@ -1,0 +1,7 @@
+QUESTION: What is evaluated with the SAD PERSONS scale?
+
+IDEAL_ANSWER:
+- SAD PERSONS scale was developed to evaluate suicide risk.
+
+EXACT_ANSWER:
+- suicide risk

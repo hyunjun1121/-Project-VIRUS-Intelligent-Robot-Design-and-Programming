@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Bimolecular fluorescence complementation (BiFC) is a powerful method for studying protein-protein interactions in different cell types and organisms. This method was recently developed in the fruit fly Drosophila melanogaster, allowing analyzing protein interaction properties in a physiologically relevant developing context.
+
+EXACT_ANSWER:
+- The study of protein-protein interactions in a physiologically relevant developing context.

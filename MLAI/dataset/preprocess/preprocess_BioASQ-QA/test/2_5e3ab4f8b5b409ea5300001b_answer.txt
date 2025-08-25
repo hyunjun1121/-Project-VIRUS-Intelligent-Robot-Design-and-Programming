@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- The Open Access and Collaborative Consumer Health Vocabulary (OAC CHV), which contains health-related terms used by lay consumers,
+- The Open Access and Collaborative Consumer Health Vocabulary (OAC CHV), contains health-related terms used by lay consumers.
+
+EXACT_ANSWER:
+- Layman's term vocabulary for health related terms

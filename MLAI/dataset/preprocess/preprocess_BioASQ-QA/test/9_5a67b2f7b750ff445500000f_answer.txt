@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Stress urinary incontinence is diagnosed with the Q tip test. The test evaluates urethral mobility.
+
+EXACT_ANSWER:
+- stress urinary incontinence

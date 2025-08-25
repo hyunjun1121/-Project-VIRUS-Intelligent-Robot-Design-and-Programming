@@ -1,0 +1,8 @@
+IDEAL_ANSWER:
+- STAG1/STAG2 proteins are tumour suppressor proteins that suppress cell proliferation and are essential for differentiation.
+- involved in the g2-m transition
+- STAG1/STAG2 proteins are tumour suppressor proteins that suppress cell proliferation and differentiation.
+- The expression of STAG1 mRNA was induced in response to various genotoxic stresses in a p53-dependent manner; moreover, enforced expression of STAG1 led to apoptosis in several additional cancer cell lines. The simultaneous blocking of STAG1 and STAG2 significantly reduces cell proliferation.  STAG1 preferentially contributes to the stabilization of topologically associating domain boundaries together with CTCF, whereas STAG2 promotes cell-type-specific contacts between enhancers and promoters independently of CTCF.
+
+EXACT_ANSWER:
+- meiosis and cell proliferation

@@ -1,0 +1,8 @@
+QUESTION: How many annotated conserved human lncRNAs come from ancestral protein-coding genes?
+
+IDEAL_ANSWER:
+- ~ 55
+- ~ 55 annotated conserved human lncRNAs are derived from parts of ancestral protein-coding genes, and loss of coding potential is thus a non-negligible source of new lncRNAs. Some lncRNAs inherited regulatory elements influencing transcription and translation from their protein-coding ancestors and those elements can influence the expression breadth and functionality of these lncRNAs.
+
+EXACT_ANSWER:
+- 55

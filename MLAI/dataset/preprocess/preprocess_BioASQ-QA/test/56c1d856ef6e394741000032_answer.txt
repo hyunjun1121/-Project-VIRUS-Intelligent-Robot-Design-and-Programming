@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Ficolin-3 activates lectin complement pathway.
+
+EXACT_ANSWER:
+- lectin complement pathway

@@ -1,0 +1,7 @@
+QUESTION: Which clotting factor is inhibited by betrixaban?
+
+IDEAL_ANSWER:
+- Betrixaban is an orally administered direct clotting factor Xa inhibitor.
+
+EXACT_ANSWER:
+- Xa

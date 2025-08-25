@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Betrixaban is an orally administered direct clotting factor Xa inhibitor.
+
+EXACT_ANSWER:
+- Xa

@@ -1,0 +1,6 @@
+IDEAL_ANSWER:
+- B1 is a murine homolog of the human SINE Alu. B1 (Alu-equivalent) is a murine short interspersed element whose amplification probably involved an RNA intermediate. The modern B1 elements are similar to the left Alu monomer, but with a 9 bp deletion and a 29 bp duplication.
+- The mouse B1 sequence is congruent to 130 nucleotides long and shows homology with the monomeric units of the dimeric 300-nucleotide primate sequence. 
+
+EXACT_ANSWER:
+- it is the mouse homolog to the left Alu monomer

@@ -1,0 +1,7 @@
+QUESTION: What is the msDNA?
+
+IDEAL_ANSWER:
+- msDNA is actually a complex of DNA, RNA, and probably protein. It is composed of a small, single-stranded DNA, linked to a small, single-stranded RNA molecule. The 5' end of the DNA molecule is joined to an internal guanosine residue of the RNA molecule by a unique 2'-5' phosphodiester bond. msDNA is produced in many hundreds of copies per cell, but its function remains unknown.
+
+EXACT_ANSWER:
+- msDNA is actually a complex of DNA, RNA, and probably protein.

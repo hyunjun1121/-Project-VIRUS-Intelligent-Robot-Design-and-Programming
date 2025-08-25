@@ -1,0 +1,8 @@
+QUESTION: What is the incidence of cystic fibrosis in the caucasian population?
+
+IDEAL_ANSWER:
+- Estimates of the newborn frequency of cystic fibrosis in different Caucasian groups range from 4 times more to 40 times less common than the generally accepted figure of 1:2000.
+- Cystic fibrosis (CF) is the most common autosomal recessive disorder in the Caucasian population, affecting approximately 1 in 2,000-1/2,500 live births, but the actual estimate varies with the geographic location.
+
+EXACT_ANSWER:
+- 1:2000

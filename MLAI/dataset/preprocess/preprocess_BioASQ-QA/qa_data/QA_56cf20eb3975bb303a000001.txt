@@ -1,0 +1,8 @@
+QUESTION: What does isradipine do to L-type channels?
+
+IDEAL_ANSWER:
+- Isradipine antagonizes/blocks the L-type channels.
+
+EXACT_ANSWER:
+- antagonizes
+- blocks

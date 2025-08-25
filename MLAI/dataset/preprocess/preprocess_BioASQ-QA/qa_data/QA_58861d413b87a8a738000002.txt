@@ -1,0 +1,8 @@
+QUESTION: Symptoms of which disorder are evaluated with the Davidson Trauma Scale?
+
+IDEAL_ANSWER:
+- Davidson Trauma Scale is used for evaluation of post-traumatic stress disorder.
+
+EXACT_ANSWER:
+- post-traumatic stress disorder
+- PTSD

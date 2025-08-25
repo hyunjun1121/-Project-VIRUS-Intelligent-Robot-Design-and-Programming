@@ -1,0 +1,10 @@
+QUESTION: What can Nothobranchius furzeri be used as a model system for?
+
+IDEAL_ANSWER:
+- N. furzeri an interesting model system to investigate the effects of experimental manipulations on longevity and age-related pathologies.
+N. furzeri could represent a model system for studying the genetic control of life-history traits in natural populations.
+N. furzeri could be a very useful model for comparative genomics of aging.
+It can be employed to test the effects of experimental manipulation on aging and apharmacological research.
+
+EXACT_ANSWER:
+- aging research

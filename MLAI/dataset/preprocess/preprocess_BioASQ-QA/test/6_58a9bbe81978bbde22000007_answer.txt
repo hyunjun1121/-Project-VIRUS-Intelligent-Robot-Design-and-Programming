@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Paneth cells are located in the intestinal crypt base columnar cells (CBCCs).
+
+EXACT_ANSWER:
+- in the intestinal crypt base columnar cells

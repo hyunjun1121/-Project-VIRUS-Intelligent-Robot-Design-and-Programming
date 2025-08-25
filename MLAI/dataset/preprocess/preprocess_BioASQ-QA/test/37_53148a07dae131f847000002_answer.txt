@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Thyroid hormone abnormalities are characteristic to Pendred syndrome. Hypothyroidism is the most common thyroid hormone abnormality in Pendred syndrome. Pendred syndrome  is an autosomal recessive disorder characterized by sensorineural deafness, goiter and a partial defect in iodide organification.
+
+EXACT_ANSWER:
+- thyroid hormone abnormalities

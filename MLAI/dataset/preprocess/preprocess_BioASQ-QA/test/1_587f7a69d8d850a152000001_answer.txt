@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- libFLASM is a free open-source C++ software library for solving fixed-length approximate string matching under both the edit and the Hamming distance models.
+
+EXACT_ANSWER:
+- libFLASM

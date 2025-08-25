@@ -1,0 +1,7 @@
+QUESTION: Which syndrome is associated with mutant DVL1?
+
+IDEAL_ANSWER:
+- Mutations in DVL1 cause an osteosclerotic form of Robinow syndrome.
+
+EXACT_ANSWER:
+- Robinow syndrome

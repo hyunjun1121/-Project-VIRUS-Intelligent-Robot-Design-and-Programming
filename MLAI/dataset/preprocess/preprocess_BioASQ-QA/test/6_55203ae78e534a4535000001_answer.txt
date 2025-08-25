@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Psoriasin (S100A7) was originally identified in psoriasis.
+
+EXACT_ANSWER:
+- psoriasis

@@ -1,0 +1,7 @@
+QUESTION: What is dystopia canthorum?
+
+IDEAL_ANSWER:
+- Dystopia canthorum is defined as a prominent broad nasal root with increased intercanthal distance.
+
+EXACT_ANSWER:
+- a prominent broad nasal root with increased intercanthal distance.

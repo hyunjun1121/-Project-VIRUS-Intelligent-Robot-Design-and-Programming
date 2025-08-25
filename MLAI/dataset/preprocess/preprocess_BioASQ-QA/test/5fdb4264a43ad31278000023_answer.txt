@@ -1,0 +1,9 @@
+IDEAL_ANSWER:
+- More than half of SEGs identified in most of the species have at least one ortholog multiple exon gene in the same genome, which provides insight to their possible origin by retrotransposition
+- There is strong support for the idea that retrotransposition followed by tandem duplications is the most probable event that can explain the expansion of intronless or single-exon genes (SEG) in eukaryotic organisms. More than half of SEGs identified in most of the species have at least one ortholog multiple exon gene in the same genome, which provides insight to their possible origin by retrotransposition.
+- The origin of intronless genes is most likely retrotransposition
+- Intronless genes (IGs) constitute approximately 3% of the human genome. Their origin is likely to be retrotransposition due to loss-of-function mutations or duplication.
+- Genes without introns are a characteristic feature of prokaryotes, but there are still a number of intronless genes in eukaryotes. Most of these genes may have originated from retrotransposition rather than lineage-specific expansions of repeat elements.
+
+EXACT_ANSWER:
+- retrotransposition

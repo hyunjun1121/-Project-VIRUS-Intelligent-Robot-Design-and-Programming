@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Glycosylphosphatidylinositol (GPI) anchoring of proteins is a conserved posttranslational modification in the endoplasmic reticulum (ER). 	Glycosylphosphatidylinositols (GPIs) are lipid anchors allowing the exposure of proteins at the outer layer of the plasma membrane.
+
+EXACT_ANSWER:
+- Glycosylphosphatidylinositols (GPIs) are lipid anchors allowing the exposure of proteins at the outer layer of the plasma membrane.

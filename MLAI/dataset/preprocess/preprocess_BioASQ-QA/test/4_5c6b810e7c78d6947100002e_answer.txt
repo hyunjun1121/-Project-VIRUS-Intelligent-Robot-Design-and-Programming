@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- Cerliponase alfa is a recombinant human tripeptidyl peptidase-1 (TPP1) approved for use in patients with neuronal ceroid lipofuscinosis type 2 (CLN2), a paediatric neurodegenerative disease caused by a deficiency in TPP1.
+
+EXACT_ANSWER:
+- neuronal ceroid lipofuscinosis type 2

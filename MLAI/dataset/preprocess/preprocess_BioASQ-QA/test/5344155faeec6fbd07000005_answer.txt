@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- X- linked recessive
+
+EXACT_ANSWER:
+- X- linked recessive

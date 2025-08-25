@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "E:\Project\georgia_tech\run_all_experiments.py", line 201, in <module>
+    main()
+  File "E:\Project\georgia_tech\run_all_experiments.py", line 164, in main
+    print("\U0001f3af DrafterBench 자동 실험 시작!")
+UnicodeEncodeError: 'cp949' codec can't encode character '\U0001f3af' in position 0: illegal multibyte sequence

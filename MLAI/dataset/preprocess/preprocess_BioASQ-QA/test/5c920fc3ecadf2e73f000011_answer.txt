@@ -1,0 +1,5 @@
+IDEAL_ANSWER:
+- The tradename of apixaban is Eliquis.
+
+EXACT_ANSWER:
+- Eliquis

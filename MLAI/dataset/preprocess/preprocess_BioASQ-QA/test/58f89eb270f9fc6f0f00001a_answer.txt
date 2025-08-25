@@ -1,0 +1,12 @@
+IDEAL_ANSWER:
+- MED12 cause X-linked Ohdo syndromeIn
+- Mutations in MED12 cause X-linked Ohdo syndrome
+- Mutations in MED12 cause X-linked Ohdo syndrome The occurrence of three different hemizygous missense mutations in three unrelated families affected by Ohdo syndrome MKB type shows that mutations in MED12 are the underlying cause of this X-linked form of Ohdo syndrome.
+- Mutations in MED12 cause X-linked Ohdo syndrome In the two families, MED12 missense mutations (c.3443G>A [p.Arg1148His] or c.3493T>C [p.Ser1165Pro]) segregating with the phenotype were identified.
+- FG syndrome, Lujan syndrome, and Ohdo syndrome, the Maat-Kievit-Brunner type, have been described as distinct syndromes with overlapping non-specific features and different missense mutations of the MED12 gene have been reported in all of them. Mutations in MED12 cause X-linked Ohdo syndrome
+- The occurrence of three different hemizygous missense mutations in three unrelated families affected by Ohdo syndrome MKB type shows that mutations in MED12 are the underlying cause of this X-linked form of Ohdo syndrome.
+- Mutations in MED12 cause X-linked Ohdo syndrome FG syndrome, Lujan syndrome, and Ohdo syndrome, the Maat-Kievit-Brunner type, have been described as distinct syndromes with overlapping non-specific features and different missense mutations of the MED12 gene have been reported in all of them.
+- MED12
+
+EXACT_ANSWER:
+- mutations in MED12
